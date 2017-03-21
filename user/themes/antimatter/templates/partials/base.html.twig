@@ -7,7 +7,7 @@
     <title>{% if header.title %}{{ header.title|e('html') }} | {% endif %}{{ site.title|e('html') }}</title>
     {% include 'partials/metadata.html.twig' %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <link rel="icon" type="image/png" href="{{ url('theme://images/favicon.png') }}" />
+    <link rel="icon" type="image/png" href="/user/pages/images/logo.png" />
     <link rel="canonical" href="{{ page.url(true, true) }}" />
 
     {% block stylesheets %}
@@ -58,7 +58,11 @@
         </header>
         {% endblock %}
 
-        {% block showcase %}{% endblock %}
+        {% block showcase %}
+            <div id="header_image" style="background-image: url('/images/revpit_bookside.jpg')">
+                <img src="/user/pages/images/logo.png">
+            </div>
+        {% endblock %}
 
         {% block body %}
         <section id="body" class="{{ class }}">
@@ -71,7 +75,7 @@
             <div class="totop">
                 <span><a href="#" id="toTop"><i class="fa fa-arrow-up"></i></a></span>
             </div>
-            <p><a href="http://getgrav.org">Grav</a> was <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by <a href="http://www.rockettheme.com">RocketTheme</a>.</p>
+            <p>Created by <a target="_blank" href="https://twitter.com/WebwardCo">Webward Co</a>.</p>
         </footer>
         {% endblock %}
     </div>

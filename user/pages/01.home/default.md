@@ -1,39 +1,27 @@
 ---
 title: Home
+sidebar:
+	enabled: true
+	twitter: true
 ---
 
-# Grav is Running!
-## You have installed **Grav** successfully
+### Welcome to the newly created #RevPit!
 
-Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **antimatter** theme to get you started.
+We editors found ourselves with the same block open in our schedules and decided to put that time to good use by offering our services to authors via a pitch contest in the hopes that everyone who follows along could learn something worthwhile and make meaningful connections along the way.
 
-!!! If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
+In this contest, authors will be eligible to receive feedback and full edits on their manuscript from professional editors, ensuring their works are polished and ready for those agent inboxes. Not only will authors be immersed in a supportive community of their peers, they will also have the chance to learn more about how their story fits into the industry and obtain understanding of why different edits matter and how to continue practicing them in the future.
 
-### Find out all about Grav
+Writers will submit their query and first five pages to their top three editors and one alternate, who will then go through submissions and select one (or two!) winners. These matches will go through an intense, month-long editing process before reposting their submissions from finalized projects.
 
-* Learn about **Grav** by checking out our dedicated [Learn Grav](http://learn.getgrav.org) site.
-* Download **plugins**, **themes**, as well as other Grav **skeleton** packages from the [Grav Downloads](http://getgrav.org/downloads) page.
-* Check out our [Grav Development Blog](http://getgrav.org/blog) to find out the latest goings on in the Grav-verse.
+**What You’ll Need:**
 
-### Edit this Page
+1. \#RevPit is only open to COMPLETED manuscripts. It should be polished and beta-reader-tested before submission.
 
-To edit this page, simply navigate to the folder you installed **Grav** into, and then browse to the `user/pages/01.home` folder and open the `default.md` file in your [editor of choice](http://learn.getgrav.org/basics/requirements).  You will see the content of this page in [Markdown format](http://learn.getgrav.org/content/markdown).
+2. A query letter containing: word count, genre, age category, and author bio.
 
-### Create a New Page
+3. A synopsis no more than two pages long. You do NOT have to include this in your submission package. However, most editors prefer having one if they request more pages from you. It’s best to already have it prepared.
 
-Creating a new page is a simple affair in **Grav**.  Simply follow these simple steps:
-
-1. Navigate to your pages folder: `user/pages/` and create a new folder.  In this example, we will use [explicit default ordering](http://learn.getgrav.org/content/content-pages) and call the folder `02.mypage`.
-2. Launch your text editor and paste in the following sample code:
-
-        ---
-        title: My New Page
-        ---
-        # My New Page!
-
-        This is the body of **my new page** and I can easily use _Markdown_ syntax here.
-
-3. Save this file in the `user/pages/02.mypage/` folder as `default.md`. This will tell **Grav** to render the page using the **default** template.
-4. That is it! Reload your browser to see your new page in the menu.
-
-! NOTE: The page will automatically show up in the Menu after the "Home" menu item. If you wish to change the name that shows up in the Menu, simple add: `menu: My Page` between the dashes in the page content. This is called the YAML front matter, and it is where you configure page-specific options.
+4. The answer to these three questions!
+ * Why do you write?
+ * What’s your preferred style of revision?
+ * Pro or Anti Oxford comma?
