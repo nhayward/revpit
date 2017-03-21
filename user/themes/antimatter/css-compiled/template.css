@@ -786,7 +786,8 @@ ul.pagination {
   z-index: 1; }
 
 #body {
-  padding-top: 2rem; }
+  padding-top: 2rem;
+  padding-bottom: 13rem; }
   #body > script:first-child + .grav-lightslider {
     margin-top: -3rem; }
 
@@ -802,6 +803,12 @@ ul.pagination {
 
 #header {
   background-color: rgba(255, 255, 255, 0.95); }
+
+#footer {
+  height: 8rem;
+  padding-bottom: 20px; }
+  #footer .totop {
+    bottom: 7rem; }
 
 .modular.header-image #header {
   background-color: rgba(255, 255, 255, 0);
