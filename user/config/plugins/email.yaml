@@ -1,5 +1,5 @@
 enabled: true
-from: robot@reviseresub.com
+from: editor@reviseresub.com
 to: carlyt.hayward@gmail.com
 mailer:
   engine: mail
