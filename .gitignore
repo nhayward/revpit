@@ -13,3 +13,10 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+
+# On Server
+.ftpquota
+.htaccess
+404.shtml
+layout-styles.css
+nhayward
