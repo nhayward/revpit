@@ -1,8 +1,8 @@
 ---
-title: How to Submit
+title: 'How to Submit'
 sidebar:
-	enabled: true
-	image: /images/QueryRecipe.jpg
+    enabled: true
+    image: /images/QueryRecipe.jpg
 ---
 
 ### How to Submit
@@ -32,6 +32,11 @@ Then…
 ***Step 5: Have a synopsis and additional pages ready in case an editor requests more!***
 
 ***Step 6: SUBMIT!***
+
+##### Eligibility Requirements:
+ * Your submission materials are your own original work
+ * The manuscript you are submitting has never been published before
+ * You are not represented by a literary agent
 
 **\*Please note: If you are selected for Revise &amp; Resub, your query and first five pages will be showcased on our website at the end of the contest. We want to be able to share your hard work with the world!**
 

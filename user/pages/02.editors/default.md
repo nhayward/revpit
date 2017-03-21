@@ -3,13 +3,15 @@ title: Editors
 ---
 
 **Confirmed Editors (Bios and pictures coming soon!):**
-* Sione Aeschlimann
+* Sione Aeschliman
 * Gem Blackthorn
 * Elizabeth Buege
 * Carly Bornstein-Hayward
+* Ellen Brock
+* Cassandra Brown
 * Jeni Chappelle
 * Stephanie Eding
-* Tori Griffin
+* Victoria Griffin
 * Kaitlyn Johnson
 * Katie McCoach
 * Christopher Nugent
