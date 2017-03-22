@@ -1,7 +1,7 @@
 ---
 title: 'Gem Blackthorn'
 last_name: Blackthorn
-website: gemblackthorn.com
+website: 'http://gemblackthorn.com'
 twitter:
     name: '@GemBlackthorn'
     url: 'https://twitter.com/GemBlackthorn'

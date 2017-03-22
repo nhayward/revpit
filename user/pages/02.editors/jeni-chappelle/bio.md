@@ -1,7 +1,7 @@
 ---
 title: 'Jeni Chappelle'
 last_name: Chappelle
-website: www.jenichappelle.com
+website: 'http://www.jenichappelle.com'
 twitter:
     name: '@jenichappelle'
     url: 'https://twitter.com/jenichappelle'
@@ -9,7 +9,7 @@ twitter:
 
 ##### Bio
 
-Jeni Chappelle is a freelance editor with eight years of editing experience and a lifetime of word nerdiness. She lives in an itty-bitty town a few miles from Charlotte, NC with her family and a menagerie. Jeni loves working with authors of all levels to polish their writing and bring their books out into the world. You can visit her blog and learn more about her editing at [www.jenichappelle.com](www.jenichappelle.com?target=_blank).
+Jeni Chappelle is a freelance editor with eight years of editing experience and a lifetime of word nerdiness. She lives in an itty-bitty town a few miles from Charlotte, NC with her family and a menagerie. Jeni loves working with authors of all levels to polish their writing and bring their books out into the world. You can visit her blog and learn more about her editing at [www.jenichappelle.com](http://www.jenichappelle.com?target=_blank).
 
 ***What kind of entries are you looking for in this contest?***
 

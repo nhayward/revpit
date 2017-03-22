@@ -1,7 +1,7 @@
 ---
 title: 'Katie McCoach'
 last_name: McCoach
-website: www.katiemccoach.com
+website: 'http://www.katiemccoach.com'
 facebook:
     name: 'Katie McCoach Editorial'
     url: 'https://www.facebook.com/KatieMcCoachEditorial'

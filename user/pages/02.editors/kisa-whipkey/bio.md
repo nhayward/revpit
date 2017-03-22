@@ -1,7 +1,7 @@
 ---
 title: 'Kisa Whipkey'
 last_name: Whipkey
-website: kisawhipkey.com
+website: 'http://kisawhipkey.com'
 twitter:
     name: '@KisaWhipkey'
     url: 'https://twitter.com/KisaWhipkey'
@@ -11,7 +11,7 @@ twitter:
 
 Kisa Whipkey is a freelance editor, a dark fantasy author, a martial arts demo team expert, and a complete sucker for Cadbury Mini-eggs. She's also the Acquisitions & Editorial Director for YA/NA publisher, REUTS Publications. She developed a passion for storytelling at a young age and has pursued that love through animation, writing, video game design, and demo teams, until finally finding her home in editing. She believes in good storytelling, regardless of medium, and applauds anything featuring a snarky lead character, a complicated narrative structure, and brilliant/uncommon analogies. Currently, she lives in the soggy Pacific Northwest with her husband and plethora of electronics.
 
-Her personal blog--featuring sarcastic commentary on all things storytelling--is located at [www.kisawhipkey.com](www.kisawhipkey.com?target=_blank). Or connect with her via Twitter: [@kisawhipkey](https://twitter.com/KisaWhipkey?target=_blank). And, of course, to learn more about REUTS Publications, please visit [www.reuts.com](www.reuts.com?target=_blank).
+Her personal blog--featuring sarcastic commentary on all things storytelling--is located at [www.kisawhipkey.com](http://www.kisawhipkey.com?target=_blank). Or connect with her via Twitter: [@kisawhipkey](https://twitter.com/KisaWhipkey?target=_blank). And, of course, to learn more about REUTS Publications, please visit [www.reuts.com](http://www.reuts.com?target=_blank).
 
 
 ***What kind of entries are you looking for in this contest?***

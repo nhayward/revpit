@@ -1,7 +1,7 @@
 ---
 title: 'Carly Bornstein-Hayward'
 last_name: Bornstein-Hayward
-website: www.carlybornstein.com
+website: 'http://www.carlybornstein.com'
 facebook:
     name: 'CB Book Editing'
     url: 'https://www.facebook.com/cbbookediting'

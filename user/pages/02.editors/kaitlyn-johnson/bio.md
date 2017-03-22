@@ -1,7 +1,7 @@
 ---
 title: 'Kaitlyn Johnson'
 last_name: Johnson
-website: kjohnsonfreelance.com
+website: 'http://kjohnsonfreelance.com'
 twitter:
     name: '@kaitylynne13'
     url: 'https://twitter.com/kaitylynne13'
