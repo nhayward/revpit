@@ -733,6 +733,18 @@ ul.pagination {
   margin-top: 5rem;
   text-align: center; }
 
+#bio-item {
+  padding-left: 3rem; }
+  @media only all and (max-width: 47.938em) {
+    #bio-item {
+      padding-left: 0; } }
+  #bio-item .sidebar-content {
+    margin-bottom: 3rem; }
+    #bio-item .sidebar-content h4 {
+      margin-bottom: 1rem; }
+    #bio-item .sidebar-content p, #bio-item .sidebar-content ul {
+      margin-top: 1rem; }
+
 #error {
   text-align: center;
   display: flex;
