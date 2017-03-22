@@ -1,7 +1,7 @@
 ---
 title: 'How to Submit'
 sidebar:
-    enabled: true
+    enabled: false
     image: /images/QueryRecipe.jpg
 ---
 
@@ -24,7 +24,7 @@ Then…
 
 ***Step 3: Answer the following questions in the provided space:***
  * Why do you write?
- * What’s your preferred style of revision?
+ * On a scale of 1-10, how much tough love do you like in your revision feedback? (10 = Bring it on!)
  * Pro or Anti Oxford comma?
 
 ***Step 4: Attach the first five, double-spaced pages of your manuscript.***

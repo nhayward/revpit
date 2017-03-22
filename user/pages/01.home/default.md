@@ -1,8 +1,8 @@
 ---
 title: Home
 sidebar:
-	enabled: true
-	twitter: true
+    enabled: true
+    twitter: true
 ---
 
 ### Welcome to the newly created #RevPit!
@@ -23,5 +23,5 @@ Writers will submit their query and first five pages to their top three editors 
 
 4. The answer to these three questions!
  * Why do you write?
- * What’s your preferred style of revision?
+ * On a scale of 1-10, how much tough love do you like in your revision feedback? (10 = Bring it on!)
  * Pro or Anti Oxford comma?

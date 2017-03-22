@@ -8,7 +8,7 @@ title: Schedule
 The submission window will open at noon EDT on Friday, April 7th, and remain open until 11:59 EDT on Sunday, April 9th.
 
 **April 17th:** Editor picks announced.  
-Editor picks will be announced at noon EDT on Wednesday, April 17th. Author–editor teams will begin working on revisions.
+Editor picks will be announced at noon EDT on Monday, April 17th. Author–editor teams will begin working on revisions.
 
 **May 19th:** Editing round ends.  
 Editors and authors wrap up revisions and submit revised queries and first five pages by midnight EDT on Friday, May 19th.
