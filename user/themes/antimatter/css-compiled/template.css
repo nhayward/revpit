@@ -794,6 +794,10 @@ ul.pagination {
   #body > script:first-child + .grav-lightslider {
     margin-top: -3rem; }
 
+@media (max-width: 1070px) {
+  #sb-site #header {
+    padding-right: 4rem;
+    padding-left: 4rem; } }
 #sb-site #header_image {
   position: relative;
   height: 300px;

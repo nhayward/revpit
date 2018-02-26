@@ -22,6 +22,15 @@
 
 #sb-site {
 
+    #header {
+
+        @media(max-width: 1070px) {
+            padding-right: 4rem;
+            padding-left: 4rem;
+        }
+
+    }
+
 	#header_image {
 		position: relative;
 		height: 300px;
