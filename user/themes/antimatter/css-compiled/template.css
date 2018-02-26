@@ -798,6 +798,10 @@ ul.pagination {
   #sb-site #header {
     padding-right: 4rem;
     padding-left: 4rem; } }
+@media (max-width: 974px) {
+  #sb-site #header {
+    padding-right: 3rem;
+    padding-left: 3rem; } }
 #sb-site #header_image {
   position: relative;
   height: 300px;
