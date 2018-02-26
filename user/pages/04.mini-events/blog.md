@@ -1,4 +1,5 @@
 ---
+title: Mini-Events
 content:
     items: '@self.children'
     order:
@@ -7,3 +8,5 @@ content:
     limit: 10
     pagination: true
 ---
+
+### Mini-Events
