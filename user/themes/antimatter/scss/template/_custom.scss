@@ -34,6 +34,20 @@
             padding-left: 3rem;
         }
 
+        @media(max-width: 407px) {
+            padding-right: 1rem;
+            padding-left: 1rem;
+
+            #logo {
+
+                h3 {
+                    font-size: 1.5rem;
+                }
+
+            }
+
+        }
+
     }
 
 	#header_image {
