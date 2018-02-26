@@ -111,7 +111,7 @@ b, strong, label, th {
     font-size: 0.9rem;
     /* Child Indicator */ }
     #header #navbar .has-children > a > span {
-      display: inline-block;
+      display: none;
       padding-right: 8px; }
       #header #navbar .has-children > a > span:after {
         font-family: FontAwesome;
@@ -120,20 +120,11 @@ b, strong, label, th {
         display: inline-block;
         right: 8px;
         top: 4px; }
-    #header #navbar .has-children > a:after, #header #navbar .has-children > a:before {
-      display: none; }
-    #header #navbar .has-children .has-children > a > span:after {
-      content: '\f105'; }
     #header #navbar .navigation > .has-children:hover > a {
-      background: #f6f6f6;
-      border: 1px solid #ececec;
-      border-bottom-color: #f6f6f6;
-      margin: -1px -1px 0 -1px;
       z-index: 1000;
-      position: relative;
-      padding-bottom: 1px; }
+      position: relative; }
     #header #navbar ul {
-      margin: 0;
+      margin-top: 1px;
       padding: 0;
       list-style: none; }
       #header #navbar ul.navigation {
