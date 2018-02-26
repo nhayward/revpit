@@ -9,7 +9,13 @@ sidebar:
 
 The Revise &amp; Resub contest is open to completed, unpublished manuscripts ONLY. Your manuscript should be polished and beta-reader tested before submission.
 
-Once you have your manuscript and query letter ready to go, you’ll come here and click the link to our Submittable page. The link will appear on April 7 at 12:00pm EST and remain open until 11:59pm on April 9.
+Once you have your manuscript and query letter ready to go, you’ll come here and click the link to our Submittable page. 
+
+<!-- Link to the Revise & Resub submission manager. --->
+<a target = _blank href="http://reviseresub.submittable.com/submit"><img src="//manager.submittable.com/Public/Images/submittable-submit-button.png" alt="submit" border="0" /></a>
+<!-- End link to submission manager -->
+
+The link will become active on April 7 at 12:00pm EST and remain open until 11:59pm on April 9.
 
 Then…
 
@@ -27,7 +33,7 @@ Then…
  * On a scale of 1-10, how much tough love do you like in your revision feedback? (10 = Bring it on!)
  * Pro or Anti Oxford comma?
 
-***Step 4: Attach the first five, double-spaced pages of your manuscript.***
+***Step 4: Attach the first five double-spaced pages of your manuscript. Approximately 1500 words.***
 
 ***Step 5: Have a synopsis and additional pages ready in case an editor requests more!***
 
@@ -38,7 +44,9 @@ Then…
  * The manuscript you are submitting has never been published before
  * You are not represented by a literary agent
 
-**\*Please note: If you are selected for Revise &amp; Resub, your query and first five pages will be showcased on our website at the end of the contest. We want to be able to share your hard work with the world!**
+**\*Please note: If you are selected for Revise &amp; Resub, your query and first five pages will be showcased on our website at the end of the contest. We want to be able to share your hard work with the world! Revised submissions will be showcased for three months and then removed from the site. After June 19th, or upon securing agent representation or a publishing contract, an author may request their submission be taken out of the showcase.**
+
+We often get questions about what appropriate word counts for category and genre are. Although there isn't universal agreement around this issue in the publishing industry, this [post](http://www.camarshall.com/2011/09/word-count-guidelines.html?target=_blank) provides some good guidelines.
 
 For extra help on putting together an awesome pitch, check out the sample query below.
 

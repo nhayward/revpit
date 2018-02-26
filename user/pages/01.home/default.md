@@ -5,7 +5,17 @@ sidebar:
     twitter: true
 ---
 
-### Welcome to the newly created #RevPit!
+### Welcome to #RevPit!
+
+#### \#RevPit 2018 Annual Event Begins April 21st! 
+
+#### Check our [Schedule](http://reviseresub.com/schedule) page to find our monthly mini events!
+
+##### Visit our [blog](http://reviseresub.com/blog) to learn more about our upcoming events and to view our previous winners. 
+
+_**Please check back here in the future to learn more about our next round. Take a look below to see how our last round went!**_
+
+##### _Our submission window is currently closed._ 
 
 We editors found ourselves with the same block open in our schedules and decided to put that time to good use by offering our services to authors via a pitch contest in the hopes that everyone who follows along could learn something worthwhile and make meaningful connections along the way.
 

@@ -1,13 +1,13 @@
 enabled: true
 from: editor@reviseresub.com
-to: carlyt.hayward@gmail.com
+to: carlyt.bornstein@gmail.com
 mailer:
-  engine: mail
+  engine: sendmail
   smtp:
     server: localhost
     port: 25
     encryption: none
   sendmail:
-    bin: /usr/sbin/sendmail
+    bin: '/usr/sbin/sendmail -bs'
 content_type: text/html
 debug: false
