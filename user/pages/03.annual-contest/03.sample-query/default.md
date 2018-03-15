@@ -17,3 +17,8 @@ UNTIL DEATH is a YA non-magic fantasy that will appeal to fans of Jennifer Niels
 I earned my B.A. in 2001 from The Evergreen State College with emphases in English literature, political science, and psychology, three fields from which I regularly draw in my writing. As a member of Willamette Writers, I have attended their annual conference for the last three years, where I moderated the panel on Women in Fantasy in 2016. I also have a growing online platform on Twitter and my website.
 
 Thank you for your time and consideration.
+
+#### Tips
+
+ * We often get questions about what appropriate word counts for category and genre are. Although there isn't universal agreement around this issue in the publishing industry, [this post](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/word-count-for-novels-and-childrens-books-the-definitive-post?target=_blank) provides some good guidelines.
+ * Need help writing your bio? Check out [this post](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/what-should-you-write-in-the-bio-paragraph-of-a-query-letter?target=_blank) for tips on what does and does not go into your query letter bio.

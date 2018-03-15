@@ -13,7 +13,7 @@ title: 'Contest Schedule'
 **April 21st-22nd:** Submission window opens.  
 The submission window opens at 9am EST on April 21st and will remain open until 11:59pm EST on April 22nd.
 
-**April 21st-29th:** [#10Queries](https://katiemccoach.com/how-an-editor-sees-it-10queries/) sessions.  
+**April 21st-29th:** [#10Queries](https://katiemccoach.com/how-an-editor-sees-it-10queries?target=_blank) sessions.  
 Editors will tweet out #10Queries throughout the week. Watch your chosen editors’ tweets and the #RevPit feed for schedules and details.
 
 **April 30th:** Editor picks announced!  

@@ -4,7 +4,7 @@ title: 'How to Submit'
 
 ### How to Submit
 
-The Revise & Resub (#RevPit) [Annual Contest](http://reviseresub.com/annual-contest) is open to completed, unpublished manuscripts ONLY. Your manuscript should be polished and beta-reader tested before submission.
+The Revise & Resub (#RevPit) [Annual Contest](http://reviseresub.com/annual-contest) is open to completed, unpublished, fiction manuscripts ONLY. Your manuscript should be polished and beta-reader tested before submission.
 
 Once you have your manuscript and query letter ready to go, you’ll come here and click the link to our Submittable page. Submittable does require writers to sign up for an account, but the account is free. 
 
@@ -16,7 +16,7 @@ The link will become active on **April 21st, 2018 at 9:00am EST **and remain ope
 <a target = _blank href="http://reviseresub.submittable.com/submit"><img src="//manager.submittable.com/Public/Images/submittable-submit-button.png" alt="submit" border="0" /></a>
 <!-- End link to submission manager -->
 
-**Step 1:** Browse the participating editor bios and select your top THREE choices and ONE alternate.
+**Step 1:** Browse the participating editor bios and select your top TWO choices and ONE alternate.
 
 **Step 2:** Fill in the blanks with your personal info and query letter. Make sure your query includes:
  * Title
@@ -28,7 +28,7 @@ The link will become active on **April 21st, 2018 at 9:00am EST **and remain ope
 **Step 3:** Answer the following questions in the provided space:
  * Why do you write?
  * On a scale of 1-10, how much tough love do you like in your revision feedback? (10 = Bring it on!)
- * Pro or Anti Oxford comma?
+ * Why did you choose these editors as the best match for you and your manuscript?
 
 **Step 4:** Attach the first five double-spaced pages (approximately 1250-1500 words) of your manuscript. 
 
@@ -41,6 +41,7 @@ The link will become active on **April 21st, 2018 at 9:00am EST **and remain ope
  * Your submission materials are your own original work
  * The manuscript you are submitting has never been published before
  * You are not represented by a literary agent
+ * No projects under 25,000 words (including poetry, chapter books, and picture books) or non-fiction
 
 ###### Please note: If you are selected for Revise & Resub, your query and first five pages will be showcased on our website at the end of the contest. We want to be able to share your hard work with the world! Revised submissions will be showcased for three months and then removed from the site. After three months, or upon securing agent representation or a publishing contract, an author may request their submission be taken out of the showcase.
 
