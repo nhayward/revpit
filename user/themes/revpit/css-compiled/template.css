@@ -111,7 +111,7 @@ b, strong, label, th {
     font-size: 0.9rem;
     /* Child Indicator */ }
     #header #navbar .has-children > a > span {
-      display: inline-block;
+      display: none;
       padding-right: 8px; }
       #header #navbar .has-children > a > span:after {
         font-family: FontAwesome;
@@ -120,20 +120,11 @@ b, strong, label, th {
         display: inline-block;
         right: 8px;
         top: 4px; }
-    #header #navbar .has-children > a:after, #header #navbar .has-children > a:before {
-      display: none; }
-    #header #navbar .has-children .has-children > a > span:after {
-      content: '\f105'; }
     #header #navbar .navigation > .has-children:hover > a {
-      background: #f6f6f6;
-      border: 1px solid #ececec;
-      border-bottom-color: #f6f6f6;
-      margin: -1px -1px 0 -1px;
       z-index: 1000;
-      position: relative;
-      padding-bottom: 1px; }
+      position: relative; }
     #header #navbar ul {
-      margin: 0;
+      margin-top: 1px;
       padding: 0;
       list-style: none; }
       #header #navbar ul.navigation {
@@ -733,6 +724,18 @@ ul.pagination {
   margin-top: 5rem;
   text-align: center; }
 
+#bio-item {
+  padding-left: 3rem; }
+  @media only all and (max-width: 47.938em) {
+    #bio-item {
+      padding-left: 0; } }
+  #bio-item .sidebar-content {
+    margin-bottom: 3rem; }
+    #bio-item .sidebar-content h4 {
+      margin-bottom: 1rem; }
+    #bio-item .sidebar-content p, #bio-item .sidebar-content ul {
+      margin-top: 1rem; }
+
 #error {
   text-align: center;
   display: flex;
@@ -785,8 +788,44 @@ ul.pagination {
 .grav-lightslider .lSSlideOuter .lSPager.lSpg > li a {
   z-index: 1; }
 
-#body > script:first-child + .grav-lightslider {
-  margin-top: -3rem; }
+#body {
+  padding-top: 2rem;
+  padding-bottom: 13rem; }
+  #body > script:first-child + .grav-lightslider {
+    margin-top: -3rem; }
+
+@media (max-width: 1070px) {
+  #sb-site #header {
+    padding-right: 4rem;
+    padding-left: 4rem; } }
+@media (max-width: 974px) {
+  #sb-site #header {
+    padding-right: 3rem;
+    padding-left: 3rem; } }
+@media (max-width: 407px) {
+  #sb-site #header {
+    padding-right: 1rem;
+    padding-left: 1rem; }
+    #sb-site #header #logo h3 {
+      font-size: 1.5rem; } }
+#sb-site #header_image {
+  position: relative;
+  height: 300px;
+  padding: 0 3rem;
+  background-size: cover; }
+  #sb-site #header_image img {
+    position: absolute;
+    bottom: 10px;
+    height: 200px; }
+
+#header {
+  background-color: rgba(255, 255, 255, 0.95); }
+
+#footer {
+  height: 8rem;
+  padding-bottom: 20px; }
+  #footer .totop {
+    bottom: 7rem; }
 
 .modular.header-image #header {
   background-color: rgba(255, 255, 255, 0);
