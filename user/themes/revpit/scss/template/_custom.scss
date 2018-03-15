@@ -1,0 +1,81 @@
+// Your custom SCSS should be written here...
+
+.grav-lightslider {
+    .lSSlideOuter {
+        .lSPager.lSpg {
+            > li a {
+                z-index: 1;
+            }
+        }
+    }
+}
+
+#body {
+    padding-top: 2rem;
+    padding-bottom: 13rem;
+
+    > script:first-child + .grav-lightslider {
+      margin-top: -3rem;
+    }
+
+}
+
+#sb-site {
+
+    #header {
+
+        @media(max-width: 1070px) {
+            padding-right: 4rem;
+            padding-left: 4rem;
+        }
+
+        @media(max-width: 974px) {
+            padding-right: 3rem;
+            padding-left: 3rem;
+        }
+
+        @media(max-width: 407px) {
+            padding-right: 1rem;
+            padding-left: 1rem;
+
+            #logo {
+
+                h3 {
+                    font-size: 1.5rem;
+                }
+
+            }
+
+        }
+
+    }
+
+    #header_image {
+        position: relative;
+        height: 300px;
+        padding: 0 3rem;
+        background-size: cover;
+
+        img {
+            position: absolute;
+            bottom: 10px;
+            height: 200px;
+        }
+
+    }
+
+}
+
+#header {
+    background-color: rgba(255,255,255,0.95);
+}
+
+#footer {
+    height: 8rem;
+    padding-bottom: 20px;
+
+    .totop {
+        bottom: 7rem;
+    }
+
+}
