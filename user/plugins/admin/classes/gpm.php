@@ -27,6 +27,9 @@ class Gpm
     {
         if (!static::$GPM) {
             static::$GPM = new GravGPM();
+            if (method_exists('GravGPM', 'loadRemoteGrav')) {
+                static::$GPM->loadRemoteGrav();
+            }
         }
 
         return static::$GPM;
@@ -241,7 +244,7 @@ class Gpm
                     return Admin::translate('PLUGIN_ADMIN.CANNOT_OVERWRITE_SYMLINKS');
                 }
                 Installer::install($zip, GRAV_ROOT,
-                    ['sophisticated' => true, 'overwrite' => true, 'ignore_symlinks' => true], $extracted);
+                    ['sophisticated' => true, 'overwrite' => true, 'ignore_symlinks' => true, 'ignores' => ['tmp','user','vendor']], $extracted);
             } else {
                 $name = GravGPM::getPackageName($extracted);
 
@@ -351,11 +354,13 @@ class Gpm
             return false;
         }
 
-        if (method_exists($upgrader, 'meetsRequirements') && !$upgrader->meetsRequirements()) {
+        if (method_exists($upgrader, 'meetsRequirements') &&
+            method_exists($upgrader, 'minPHPVersion') &&
+            !$upgrader->meetsRequirements()) {
             $error   = [];
             $error[] = '<p>Grav has increased the minimum PHP requirement.<br />';
-            $error[] = 'You are currently running PHP <strong>' . PHP_VERSION . '</strong>';
-            $error[] = ', but PHP <strong>' . GRAV_PHP_MIN . '</strong> is required.</p>';
+            $error[] = 'You are currently running PHP <strong>' . phpversion() . '</strong>';
+            $error[] = ', but PHP <strong>' . $upgrader->minPHPVersion() . '</strong> is required.</p>';
             $error[] = '<p><a href="http://getgrav.org/blog/changing-php-requirements-to-5.5" class="button button-small secondary">Additional information</a></p>';
 
             Installer::setError(implode("\n", $error));
