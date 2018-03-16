@@ -4,4 +4,10 @@ $(document).ready(function() {
         $(this).attr("rel", "noopener noreferrer");
     });
 
+    $(".faq-accordion").accordion({
+        active: false,
+        collapsible: true,
+        heightStyle: "content"
+    });
+
 });
