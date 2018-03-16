@@ -8,11 +8,19 @@ title: FAQ
 
 <div class="faq-accordion" markdown="1">
 
+##### Q: How many manuscripts can I submit? 
+
+<div markdown="1">
+
+**A:** Only **one** submission per entrant. 
+
+</div>
+
 ##### Q: How many submissions will each editor accept? 
 
 <div markdown="1">
 
-**A:** There is a cap of 100 submissions for all editors. After an editor receives100, the rest of their submissions will go to the alternates chosen by the authors.
+**A:** There is a cap of 100 submissions for all editors. After an editor receives 100, the rest of their submissions will go to the alternates chosen by the authors.
 
 </div>
 

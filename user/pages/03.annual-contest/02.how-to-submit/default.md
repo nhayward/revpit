@@ -4,7 +4,7 @@ title: 'How to Submit'
 
 ### How to Submit
 
-The Revise & Resub (#RevPit) [Annual Contest](http://reviseresub.com/annual-contest) is open to completed, unpublished, fiction manuscripts ONLY. Your manuscript should be polished and beta-reader tested before submission.
+The Revise & Resub (#RevPit) [Annual Contest](http://reviseresub.com/annual-contest) is open to completed, unpublished, fiction manuscripts ONLY. Your manuscript should be polished and beta-reader tested before submission. Only **one** submission per entrant. 
 
 Once you have your manuscript and query letter ready to go, you’ll come here and click the link to our Submittable page. Submittable does require writers to sign up for an account, but the account is free. 
 

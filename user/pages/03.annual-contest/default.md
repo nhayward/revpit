@@ -16,7 +16,7 @@ See our [Contest Schedule](http://reviseresub.com/annual-contest/schedule) for a
 
 Writers must choose two editors and one alternate. [The editors](http://reviseresub.com/editors) have listed what age categories and genres they’re accepting and will hold #AskEditor twitter chats to help writers decide who might be a good fit. This is your opportunity to ask your top choices anything!
 
-Once the submission window opens, writers will use Submittable to submit query letter and first five double-spaced pages (1250-1500 words) to their top two editors and one alternate. Check out the [How to Submit page](http://reviseresub.com/annual-contest/how-to-submit) to learn about the submission process.
+Once the submission window opens, writers will use Submittable to submit query letter and first five double-spaced pages (1250-1500 words) to their top two editors and one alternate. Only **one** submission per entrant. Check out the [How to Submit page](http://reviseresub.com/annual-contest/how-to-submit) to learn about the submission process.
 
 When the submission window closes, editors will read all entries. Watch your chosen editors’ tweets and the #RevPit feed, as all editors will tweet anonymous [#10queries](https://katiemccoach.com/how-an-editor-sees-it-10queries?target=_blank) feedback as they go. Editors will then select one (or two!) winners and a runner-up to receive [prizes](http://reviseresub.com/annual-contest/prizes). The winning author-editor pairs will go through an intense, month-long editing process before posting their revised query letters and first five pages to the showcase on the Revise & Resub blog. Runners-up will each receive a separate [prize](http://reviseresub.com/annual-contest/prizes). 
 
