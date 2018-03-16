@@ -11,4 +11,4 @@ sidebar:
 
 The #RevPit 2018 Annual Contest Begins **April 21st**! See the [Annual Contest page](http://reviseresub.com/annual-contest) for more details. Visit our [Mini-Events page](http://reviseresub.com/mini-events) for updates on workshops, chats, mini-contests, and more!
 
-The #RevPit editors have created a Reedsy Learning course on practical tips for revising your novel. Learn more and sign up [here](https://www.google.com/url?q=https://blog.reedsy.com/learning/courses/writing/novel-revision-practical-tips-rewrites/&sa=D&ust=1519620514240000&usg=AFQjCNHY73rvvwUqVxt2GGQxCBeqfW11QQ?target=_blank)! 
+The #RevPit editors have created a Reedsy Learning course on practical tips for revising your novel. Learn more and sign up [here](https://blog.reedsy.com/learning/courses/writing/novel-revision-practical-tips-rewrites?target=_blank).
