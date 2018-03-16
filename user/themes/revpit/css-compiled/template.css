@@ -794,6 +794,9 @@ ul.pagination {
   #body > script:first-child + .grav-lightslider {
     margin-top: -3rem; }
 
+a {
+  color: #1BB3E9 !important; }
+
 @media (max-width: 1070px) {
   #sb-site #header {
     padding-right: 4rem;
