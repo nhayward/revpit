@@ -785,50 +785,50 @@ ul.pagination {
 .simplesearch hr {
   border-bottom: 1px solid #eee; }
 
-.grav-lightslider .lSSlideOuter .lSPager.lSpg > li a {
-  z-index: 1; }
-
-#body {
-  padding-top: 2rem;
-  padding-bottom: 13rem; }
-  #body > script:first-child + .grav-lightslider {
-    margin-top: -3rem; }
-
-a {
-  color: #1BB3E9 !important; }
-
-@media (max-width: 1070px) {
-  #sb-site #header {
-    padding-right: 4rem;
-    padding-left: 4rem; } }
-@media (max-width: 974px) {
-  #sb-site #header {
-    padding-right: 3rem;
-    padding-left: 3rem; } }
-@media (max-width: 407px) {
-  #sb-site #header {
-    padding-right: 1rem;
-    padding-left: 1rem; }
-    #sb-site #header #logo h3 {
-      font-size: 1.5rem; } }
-#sb-site #header_image {
+body#top #sb-site #header {
+  background-color: rgba(255, 255, 255, 0.95); }
+  @media (max-width: 1070px) {
+    body#top #sb-site #header {
+      padding-right: 4rem;
+      padding-left: 4rem; } }
+  @media (max-width: 974px) {
+    body#top #sb-site #header {
+      padding-right: 3rem;
+      padding-left: 3rem; } }
+  @media (max-width: 407px) {
+    body#top #sb-site #header {
+      padding-right: 1rem;
+      padding-left: 1rem; }
+      body#top #sb-site #header #logo h3 {
+        font-size: 1.5rem; } }
+body#top #sb-site #header_image {
   position: relative;
   height: 300px;
   padding: 0 3rem;
   background-size: cover; }
-  #sb-site #header_image img {
+  body#top #sb-site #header_image img {
     position: absolute;
     bottom: 10px;
     height: 200px; }
-
-#header {
-  background-color: rgba(255, 255, 255, 0.95); }
-
-#footer {
+body#top #sb-site #body {
+  padding-top: 2rem;
+  padding-bottom: 13rem; }
+  body#top #sb-site #body img.float-left {
+    float: left;
+    padding: 0 10px 10px 0; }
+  body#top #sb-site #body .ui-widget-content a {
+    color: #1BB3E9; }
+body#top #sb-site #footer {
   height: 8rem;
   padding-bottom: 20px; }
-  #footer .totop {
+  body#top #sb-site #footer .totop {
     bottom: 7rem; }
+
+.grav-lightslider .lSSlideOuter .lSPager.lSpg > li a {
+  z-index: 1; }
+
+#body > script:first-child + .grav-lightslider {
+  margin-top: -3rem; }
 
 .modular.header-image #header {
   background-color: rgba(255, 255, 255, 0);
