@@ -805,6 +805,9 @@ body#top #sb-site #header {
     body#top #sb-site #header {
       padding-right: 0.5rem;
       padding-left: 0.5rem; } }
+  @media (max-width: 967px) {
+    body#top #sb-site #header #logo h3 {
+      font-size: 1.3rem; } }
 body#top #sb-site #header_image {
   position: relative;
   height: 300px;

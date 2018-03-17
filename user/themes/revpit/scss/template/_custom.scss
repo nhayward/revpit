@@ -32,6 +32,16 @@ body#top #sb-site {
             padding-left: 0.5rem;
         }
 
+        @media(max-width: 967px) {
+            #logo {
+
+                h3 {
+                    font-size: 1.3rem;
+                }
+
+            }
+        }
+
     }
 
     #header_image {
