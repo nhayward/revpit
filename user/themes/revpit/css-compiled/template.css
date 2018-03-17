@@ -787,20 +787,24 @@ ul.pagination {
 
 body#top #sb-site #header {
   background-color: rgba(255, 255, 255, 0.95); }
-  @media (max-width: 1070px) {
+  @media (max-width: 1226px) {
     body#top #sb-site #header {
       padding-right: 4rem;
       padding-left: 4rem; } }
-  @media (max-width: 974px) {
+  @media (max-width: 1130px) {
     body#top #sb-site #header {
       padding-right: 3rem;
       padding-left: 3rem; } }
-  @media (max-width: 407px) {
+  @media (max-width: 1098px) {
     body#top #sb-site #header {
       padding-right: 1rem;
       padding-left: 1rem; }
       body#top #sb-site #header #logo h3 {
         font-size: 1.5rem; } }
+  @media (max-width: 966px) {
+    body#top #sb-site #header {
+      padding-right: 0.5rem;
+      padding-left: 0.5rem; } }
 body#top #sb-site #header_image {
   position: relative;
   height: 300px;
@@ -818,6 +822,18 @@ body#top #sb-site #body {
     padding: 0 10px 10px 0; }
   body#top #sb-site #body .ui-widget-content a {
     color: #1BB3E9; }
+  body#top #sb-site #body .box-row .box .box-content {
+    background-color: rgba(27, 179, 233, 0.1);
+    margin-bottom: 2rem;
+    padding: 10px 20px; }
+    body#top #sb-site #body .box-row .box .box-content .twitter-tweet {
+      margin-left: auto;
+      margin-right: auto; }
+  body#top #sb-site #body .box-row .box.rightColumn {
+    padding-left: 3rem; }
+    @media only all and (max-width: 47.938em) {
+      body#top #sb-site #body .box-row .box.rightColumn {
+        padding-left: 0; } }
 body#top #sb-site #footer {
   height: 8rem;
   padding-bottom: 20px; }

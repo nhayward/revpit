@@ -1,0 +1,235 @@
+---
+title: Testimonials
+leftBoxes:
+    -
+        content: >
+            It's so hard to put into words just how amazing #RevPit was for me. It was the first contest I'd ever been chosen for, the first time my work was in front of an editing professional. Carly was incredible from the start, and everything she suggested whipped my book into fighting shape. And I'm giddy to say it, even now, but two months after the showcase, I signed with my agent at the Corvisiero Literary Agency. My writing career literally graduated from amateur to professional in the span of a few months, all because of this contest. And amongst all that, I was lucky enough to connect with several other winners, and we started our very own #PitCrew. A year later, we still talk daily about our writing and home lives. Having their consistent support has helped me improve as a writer more than I can ever say! So if you're still on the fence, don't waste time! #RevPit changed my life. All you have to do is submit!
+
+
+            -Rebecca Thorne (Fornwalt), 2017 Winner
+
+
+    -
+        content: >
+            I feel so lucky that Victoria Griffin chose me as her mentee in the 2017 RevPit contest. Over the course of five weeks - with Victoria's help - I revised my entire manuscript twice. It was grueling, but it felt great. She pointed out my weaknesses and pushed me to make difficult changes. Shortly after RevPit ended, I started sending my manuscript out to agents. I was terrified, but I felt ready. In October I received two offers of representation and signed with my dream agent at Writers House. 
+
+
+            I couldn't be happier, but I know I did not get here on my own. 
+
+
+            So many writers, editors, and industry professionals donate their time to contests like RevPit. They give new writers much-needed feedback. More importantly, they give us hope and encouragement. The best way I can thank the organizers and editors involved in RevPit is to vow that I'll pay their generosity forward.
+
+
+            THANK YOU!
+
+
+            -Julie Carrick Dalton, 2017 Winner
+
+
+    -
+        content: >
+            <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">It was the first time I participated and followed along, and I personally found it super helpful. The query letter portion was particularly nice, and much more effective than me just googling &quot;how to do a query letter&quot; and hoping for the best. 😆 <a href="https://twitter.com/hashtag/revpit?src=hash&amp;ref_src=twsrc%5Etfw">#revpit</a> <a href="https://t.co/36wX6PZ9Dy">pic.twitter.com/36wX6PZ9Dy</a></p>&mdash; Steve Retka (@steveretka) <a href="https://twitter.com/steveretka/status/968201145058562048?ref_src=twsrc%5Etfw">February 26, 2018</a></blockquote>
+
+
+    -
+        content: >
+            I was lucky enough to get into #RevPit last year, and get the incomparable Jeni Chapelle as my editor. I'd worked with CPs and betas on my MS, but Jeni was something else entirely. Her ideas were spectacular, and helped me turn what was a pretty good story into something much better. She worked me hard--three major edits in the five weeks, and I cut a lot (which I needed and wanted) and added quite a bit. I would say that #RevPit isn't for someone who just wants to be told their work is good. You must want to work very hard to make improvements to your story, and be willing to listen to your editors suggestions, as well as feel free to offer your own. Jeni and I brainstormed some bits together, and over the contest, we became friends. I have recommended her to every writer I know, I think, and cannot say enough wonderful things about her skills and her thoughtfulness. She taught me so many tricks that I will use for the rest of my writing career. 
+
+
+            I also want to add that I made some close writer friends from the contest, and am in a chat with them. We write in different genres, but we still come together daily to support each other, and brainstorm, and sometimes just to rant and vent. 
+
+
+            RevPit seriously changed my writing, and I encourage everyone who has a MS ready to go to enter. 
+
+
+            *Five hundred exclamation points were edited out of this testimonial because when I talk about Jeni and RevPit, I tend to gush.
+
+             
+            -MJ Marshall, 2017 Winner
+
+
+    -
+        content: >
+            I'll keep it short. I pitched with the intention of practicing my pitching, I won, I worked with a brilliant editor who was infinitely patient and who dedicated a huge chunk of her time to not only helping me make the words work but also toward helping me understand what the words about words meant so that I could work effectively with her. And since I won, I can go ahead and tell you right now that I didn't have the slightest clue what I was doing when I oh-so-cockily pitched. But the thing is, I've got a huge clue now, in fact I've got an absolutely ginormous clue, and that's all thanks to the fact that I won. But here's the rub: it was my second time entering, I didn't win the first time. And I still learned a ton the first time around. I got tidbits of feedback that were invaluable the first time around. So, RevPit is awesome, RevPitters are amazing, and writers should submit because there's nothing to lose and tons to gain from the experience. Also, if Sione ever runs for president I'm totally gonna vote for her, and I know that has nothing to do with an endorsement, but I'm saying it anyway, she's brilliant. As one writer to thousands of other writers I say submit to the Pit. It's worth it.
+
+
+            -Jared Wynn, 2017 Winner
+
+
+    -
+        content: >
+            <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">First time participating in <a href="https://twitter.com/hashtag/RevPit?src=hash&amp;ref_src=twsrc%5Etfw">#RevPit</a>, and it was helpful even though I wasn't selected. Would be nice to see feedback on more genres (majority YA) but that's hard with a random drawing for winners. Thanks to everyone involved!!</p>&mdash; Anne Jones (@ALJScribbler) <a href="https://twitter.com/ALJScribbler/status/968240964174254082?ref_src=twsrc%5Etfw">February 26, 2018</a></blockquote>
+
+
+    -
+        content: >
+            My experience with RevPit was truly priceless! I learned so much by just following all the query tweets and tips all the editors posted. I was also lucky enough to make it to the top ten of two out of three editors' lists, giving me extra feedback from both. I came in runner up and won a query critique as well as the first 5 pages critique. Honestly, I can't encourage people enough to join! It's an amazing learning experience, as well as, a great way to connect with other authors. Everyone should join.  
+
+
+            -Negeen Papehn, 2017 Runner-up. Published by Owl City Press, title Forbidden by Faith
+
+
+    -
+        content: >
+            RevPit is a unique contest in that you have an experienced editor willing to work with you on a manuscript that isn't perfect. Perfect is boring! The RevPit editors want a novel with heart they can transform and polish, and that was my experience with Katie McCoach. When Katie chose me, yes, I was very excited to have a more presentable manuscript, but what RevPit really did for me was give me confidence. It meant so much to me to know there was someone out there who believed in me and in my work. That is worth way more than a good manuscript.
+
+
+            You have nothing to lose by submitting to RevPit. If you do end up being chosen, your editor will work with you to push you past your boundaries and make your book the best it can be. But it isn't about "winning" or being chosen. It's about learning from extremely generous mentors and making connections with your writing peers. There's so much opportunity to learn and grow. 
+
+
+            DO IT!! 
+
+
+            -Marisa Urgo, 2017 Winner
+
+
+    -
+        content: >
+            <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">The 3 days I&#39;ve received so far are filled with great content! I&#39;ve enjoyed it and am looking forward to the rest! Thank you to all the contributing <a href="https://twitter.com/hashtag/RevPit?src=hash&amp;ref_src=twsrc%5Etfw">#RevPit</a> editors!</p>&mdash; CM Fick (@CM_Fick) <a href="https://twitter.com/CM_Fick/status/968228872016642048?ref_src=twsrc%5Etfw">February 26, 2018</a></blockquote>
+
+
+    -
+        content: >
+            Entering the contest turned out to be a great way to meet amazing people and learn a ton about writing and editing and working with others. Even if I hadn't won, I would have been glad I entered. My story was significantly better after following my editor's suggestions! And several others from this contest are my CPs and friends still. I am glad I won, believe my story is much better because of it, and am very grateful to you all. 
+
+
+            -Rachel Berros, 2017 Winner
+
+
+    -
+        content: >
+            RevPit connected me with Kaitlyn Johnson, who took me on as an editing client after the contest, and provided me with immense support and editing help. Jeni Chappelle, too, has continued to give me advice and encouragement through our online friendship that lasted beyond the contest. Moreover, I met many of my writing friends through #ontheporch and other writing hashtags related to RevPit.
+
+
+            Contests like these are an amazing way to meet new people, go out of your comfort zone, and take the first vulnerable step towards sharing and polishing your manuscript for real. 
+
+
+            -Catherine Bakewell, 2017 Runner-up
+
+
+    -
+        content: >
+            <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">It was very helpful! While I was quite sure I knew which one was mine, I stuck around and read everyone&#39;s advice. I spent the weekend fixing up my query and starting pages and they are much stronger for it. Very happy I participated in the event and look forward to April.</p>&mdash; Jill Keller (@JFKellerAuthor) <a href="https://twitter.com/JFKellerAuthor/status/968211987976073223?ref_src=twsrc%5Etfw">February 26, 2018</a></blockquote>
+
+
+rightBoxes:
+    -
+        content: >
+            I thought it was wonderful that the editors got together and started their own contest when another contest fell through. Working with Ellen on my book has been a fantastic experience, and I think it's great there are opportunities like this out there to help us as authors make that final push on a manuscript.
+
+
+            -T. James Belich, 2017 Winner
+
+
+    -
+        content: >
+            RevPit helped me gain confidence in my manuscript, and I found my literary agent soon after! More importantly, I made friends with a helpful community of writers that continues to support me with new projects. Ultimately, RevPit is a great opportunity to learn about the query and editing process. If I didn't have a lit agent I would certainly participate in it again this year. Try it - you have nothing to lose and a lot to gain!
+
+
+            -Brenda Yun, 2017 Runner-up
+
+
+    -
+        content: >
+            <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I was picked in the <a href="https://twitter.com/hashtag/revpit?src=hash&amp;ref_src=twsrc%5Etfw">#revpit</a> <a href="https://twitter.com/hashtag/10queries?src=hash&amp;ref_src=twsrc%5Etfw">#10queries</a> mini event and it was super helpful! Not only my own critique by <a href="https://twitter.com/KyleLiterally?ref_src=twsrc%5Etfw">@KyleLiterally</a> , but the posts by all the editors made me look at my query and first pages in a different way. And I signed up for the <a href="https://twitter.com/ReedsyHQ?ref_src=twsrc%5Etfw">@ReedsyHQ</a> class! Looking forward to it.</p>&mdash; S.M. Roffey (@Songmaiden) <a href="https://twitter.com/Songmaiden/status/968269045832265729?ref_src=twsrc%5Etfw">February 26, 2018</a></blockquote>
+
+
+    -
+        content: >
+            Before being part of Revise and Resub, I'd never truly revised a book before. My experience taught me how to get to the emotional heart of the story I wanted to write, and build outward from there. It was an invaluable lesson and has made me a much stronger writer! 
+
+
+            -Hannah Whitten, 2017 Winner
+
+
+    -
+        content: >
+            I loved absolutely every bit of my experience with #RevPit. It gave me a chance to really hone my query and opening pages so when I was ready to start sending them out to agents, they were in the best shape possible! The editors were all so lovely and friendly and KNOW THEIR STUFF! It was also wonderful getting to meet other YA writers who were at the same stage as me. If you're on the fence about entering... do it!
+
+
+            -Erin Craig, 2017 Runner-up
+
+
+    -
+        content: >
+            <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Helped my writing? YES<br><br>Best part of the <a href="https://twitter.com/hashtag/RevPit?src=hash&amp;ref_src=twsrc%5Etfw">#RevPit</a> community? Is there an EVERYTHING checkbox somewhere?<br><br>Even if writer&#39;s aren&#39;t subbing in April, I highly recommend they come for the people, hang around for the awesome editor tips, and stay for the gif wars. <a href="https://t.co/zKf01JdMRK">pic.twitter.com/zKf01JdMRK</a></p>&mdash; K. J. Harrowick (@KJHarrowick) <a href="https://twitter.com/KJHarrowick/status/968281317212176384?ref_src=twsrc%5Etfw">February 27, 2018</a></blockquote>
+
+
+    -
+        content: >
+            I came across #RevPit on Twitter at a time when I was really, really struggling. My YA Fantasy, Storm Rising, had been rejected by lots of agents, having had a lot of full manuscript requests. If you've been there, you know how the hope makes the final rejection all the harder. But I knew I was close. I entered the contest, did all the related stuff on Twitter and loved it. Found a great bunch of friends through the process. I submitted two of my novels, to different editors. I got emails from four of the editors, Carly and Kisa, who asked for more material, and Sione and Katie, who both gave me great feedback on my submission. I wasn't picked as a winner, unfortunately, but both Katie, for The Nameless, and Carly, for Storm Rising, agreed to work on my novel with me, at a discounted rate for participating. Thus, I got two amazingly detailed and insightful manuscript development letters and edits at great value. Both manuscripts have now been signed by my agent and Storm Rising is due to be published in January 2019. I have no doubt that participation in the #Revpit contest made a significant difference to both manuscripts and my dreams of being published are now just around the corner. I've remained in touch with Carly and Katie since, and they have celebrated and cheered for me at every stage. The #Revpit editors are all a great bunch and I would recommend the contest and them as individual editors without reservation. 
+
+             
+            -Stuart White, 2017 Entrant
+
+
+    -
+        content: >
+            I had a GREAT experience. Following the editors and reading their Tweets, blogs, and teasers was like an education in writing and revising, and that's before I received any specific feedback.
+
+             
+            Sione Aeschliman picked my submission as one of the "Final 10" and I was able to send additional pages. While she didn't pick my book in the long run, she still sent paragraphs of feedback that were precise and helpful and clear, giving me plenty to adjust in the book. 
+
+
+            All that, and everyone was kind, helpful, supportive, and professional. For free.
+
+             
+            Worth writing twice. For. Free.
+
+             
+            In addition, I contacted Sione after the contest was over and hired her to do a developmental edit of my novel.  
+            I'd been considering hiring an editor for a while, but decided against it because I didn't know who I could trust to hire. Through RevPit, I got to know editors and their writing/editing philosophies, approaches, and styles of feedback. Without #RevPit, it's very possible that my novel would be in far worse shape today. Instead, it's with four agents who expressed interest last weekend at a writer's conference.
+
+             
+            -Mike Flanagan, 2017 Entrant
+
+
+    -
+        content: >
+            <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/10queries?src=hash&amp;ref_src=twsrc%5Etfw">#10queries</a> event gave some excellent insight into first impressions and potential issues for a number of genres, with more detail than you usually see from agents on the hashtag. I wish I could&#39;ve seen some of the full entries. Thanks, team! :)</p>&mdash; Claire Winn (@Atomic_Pixie) <a href="https://twitter.com/Atomic_Pixie/status/968273637513023488?ref_src=twsrc%5Etfw">February 26, 2018</a></blockquote>
+
+
+    -
+        content: >
+            I loved participating in the 2017 #RevPit event. You were clear about the requirements, and what contestants should expect. And you certainly whet our appetites!
+
+             
+            You gave us tantalizing tidbits into your personalities as the contest progressed, which allowed the hopeful writers the opportunity to imagine which of you we would like to work with in the future.
+
+             
+            *YOU* participated! This was a very different experience than, say, pitch contests where writers are trying to grab the attention of an editor or agent.
+
+
+            Generosity and Community. Those would be the highlights, for me, of the entire #RevPit experience.
+
+             
+            -Liza Keogh, 2017 Entrant
+
+
+    -
+        content: >
+            I had a great experience during #RevPit 2017. I had never before participated in a writing contest, and the scale and supportive community of #RevPit was perfect for a clueless newbie. Communication and instructions were clear, editor profiles were informative and helpful, and editors were very responsive to questions on Twitter. And best of all, I met a ton of new writer friends via the hashtag, and joined up with some private chat groups to celebrate/commiserate together during and after the contest. #RevPit was instrumental in helping me learn how to be an author on Twitter, to interact in a way that bolsters my visibility, builds community and makes connections, and improves my craft. I also felt the editor feedback through teasers and #10queries was very helpful, even when they weren't talking about my submission.
+
+
+            -E. M. Sheehan, 2017 Entrant
+
+
+    -
+        content: >
+            <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I participated last year, got amazing feedback &amp; although I wasn&#39;t chosen, I decided to work w/ <a href="https://twitter.com/saeding?ref_src=twsrc%5Etfw">@saeding</a> &amp; her editorial suggestions were on point. I have never NOT learned something from the editors at <a href="https://twitter.com/hashtag/RevPit?src=hash&amp;ref_src=twsrc%5Etfw">#RevPit</a> Definitely upped my writing game. THANK YOU <a href="https://t.co/ISKCsOCKzW">pic.twitter.com/ISKCsOCKzW</a></p>&mdash; Katja 🐢 (@BastiansMom) <a href="https://twitter.com/BastiansMom/status/968543087646724096?ref_src=twsrc%5Etfw">February 27, 2018</a></blockquote>
+
+
+    -
+        content: >
+            The #Revpit comp this spring was my first experience of this kind of online comp and I have to say it was sooo much fun.
+
+
+            I was shaking, hitting submit- not sure if I would get my entry in on time, not sure how good the wifi was at my daughter's gym club, not sure if I'd worked the time difference out correctly! That was followed by the excitement of #10queries, which was in equal amounts, joyous and agonising. And then if that wasn't enough it was followed by some extremely generous and positive feedback. A wonderful experience and one I look forward to joining in again.
+
+
+            -Emma Dykes, 2018 Mini-Event Entrant
+
+
+---
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

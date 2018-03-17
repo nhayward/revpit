@@ -1,0 +1,21 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+    {{ page.content }}
+    <div class="pure-g box-row">
+        <div class="box block pure-u-1-2">
+            {% for box in page.header.leftBoxes %}
+                <div class="box-content"> 
+                    {{ box.content|markdown }}
+                </div>
+            {% endfor %}
+        </div>
+        <div class="box block pure-u-1-2 rightColumn">
+            {% for box in page.header.rightBoxes %}
+                <div class="box-content"> 
+                    {{ box.content|markdown }}
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+{% endblock %}
