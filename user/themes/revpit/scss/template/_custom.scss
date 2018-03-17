@@ -62,8 +62,20 @@ body#top #sb-site {
             padding: 0 10px 10px 0;
         }
 
-        .ui-widget-content a {
-            color: $core-accent;
+        .ui-accordion {
+
+            .ui-state-default {
+                background-color: rgba(27, 179, 233, 0.1);
+            }
+
+            .ui-state-active {
+                background-color: rgb(27, 179, 233);
+            }
+
+            .ui-widget-content a {
+                color: $core-accent;
+            }
+
         }
 
         .box-row {

@@ -819,7 +819,11 @@ body#top #sb-site #body {
   body#top #sb-site #body img.float-left {
     float: left;
     padding: 0 10px 10px 0; }
-  body#top #sb-site #body .ui-widget-content a {
+  body#top #sb-site #body .ui-accordion .ui-state-default {
+    background-color: rgba(27, 179, 233, 0.1); }
+  body#top #sb-site #body .ui-accordion .ui-state-active {
+    background-color: #1bb3e9; }
+  body#top #sb-site #body .ui-accordion .ui-widget-content a {
     color: #1BB3E9; }
   body#top #sb-site #body .box-row .box .box-content {
     background-color: rgba(27, 179, 233, 0.1);
