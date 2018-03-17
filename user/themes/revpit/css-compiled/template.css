@@ -787,21 +787,21 @@ ul.pagination {
 
 body#top #sb-site #header {
   background-color: rgba(255, 255, 255, 0.95); }
-  @media (max-width: 1226px) {
+  @media (max-width: 1243px) {
     body#top #sb-site #header {
       padding-right: 4rem;
       padding-left: 4rem; } }
-  @media (max-width: 1130px) {
+  @media (max-width: 1147px) {
     body#top #sb-site #header {
       padding-right: 3rem;
       padding-left: 3rem; } }
-  @media (max-width: 1098px) {
+  @media (max-width: 1115px) {
     body#top #sb-site #header {
       padding-right: 1rem;
       padding-left: 1rem; }
       body#top #sb-site #header #logo h3 {
         font-size: 1.5rem; } }
-  @media (max-width: 966px) {
+  @media (max-width: 983px) {
     body#top #sb-site #header {
       padding-right: 0.5rem;
       padding-left: 0.5rem; } }
