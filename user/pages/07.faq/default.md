@@ -16,6 +16,14 @@ title: FAQ
 
 </div>
 
+##### Q: If I've won another contest, can I enter? 
+
+<div markdown="1">
+
+**A:** Yes! If you've won another contest or one of our mini events, you are eligible to submit to our Annual Contest. However, past Annual Contest Grand Prize winners cannot enter again for two years after they've won, and it cannot be with the same manuscript.
+
+</div>
+
 ##### Q: How many submissions will each editor accept? 
 
 <div markdown="1">

@@ -20,17 +20,19 @@ With a coffee shop on every corner in Los Angeles, you’ll never find Katie wit
 
 ##### MSWL
 
-In **YA**, I am looking for a good contemporary, romance, fantasy, sci-fi, dystopian, or suspense/thriller novel.
+Personal tastes: I am all about character-driven stories. I love snarky voices and dark humor. I like characters with edge and who are unapologetic about who they are, but can back it up (and are redeemable).
 
-In **New Adult:** Romance, fantasy, or suspense.
+Love-triangles still tickle me, retellings (from fairytales to mythology), and anything set in Los Angeles, the west coast, or abandoned locations. 
 
-In **Adult:** Romance (including romantic suspense).
- 
 Diverse voices? YES, please. I am Open. To. It. All.
 
-Personal tastes: Love-triangles still tickle me, anything set in Los Angeles, the west coast, or abandoned locations, and retellings (from fairytales to mythology).  Also, I love snarky voices and dark humor. I like characters with edge and who are unapologetic about who they are, but can back it up (and are redeemable).
+**YA:** Contemporary, romance, fantasy, some paranormal (but see below), sci-fi, dystopian, suspense/thriller.
 
-I will **not** be interested in: Paranormal, Historical, Middle Grade fiction, or anything over 120k words.
+**New adult:** Contemporary, romance, fantasy, sci-fi, suspense.
+
+**Adult:** Contemporary Romance (including romantic suspense), sci-fi, thriller, fantasy.
+
+I will **NOT** be interested in: Historical fiction, middle grade fiction, space opera, erotica, anything with ghosts, shape-shifting, dragons, or demons, or anything over 120k words.
 
 ##### Q&A
 

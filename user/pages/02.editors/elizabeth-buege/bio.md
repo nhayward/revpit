@@ -30,7 +30,7 @@ What I’m NOT taking:
 
 **How can a manuscript’s first five pages make you sit up and take notice?**
 
-The biggest factor is the hardest to quantify: it’s the author’s voice. I get really excited when I read a story where the author writes in a way that feels natural, engaging, and well-developed in terms of style, sentence, structure, and basic scene pacing. I also feel most drawn into stories where the opening pages give me a good sense of who the main character is and what they want out of life.
+The biggest factor is the hardest to quantify: it’s the author’s voice. I get really excited when I read a story where the author writes in a way that feels natural, engaging, and well-developed in terms of style, sentence structure, and basic scene pacing. I also feel most drawn into stories where the opening pages give me a good sense of who the main character is and what they want out of life.
 
 **What can writers expect from working with you during #RevPit, including communication?**
 

@@ -30,7 +30,7 @@ That said, I'm not the best fit for:
 
 **How can a manuscript’s first five pages make you sit up and take notice?**
 
-There are lots of great ways to hook me, but I noticed I'm more likely to be hooked if the first five pages are rooted in a scene with a goal and stakes; convey a strong sense of voice, emotion, and setting; and include the first inciting incident related to the primary conflict (or I can see it's coming soon).
+There are lots of great ways to hook me, but I've noticed I'm more likely to be hooked if the first five pages are rooted in a scene with a goal and stakes; convey a strong sense of voice, emotion, and setting; and include the first inciting incident related to the primary conflict (or I can see it's coming soon).
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
@@ -38,7 +38,7 @@ The author I choose to work with can expect that I will work my butt off for the
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-I expect my author to put **at least** as much time and energy into the editing process as I do, to communicate clearly and in a timely manner about their expectations and their process, and to meet the deadlines we agree on. The author I choose to work with will need to be available and have the time, energy, and dedication to work their butt of in order to make the most of our 5 weeks together. Because this process is so intense, I recommend that authors talk to their friends and/or family before deciding to submit so they can be sure they'll have the support they need to engage fully for the 5 weeks.
+In order to make the most of our 5 weeks together, my author will need to be to be ready to dive back into editing the big-picture elements of their manuscript, be willing put at least as much time and energy into their work as I do, communicate clearly and in a timely manner about their expectations and their process, ask questions when my suggestions don’t resonate, and meet the deadlines we agree on.
 
 **What hobbies do you have outside of writing and editing?**
 
@@ -46,4 +46,4 @@ Reading the heck out of books (of course), going to surf-punk and post-punk show
 
 **What was your favorite childhood book and what did you love about it?**
 
-Ermahgerd. As if I could pick just one! I'm gonna cheat and say the entire Wizard of Oz series by Frank L. Baum. One summer when I was probably 8 or 9, I devoured two to three books per week until I'd read all the Oz books my library carried. I loved the world-building - all those fantastical people and cultures Dorothy met on her adventures.
+Ermahgerd. As if I could pick just one! I'm gonna cheat and say the entire Wizard of Oz series by Frank L. Baum. One summer when I was probably 8 or 9, I devoured two to three books per week until I'd read all the Oz books my library carried. I loved the world-building - all those fantastical people and cultures Dorothy encountered on her adventures.

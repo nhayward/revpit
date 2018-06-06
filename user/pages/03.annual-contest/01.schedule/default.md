@@ -1,5 +1,6 @@
 ---
 title: 'Contest Schedule'
+media_order: 'RevPit2018 AskEditorSchedule.png'
 ---
 
 ##### \#RevPit 2018 Annual Contest Begins April 21st! Learn more about the event [here](http://reviseresub.com/annual-contest).
@@ -8,7 +9,9 @@ title: 'Contest Schedule'
 
 **March 26th:** Editors announced!
 
-**April 16th-20th:** #AskEditor sessions (detailed schedule coming soon).
+**April 16th-20th:** #AskEditor sessions.<br>
+\#AskEditor Detailed Schedule <br>
+![AskEditor Schedule](RevPit2018%20AskEditorSchedule.png)
 
 **April 21st-22nd:** Submission window opens.  
 The submission window opens at 9am EST on April 21st and will remain open until 11:59pm EST on April 22nd.

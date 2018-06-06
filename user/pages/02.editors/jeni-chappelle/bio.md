@@ -21,14 +21,14 @@ What I’m really looking for is impeccable voice, characters I immediately conn
  * YA, NA, and Adult
  * Strong, natural voice and compelling characters are a must.
  * Fresh plot or a new twist on old favorites
- * Other editors would be a better choice for military-based plots, Christian fiction (especially apocalyptic or biblical), love triangles, or slasher-style horror.
+ * I am **not** accepting military-based plots, Christian fiction (especially apocalyptic or biblical), love triangles, or slasher-style horror.
  * If you have a prologue, don’t send it to me. Send me the first 5 pages of Chapter 1 instead.
 
 ##### Q&A
 
 **How can a manuscript’s first five pages make you sit up and take notice?** 
 
-I want to be excited about your plot and main character. In your query, I mostly want a strong idea of your overall plot, character arc, and stakes, stakes, stakes! In the pages, I’m looking for five elements to be handled well in a sub: voice (I know y’all hate reading that, but it’s true), starting with a scene already in progress, emotional connection to the main character, conflict, and orientation to the MC’s world and story (including characters introductions, world building, backstory, exposition, etc). I need to see that the author knows how to craft a scene and has a good grasp the basics of storytelling. 
+I want to be excited about your plot and main character. In your query, I mostly want a strong idea of your overall plot, character arc, and stakes, stakes, stakes! In the pages, I’m looking for five elements to be handled well in a sub: voice (I know y’all hate reading that, but it’s true), starting with a scene already in progress, emotional connection to the main character, conflict, and orientation to the MC’s world and story (including characters introductions, world building, backstory, exposition, etc). I need to see that the author knows how to craft a scene and has a good grasp of the basics of storytelling. 
 
 **What can writers expect from working with you during #RevPit, including communication?**
 

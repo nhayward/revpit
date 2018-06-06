@@ -33,7 +33,7 @@ Kyra is a recurring character on the YA WordNerds vlog. She likes keeping busy w
 
 **_What was your favorite childhood book and what did you love about it?_**
 
-My favorite children's book was Dr. Seuss's Fox in Socks because I was a mean child who thought it was really funny when whoever was reading to me stumbled over the tongue twisters.
+My favorite children's book was Dr. Seuss's _Fox in Socks_ because I was a mean child who thought it was really funny when whoever was reading to me stumbled over the tongue twisters.
 
 #### Copyedit of 1st Ten Pages:
 
@@ -51,7 +51,7 @@ She has three years’ experience working in content and copyediting roles. She 
 
 **_What was your favorite childhood book and what did you love about it?_**
 
-I loved Andrew Clements’s middle-grade novels The School Story and The Landry News, because they featured preteen girls who loved writing, just like I did. The protagonist in The School Story publishes a novel, and the protagonist of The Landry News starts her own newspaper. I thought that was so cool!
+I loved Andrew Clements’s middle-grade novels _The School Story_ and _The Landry News_, because they featured preteen girls who loved writing, just like I did. The protagonist in _The School Story_ publishes a novel, and the protagonist of _The Landry News_ starts her own newspaper. I thought that was so cool!
 
 ![Grace Laidlaw](GL%20Photo.jpg?cropResize=300,300){.float-left}
 
@@ -59,11 +59,11 @@ I loved Andrew Clements’s middle-grade novels The School Story and The Landry 
 
 Grace has worked as a professional copyeditor and proofreader for seven years. She will fix grammatical errors and clean up continuity issues so that your book becomes an absorbing, believable world and readers can lose themselves in it completely.
 
-Grace got her start as a Managing Editorial Assistant at HarperCollins Publishers, where she reviewed manuscripts for New York Times bestselling authors such as James Rollins, Mary Jane Clark, and Tessa Dare. She has also held editorial roles at several smaller academic and nonfiction presses. Before joining the publishing industry, Grace graduated Magna Cum Laude from Columbia University with bachelor’s degrees in Creative Writing and Psychology. [Twitter](http://twitter.com/gracecopyedits?target=_blank), [Website](http://booklighteditorial.com/team#grace?target=_blank)
+Grace got her start as a Managing Editorial Assistant at HarperCollins Publishers, where she reviewed manuscripts for _New York Times_ bestselling authors such as James Rollins, Mary Jane Clark, and Tessa Dare. She has also held editorial roles at several smaller academic and nonfiction presses. Before joining the publishing industry, Grace graduated Magna Cum Laude from Columbia University with bachelor’s degrees in Creative Writing and Psychology. [Twitter](http://twitter.com/gracecopyedits?target=_blank), [Website](http://booklighteditorial.com/team#grace?target=_blank)
 
 **_What was your favorite childhood book and what did you love about it?_**
 
-My favorite book for years and years was Joan Aiken’s The Wolves of Willoughby Chase. I loved it because Aiken’s writing never failed to surprise; every chapter revealed a secret passageway, a shocking backstory, or an unexpected (and usually sinister) plot twist.
+My favorite book for years and years was Joan Aiken’s _The Wolves of Willoughby Chase_. I loved it because Aiken’s writing never failed to surprise; every chapter revealed a secret passageway, a shocking backstory, or an unexpected (and usually sinister) plot twist.
 
 ##### Check back here or [follow us on Twitter](https://twitter.com/ReviseResub?target=_blank) to find out more!
 
