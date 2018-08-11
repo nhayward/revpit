@@ -1,7 +1,7 @@
 ---
 title: 'The Magical Lemon Tree Recipe Book'
 media_order: MagicalLemonTree.jpg
-published: false
+published: true
 date: '07-06-2018 00:00'
 taxonomy:
     category:
@@ -16,8 +16,9 @@ taxonomy:
 
 ##### Editor: Kaitlyn Johnson ([@kaitylynne13](https://twitter.com/kaitylynne13?target=_blank))
 
-===
+##### Middle Grade Contemporary Fantasy
 
+===
 ### Query
 
 When twelve-year-old Magenta Wise’s parents announce they’re moving four hundred miles so her selective mute sister can attend a special school, her dreams of attending the Ramsey Duffles Junior Bakers Academy deflate like a soufflé. Her only beacon of hope comes in the form of a magical lemon tree growing in her new home’s backyard&mdash;complete with creepy blackbird guardians. 

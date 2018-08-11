@@ -1,7 +1,7 @@
 ---
 title: 'Threads of Frost and Fate'
 media_order: threadsofFrostandFate.jpg
-published: false
+published: true
 date: '07-06-2018 00:00'
 taxonomy:
     category:
@@ -16,8 +16,11 @@ taxonomy:
 
 ##### Editor: r. r. campbell ([@iamrrcampbell](https://twitter.com/iamrrcampbell?target=_blank))
 
-===
+(Formerly, _Mark of the Kismet_)
 
+##### Young Adult Dark Fantasy
+
+===
 ### Query
 
 Outlaw storyteller Alena Niehaus has never been one to follow the rules. At seventeen-years-old, her crimes of telling the forbidden stories of her homeland’s dark history earn her the attention of the Tsar, whose determination to have her executed chases her into hiding among Sloketzia’s frigid forests, legendary for the creatures that haunt them.  

@@ -1,7 +1,7 @@
 ---
 title: 'Call Me @MooseGirl'
 media_order: CallMeMooseGirl.jpg
-published: false
+published: true
 date: '07-06-2018 00:00'
 taxonomy:
     category:
@@ -16,8 +16,9 @@ taxonomy:
 
 ##### Editor: Editor Cassandra ([@OnlyCassandra](https://twitter.com/OnlyCassandra?target=_blank))
 
-===
+##### Young Adult Contemporary
 
+===
 ### Query
 
 Sixteen-year-old Cecily Brewer’s pro-size Instagram, @MooseGirl, is how she found her voice as a loud, proud fat girl. But when Cecily spends a summer at fat camp, her personal identity and social media persona clash. After shedding pounds, she begins to question if demands of fat acceptance are allowed to come from a girl who’s becoming un-fat.

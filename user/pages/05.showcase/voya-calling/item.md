@@ -1,7 +1,7 @@
 ---
 title: 'Voya Calling'
 media_order: voyacalling.jpg
-published: false
+published: true
 date: '07-06-2018 00:00'
 taxonomy:
     category:
@@ -16,8 +16,9 @@ taxonomy:
 
 ##### Editor: Sione Aeschliman ([@writelearndream](https://twitter.com/writelearndream?target=_blank))
 
-===
+##### Young Adult Urban Fantasy
 
+===
 ### Query
 
 Best described as _Labyrinth Lost_ with _This Mortal Coil’s_ genetic hacking, VOYA CALLING is an 99,000-word young adult #ownvoices urban fantasy that follows a family of black witches living in Toronto, 2099.

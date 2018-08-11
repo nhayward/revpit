@@ -1,7 +1,7 @@
 ---
 title: 'The Jello Project'
 media_order: JelloProject.jpg
-published: false
+published: true
 date: '07-06-2018 00:00'
 taxonomy:
     category:
@@ -16,8 +16,9 @@ taxonomy:
 
 ##### Editor: Stephanie Eding ([@saeding](https://twitter.com/saeding?target=_blank))
 
-===
+##### Middle Grade Contemporary
 
+===
 ### Query
 
 Nothing about becoming a writer is easy for Nora&mdash;until her blog, _The Jello Project_, goes viral. Everyone loves the cringe-worthy descriptions of her grandma’s retro Jello salads and the hilarious reactions from Nora’s family. The comments flow in faster than she can respond, along with advertising money and an actual recipe book deal. It’s her dream come true!

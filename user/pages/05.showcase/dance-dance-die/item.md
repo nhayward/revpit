@@ -1,7 +1,7 @@
 ---
 title: 'Dance, Dance, Die!'
 media_order: DanceDanceDie.jpg
-published: false
+published: true
 date: '07-06-2018 00:00'
 taxonomy:
     category:
@@ -16,8 +16,9 @@ taxonomy:
 
 ##### Editor: Kyle V. Hiller ([@KyleLiterally](https://twitter.com/KyleLiterally?target=_blank))
 
-===
+##### Young Adult Paranormal Suspense
 
+===
 ### Query
 
 For fifteen-year-old dyspraxic Annora Genn, life’s a daily battle against her own body.

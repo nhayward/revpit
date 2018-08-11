@@ -1,7 +1,7 @@
 ---
 title: 'Dark Sun of the New World'
 media_order: DarkSun.jpg
-published: false
+published: true
 date: '07-06-2018 00:00'
 taxonomy:
     category:
@@ -16,8 +16,11 @@ taxonomy:
 
 ##### Editor: Jeni Chappelle ([@jenichappelle](https://twitter.com/jenichappelle?target=_blank))
 
-===
+(Formerly, _The Dark Sun of a New Era_)
 
+##### Young Adult Fantasy
+
+===
 ### Query
 
 I am seeking representation for my YA fantasy, complete at 90,000 words titled DARK SUN OF THE NEW WORLD. 

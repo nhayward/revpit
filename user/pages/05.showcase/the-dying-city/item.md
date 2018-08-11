@@ -1,7 +1,7 @@
 ---
 title: 'The Dying City'
 media_order: TheDyingCity.jpg
-published: false
+published: true
 date: '07-06-2018 00:00'
 taxonomy:
     category:
@@ -16,8 +16,9 @@ taxonomy:
 
 ##### Editor: Carly Bornstein-Hayward ([@FromCarly](https://twitter.com/FromCarly?target=_blank))
 
-===
+##### Young Adult Fantasy
 
+===
 ### Query
 
 17-year-old Livvy’s fire magic can give or take life. It would be a valuable weapon&mdash;if only she could control the panic attacks that happen every time she uses it.

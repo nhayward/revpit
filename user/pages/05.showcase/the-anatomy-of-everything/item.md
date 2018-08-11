@@ -1,6 +1,6 @@
 ---
 title: 'The Anatomy of Everything'
-published: false
+published: true
 date: '07-06-2018 00:00'
 taxonomy:
     category:
@@ -15,8 +15,11 @@ taxonomy:
 
 ##### Editor: Katie McCoach ([@katiemccoach](https://twitter.com/katiemccoach?target=_blank))
 
-===
+(Formerly, _Love and Hippocrates_)
 
+##### Adult Women's Fiction
+
+===
 ### Query
 
 Following in her late father’s footsteps, brilliant and driven Norah Kapadia just landed the job that she’s been working toward for practically her whole life. And she’s ready to quit.

@@ -1,7 +1,7 @@
 ---
 title: 'Bad Parts'
 media_order: BadParts.jpg
-published: false
+published: true
 date: '07-06-2018 00:00'
 taxonomy:
     category:
@@ -16,8 +16,9 @@ taxonomy:
 
 ##### Editor: Ellen Brock ([@EllenMBrock](https://twitter.com/EllenMBrock?target=_blank))
 
-===
+##### Adult Horror
 
+===
 ### Query
 
 When self-absorbed rock guitarist Ash Hudson suffers a career-ending hand injury, she seeks out the only thing that can heal it&mdash;her hometown’s darkest secret. 
