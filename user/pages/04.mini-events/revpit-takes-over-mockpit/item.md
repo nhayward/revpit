@@ -5,10 +5,10 @@ taxonomy:
     category:
         - blog
     tag:
-        - pitch
-        - workshop
-        - mockpit
         - query
+        - workshop
+        - pitch
+        - mockpit
 ---
 
 This August, the #RevPit editors are teaming up with #MockPit to bring our authors more fun and more advice.
@@ -42,7 +42,19 @@ Learn more about #MockPit [here](https://kyramnelson.com/2015/09/17/mockpit-rule
 
 #### Editors participating in this event:
 
-Coming soon!
+ * [Carly Bornstein-Hayward](https://twitter.com/FromCarly?target=_blank)
+ * [Elizabeth Buege](https://twitter.com/ekbuege?target=_blank)
+ * [Editor Cassandra](https://twitter.com/OnlyCassandra?target=_blank)
+ * [Jeni Chappelle](https://twitter.com/jenichappelle?target=_blank)
+ * [Nicole Frail-Magda](https://twitter.com/nfrail17?target=_blank)
+ * [Victoria Griffin](https://twitter.com/victoria_grif7?target=_blank)
+ * [Kaitlyn Johnson](https://twitter.com/kaitylynne13?target=_blank)
+ * [Meg LaTorre](https://twitter.com/MegLaTorre?target=_blank)
+ * [Katie McCoach](https://twitter.com/katiemccoach?target=_blank)
+ * [Kyra M. Nelson](https://twitter.com/KyraMNelson?target=_blank)
+ * [Lindsay Schlegel](https://twitter.com/LindsaySchlegel?target=_blank)
+ * And some surprise editors!
+
 
 ##### To stay up-to-date on RevPit news and chats, be sure to follow us on Twitter: [@ReviseResub](https://twitter.com/ReviseResub?target=_blank)
 

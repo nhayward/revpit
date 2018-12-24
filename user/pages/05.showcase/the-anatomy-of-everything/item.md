@@ -1,6 +1,6 @@
 ---
 title: 'The Anatomy of Everything'
-published: true
+published: false
 date: '07-06-2018 00:00'
 taxonomy:
     category:

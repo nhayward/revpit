@@ -10,7 +10,7 @@ Once you have your manuscript and query letter ready to go, you’ll come here a
 
 ###### **Please make sure you use the correct email address to create your account. This is the only way editors will be able to contact you regarding your submission materials.**
 
-The link will become active on **April 21st, 2018 at 9:00am EST **and remain open until **11:59pm on April 22nd, 2018**.
+The link will become active on **April 6th, 2019 at 9:00am EST **and remain open until **11:59pm on April 7th, 2019**.
 
 <!-- Link to the Revise & Resub submission manager. --->
 <a target = _blank href="https://reviseresub.submittable.com/submit"><img src="//manager.submittable.com/Public/Images/submittable-submit-button.png" alt="submit" border="0" /></a>

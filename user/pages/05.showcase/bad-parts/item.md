@@ -1,7 +1,7 @@
 ---
 title: 'Bad Parts'
 media_order: BadParts.jpg
-published: true
+published: false
 date: '07-06-2018 00:00'
 taxonomy:
     category:

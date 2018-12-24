@@ -126,7 +126,7 @@ Pages:
 
 <div markdown="1"> 
 
-**A:** Each editor may request something different; it is entirely up to them. Participating authors need to have their query letter, complete manuscript, and a 1-2 page (500-1000 words) single-spaced synopsis ready by the first day of submissions, April 21st. 
+**A:** Each editor may request something different; it is entirely up to them. Participating authors need to have their query letter, complete manuscript, and a 1-2 page (500-1000 words) single-spaced synopsis ready by the first day of submissions. 
 
 </div>
 
@@ -150,7 +150,7 @@ Pages:
 
 <div markdown="1">
 
-**A:** Editors may request additional materials at any time between April 21st and April 29th. Editors will announce on Twitter when they have sent all requests for additional materials. Requests will be sent via the email you use to log in to your Submittable account. 
+**A:** Editors may request additional materials at any time between April 6th and April 13th. Editors will announce on Twitter when they have sent all requests for additional materials. Requests will be sent via the email you use to log in to your Submittable account. 
 
 </div>
 
@@ -172,7 +172,7 @@ Pages:
 
 <div markdown="1">
 
-**A:** #10Queries sessions will take place on Twitter **April 21-29**. Watch your chosen editors’ Twitter feeds and the #RevPit feed for updates on when editors will post their #10Queries feedback.
+**A:** #10Queries sessions will take place on Twitter **April 6-13**. Watch your chosen editors’ Twitter feeds and the #RevPit feed for updates on when editors will post their #10Queries feedback.
 
 </div>
 
@@ -188,7 +188,7 @@ Pages:
 
 <div markdown="1">
 
-**A:** Winners will be announced on the [Showcase page](http://reviseresub.com/showcase) of our site as well as on Twitter on **April 30th**. Editors will then email their authors to begin the editing process!
+**A:** Winners will be announced on the [Showcase page](http://reviseresub.com/showcase) of our site as well as on Twitter on **April 15th**. Editors will then email their authors to begin the editing process!
 
 </div>
 

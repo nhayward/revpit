@@ -4,7 +4,7 @@ title: 'Annual Contest'
 
 ##### _Our submission window is currently closed. _
 
-### The #RevPit 2018 Annual Contest Begins April 21st!
+### The #RevPit 2019 Annual Contest Begins April 6th!
 
 In this contest, authors will be eligible to receive feedback and developmental edits on their **full fiction manuscript** from professional editors, ensuring their works are polished and ready for those agent inboxes. Not only will authors be immersed in a supportive community of their peers, they will also have the chance to learn more about how their story fits into the industry and obtain understanding of why different edits matter and how to continue practicing them in the future.
 

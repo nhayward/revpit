@@ -1,7 +1,7 @@
 ---
 title: 'Kyle V. Hiller'
 last_name: Hiller
-website: 'https://www.kylevedits.com'
+website: 'https://www.angelellaeditorial.com/kyle-v-hiller'
 twitter:
     name: '@kyleliterally'
     url: 'https://twitter.com/kyleliterally'
