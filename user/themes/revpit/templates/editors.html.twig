@@ -25,7 +25,7 @@
             {% for tab in page.header.tabs %}
 
                 <div id="{{ tab.id }}">
-                    {% if not tab.coming_soon %}
+                    {% if not tab.coming_soon.enabled %}
                         <div class="pure-g">
                             {% for child in collection %}
                                 {% if attribute(child.header, tab.filter) %}
@@ -39,7 +39,7 @@
                             {% endfor %}
                         </div>
                     {% else %}
-                        <h3>Coming Soon!</h3>
+                        <h3>{{ tab.coming_soon.text }}</h3>
                     {% endif %}
                 </div>
 

@@ -9,7 +9,9 @@ tabs:
         id: annual-editors-2019
         title: 2019 Annual Contest
         filter: 2019-editor
-        coming_soon: true
+        coming_soon:
+            enabled: true
+            text: 2019 Annual Contest Editors TBA Spring 2019
     -
         id: mini-editors
         title: Mini-Event Editors
@@ -19,7 +21,3 @@ tabs:
         title: 2018 Annual Contest
         filter: 2018-editor
 ---
-
-### 2019 Annual Contest Editors TBA Spring 2019
-
-#### 2018 Annual Contest Editors:
