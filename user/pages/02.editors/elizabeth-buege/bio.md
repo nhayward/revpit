@@ -5,6 +5,8 @@ website: 'http://www.elizabethbuege.com'
 twitter:
     name: '@ekbuege'
     url: 'https://twitter.com/ekbuege'
+2018-editor: true
+mini: true
 ---
 
 ##### Bio

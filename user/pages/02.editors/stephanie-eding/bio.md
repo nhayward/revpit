@@ -5,6 +5,8 @@ website: 'https://www.stephanieediting.com/'
 twitter:
     name: '@saeding'
     url: 'https://twitter.com/saeding'
+2018-editor: true
+mini: true
 ---
 
 ##### Bio

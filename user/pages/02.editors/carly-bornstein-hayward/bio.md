@@ -11,6 +11,8 @@ twitter:
 instagram:
     name: 'Book Light Editorial'
     url: 'https://www.instagram.com/booklighteditorial/'
+2018-editor: true
+mini: true
 ---
 
 ##### Bio

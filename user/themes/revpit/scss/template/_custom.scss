@@ -41,9 +41,10 @@ body#top #sb-site {
 
     #header_image {
         position: relative;
-        height: 300px;
+        height: 350px;
         padding: 0 3rem;
         background-size: cover;
+        background-position: center;
 
         img {
             position: absolute;
@@ -60,6 +61,11 @@ body#top #sb-site {
         img.float-left {
             float: left;
             padding: 0 25px 10px 0;
+        }
+
+        .plank-editor {
+            padding: 0 1px;
+            text-align: center;
         }
 
         .ui-accordion {
@@ -100,6 +106,44 @@ body#top #sb-site {
                     @media only all and (max-width: 47.938em) {
                         padding-left: 0;
                     }
+                }
+
+            }
+
+        }
+
+        #editor-tabs {
+            border: none;
+
+            .ui-tabs-nav {
+                border-width: 0 0 1px 0;
+                background: none;
+
+                .ui-tabs-tab {
+                    background: white;
+
+                    a {
+                        color: #00a9c8;
+                    }
+
+                    &.ui-tabs-active {
+                        border: none;
+                        background: #00a9c8;
+
+                        a {
+                            color: white;
+                        }
+
+                    }
+
+                }
+
+            }
+
+            .pure-g {
+
+                .editor {
+                    text-align: center;
                 }
 
             }

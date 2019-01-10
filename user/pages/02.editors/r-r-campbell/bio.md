@@ -11,6 +11,8 @@ twitter:
 instagram:
     name: iamrrcampbell
     url: 'https://www.instagram.com/iamrrcampbell'
+2018-editor: true
+mini: true
 ---
 
 ##### Bio

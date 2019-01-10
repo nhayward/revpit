@@ -8,6 +8,8 @@ facebook:
 twitter:
     name: '@katiemccoach'
     url: 'https://twitter.com/katiemccoach'
+2018-editor: true
+mini: true
 ---
 
 ##### Bio

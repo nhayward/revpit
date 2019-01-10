@@ -8,6 +8,8 @@ facebook:
 twitter:
     name: '@jenichappelle'
     url: 'https://twitter.com/jenichappelle'
+2018-editor: true
+mini: true
 ---
 
 ##### Bio

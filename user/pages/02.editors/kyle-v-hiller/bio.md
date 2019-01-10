@@ -8,6 +8,8 @@ twitter:
 instagram:
     name: kyleliterally
     url: 'https://www.instagram.com/kyleliterally/'
+2018-editor: true
+mini: true
 ---
 
 ##### Bio

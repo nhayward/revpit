@@ -10,4 +10,6 @@ $(document).ready(function() {
         heightStyle: "content"
     });
 
+    $("#editor-tabs").tabs();
+
 });

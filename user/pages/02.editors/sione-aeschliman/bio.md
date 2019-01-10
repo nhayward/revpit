@@ -8,6 +8,8 @@ facebook:
 twitter:
     name: '@writelearndream'
     url: 'https://twitter.com/writelearndream'
+2018-editor: true
+mini: true
 ---
 
 ##### Bio

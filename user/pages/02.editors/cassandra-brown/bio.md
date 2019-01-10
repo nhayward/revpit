@@ -8,6 +8,8 @@ twitter:
 instagram:
     name: thatwemightfly
     url: 'https://www.instagram.com/thatwemightfly'
+2018-editor: true
+mini: true
 ---
 
 ##### Bio

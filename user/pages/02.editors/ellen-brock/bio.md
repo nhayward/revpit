@@ -6,6 +6,8 @@ website: 'https://ellenbrockediting.com'
 twitter:
     name: '@EllenMBrock'
     url: 'https://twitter.com/EllenMBrock'
+2018-editor: true
+mini: true
 ---
 
 ##### Bio

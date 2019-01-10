@@ -5,6 +5,8 @@ website: 'http://kjohnsonfreelance.com'
 twitter:
     name: '@kaitylynne13'
     url: 'https://twitter.com/kaitylynne13'
+2018-editor: true
+mini: true
 ---
 
 ##### Bio

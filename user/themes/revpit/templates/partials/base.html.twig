@@ -13,6 +13,7 @@
     {% block stylesheets %}
         {% do assets.addCss('theme://css/jquery-ui.min.css', 104) %}
         {% do assets.addCss('theme://css/pure-0.5.0/grids-min.css', 103) %}
+        {% do assets.addCss('theme://css/pure-0.5.0/grids-responsive-min.css', 103) %}
         {% do assets.addCss('theme://css-compiled/nucleus.css', 102) %}
         {% do assets.addCss('theme://css-compiled/template.css', 101) %}
         {% do assets.addCss('theme://css/custom.css', 100) %}
@@ -62,9 +63,7 @@
         {% endblock %}
 
         {% block showcase %}
-            <div id="header_image" style="background-image: url('/images/revpit_bookside.jpg')">
-                <img src="/user/pages/images/logo.png">
-            </div>
+            <div id="header_image" style="background-image: url('/images/RevPit_Header.png')"></div>
         {% endblock %}
 
         {% block body %}
