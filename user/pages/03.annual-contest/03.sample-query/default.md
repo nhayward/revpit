@@ -6,6 +6,8 @@ title: 'Sample Query'
 
 #### Sample Query
 
+Dear Editor (use a more specific greeting when querying agents),
+
 Seventeen-year-old Livia would do anything to prevent her corrupt brother from becoming king, even if it means marrying into the family responsible for killing her first love, Emery.
 
 Livia may hate Prince Caden for his role in Emery’s death, but she’s willing to marry him for the political advantage he provides. However, once they are married Livia realizes Caden has his own political entanglements. Caden’s family has enemies who are willing to kill, and once Livia joins the family, she too becomes a target. As Caden helps her survive the attempts on her life, Livia finds herself reluctantly falling for him.
