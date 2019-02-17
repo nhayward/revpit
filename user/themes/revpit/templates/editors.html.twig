@@ -17,6 +17,7 @@
                 {% endfor %}
 
                 <li><a href="#all-editors">All Editors</a></li>
+                <li><a href="#past-years">Past Years</a></li>
 
             </ul>
 
@@ -25,7 +26,7 @@
             {% for tab in page.header.tabs %}
 
                 <div id="{{ tab.id }}">
-                    {% if not tab.coming_soon.enabled %}
+                    {% if not tab.text %}
                         <div class="pure-g">
                             {% for child in collection %}
                                 {% if attribute(child.header, tab.filter) %}
@@ -39,7 +40,7 @@
                             {% endfor %}
                         </div>
                     {% else %}
-                        <h3>{{ tab.coming_soon.text }}</h3>
+                        {{ tab.text | markdown }}
                     {% endif %}
                 </div>
 
@@ -56,6 +57,10 @@
                         </div>
                     {% endfor %}
                 </div>
+            </div>
+
+            <div id="past-years">
+                {{ page.header.past_years | markdown }}
             </div>
 
         </div>
