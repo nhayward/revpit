@@ -18,6 +18,7 @@ Thumbs.db
 # On Server
 .ftpquota
 .htaccess
+.well-known
 404.shtml
 error_log
 layout-styles.css
