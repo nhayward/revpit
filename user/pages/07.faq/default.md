@@ -44,8 +44,9 @@ title: FAQ
 
 <div markdown="1">
 
-**A:** Query letter: 
- * Will be copied and pasted into Submittable
+**A:** Your query letter and pages will be uploaded in **one** document to our submission form. 
+
+Query letter: 
  * Less than 1 page long
  * Use a generic greeting, as the same letter will be seen by both of your chosen editors.
  * See our [Sample Query](http://reviseresub.com/annual-contest/sample-query) for inspiration!

@@ -8,17 +8,36 @@ twitter:
 instagram:
     name: thatwemightfly
     url: 'https://www.instagram.com/thatwemightfly'
-2018-editor: true
+2019-editor: true
 mini: true
 ---
 
 ##### Bio
 
-The complete Ravenclaw package, EDITOR CASSANDRA, earned her MA in creative writing with a concentration on novel writing from Newcastle University. She spent a few years as an agent intern before joining the staff for rights reversions and as a guide for self publishing. Her international perspective gives her a unique edge in the industry and she reads widely to stay abreast of the market. While YA is where her heart lives, she also has experience in NA and adult crossovers, as well as upper middle grade. She is thrilled each time projects go on to sell to publishers and top the NYTimes Bestseller lists. With a quick turnaround time and experience you can trust, your work will be transformed into a book you can afford to be proud of. She can be found in drinking tea and playing with her dog Mollie in Capac, Michigan.
+The complete Ravenclaw package, EDITOR CASSANDRA specializes in YA novels, and will accept upper middle grade and adult crossovers. She earned her BA in English from Rochester College where she is now faculty, and her MA in Creative Writing from Newcastle University. She can be found drinking tea, practicing MMA, and playing with her dogs in Capac, MI
 
 ##### MSWL
 
-YA is where my heart lives. I accept all genres. Love witches and adventures and end of the earth and space. Give me the weird, funny, scary, contemplative, love-stricken, and the books of your hearts. But please, no sexy aliens, vamps/weres, or angels/demons. Will also accept NA, adult crossovers, and upper MG.
+YA, NA, and upper MG for all genres
+ * dystopians
+ * end of the world survival epics
+ * witches/magic
+ * historical fiction
+ * sci-fi
+ * space and spaceships (but no sex with aliens)
+ * fantasy (both high and low)
+ * retellings and reimaginings
+ * Austen inspired
+ * contemporary
+ * romances
+ * mysteries
+ * suspense
+ * thrillers
+ * high-stakes countdowns
+ * horror
+ * weird stuff
+ * adventure
+ * toe-curling reads
 
 ##### Q&A
 
@@ -28,16 +47,16 @@ Jump right in to the story. I want to experience something along with your chara
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-I work odd hours, preferring those quiet moments when everyone else is asleep. But if I’m up, I’m always available should you need a boost or help working out solutions.
+I’m always available should you need a boost or help working out solutions via email or, preferably, Facebook messenger, as that's the quickest way to get my attention. We will focus first on the big picture, the developmental side of things, and then, if we have time, copy edits. 
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-I expect my writer to put everything they have into this contest. We have a limited amount of time to make your work the best that it can be. You can sleep when the contest is over :P
+I expect my writer to put everything they have into this contest. We have a limited amount of time to make your work the best that it can be. You can sleep when the contest is over. Take every advantage of this opportunity that you can.
 
 **What hobbies do you have outside of writing and editing?** 
 
-I love crafting. I make things out of felt, paint with watercolors and acrylics, sew, and crochet. I’m also getting into working out, taking MMA classes and doing some walking and awkward running. I’ve lost 150 lbs over the past year and getting active is something I now enjoy.
+I've been working on myself a lot lately. I've lost over 185lbs over the last two years by eating keto and working out, practicing MMA, yoga, and running my first 5k. I also love crafting; painting with acrylics, and generally MacGyvering pretty and sparkly things.
 
-**What was your favorite childhood book and what did you love about it?**
+**What published book did you love in 2018, and what did you love about it?**
 
-Oddly enough, I read Dean Koontz’s _Sole Survivor_ as a kid and fell in love with it. I must have read it a dozen times. I even performed the poem from the Book of Counted Sorrows at the start of it in a school talent contest. I can still recite it. I think it was the first novel I read that I actually understood, having lost my mom and yearning at that age to be extraordinary. This book ticked all those boxes.
+_Neverworld Wake_ by Marisha Pessl. It’s the perfect creepy beach read for when school lets out and you want an escape. It kept me on my toes, had twists and turns that shocked even me, someone who picks up on patterns and usually guesses the endings easily. There’s alternate timelines, Groundhog Day mind games, and amazing writing. Read it, you won’t be disappointed.

@@ -3,83 +3,15 @@ content:
     items: '@self.children'
     order:
         by: header.last_name
-
 tabs:
     -
         id: annual-editors-2019
-        title: 2019 Annual Contest
+        title: '2019 Annual Contest'
         filter: 2019-editor
-        text: >
-            ### 2019 Annual Contest Editors TBA Spring 2019
     -
         id: mini-editors
-        title: Mini-Event Editors
+        title: 'Mini-Event Editors'
         filter: mini
-    -
-        id: annual-editors-2018
-        title: 2018 Annual Contest
-        filter: 2018-editor
-
-past_years: >
-    ### 2018
-
-    - Sione Aeschliman
-
-    - Carly Bornstein-Hayward
-
-    - Ellen Brock
-
-    - Editor Cassandra
-
-    - Elizabeth Buege
-
-    - rr campbell
-
-    - Jeni Chappelle
-
-    - Stephanie Eding
-
-    - Kyle V. Hiller
-
-    - Kaitlyn Johnson
-
-    - Katie McCoach
-
-    - Laura Dennison (runners-up prizes)
-
-    - Grace Laidlaw (runners-up prizes)
-
-    - Kyra Nelson (runners-up prizes)
-
-
-    ### 2017
-
-    - Sione Aeschliman
-
-    - Gem Blackthorn
-
-    - Carly Bornstein-Hayward
-
-    - Ellen Brock
-
-    - Editor Cassandra
-
-    - Elizabeth Buege
-
-    - Jeni Chappelle
-
-    - Stephanie Eding
-
-    - Victoria Griffin
-
-    - Kaitlyn Johnson
-
-    - Katie McCoach
-
-    - Nicole Tone
-
-    - Kisa Whipkey
-
-    - Kyra Nelson (runners-up prizes)
-
+past_years: "### 2018\n- Sione Aeschliman\n- Carly Bornstein-Hayward\n- Ellen Brock\n- Editor Cassandra\n- Elizabeth Buege\n- rr campbell\n- Jeni Chappelle\n- Stephanie Eding\n- Kyle V. Hiller\n- Kaitlyn Johnson\n- Katie McCoach\n- Laura Dennison (runners-up prizes)\n- Grace Laidlaw (runners-up prizes)\n- Kyra Nelson (runners-up prizes)\n\n### 2017\n- Sione Aeschliman\n- Gem Blackthorn\n- Carly Bornstein-Hayward\n- Ellen Brock\n- Editor Cassandra\n- Elizabeth Buege\n- Jeni Chappelle\n- Stephanie Eding\n- Victoria Griffin\n- Kaitlyn Johnson\n- Katie McCoach\n- Nicole Tone\n- Kisa Whipkey\n- Kyra Nelson (runners-up prizes)\n"
 ---
+

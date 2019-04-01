@@ -59,7 +59,7 @@ The #RevPit editors have created a Reedsy Learning course on practical tips for 
 
   <div class="plank-editor pure-u-1-2 pure-u-md-1-3 pure-u-lg-1-6">
 
-    <a href="http://sioneaeschliman.blogspot.com/" target="_blank">
+    <a href="https://www.writelearndream.com/" target="_blank">
       <img src="/editors/sione-aeschliman/Sione_Aeschliman_small.jpg" alt="Sione Aeschliman">
     </a>
     

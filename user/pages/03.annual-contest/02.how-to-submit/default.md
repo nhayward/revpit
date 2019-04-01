@@ -6,31 +6,29 @@ title: 'How to Submit'
 
 The Revise & Resub (#RevPit) [Annual Contest](http://reviseresub.com/annual-contest) is open to completed, unpublished, fiction manuscripts ONLY. By entering, you have the chance to win 5 weeks of editing of your **full manuscript**. Your manuscript should be polished and beta-reader tested before submission. Only **one** submission per entrant. 
 
-Once you have your manuscript and query letter ready to go, you’ll come here and click the link to our Submittable page. Submittable does require writers to sign up for an account, but the account is free. 
+Once you have your manuscript and query letter ready to go, you’ll come here and click the link to our submission form. Google does require writers to sign up for an account, but the account is free. 
 
 ###### **Please make sure you use the correct email address to create your account. This is the only way editors will be able to contact you regarding your submission materials.**
 
 The link will become active on **April 6th, 2019 at 9:00am EST **and remain open until **11:59pm on April 7th, 2019**.
 
-<!-- Link to the Revise & Resub submission manager. --->
-<a target = _blank href="https://reviseresub.submittable.com/submit"><img src="//manager.submittable.com/Public/Images/submittable-submit-button.png" alt="submit" border="0" /></a>
-<!-- End link to submission manager -->
+![](RevPitSubmitButton.jpg)
 
 **Step 1:** Browse the participating editor bios and select your top TWO choices and ONE alternate.
 
-**Step 2:** Fill in the blanks with your personal info and query letter. Make sure your query includes:
- * Title
- * Word count
- * Age category
- * Genre
- * Author bio
+**Step 2:** Fill in the blanks with your personal info.
 
 **Step 3:** Answer the following questions in the provided space:
  * Why do you write?
  * On a scale of 1-10, how much tough love do you like in your revision feedback? (10 = Bring it on!)
  * Why did you choose these editors as the best match for you and your manuscript?
 
-**Step 4:** Attach the first five double-spaced pages (approximately 1250-1500 words) of your manuscript. 
+**Step 4:** Attach the query letter **and** first five double-spaced pages (approximately 1250-1500 words) of your manuscript in **ONE** document. Make sure your query includes:
+ * Title
+ * Word count
+ * Age category
+ * Genre
+ * Author bio
 
 **Step 5:** Have a synopsis and additional pages ready in case an editor requests more! Requests for additional materials may be made as early as the first day of the submission window.
 

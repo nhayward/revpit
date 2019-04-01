@@ -8,46 +8,50 @@ facebook:
 twitter:
     name: '@katiemccoach'
     url: 'https://twitter.com/katiemccoach'
-2018-editor: true
+instagram:
+    name: 'KM Editorial'
+    url: 'https://www.instagram.com/kmeditorial/'
+2019-editor: true
 mini: true
 ---
 
 ##### Bio
 
-KATIE McCOACH is a developmental editor working with traditional and self-published authors. Her motto is, “Let’s create your best story!” In the past, she worked at a publishing house and apprenticed at a literary agency, where she evaluated agent queries. Many of her authors have gone on to win awards. Her specialties are sci-fi, fantasy, dystopian, and romance for YA, NA, and adult audiences.
+KATIE McCOACH is a developmental editor working with traditional and self-published authors. Her motto is, “Let’s create your best story!” Many of her authors have gone on to land literary agents and publishing deals, and several have won awards. Her editing specialties are memoir, sci-fi, fantasy, dystopian, and romance for YA, NA, and adult audiences.
 
-She is a PRO member of Romance Writers of America, and serves on the board of the CRW chapter. She is a founding editor of Revise & Resub (RevPit), a featured editor for ShoreIndie, and she judges multiple contests.
+She is a PRO member of Romance Writers of America, a member of ALLi, and she mentors teen girls in creative writing through WriteGirl. She is a founding editor of Revise & Resub (RevPit), a contest for emerging writers. 
 
 With a coffee shop on every corner in Los Angeles, you’ll never find Katie without caffeine.
 
+
 ##### MSWL
 
-Personal tastes: I am all about character-driven stories. I love snarky voices and dark humor. I like characters with edge and who are unapologetic about who they are, but can back it up (and are redeemable).
+I am all about character-driven stories. I love voices with a bite, characters with strong convictions, and a world that grips me from page one. 
 
-Love-triangles still tickle me, retellings (from fairytales to mythology), and anything set in Los Angeles, the west coast, or abandoned locations. 
+I usually lean toward stories with romance, and I’ll still be happy to see those, but this year I’m also in the mood for something gritty. I want that manuscript that takes things a little further, maybe even gets a little darker, and explores the many layers of a person and their relationships. 
 
-Diverse voices? YES, please. I am Open. To. It. All.
+Diverse voices? YES, please.
 
-**YA:** Contemporary, romance, fantasy, some paranormal (but see below), sci-fi, dystopian, suspense/thriller.
-
-**New adult:** Contemporary, romance, fantasy, sci-fi, suspense.
-
-**Adult:** Contemporary Romance (including romantic suspense), sci-fi, thriller, fantasy.
-
-I will **NOT** be interested in: Historical fiction, middle grade fiction, space opera, erotica, anything with ghosts, shape-shifting, dragons, or demons, or anything over 120k words.
+Breakdown:
+ * YA, NA, Adult
+ * Contemporary, women’s fiction, romance, fantasy, sci-fi, dystopian, mystery, suspense, thriller.
+ * I will **not** be accepting: historical fiction, historical fantasy, middle grade fiction, space opera, erotica, or stories that include ghosts, shape-shifting, dragons, demons, angels, rape, or suicide.
+ * I will **not** consider anything over 120k words.
 
 ##### Q&A
 
 **How can a manuscript’s first five pages make you sit up and take notice?**
 
  * Voice is _key_. I want to be convinced to follow this character anywhere they take me. I need to care about their plight.
- * Pages begin in the right place, which is usually _in media res_ (in the middle of things). I don’t need a dead body, but I do need a clear indication that the inciting incident is super nearby, if not currently taking place.
- * Strong grasp of writing mechanics, especially Show Don’t Tell.
+ * Pages begin in the right place.
+ * A vivid world: I want to feel inserted into the story, setting, and vibe immediately. 
+ * Strong grasp of writing mechanics, especially Show Don’t Tell and Deep POV.
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
- * You can expect to work with someone who is excited to see you reach your writing goals. I want to do all I can to help get you there. I hope to encourage you, get you excited to plow through the tough spots, and see you grow as a writer. I will help you dig deep to pull out the parts of your story that are hiding, and make your manuscript shine.
- * Once it’s announced we are working together, I’d like to have a phone call. We’ll chat about the book, your goals, your struggles, and what you can expect in working together. I am your person to turn to. I am committed to your book (and your career as a writer). You will not be alone in this process.
+ * You can expect to work with someone who is excited to see you reach your writing goals. I want to do all I can to help get you there. I hope to encourage you, get you excited to plow through the tough spots, and see you grow as a writer. I will help you dig deep to pull out the parts of your story that are hiding and make your manuscript shine.
+ * Once it’s announced we are working together, I’d like to have a phone call. We’ll chat about the book, your goals, your struggles, and what you can expect in working together. I am your person. I am committed to your book (and your career as a writer). You will not be alone in this process.
+
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
@@ -55,11 +59,8 @@ Open communication. Respect. We are both going to put in a lot of time and effor
  
 **What hobbies do you have outside of writing and editing?**
 
-I’m that person who gets super motivated about trying new things. I’ll research a ton, get all the supplies, and then I’ll ultimately never have the time to follow through. Most recently, that’s been cross-stitching. Before that was bullet journaling. Calligraphy is next—the supplies are sitting in my Amazon prime cart.
+I enjoy cross-stitching, although I like teaching myself so most creations turn out…interesting to say the least. I write romance, “read” on walks, re-binge favorite shows (The Vampire Diaries, Brothers & Sisters, Parks & Rec), and listen to the Big Little Lies soundtrack over and over.
 
-**What was your favorite childhood book and what did you love about it?**
+**What published book did you love in 2018, and what did you love about it?**
 
-I can immediately think of a favorite book for different moments in my childhood. I discovered new things about myself and who I wanted to be through books. Can I break the rules here, please?
- * Pre-School/Elementary: _I’ll Love You Forever_
- * Middle school: _Are You There, God? It’s Me, Margaret_
- * High school: _Perks of Being a Wallflower_. But also… _Running with Scissors_
+I loved _The Kiss Quotient_. The voice is so pure and captivating! It’s a contemporary romance with an unconventional set-up (think Pretty Woman gender swap) and the heroine is refreshing and real. It’s also an #ownvoices novel; the author opens our eyes to characters with autism. 

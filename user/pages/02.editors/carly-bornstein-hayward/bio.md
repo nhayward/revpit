@@ -1,7 +1,7 @@
 ---
 title: 'Carly Bornstein-Hayward'
 last_name: Bornstein-Hayward
-website: 'http://booklighteditorial.com'
+website: 'https://booklighteditorial.com'
 facebook:
     name: 'Book Light Editorial'
     url: 'https://www.facebook.com/booklighteditorial/'
@@ -11,29 +11,29 @@ twitter:
 instagram:
     name: 'Book Light Editorial'
     url: 'https://www.instagram.com/booklighteditorial/'
-2018-editor: true
+2019-editor: true
 mini: true
 ---
 
 ##### Bio
 
-Carly Bornstein-Hayward is a developmental editor specializing in genre fiction, including but not limited to romance, mystery, fantasy, erotica, and YA. Carly will help you find your voice and bring your vision to the reader. She will be your book’s best friend.
+Carly Bornstein-Hayward is a developmental editor who will help you find your voice and bring your vision to the reader. Editing combines her creativity and her love of reading, giving advice, and logic puzzles. Carly will be your book’s best friend.
 
-She has worked in the publishing industry for 10 years, including at a big 5 publishing house, a small press, a literary agency, a hybrid publisher, and a self-publishing house that helped indie-authors. Carly graduated Magna Cum Laude with a B.A. in English. She is a member of the Editorial Freelancers Association, Chicago Women in Publishing, and she was a panelist at Book Expo America 2016. She is also a co-founding Revise & Resub (RevPit) editor and a ShoreIndie editor.
+She has worked in the publishing industry for over 10 years, including at a big 5 publishing house, a small press, a literary agency, a hybrid publisher, and a self-publishing house that helped indie-authors. That experience has helped her to see the industry from all different angles. She is a member of the Editorial Freelancers Association, Chicago Women in Publishing, and she was a panelist at Book Expo America 2016. She is also a co-founding RevPit editor and when not reading or working she lounges with her husband being vastly amused by their cats or binge-watching TV.
 
 ##### MSWL
 
-I love to read everything, but this year, I’m trying to narrow down my wish list (please don’t tempt me, I will feel left out). This year I am taking Adult, YA, and NA. I’m accepting most romance subgenres, including historical, paranormal, and erotica, but not contemporary. I’d also love to see fantasy, magical realism, historical fiction, dystopian, speculative/light scifi, and mystery/thriller. This year I DO NOT want anything contemporary (unless it has magical elements or is a mystery/thriller), horror, hard sci-fi (ex: space operas or aliens), or MG.
+I love to read everything, but this year, I’m trying to narrow down my wish list (please don’t tempt me, I will feel left out). This year I am taking Adult, YA, and NA. I’m accepting most romance subgenres, including historical, paranormal, and erotica, but not contemporary. I’d also love to see fantasy, magical realism, historical fiction, dystopian, and speculative/light scifi. This year I DO NOT want anything contemporary (unless it has fantasy/sci-fi elements), horror, hard sci-fi (ex: space operas or aliens), mystery/thriller, or MG.
 
-Some elements that will make me flip: an immersive world, mythology, time-travel, fairy tale retellings, new twists on old tropes, diverse characters (including but not limited to LGBTQA, racially diverse, and disabled characters), anything #OwnVoices, and characters that are bibliophiles (although, to be fair, this is common because we are all bibliophiles). 
+Some elements that will make me flip: diverse characters (including but **not** limited to LGBTQA+, racially diverse, and disabled characters), anything #OwnVoices, an immersive world, mythology, time-travel (ala Doctor Who), upside-down retellings, new twists on old tropes, and characters that are bibliophiles (although, to be fair, this is common because we are all bibliophiles).
 
 Let’s break it down. I’m accepting:
 
- * Adult: fantasy, romance (paranormal, historical, erotica), soft sci-fi, mystery/thriller, historical fiction
+ * Adult: fantasy, romance (paranormal, historical, erotica), soft sci-fi, historical fiction
  * New Adult: fantasy, romance, paranormal, historical fiction
  * Young Adult: fantasy, romance, magic realism, paranormal, historical, dystopian
 
-**No**: nonfiction, hard sci-fi, contemporary (with the above exceptions), horror, or MG.
+**No**: nonfiction, hard sci-fi, contemporary (with the above exceptions), horror, mystery/thriller, or MG.
 
 ##### Q&A
 
@@ -51,8 +51,8 @@ I expect you to be excited to get to work and to check your email more than spor
 
 **What hobbies do you have outside of writing and editing?**
 
-First of all, I don’t write. Please don’t hate me. I read. I read a heck of a lot. Constantly. Am I making that clear enough? Besides that, I like to draw (with charcoals), cuddle with my husband/cats (depending on which is being the cuddliest at the moment), and drink lots of caffeine (in coffee and tea form. Hot and iced. Flavored and not. Basically, every form).
+First of all, I don’t write. Please don’t hate me. I read. I read a heck of a lot. Constantly. Am I making that clear enough? Besides that, I like to draw (with charcoals), cuddle with my husband/cats (depending on which is being the cuddliest at the moment), watch a lot of TV, play a lot of video games (_Horizon Zero Dawn_, _Assassin's Creed_, _Hitman_, _Mario + Rabbids Kingdom Battle_, etc) and drink lots of caffeine (in coffee and tea form. Hot and iced. Flavored and not. Basically, every form).
 
-**What was your favorite childhood book and what did you love about it?**
+**What published book did you love in 2018, and what did you love about it?**
 
-There are so many to choose from! I’m going to be good and only list one, but know that there are others I could rhapsodize about endlessly. _The Last of the Really Great Whangdoodles_ by Julie Edwards (who knew Mary Poppins wrote books?!) was one of my all-time favorites. I loved the idea that if I opened up my imagination enough, I could travel to other lands. It was basically a metaphor for how books made me feel. But mainly, I wanted a clear umbrella with yellow butterflies on it so that people think to look up on rainy days. 
+It’s near impossible for me to pick just one, so as usual, I’m going to cheat. “One” that sticks out to me is _Saga_ (all volumes) by Brian K Vaughan and Fiona Staples. I was definitely late to the game, but I’m almost all caught up, I swear! I’ve read a few comic books and graphic novels, but this one made me fall in love with the medium. The artwork is phenomenal, and the story is gripping while still being full of emotion. The characters are so strong and flawed, and you are able to see all that through their dialogue. Each character has such a clear voice. If you haven’t read it, do it! 
