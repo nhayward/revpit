@@ -5,7 +5,7 @@ website: 'https://kyramnelson.com/'
 twitter:
     name: '@KyraMNelson'
     url: 'https://twitter.com/KyraMNelson'
-2019-editor: true
+annual_contest_2019: true
 mini: true
 ---
 

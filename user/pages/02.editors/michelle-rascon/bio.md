@@ -11,7 +11,7 @@ twitter:
 instagram:
     name: 'Editor Rascon'
     url: 'https://www.instagram.com/editorrascon/'
-2019-editor: true
+annual_contest_2019: true
 mini: true
 ---
 

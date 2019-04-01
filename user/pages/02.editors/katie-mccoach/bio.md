@@ -11,7 +11,7 @@ twitter:
 instagram:
     name: 'KM Editorial'
     url: 'https://www.instagram.com/kmeditorial/'
-2019-editor: true
+annual_contest_2019: true
 mini: true
 ---
 

@@ -8,7 +8,7 @@ twitter:
 instagram:
     name: 'Maria Tureaud'
     url: 'https://www.instagram.com/Maria_Tureaud/'
-2019-editor: true
+annual_contest_2019: true
 mini: true
 ---
 

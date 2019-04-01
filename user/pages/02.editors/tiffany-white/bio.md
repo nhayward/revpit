@@ -8,7 +8,7 @@ twitter:
 instagram:
     name: 'Writers Untapped'
     url: 'https://www.instagram.com/writersuntapped/'
-2019-editor: true
+annual_contest_2019: true
 mini: true
 ---
 

@@ -8,7 +8,7 @@ twitter:
 instagram:
     name: kyleliterally
     url: 'https://www.instagram.com/kyleliterally/'
-2019-editor: true
+annual_contest_2019: true
 mini: true
 ---
 

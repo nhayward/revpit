@@ -8,7 +8,7 @@ twitter:
 instagram:
     name: thatwemightfly
     url: 'https://www.instagram.com/thatwemightfly'
-2019-editor: true
+annual_contest_2019: true
 mini: true
 ---
 

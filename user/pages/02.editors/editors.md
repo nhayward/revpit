@@ -7,7 +7,7 @@ tabs:
     -
         id: annual-editors-2019
         title: '2019 Annual Contest'
-        filter: 2019-editor
+        filter: annual_contest_2019
     -
         id: mini-editors
         title: 'Mini-Event Editors'
