@@ -1,5 +1,6 @@
 ---
 title: 'Lindsay Schlegel'
+published: false
 last_name: Schlegel
 website: 'http://www.lindsayschlegel.com/'
 facebook:

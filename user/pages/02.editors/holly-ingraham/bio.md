@@ -19,9 +19,10 @@ mini: true
 
 Holly Ingraham is a professional editor with over a decade's worth of industry experience. She specializes in developmental editing, proofreading and career consultation, particularly in the areas of romance, women's fiction, mystery and YA. Publishing is all about collaboration and communication, and she loves helping an author put the pieces together to help create their best book possible.
 
-Holly started her publishing career as the agency assistant at BookEnds Literary, and spent ten years as an in-house acquisitions editor for St. Martin's Press, where she worked with numerous New York Times and USA Today bestselling authors, and helped launch debut authors who have gone on to have long, successful careers. She launched Holly Ingraham Editorial in March 2018 where she works with large publishing houses, such as Amazon Publishing, Audible, St. Martin’s Press, Swoon Reads, and Tor doing developmental editing and proofreading, as well as working with private clients that range from aspiring writers to New York Times bestselling authors. 
+Holly started her publishing career as the agency assistant at BookEnds Literary Agency, and spent ten years as an in-house acquisitions editor for St. Martin's Press, where she worked with numerous _New York Times_ and _USA Today_ bestselling authors, and helped launch debut authors who have gone on to have long, successful careers. She launched Holly Ingraham Editorial in March 2018 where she works with large publishing houses, such as Amazon Publishing, Audible, St. Martin’s Press, Swoon Reads, and Tor doing developmental editing and proofreading, as well as working with private clients that range from aspiring writers to New York Times bestselling authors. 
 
 She lives just outside of NYC with her husband, twin daughters, and two furbabies.
+
 
 ##### MSWL
 
@@ -30,11 +31,11 @@ As a reader, my interests vary widely, but my true editorial passions lie in wor
 I love a strong narrative voice, vibrant, jump-off-the-page characters, smart protagonists, a bit of humor, and stories that make me cry.
 
 **Definitely Yes:**
- * Adult: romance (historical, contemporary, paranormal, erotica), women’s fiction, cozy mystery, suspense, thrillers, horror
- * NA: romance, coming of age, paranormal
- * YA: contemporary, romance, fantasy, paranormal, dystopian, horror
+ * Adult: romance (historical, contemporary, paranormal, romantic suspense), romcom, women’s fiction, domestic suspense, cozy mystery, suspense, thrillers, horror
+ * NA: romance, romcom, coming of age, paranormal
+ * YA: contemporary, romance, romcom, paranormal, dystopian, horror
 
-**No:** adult fantasy, literary fiction, BDSM, magical realism, MG, non-fiction, non-consensual sex scenes
+**No:** fantasy, literary fiction, BDSM, magical realism, MG, non-fiction, non-consensual sex scenes
 
 ##### Q&A
 
@@ -44,7 +45,7 @@ Voice, voice, voice! A great opening line will always make me keep reading. I wa
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-I believe that publishing relationships thrive on collaboration and communication. My job is to help you create the best book possible. While I am flexible in my approach from author to author, I take that task very seriously, and I expect my author to as well. We will start by talking about the process and determining what approach will benefit you the most. Writers can expect me to be accessible to them via email and phone calls/video chats, quick to respond, and completely in their corner. 
+I believe that publishing relationships thrive on collaboration and communication. My job is to help you create the best book possible. While I am flexible in my approach from author to author, I take that task very seriously, and I expect my author to as well. We will start by talking about the process and determining what approach will benefit you the most. Writers can expect me to be accessible to them via email and phone calls/video chats, quick to respond, and completely in their corner.  
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
@@ -52,8 +53,8 @@ I expect my author to be ready to WORK and be open to constructive criticism and
 
 **What hobbies do you have outside of writing and editing?**
 
-I’m currently obsessed with making and canning all different kinds of jams and chutneys, exploring my green(ish) thumb with gardening and my growing indoor plant collection, crocheting enough blankets to keep all my friends and family warm, working on improving my 5k time, and being mom to the sweetest, sassiest 4 year old twins I’ve ever met.
+I’m currently obsessed with expanding my culinary skills, finding the best one-pot meals, still making and canning all different kinds of jams and chutneys, exploring my green(ish) thumb with gardening and my growing indoor plant collection, slowly renovating our little piece of suburbia, working on improving my 5k time, and being mom to the sweetest, sassiest 5 year old twins I’ve ever met.
 
-**What published book did you love in 2018, and what did you love about it?**
+**What is your favorite book to reread, and why?**
 
-THE KISS QUOTIENT by Helen Hoang was one of my favorites of 2018. I love an unconventional heroine in my romances, and the fact that this was an #ownvoices story made it that much better. This book hit the spot for me in the perfect blend of heartwarming, swoonworthy and strong.
+THE PERKS OF BEING A WALLFLOWER by Stephen Chbosky was a life-changing read for me in high school. I’ve found myself picking it back up over the years as I have grown and evolved, and I am transported back to my fourteen-year-old self and all the emotions and experiences of that time. The emotional impact is still so strong and powerful. Everyone needs to feel seen at some point. “And in that moment, I swear we were infinite.” 

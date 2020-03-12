@@ -87,7 +87,7 @@ Pages:
 
 <div markdown="1">
 
-**A:** Not at all! But try to keep it to less than 500 words per question. 
+**A:** Yes! 750 characters per question. 
 
 </div>
 
@@ -109,7 +109,7 @@ Pages:
 
 <div markdown="1">
 
-**A:** If you participated in #RevPit last year, you might notice that we made the switch from three to two editor choices per participant this year (you’ll still get to choose an alternate). This gives everyone the best shot of being assigned to their first choice of editor.
+**A:** If you participated in #RevPit the first year, you might notice that we made the switch from three to two editor choices per participant this year (you’ll still get to choose an alternate). This gives everyone the best shot of being assigned to their first choice of editor.
 
  * With fewer editor selections, authors can focus on the most compatible options.
  * Editors will reach their entry cap slower, giving more authors a shot at their top picks.
@@ -151,7 +151,7 @@ Pages:
 
 <div markdown="1">
 
-**A:** Editors may request additional materials at any time between April 6th and April 13th. Editors will announce on Twitter when they have sent all requests for additional materials. Requests will be sent via the email you use to log in to your Submittable account. 
+**A:** Editors may request additional materials at any time between April 6th and April 13th. Editors will announce on Twitter when they have sent all requests for additional materials. Requests will be sent via the email you specify in the form. 
 
 </div>
 
@@ -181,7 +181,7 @@ Pages:
 
 <div markdown="1">
 
-**A:** All editors will send feedback to the authors they request additional materials from but are not required to send feedback to authors from whom they do not request additional materials. Any feedback will be sent via email to the email the authors used to sign in to their Submittable account. As this contest is very labor-intensive, some editors may take some time to get back to you. Try not to worry!
+**A:** All editors will send feedback to the authors they request additional materials from but are not required to send feedback to authors from whom they do not request additional materials. Any feedback will be sent via email to the email the authors specified in the form. As this contest is very labor-intensive, some editors may take some time to get back to you. Try not to worry!
 
 </div>
 
@@ -202,3 +202,59 @@ Pages:
 </div>
 
 </div>
+
+## All Events
+
+#### **Bullying and Harassment**
+
+<div class="faq-accordion" markdown="1">
+
+##### Anti-Bullying and Harassment Policy 
+
+<div markdown="1">
+
+**Bullying or harassment of any kind is unacceptable.** The ReviseResub editors want #RevPit to continue to be a safe, supportive place for all writers and will do whatever possible to keep harassment out of the #RevPit community. This includes reporting, blocking, and removal from the Annual Contest or any mini-event, any individual or account that has demonstrated harassing behavior. We use Twitter’s standards for harassment and abuse, which you can read [here](https://help.twitter.com/en/rules-and-policies/twitter-rules?target=_blank).
+
+**If you’re being harassed:**
+
+Please contact us at reviseresub@gmail.com, our Twitter page [@ReviseResub](http://www.twitter.com/reviseresub?target=_blank), or through any of the [#RevPit editors](https://twitter.com/ReviseResub/lists/revpit-editors). If you believe your safety is threatened, please contact your local authorities immediately. 
+
+We want to see all writers succeed and will continue to strive to provide a space where writers can grow together. 
+
+
+</div>
+
+</div>
+
+#### **\#OwnVoices**
+
+<div class="faq-accordion" markdown="1">
+
+##### STATEMENT FROM THE REVPIT BOARD, 5 APRIL 2019
+
+<div markdown="1">
+
+With the recent, increasing calls for #ownvoices narratives from #RevPit editors and within the publishing industry in general, we have seen a rise this year in questions from authors wondering if their manuscripts count as ownvoices. Additionally, over the last few days authors have raised concerns about the use of the term as applied to other authors’ work, and the role of the RevPit editors in helping people navigate the #ownvoices waters has also been called into question. These conversations, however uncomfortable for those involved, are important conversations to have, and we welcome the opportunity to become more educated and to help others educate themselves.
+
+After much listening, research, and discussion, the Board has come to agreement on two main points related to these discussions:
+
+First, the RevPit Editors are not qualified to judge what is or is not a marginalized identity, and we do not presume to know the context in which the writers are living and writing. Furthermore, it is not appropriate to question anyone's identity or force them to out themselves, and we don’t want to put anyone in these positions.
+
+Second, we are also very clear that, in order to be #ownvoices, the author must share the same marginalized identity as the MC(s). Being adjacent to a marginalized person is not the same as being marginalized. For example, it is not ownvoices if your family member is mixed race and your MC is mixed race, but you are not mixed race.
+
+So if you’re wondering whether ownvoices is appropriate for your manuscript, consider:
+ * Do you and your MC share one or more of the same marginalized identities? If not, then it’s not #ownvoices.
+ * What counts as a marginalized identity? [Corinne Duyvis’s](http://www.corinneduyvis.net/ownvoices?target=_blank) (the hashtag creator’s) site says that, ultimately, it’s up to the author to determine that for themselves, and the DVPit website has a bunch of useful examples: [http://dvpit.com/about](http://dvpit.com/about?target=_blank) 
+ * Different communities have different controversies and discussions around representation and what counts as ownvoices, and it’s important to familiarize yourself with them so you know what you’re taking on if/when you decide to claim the label. For example, [this article](https://www.bustle.com/p/why-the-publishing-industry-needs-to-be-more-inclusive-of-autistic-disabled-people-7705640?target=_blank) by Alaina Leary on Bustle about representations of autistic and disabled people or [this article](https://bookriot.com/2017/04/21/the-problem-with-ownvoices-lgbtq-lit?target=_blank) by Danika Ellis on Book Riot about LGBTQ+ ownvoices, especially when it comes to the romance genre. You can also check out the #ownvoices feed on Twitter to see what people are talking about and/or consider asking other marginalized writers from the communities you’re writing about what the most common issues in publishing are for members of that community. You’re bound to get a plethora of perspectives that you can take into consideration when deciding how to frame your work.
+ * If you're still not sure if you should be using #ownvoices, consider instead saying something like, "based on my own experiences as....”
+
+Last but not least, we want you to know that we’re still listening. We invite you to engage with us and other community members in further dialogue about these important issues, and if you have any resources you’d like to share, please do! We also invite conversation about how we can make the community a more inclusive and supportive space. We appreciate the efforts of everyone who has contributed time and energy to the dialogue surrounding these issues.
+
+Sincerely,
+The RevPit Board
+
+</div>
+
+</div>
+
+

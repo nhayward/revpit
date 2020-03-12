@@ -1,5 +1,6 @@
 ---
 title: 'Kaitlyn Johnson'
+published: false
 last_name: Johnson
 website: 'http://kjohnsonfreelance.com'
 twitter:

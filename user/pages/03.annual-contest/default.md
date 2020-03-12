@@ -2,9 +2,7 @@
 title: 'Annual Contest'
 ---
 
-##### _Our submission window is currently closed. _
-
-### The #RevPit 2019 Annual Contest Begins April 6th!
+### The #RevPit 2020 Annual Contest Begins April 18th!
 
 In this contest, authors will be eligible to receive feedback and developmental edits on their **full fiction manuscript** from professional editors, ensuring their works are polished and ready for those agent inboxes. Not only will authors be immersed in a supportive community of their peers, they will also have the chance to learn more about how their story fits into the industry and obtain understanding of why different edits matter and how to continue practicing them in the future.
 
@@ -18,7 +16,7 @@ Writers must choose two editors and one alternate. [The editors](http://revisere
 
 Once the submission window opens, writers will use our submission form to submit query letter and first five double-spaced pages (1250-1500 words) in one document to their top two editors and one alternate. Only **one** submission per entrant. Check out the [How to Submit page](http://reviseresub.com/annual-contest/how-to-submit) to learn about the submission process.
 
-When the submission window closes, editors will read all entries. Watch your chosen editors’ tweets and the #RevPit feed, as all editors will tweet anonymous [#10queries](https://katiemccoach.com/how-an-editor-sees-it-10queries?target=_blank) feedback as they go. Editors will then select one (or two!) winners and a runner-up to receive [prizes](http://reviseresub.com/annual-contest/prizes). The winning author-editor pairs will go through an intense, month-long editing process before posting their revised query letters and first five pages to the showcase on the Revise & Resub blog. Runners-up will each receive a separate [prize](http://reviseresub.com/annual-contest/prizes). 
+When the submission window closes, editors will read all entries. Watch your chosen editors’ tweets and the #RevPit feed, as all editors will tweet anonymous [#10queries](https://katiemccoach.com/how-an-editor-sees-it-10queries?target=_blank) feedback as they go. Editors will then select one winner and a runner-up to receive [prizes](http://reviseresub.com/annual-contest/prizes). The winning author-editor pairs will go through an intense, month-long editing process before posting their revised query letters and first five pages to the showcase on the Revise & Resub blog. Runners-up will each receive a separate [prize](http://reviseresub.com/annual-contest/prizes). 
 
 #### What You’ll Need:
 
@@ -32,10 +30,11 @@ When the submission window closes, editors will read all entries. Watch your cho
  * Why did you choose these editors as the best match for you and your manuscript?
 
 #### Want to learn more?:
- * [Contest Schedule](http://reviseresub.com/annual-contest/schedule)
- * [How to Submit](http://reviseresub.com/annual-contest/how-to-submit)
- * [Sample Query](http://reviseresub.com/annual-contest/sample-query)
- * [Prizes](http://reviseresub.com/annual-contest/prizes)
+ * [Contest Schedule](https://reviseresub.com/annual-contest/schedule)
+ * [How to Submit](https://reviseresub.com/annual-contest/how-to-submit)
+ * [Sample Query](https://reviseresub.com/annual-contest/sample-query)
+ * [Prizes](https://reviseresub.com/annual-contest/prizes)
+ * Visit our [FAQ page](https://www.reviseresub.com/faq) for our Anti-Bullying and Harassment Policy
 
 
 

@@ -1,43 +1,43 @@
 ---
 title: 'Editor Cassandra'
+media_order: 'Cassandra_Brown.jpg,Cassandra_Brown_small.jpg'
 last_name: Brown
-website: 'http://editorcassandra.com'
+website: 'http://www.EditorCassandra.com'
 twitter:
     name: '@OnlyCassandra'
     url: 'https://twitter.com/OnlyCassandra'
-instagram:
-    name: thatwemightfly
-    url: 'https://www.instagram.com/thatwemightfly'
-annual_contest_2019: true
-mini: true
 ---
 
 ##### Bio
 
-The complete Ravenclaw package, EDITOR CASSANDRA specializes in YA novels, and will accept upper middle grade and adult crossovers. She earned her BA in English from Rochester College where she is now faculty, and her MA in Creative Writing from Newcastle University. She can be found drinking tea, practicing MMA, and playing with her dogs in Capac, MI
+The complete Ravenclaw package, EDITOR CASSANDRA specializes in YA novels, and will accept upper middle grade, new adult, and adult crossovers. She earned her BA in English from Rochester College where she taught the creative writing group, and her MA in Creative Writing from Newcastle University. Cassandra can be found drinking tea, practicing MMA, taking ballet classes, and playing with her lab mix Mollie and corgi Moo in Capac, MI.
 
 ##### MSWL
 
-YA, NA, and upper MG for all genres
+Open to YA, MG, NA, and adult crossovers:
  * dystopians
- * end of the world survival epics
- * witches/magic
- * historical fiction
  * sci-fi
- * space and spaceships (but no sex with aliens)
- * fantasy (both high and low)
- * retellings and reimaginings
- * Austen inspired
  * contemporary
  * romances
+ * I’m not afraid of sex or sexy stories
+ * fantasy (both high and low)
  * mysteries
- * suspense
- * thrillers
- * high-stakes countdowns
  * horror
- * weird stuff
+ * historical fiction
+ * paranormals (no vamps/weres or angels/demons)
+ * witches/magic/tarot/crystals/all of that stuff
+ * end of the world survival epics
+ * retellings
+ * Austen inspired
  * adventure
+ * space and spaceships (but no romantic aliens)
+ * dinosaurs
+ * dogs/pets
+ * high stakes
+ * countdowns
  * toe-curling reads
+ * give me the weird little books of your hearts, even if they’re not a “popular” subject
+
 
 ##### Q&A
 
@@ -55,8 +55,8 @@ I expect my writer to put everything they have into this contest. We have a limi
 
 **What hobbies do you have outside of writing and editing?** 
 
-I've been working on myself a lot lately. I've lost over 185lbs over the last two years by eating keto and working out, practicing MMA, yoga, and running my first 5k. I also love crafting; painting with acrylics, and generally MacGyvering pretty and sparkly things.
+I've lost 185lbs over the last two years by eating keto and working out, practicing MMA, taking ballet classes, and doing daily yoga. I also love crafting, pretty and sparkly things, learning tarot, how to properly do my makeup and upkeep of my purple hair. I adore hanging out with my boyfriend.
 
-**What published book did you love in 2018, and what did you love about it?**
+**What is your favorite book to reread, and why?**
 
-_Neverworld Wake_ by Marisha Pessl. It’s the perfect creepy beach read for when school lets out and you want an escape. It kept me on my toes, had twists and turns that shocked even me, someone who picks up on patterns and usually guesses the endings easily. There’s alternate timelines, Groundhog Day mind games, and amazing writing. Read it, you won’t be disappointed.
+_Harry Potter and the Order of the Phoenix_. No matter how many times I read it (at least three dozen times so far!), I notice new things and the characters grow and change depending on what’s going on in my life at the time. Sometimes I feel more like Malfoy, sometimes like Sirius, and sometimes like Molly Weasley!

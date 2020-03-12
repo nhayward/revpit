@@ -1,7 +1,7 @@
 ---
 title: 'Maria Tureaud'
 last_name: Tureaud
-website: 'https://www.craftquest.org/'
+website: 'https://mariatureaud.com/'
 twitter:
     name: '@Maria_Tureaud'
     url: 'https://twitter.com/Maria_Tureaud'
@@ -14,46 +14,53 @@ mini: true
 
 ##### Bio
 
-Maria is one half Tolkien, one half Captain Kirk. She began writing fan fiction in high school and hasn't looked back since &mdash;not even when university forced her to write fancier shmancier things. Though she double-majored in English Literature and Philosophy, Maria discovered a passion for editing. But Maria is also a writer, and writes in multiple genres for both the YA and Adult markets, which means she’s familiar with both giving and receiving critique and feedback. Maria also blogs about writing craft, tweets, is an active writetuber, and is one of the founding members of CraftQuest. With twelve years freelance, developmental editing under her belt, and a sometimes-masochistic love for query writing, she strives to break down the doors, change conversations, and help writers achieve their best &mdash;one word at a time.
+Maria is one half Tolkien, one half Captain Kirk. She began writing fan fiction in high school and hasn't looked back since; not even when university forced her to write fancier shmancier things. Though she double majored in English Literature and Philosophy, Maria discovered a love for editing. She is also a YA and Adult writer, Blogger, Tweeter, and Writetuber. With twelve years freelance developmental editing under her belt, and a strange penchant for query writing, she strives to break down the doors, change conversations, and polish manuscripts until they shine. 
 
 ##### MSWL
 
-**Preferred markets:** Upper Middle Grade, Young Adult, New Adult, and Adult.
+**I’m changing things up a bit for 2020, and narrowing my MSWL to the following genres:  **
 
-**Preferred genres:** Historical, Horror, Fantasy, Paranormal, Romance, Sci-fi, Thriller.
+ 1. Historical Fiction (including gothic—ghosties, ghouls, paranormal—alternate history/fantasy, steampunk, etc). Word to the wise…I’m a history aficionado, and if I’m unfamiliar with a certain era, I will research to ensure accuracy. My favorite historical periods include the Viking Age, the Restoration Period, and the late 1700’s. I would like to see untold/rarely told stories (no Anne Boleyn, Marie Antoinette, etc.), and any manuscript that throws a spotlight on underrepresented groups of any era. 
+ 2. Fantasy, but limited to contemporary (preferably dark), urban, and second-world low fantasy (including elements of paranormal, supernatural. Give me witches. Worldbuilding. Tough heroines and questionable morals. 
+ 3. Horror. But let me be clear—no slasher/gore bonanzas. I’m not looking for shock value. I want hair-raising, sleep with the light on feels that leave me in a state of panic (I’m the toughest person to scare, so anyone who can do this is my new idol.  
+ 4. \#ownvoices (As an immigrant, this is very dear to my heart) 
+ 5. Ace representation
 
-Maria likes her heroes tough, and her heroines tougher with a character arc to die for. Her MSWL includes:
+**Things I love: **
 
- * New twists on tired tropes – friends to lovers, love triangles, chosen ones, heroine saves hero, etc.
- * New twists on vampires and werewolves
- * Anything Paranormal
- * Historical Fiction – preferably pre-Regency starring real people we don’t normally see in historical fiction.
- * Most fantasy sub-genres
+ * New twists on tired tropes—friends to lovers, love triangles, chosen ones, etc. Make it fresh…polyamory? Chosen ones who turn into the antagonist? Whatever it is, it needs to jump off the page and make me sit up straight 
+ * Vampires and werewolves! GIVE THEM TO ME! 
+ * Pre-Regency historical, any country 
+ * Most fantasy sub-genres 
  * Light sci-fi
- * Romance with a twist!
- * **HORROR** – ALL THE HORROR
 
-**She Is Not The Best Candidate For:**
+**Preferred Markets:** 
 
- * Erotica
- * Contemporary
- * High Fantasy
- * Adult Sci-fi
- * Sparkly or regular old vampires
- * Poorly/minimally researched historical fiction—she will research the details to ensure accuracy and is an expert in both the Reformation and Restoration eras
- * Romance that’s actually erotica
- * Rape…masquerading as romance
- * Abuse…masquerading as romance
- * Redemption arcs for abusers
- * MG Romance…weird
- * Historical Fiction set in her lifetime, or a decade before, because…that makes her feel some sort of way. Nothing from the 1970’s, 80’s, or 90’s.
+ * Upper MG  
+ * YA 
+ * Adult 
+ 
+**Do Not Send:**
 
+ * Books depicting slave trade (African or European) 
+ * Erotica 
+ * Royals (In fantasy…if there are royals in your historical, that’s acceptable), or Mermaids 
+ * Sparkly vampires or wizards 
+ * Gore/Slashers 
+ * Contemporary 
+ * High Fantasy 
+ * Adult Sci-fi 
+ * Romance that’s actually erotica 
+ * Rape…masquerading as romance 
+ * Abuse…masquerading as romance 
+ * Redemption arcs for abusers 
+ * Historical Fiction set in my lifetime, or a decade before, because…that makes me feel some sort of way. Nothing from the 1970’s, 80’s, or 90’s.  
 
 ##### Q&A
 
 **How can a manuscript’s first five pages make you sit up and take notice?**
 
-First and foremost, the voice of the main character. When the narrative voice meshes with the voice of a character, magic happens. Secondly, beginning in a scene that sets up the main character’s CURRENT stakes so that I’m invested from the first paragraph.
+First and foremost, the voice of the main character. When the narrative voice meshes with the voice of a character, magic happens. Secondly, beginning in a scene that sets up the main character’s CURRENT stakes so that I’m invested from the first paragraph. 
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
@@ -65,8 +72,8 @@ I expect writers to be open to feedback, and willing to make the necessary chang
 
 **What hobbies do you have outside of writing and editing?**
 
-Reading! Ha! Other than that, no real hobbies. But I try to be a kick-ass mom to my kid.
+Reading! Ha! Other than that, no real hobbies. But I try to be a kick-ass mom to my kid. 
 
-**What published book did you love in 2018, and what did you love about it?**
+**What is your favorite book to reread, and why?**
 
-I mean…can we even have this conversation and not talk about _The Cruel Prince_ by Holly Black? What a luscious book! And what did I love? THAT ENDING! The way the twist took us by complete surprise. It changed the way I approach big reveals &mdash;in my own work, and the work of my clients.
+_The Other Boleyn Girl_ by Philippa Gregory. There’s something about Mary’s authenticity and voice that immerses the reader in the cesspool that was Henry VIII’s court. It gripped me the first time I read it (at age 15). I’ve reread it every year since, and it stands the test of time as a great study in historical voice that appeals to a commercial market, deep POV, characterization, and heart-pounding suspense. The movie didn’t do the book justice (CW for the movie: They added a rape scene that didn’t exist in Gregory’s work). 10/10 would recommend the book! 

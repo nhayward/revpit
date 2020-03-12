@@ -10,9 +10,9 @@ Once you have your manuscript and query letter ready to go, you’ll come here a
 
 ###### **Please make sure you use the correct email address to create your account. This is the only way editors will be able to contact you regarding your submission materials.**
 
-The link will become active on **April 6th, 2019 at 9:00am EST **and remain open until **11:59pm on April 7th, 2019**.
+The link will become active on **April 18th, 2020 at 9:00am EST **and remain open until **11:59pm on April 19th, 2020**.
 
-![](RevPitSubmitButton.jpg)
+[![](RevPitSubmitButton.jpg)]()
 
 **Step 1:** Browse the participating editor bios and select your top TWO choices and ONE alternate.
 

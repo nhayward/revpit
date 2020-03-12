@@ -1,6 +1,7 @@
 ---
 title: 'Ellen Brock'
 media_order: 'Ellen_Brock.jpg,Ellen_Brock_small.jpg'
+published: false
 last_name: Brock
 website: 'https://ellenbrockediting.com'
 twitter:

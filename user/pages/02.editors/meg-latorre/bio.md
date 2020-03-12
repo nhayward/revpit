@@ -1,5 +1,6 @@
 ---
 title: 'Meg LaTorre'
+published: false
 last_name: LaTorre
 website: 'http://www.iwriterly.com/'
 facebook:

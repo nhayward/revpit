@@ -3,8 +3,8 @@ title: 'Katie McCoach'
 last_name: McCoach
 website: 'http://www.katiemccoach.com'
 facebook:
-    name: 'Katie McCoach Editorial'
-    url: 'https://www.facebook.com/KatieMcCoachEditorial'
+    name: 'Writing with Coach McCoach'
+    url: 'https://www.facebook.com/groups/writingwithcoachmccoach/'
 twitter:
     name: '@katiemccoach'
     url: 'https://twitter.com/katiemccoach'
@@ -17,50 +17,59 @@ mini: true
 
 ##### Bio
 
-KATIE McCOACH is a developmental editor working with traditional and self-published authors. Her motto is, “Let’s create your best story!” Many of her authors have gone on to land literary agents and publishing deals, and several have won awards. Her editing specialties are memoir, sci-fi, fantasy, dystopian, and romance for YA, NA, and adult audiences.
+KATIE McCOACH is a developmental editor and book coach. She’s been helping authors grow their best stories since 2012. Many of her authors have gone on to land literary agents and publishing deals, and several have won awards. Her editing specialties are sci-fi/fantasy, dystopian, contemporary, and romance for YA and adult audiences.
 
-She is a PRO member of Romance Writers of America, a member of ALLi, and she mentors teen girls in creative writing through WriteGirl. She is a founding editor of Revise & Resub (RevPit), a contest for emerging writers. 
+She is a founding editor of Revise & Resub (RevPit), a contest for emerging writers. She judges multiple writing contests, is a Reedsy Prompts judge, and also mentored teen girls in creative writing through WriteGirl, a local organization. She also runs an online Facebook writing community. 
 
-With a coffee shop on every corner in Los Angeles, you’ll never find Katie without caffeine.
-
+She drinks too much coffee, over-cuddles her allergy-inducing cats, is obsessed with almost every show on The CW, and colors a new drawing every day. With a coffee shop on every corner in Los Angeles, you’ll never find Katie without caffeine.
 
 ##### MSWL
 
-I am all about character-driven stories. I love voices with a bite, characters with strong convictions, and a world that grips me from page one. 
+If you are familiar with my usual MSWL from past RevPit years, it’s time to throw your preconceived notions out the window! I’m looking for a whole new world of stories this year.
 
-I usually lean toward stories with romance, and I’ll still be happy to see those, but this year I’m also in the mood for something gritty. I want that manuscript that takes things a little further, maybe even gets a little darker, and explores the many layers of a person and their relationships. 
+I still want characters will hella-strong goals and motivation, and all the stakes, but I want it in the form of something imaginative, strange, exciting, adventurous, diverse, possibly near-future, and high-concept. And YA only. 
 
-Diverse voices? YES, please.
+YA ONLY. (I’ll also accept stories that might be considered New Adult).
 
-Breakdown:
- * YA, NA, Adult
- * Contemporary, women’s fiction, romance, fantasy, sci-fi, dystopian, mystery, suspense, thriller.
- * I will **not** be accepting: historical fiction, historical fantasy, middle grade fiction, space opera, erotica, or stories that include ghosts, shape-shifting, dragons, demons, angels, rape, or suicide.
- * I will **not** consider anything over 120k words.
+I’m interested in YA in these genres: 
+
+ * Fantasy (especially Urban fantasy)
+ * Dystopian
+ * Sci-fi
+ * Thriller/Suspense
+ * Adventure
+
+DO NOT SEND:
+
+ * Middle grade or adult
+ * Historical or historical fantasy
+ * Anything with dragons, demons, or angels
+ * Anything over 120k words
 
 ##### Q&A
 
 **How can a manuscript’s first five pages make you sit up and take notice?**
 
- * Voice is _key_. I want to be convinced to follow this character anywhere they take me. I need to care about their plight.
- * Pages begin in the right place.
- * A vivid world: I want to feel inserted into the story, setting, and vibe immediately. 
- * Strong grasp of writing mechanics, especially Show Don’t Tell and Deep POV.
+I want to reach the cut off of the first five pages and wish there was more. It’s not only about a hook for me, but being invested in the character—do I care if they reach their goal? 
+
+If I don’t know the character’s goal, if I don’t have a hint of why they _care_ about their goal, and if it seems like nothing is at stake for them, then I’ll be moving on. Don’t let me move on! 
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
- * You can expect to work with someone who is excited to see you reach your writing goals. I want to do all I can to help get you there. I hope to encourage you, get you excited to plow through the tough spots, and see you grow as a writer. I will help you dig deep to pull out the parts of your story that are hiding and make your manuscript shine.
- * Once it’s announced we are working together, I’d like to have a phone call. We’ll chat about the book, your goals, your struggles, and what you can expect in working together. I am your person. I am committed to your book (and your career as a writer). You will not be alone in this process.
+You can expect to work with an editor who is passionate about taking you and your story through the growth process to bring your vision to fruition. I’m going to put you to work. I’m going to make you dig deep. It’s not going to be easy, but I will do everything I can to make sure you have all the tools and encouragement you need in order to do the hard work. 
 
+Once it’s announced we are working together, I’d like to have a phone or Zoom call. To be honest, I might want to have quite a few phone/Zoom calls throughout the process. We’ll chat about the book, your goals, your struggles, and what you can expect in working together. I am your person. I am committed to your book (and your career as a writer). You will not be alone in this process; I’m **all in** on you. 
+
+Also, I hope you like exclamation points! I will use them in _every_ email. 
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-Open communication. Respect. We are both going to put in a lot of time and effort in this manuscript, and I don’t take it lightly. I hope you won’t either. I will work with your vision and help you take it there, but I do not expect you to agree with every suggestion I make. I do expect that we can have discussions about suggestions or questions, and work together to do what the story is requiring of us. Also, I hope you like exclamation points! I will use them in _every_ email. It’s how I convey enthusiasm. I would love to see them (or your own method of enthusiasm) in return! But fair warning, I’ll still chop them out of your MS.
+Clear communication, respect, and open-dialogue about ideas, struggles, confusion, and excitement. We are both going to put in a lot of time and effort into this manuscript, and I don’t take it lightly. I hope you won’t either. I will work with your vision and help you take it there, but I do not expect you to agree with every suggestion I make. I do expect that we can have discussions about suggestions or questions, and work together to do what the story is requiring of you.
  
 **What hobbies do you have outside of writing and editing?**
 
-I enjoy cross-stitching, although I like teaching myself so most creations turn out…interesting to say the least. I write romance, “read” on walks, re-binge favorite shows (The Vampire Diaries, Brothers & Sisters, Parks & Rec), and listen to the Big Little Lies soundtrack over and over.
+I love to listen to podcasts and audio-books while I color, cross-stitch, or complete 1,000-piece puzzles on my iPad (my cats would destroy the real thing). I discovered that Pilates on the reformer is the best workout ever, The CW has all my favorite TV shows, Tarot is fascinating, and my habit of re-binging The Vampire Diaries at least once a year will probably never stop.
 
-**What published book did you love in 2018, and what did you love about it?**
+**What is your favorite book to reread, and why?**
 
-I loved _The Kiss Quotient_. The voice is so pure and captivating! It’s a contemporary romance with an unconventional set-up (think Pretty Woman gender swap) and the heroine is refreshing and real. It’s also an #ownvoices novel; the author opens our eyes to characters with autism. 
+_Uglies_ by Scott Westerfeld. And _Pretties_ and _Specials_. Gosh, I love that series. It was one of the first sci-fi YA series that truly swept me up. It’s been several years since I reread it, so I don’t know exactly how well the writing holds up, but the story arc has never left me. The images of that world are so vivid in my mind. Honestly, I’m still searching for the next trilogy that sweeps me up the same way.
