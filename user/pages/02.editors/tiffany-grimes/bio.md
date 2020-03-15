@@ -11,6 +11,7 @@ twitter:
 instagram:
     name: 'Burgeon Design and Editorial'
     url: 'https://www.instagram.com/burgeondesignandeditorial/'
+annual_contest_2020: true
 mini: true
 ---
 

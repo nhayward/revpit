@@ -8,6 +8,7 @@ twitter:
 instagram:
     name: 'Judi Lauren'
     url: 'https://www.instagram.com/judilauren'
+annual_contest_2020: true
 mini: true
 ---
 

@@ -6,6 +6,9 @@ website: 'http://www.EditorCassandra.com'
 twitter:
     name: '@OnlyCassandra'
     url: 'https://twitter.com/OnlyCassandra'
+annual_contest_2020: true
+annual_contest_2019: true
+mini: true
 ---
 
 ##### Bio

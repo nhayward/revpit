@@ -1,5 +1,6 @@
 ---
 title: 'Contest Schedule'
+media_order: AC2020AskEditor_Schedule.png
 ---
 
 ##### \#RevPit 2020 Annual Contest Begins April 18th! Learn more about the event [here](http://reviseresub.com/annual-contest).
@@ -8,7 +9,9 @@ title: 'Contest Schedule'
 
 **March 13th:** Editors announced!
 
-**March 16th-27th:** #AskEditor sessions.<br>
+**March 16th-27th:** #AskEditor sessions.
+
+![](AC2020AskEditor_Schedule.png)<br>
 
 **April 18th-19th:** Submission window opens.  
 The submission window opens at 9am EST on April 18th and will remain open until 11:59pm EST on April 19th.

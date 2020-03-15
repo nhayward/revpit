@@ -12,13 +12,15 @@ twitter:
 instagram:
     name: 'Book Light Editorial'
     url: 'https://www.instagram.com/booklighteditorial/'
+annual_contest_2020: true
 annual_contest_2019: true
 mini: true
 ---
 
 ##### Bio
 
-Carly Bornstein-Hayward is a developmental editor who helps authors find their voice and bring their book to light. With 10+ years in publishing, she’s worked all over the industry, including at a big 5 publishing house, a small press, a hybrid publisher, and a literary agency. She is a co-founding Revise & Resub (#RevPit) editor, a host on Story Chat Radio, a writing advice podcast, as well as an EFA and CWiP member. She will be your book’s best friend. 
+Carly Bornstein-Hayward is a developmental editor who helps authors find their voice and bring their book to light. With 10+ years in publishing, she’s worked all over the industry, including at a big 5 publishing
+ house, a small press, a hybrid publisher, and a literary agency. She is a co-founding Revise & Resub (#RevPit) editor, a host on Story Chat Radio, a writing advice podcast, as well as an EFA and CWiP member. She will be your book’s best friend. 
 
 Editing combines her love of reading, giving advice, and logic puzzles. When not reading or working she lounges with her husband being vastly amused by their cats or binge-watching TV.
 
@@ -27,7 +29,7 @@ Editing combines her love of reading, giving advice, and logic puzzles. When not
 I love to read everything, but this year, I’m trying to narrow down my wish list (please don’t tempt me, I will feel left out). This year I am taking Adult and YA. I’m accepting most romance subgenres, including historical, paranormal, and fantasy, but **not** contemporary. I’d also love to see fantasy, historical fiction (including gothic, or fantasy/sci-fi genre mash-ups), magical realism, dystopian, and character-driven speculative/sci-fi. This year I DO NOT want anything contemporary (unless it has fantasy/sci-fi elements), horror, hard sci-fi that **isn’t** character-driven, mystery/thriller, or MG.
 
 Let’s break it down. I’m accepting:
- * Adult: romance (paranormal, historical, fantasy), sci-fi, fantasy, magical realism, historical fiction
+ * Adult: romance (paranormal, historical, fantasy, steamy), sci-fi, fantasy, magical realism, historical fiction
  * Young Adult: fantasy, romance, paranormal, historical, dystopian
 
 **No:** nonfiction, contemporary (with the above exceptions), horror, mystery/thriller, or MG.

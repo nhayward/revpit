@@ -11,6 +11,7 @@ twitter:
 instagram:
     name: 'Miranda Darrow'
     url: 'https://www.instagram.com/miranda.darrow'
+annual_contest_2020: true
 mini: true
 ---
 

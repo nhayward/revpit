@@ -8,6 +8,7 @@ facebook:
 twitter:
     name: '@jenichappelle'
     url: 'https://twitter.com/jenichappelle'
+annual_contest_2020: true
 annual_contest_2019: true
 mini: true
 ---

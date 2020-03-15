@@ -12,6 +12,7 @@ twitter:
 instagram:
     name: Terac46
     url: 'https://www.instagram.com/terac46/'
+annual_contest_2020: true
 annual_contest_2019: true
 mini: true
 ---

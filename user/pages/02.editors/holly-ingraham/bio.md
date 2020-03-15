@@ -11,6 +11,7 @@ twitter:
 instagram:
     name: 'Holly Ingraham'
     url: 'https://www.instagram.com/hollyingraham/'
+annual_contest_2020: true
 annual_contest_2019: true
 mini: true
 ---

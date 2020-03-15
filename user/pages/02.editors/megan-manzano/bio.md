@@ -5,6 +5,7 @@ website: 'https://www.meg-edits.com/'
 twitter:
     name: '@Megan_Manzano'
     url: 'https://twitter.com/Megan_Manzano'
+annual_contest_2020: true
 mini: true
 ---
 

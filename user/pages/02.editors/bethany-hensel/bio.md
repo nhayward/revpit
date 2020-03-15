@@ -8,6 +8,7 @@ twitter:
 instagram:
     name: 'Bethany Hensel'
     url: 'https://www.instagram.com/bethanyhensel13'
+annual_contest_2020: true
 mini: true
 ---
 
