@@ -1,5 +1,6 @@
 ---
 title: 'Judi Lauren'
+published: false
 last_name: Lauren
 website: 'http://www.judilauren.com/'
 twitter:
@@ -23,7 +24,7 @@ Judi Lauren is an assistant editor at Entangled Publishing, and an editor at Rad
 This year I’m taking both YA and MG. In both categories I’m looking for:
 
  * Contemporary—I love dark, angsty stories. I love mystery and thriller and romance (your book doesn’t have to have romance for me to pick you.) I love realistic contemporaries that show the gritty side of life. I don’t shy away from abuse/assault stories, as long as the crimes are shown as being wrong. I’m very up for dark subject matter: kidnappings, trafficking, death, abuse, torture, runaways, etc. I sound like a sadist, but send it to me!
- * Fantasy—For fantasy, I want pretty much the same as contemporary (especially the dark subject matter). My favorite fantasy books are ones that are very character driven, like Harry Potter and Percy Jackson. Epic fantasies are not right for me.
+ * Fantasy—For fantasy, I want pretty much the same as contemporary (especially the dark subject matter). My favorite fantasy books are ones that are very character driven, like Percy Jackson. Epic fantasies are not right for me.
  * Low sci-fi—same thing as fantasy (with dark subject matter). I love, love stories that are character driven, so give me characters I will fall in love with. Think I Am Number Four.
  * Basically, I’m very open to a lot of things. I’m open to characters with disabilities, LGBTQ themes, characters of different races, etc. AND if you have a book that’s dark, but also humorous, I’m more than up for that, as long as I can fall in love with the voice.
  * I’m a fan of layered characters that have to make difficult choices but have the voice that’ll make a reader still love them. I love strong characters who pop off the page and leave me wanting to read more into their lives, even after the book is over. I am definitely fine with language, sex, and violence, but your characters don’t have to do all these things to make me love them. 

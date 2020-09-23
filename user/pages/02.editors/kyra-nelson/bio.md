@@ -18,7 +18,7 @@ Kyra is a recurring character on the WordNerds vlog. She likes keeping busy whet
 
 ##### MSWL
 
-For the 2020 contest, I am focusing all my energy on YA (I love adult and MG as well, but I’m keeping my focus narrow for the contest). I read across all genres and am interested in genre-bending narratives as well.
+**In YA** I'm looking for all genres and am interested in genre-bending narratives as well.
 
 Things I’d especially love to see in my inbox:
  * Diverse and OwnVoices works
@@ -39,7 +39,16 @@ Things I’d especially love to see in my inbox:
  * Unreliable narrators
  * Ensemble cast of misfits
 
-If you don’t have those elements, but your book is YA, still consider submitting to me! My tastes run far and wide and this list is non-exhaustive. However, I am not a good fit for the following:
+If you don’t have those elements, but your book is YA, still consider submitting to me! My tastes run far and wide and this list is non-exhaustive. 
+
+**In MG** I also read across all genres. I'm particularly interested in:
+ * Whimsical adventures
+ * Creative worlds
+ * Humor
+ * Heartfelt books dealing with tough issues in sensitive ways
+ * Books addressing mental health
+
+However, I am not a good fit for the following:
 
  * Third person, present tense narration
  * Stories with talking animals

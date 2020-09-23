@@ -34,7 +34,7 @@ I love a strong narrative voice, vibrant, jump-off-the-page characters, smart pr
 **Definitely Yes:**
  * Adult: romance (historical, contemporary, paranormal, romantic suspense), romcom, women’s fiction, domestic suspense, cozy mystery, suspense, thrillers, horror
  * NA: romance, romcom, coming of age, paranormal
- * YA: contemporary, romance, romcom, paranormal, dystopian, horror
+ * YA: contemporary, romance, romcom, paranormal, dystopian, horror, thriller, suspense
 
 **No:** fantasy, literary fiction, BDSM, magical realism, MG, non-fiction, non-consensual sex scenes
 

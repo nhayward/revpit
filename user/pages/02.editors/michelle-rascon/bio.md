@@ -22,9 +22,9 @@ Michelle Rascon is a freelance fiction editor who works with self-publishing and
 
 ##### MSWL
 
- * **Adult:** Dark fantasy, LGBTQIA+, romance, women’s fiction. I want something that will make me laugh and cry and close the book feeling satisfied.
+ * **Adult:** Dark fantasy, horror, LGBTQIA+, romance, women’s fiction. I want something that will make me laugh and cry and close the book feeling satisfied or scare me enough to leave the lights on at night.
  * **YA:** Dark fantasy, LGBTQIA+, paranormal, sci-fi. I’d love to read a novel with heartbreaking themes.
- * **MG:** Horror, mystery, paranormal, suspense, thriller. Give me something to keep the kid at heart in me on my toes.
+ * **MG:** Contemporary, horror, mystery, paranormal, suspense, thriller. Give me something to keep the kid at heart in me on my toes.
  * **Please do not send** epic or high fantasy, faith-based, historical anything, magical realism, military-based, space operas, or anything over 99,000 words.
 
 ##### Q&A

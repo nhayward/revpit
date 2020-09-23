@@ -6,6 +6,7 @@ twitter:
     name: '@JayWhistler'
     url: 'https://twitter.com/JayWhistler'
 annual_contest_2019: true
+mini: true
 ---
 
 ##### Bio

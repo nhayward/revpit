@@ -10,7 +10,7 @@ sidebar:
 
 **Revise & Resub (#RevPit)** is a Twitter writing community co-founded in 2017 by a group of editors. It supports authors by offering editing-focused chats and mini-events throughout the year as well as an annual contest wherein querying authors can win feedback and edits on their **full manuscripts** from professional editors, ensuring their works are polished and ready for agent inboxes.
 
-The #RevPit 2020 Annual Contest Begins **April 18th**! See the [Annual Contest page](http://reviseresub.com/annual-contest) for more details. Visit our [Mini-Events page](http://reviseresub.com/mini-events) for updates on workshops, chats, mini-contests, and more!
+The #RevPit 2021 Annual Contest Begins **April 10th**! See the [Annual Contest page](http://reviseresub.com/annual-contest) for more details. Visit our [Mini-Events page](http://reviseresub.com/mini-events) for updates on chats, mini-contests, and more!
 
 The #RevPit editors have created a Reedsy Learning course on practical tips for revising your novel. Learn more and sign up [here](https://blog.reedsy.com/learning/courses/writing/novel-revision-practical-tips-rewrites?target=_blank).
 
@@ -44,14 +44,6 @@ The #RevPit editors have created a Reedsy Learning course on practical tips for 
 
   <div class="plank-editor pure-u-1-2 pure-u-md-1-5 pure-u-lg-1-5">
 
-    <a href="https://katiemccoach.com/" target="_blank">
-      <img src="/editors/katie-mccoach/Katie_McCoach_small.jpg" alt="Katie McCoach">
-    </a>
-    
-  </div>
-
-  <div class="plank-editor pure-u-1-2 pure-u-md-1-5 pure-u-lg-1-5">
-
     <a href="https://kyramnelson.com/" target="_blank">
       <img src="/editors/kyra-nelson/Kyra_Nelson_small.jpg" alt="Kyra Nelson">
     </a>
@@ -66,10 +58,18 @@ The #RevPit editors have created a Reedsy Learning course on practical tips for 
     
   </div>
   
-  <div class="plank-editor pure-u-1-2 pure-u-md-1-5 pure-u-lg-1-5">
+    <div class="plank-editor pure-u-1-2 pure-u-md-1-5 pure-u-lg-1-5">
 
-    <a href="https://www.teracuskaden.com/" target="_blank">
-      <img src="/editors/tera-cuskaden/TeraCuskaden_small.jpg" alt="Tera Cuskaden">
+    <a href="https://mariatureaud.com/" target="_blank">
+      <img src="/editors/maria-tureaud/Maria_Tureaud_small.jpg" alt="Maria Tureaud">
+    </a>
+    
+  </div>
+  
+   <div class="plank-editor pure-u-1-2 pure-u-md-1-5 pure-u-lg-1-5">
+
+    <a href="https://www.mirandadarrow.com/" target="_blank">
+      <img src="/editors/miranda-darrow/Miranda_Darrow_small.jpg" alt="Miranda Darrow">
     </a>
     
   </div>

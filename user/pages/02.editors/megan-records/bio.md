@@ -59,4 +59,4 @@ I like to sew, bake, mentally redecorate/renovate my house, and play board games
 
 **What is your favorite book to reread, and why?**
 
-I’ve read the Harry Potter series more times than I remember (proud Ravenclaw here). It’s not a particularly creative or unique answer, but I’m owning it.
+I’ve read the Harry Potter series more times than I remember (proud Ravenclaw here). It’s not a particularly creative or unique answer, but I’m owning it. (My love for the story and character hasn't changed, but I don't support JK due to her anti-trans actions and speech. I'm fully open to trans authors and welcome suggestions on how best to support them.)

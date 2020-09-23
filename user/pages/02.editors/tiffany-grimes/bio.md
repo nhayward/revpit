@@ -17,15 +17,15 @@ mini: true
 
 ##### Bio
 
-Tiffany Grimes is a developmental editor and designer who helps writers flourish and bloom. She has her MFA from Hamline University in writing for children and young adults. Her writing has been published in Feels Blind Literary, Meat for Tea: The Valley Review, Microfiction Monday Magazine, The Fiction Pool, Ruminate Magazine, and HerStry. When she’s not editing or designing websites, she loves hiking, backpacking, sipping Earl Gray tea, snuggling with her cats, and just about every kind of craft.
+Tiffany Grimes is a developmental editor and designer who helps writers flourish and bloom. She has her MFA from Hamline University in writing for children and young adults. Her writing has been published in Feels Blind Literary, Meat for Tea: The Valley Review, Microfiction Monday Magazine, The Fiction Pool, Ruminate Magazine, and HerStry. When she’s not editing or designing websites, she loves hiking, backpacking, sipping Earl Grey tea, snuggling with her cats, and just about every kind of craft.
 
 ##### MSWL
 
-For this contest, I want only young adult and new adult! I want character driven plots, quiet stories (think internal conflict), queer characters, friends-to-lovers, enemies-to-lovers, diverse characters, anything \#ownvoices, geeky topics (ren faires, gamers, comic cons, etc), unreliable narrators, modern gothic, and magic everything (witches, school of magic, you name it).
+For this contest, I want only middle grade, young adult, and new adult! I want character driven plots, quiet stories (think internal conflict), queer characters, friends-to-lovers, enemies-to-lovers, diverse characters, anything \#ownvoices, geeky topics (ren faires, gamers, comic cons, etc), unreliable narrators, modern gothic, and magic everything (witches, school of magic, you name it).
 
 Breakdown:
- * Young adult and new adult
- * Contemporary, romance, historical (especially historical fantasy), fantasy, sci-fi, dystopian, magical realism, novels in verse
+ * Young adult and new adult: contemporary, romance, historical (especially historical fantasy), fantasy, sci-fi, dystopian, magical realism, novels in verse
+ * Middle grade: contemporary and sci-fi
  * I’m not a good fit for non-fiction, memoirs, or graphic novels
  * Nothing over 100k words (due to the contest limitations)
 
@@ -46,9 +46,3 @@ Excitement and communication! We’ll be spending a lot of time working on this 
 **What hobbies do you have outside of writing and editing?**
 
 I read tons, sew, craft, hike, bake, watch a lot of tv and movies, travel, and drink lots of tea.
-
-**What is your favorite book to reread, and why?**
-
-The only books I reread are the Harry Potter series! They have a special place in my heart, because they’re the books that jump-started my love of reading. I’m too busy reading new books and client manuscripts to reread anything else. 
-
-Latest obsessions: _Thirteen Doorways_, _Wolves Behind Them All_ by Laura Ruby (incredible genre-bending masterpiece with ghosts!) and _Red, White, and Royal Blue_ by Casey McQuiston (the—first woman!— president’s son falls for the prince of England, swoon).

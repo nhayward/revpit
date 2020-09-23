@@ -4,13 +4,15 @@ title: 'How to Submit'
 
 ### How to Submit
 
-The Revise & Resub (#RevPit) [Annual Contest](http://reviseresub.com/annual-contest) is open to completed, unpublished, fiction manuscripts ONLY. By entering, you have the chance to win 5 weeks of editing of your **full manuscript**. Your manuscript should be polished and beta-reader tested before submission. Only **one** submission per entrant. 
+The Revise & Resub (#RevPit) [Annual Contest](http://reviseresub.com/annual-contest) is open to completed, unpublished, fiction manuscripts ONLY. By entering, you have the chance to win 8 weeks of editing of your **full manuscript**. Your manuscript should be polished and beta-reader tested before submission. Only **one** submission per entrant. 
 
-Once you have your manuscript and query letter ready to go, you’ll come here and click the link to our submission form. Google does require writers to sign up for an account, but the account is free. 
+Once you have your manuscript and query letter ready to go, you’ll come here and click the link to our submission form. 
 
-###### **Please make sure you use the correct email address to create your account. This is the only way editors will be able to contact you regarding your submission materials.**
+###### **Please make sure you use the correct email address when submitting. This is the only way editors will be able to contact you regarding your submission materials.**
 
-The link will become active on **April 18th, 2020 at 9:00am EST **and remain open until **11:59pm on April 19th, 2020**.
+The link will become active on **April 10th, 2021 at 9:00am EST **and remain open until **11:59pm on April 11th, 2021**.
+
+If you need accommodations for the submission window due to disability, religion, or other special considerations, please contact us via email.
 
 [![](RevPitSubmitButton.jpg)]()
 

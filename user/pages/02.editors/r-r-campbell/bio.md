@@ -1,10 +1,8 @@
 ---
 title: 'r. r. campbell'
+media_order: 'RR_Campbell.jpg,RR_Campbell_small.jpg'
 last_name: campbell
 website: 'http://www.rrcampbellwrites.com'
-facebook:
-    name: 'r. r. campbell'
-    url: 'http://www.facebook.com/iamrrcampbell'
 twitter:
     name: '@iamrrcampbell'
     url: 'http://www.twitter.com/iamrrcampbell'
@@ -17,8 +15,4 @@ mini: true
 
 ##### Bio
 
-r. r. campbell is an author, editor, and the founder of the Writescast Network, a podcast collective for writers, by writers. His published novels include _Accounting for It All_ and _Imminent Dawn_, which debuted as the number one new release in LGBT science fiction on Amazon. Its sequel, _Mourning Dove_, is slated for release on April 29, 2019 with NineStar Press.
-
-His work has also been featured in _Five:2:One Magazine’s #thesideshow_, _Erotic Review_, and with _National Journal Writing Month_.
-
-r. r. lives in Wisconsin with his wife and their cats, Hashtag and Rhaegar.
+R.R. Campbell is an author, writing coach, and the founder of the Writescast Network, a podcast collective that's been helping creatives worldwide become more confident in themselves and in their craft since 2016. His published novels include _Accounting for It All_ and _Imminent Dawn_, which debuted as the number one new release in its genre on Amazon. Its sequel, _Mourning Dove_, is now available in print and ebook with most major retailers.

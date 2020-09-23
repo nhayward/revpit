@@ -2,7 +2,7 @@
 title: 'Annual Contest'
 ---
 
-### The #RevPit 2020 Annual Contest Begins April 18th!
+### The #RevPit 2021 Annual Contest Begins April 10th!
 
 In this contest, authors will be eligible to receive feedback and developmental edits on their **full fiction manuscript** from professional editors, ensuring their works are polished and ready for those agent inboxes. Not only will authors be immersed in a supportive community of their peers, they will also have the chance to learn more about how their story fits into the industry and obtain understanding of why different edits matter and how to continue practicing them in the future.
 
@@ -35,6 +35,8 @@ When the submission window closes, editors will read all entries. Watch your cho
  * [Sample Query](https://reviseresub.com/annual-contest/sample-query)
  * [Prizes](https://reviseresub.com/annual-contest/prizes)
  * Visit our [FAQ page](https://www.reviseresub.com/faq) for our Anti-Bullying and Harassment Policy
+
+For 2020 we paired with **Tessera Editorial** to bring mentees from that program on to \#RevPit to shadow our editors and gain experience with evaluating submissions and going through a slush pile. In their own words, "Tessera Editorial was founded on the idea that publishing can and should be an accessible industry to all people. Through myriad diverse voices in the profession, we hope to open the world of books to as many readers as possible." Learn more about them on [their website](https://www.tesseraeditorial.com?target=_blank)!
 
 
 

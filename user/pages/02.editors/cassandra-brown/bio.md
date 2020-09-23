@@ -1,6 +1,7 @@
 ---
 title: 'Editor Cassandra'
 media_order: 'Cassandra_Brown.jpg,Cassandra_Brown_small.jpg'
+published: false
 last_name: Brown
 website: 'http://www.EditorCassandra.com'
 twitter:

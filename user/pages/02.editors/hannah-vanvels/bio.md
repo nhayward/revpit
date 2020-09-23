@@ -22,11 +22,14 @@ Middle Grade
  * Contemporary fantasy – something with humor and heart and, duh, magic!
  * Adventure – something like the Brendan Frasier version of The Mummy but with tweens
  * Animals – a beautiful emotional story that involves animals and will probably make me cry
+ * Science Fiction - Character driven adventure stories that use technology in fun and engaging ways. Outer space settings!
 
 YA
  * Fantasy – (dark, urban, contemporary, high&mdash;all of it!) I have a soft spot for reluctant heroes, who inevitable shouts, “I never asked for any of this!”
  * Horror – Ghosts, witches, vampires, and contagions are very much welcome
  * High concept contemporary – slow burn romances, girls supporting girls, friendship and friendship breakups, and self-love are some of my favorite themes
+ * Science Fiction - Accessible science fiction. Think Star Wars or Marvel movies. I'm looking for a strong grounded story in which you do not need to understand the ins and outs of time travel and quantum physics in order to follow along
+ * Thrillers - Stories with a tightly-knit, well-paced plot, clever and nuanced characters, and a twist that readers will never see coming.
 
 Adult
  * Horror – Gothic, witchy, atmospheric elements in a dark and devious story
