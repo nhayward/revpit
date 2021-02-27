@@ -11,25 +11,33 @@ mini: true
 
 ##### Bio
 
-Megan Records has been a professional editor for over 13 years. She edits most types of fiction, but particularly loves romance, mysteries, and YA. Editing isn’t just about fixing—it’s about learning what you’re doing right, where you can improve, and how you can grow as a writer. Through developmental and line editing, Megan helps authors make their stories shine!
+Megan Records has been a professional editor for over 14 years. She edits most types of fiction, but particularly loves romance, mysteries, and YA. Editing isn’t just about fixing—it’s about learning what you’re doing right, where you can improve, and how you can grow as a writer. Through developmental and line editing, Megan helps authors make their stories shine!
 
-After getting her M.S. in Publishing, she spent a year in educational publishing before finding her dream job at Kensington Publishing, where she edited for the Brava, Zebra, and KTeen lines. She’s worked with authors at the top of their careers, including NYT and USA Today bestselling authors, and ones just starting out. Now as a freelancer, she collaborates with publishers (such as Sourcebooks and Grand Central) and authors to make awesome stories.  
+Her resume says she has a M.S. in Publishing and worked at Kensington Publishing. What she actually has is (sometimes crippling) imposter syndrome and a serious addiction to the em dash. She’s a Midwest transplant currently living near Philadelphia. When not editing, you can find her singing rather loudly to a variety of music, trying to convince herself to exercise, and drinking copious amounts of tea (seriously, it might be a problem).
+
+**Pronouns: She/Her**
 
 ##### MSWL
 
-This is what I’m looking for this year. Not sure if yours is a good fit (or maybe you have a mixed genre project)? Feel free to ask me on my #askeditor chat—I’ll let you know if I’d be interested. 
+This is what I’m looking for this year. Not sure if yours is a good fit (or maybe you have a mixed genre project)? Feel free to ask me on my #askeditor chat&mdash;I’ll let you know if I’d be interested.
 
-**Adult:**  
- * romance of all heat levels in these subgenres: contemporary, historical, paranormal, fantasy,  romantic suspense
- * fantasy
- * cozy mysteries and historical mysteries  
- * Lighter women’s fiction (think Austenland) 
+**Adult:**
+ * romance of all heat levels in these subgenres: contemporary, historical, paranormal, fantasy, romantic suspense
+ * character-driven fantasy (not epics)
+ * cozy mysteries and historical mysteries
+ * Lighter women’s fiction (think Austenland)
 
 **YA:**
- * romance in these subgenres: contemporary, historical, paranormal, fantasy,  romantic suspense 
- * fantasy 
+ * romance in these subgenres: contemporary, historical, paranormal, fantasy, romantic suspense
+ * character-driven fantasy (not epics)
  * dystopian
  * historical mystery
+
+**MG:**
+ * fantasy
+ * adventure
+ * lighthearted contemporary
+ * dystopian
 
 **Not For Me:**
  * Sci-fi
@@ -43,11 +51,11 @@ This is what I’m looking for this year. Not sure if yours is a good fit (or ma
 
 **How can a manuscript’s first five pages make you sit up and take notice?**
 
-A strong voice will drag me in from the start. Other than that, I really like when I can start to see the potential conflict with your inciting incident. Does your heroine show up to her cabin in the middle of a snowstorm to find out the cabin is already occupied? Hooray! Did a king/duke/leader just die in your historical/fantasy/paranormal, and now there are questions about the heir? I’m all over it. 
+A strong voice will drag me in from the start. Other than that, I really like when I can start to see the potential conflict with your inciting incident. Does your heroine show up to her cabin in the middle of a snowstorm to find out the cabin is already occupied? Hooray! Did a king/duke/leader just die in your historical/fantasy/paranormal, and now there are questions about the heir? I’m all over it.
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-I always say a good editor is a coach, not a critic. I’ll cheer you on when you’re doing something right, point out what’s not working, and give you specific suggestions for improving.  Expect to start with big picture issues so we can make sure all the elements are in place. I’d like to do an initial phone/Skype call so we can get to know each other a bit, and then I’ll stick to email after that. 
+I always say a good editor is a coach, not a critic. I’ll cheer you on when you’re doing something right, point out what’s not working, and give you specific suggestions for improving. Expect to start with big picture issues so we can make sure all the elements are in place. I’d like to do an initial phone/video call so we can get to know each other a bit, and then I’ll stick to email after that.
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
@@ -55,8 +63,8 @@ The editing process should be collaborative. I don’t want you to blindly accep
  
 **What hobbies do you have outside of writing and editing?**
 
-I like to sew, bake, mentally redecorate/renovate my house, and play board games with my husband and kids. Recent TV watches include _Schitt’s Creek_ and _Crash Landing on You_. And obviously I read a lot. 
+Does sleeping count as a hobby? :] When I have the energy, I like to bake, do puzzles, have silly dance parties with my kids, and take long walks. (But let’s face it, energy is in short supply during this pandemic!)
 
-**What is your favorite book to reread, and why?**
+**What was your favorite show to binge watch in the last year?**
 
-I’ve read the Harry Potter series more times than I remember (proud Ravenclaw here). It’s not a particularly creative or unique answer, but I’m owning it. (My love for the story and character hasn't changed, but I don't support JK due to her anti-trans actions and speech. I'm fully open to trans authors and welcome suggestions on how best to support them.)
+I watched every episode of _Run BTS!_ twice last year. Sometimes you just need goofy guys playing silly variety-show games. The eye candy doesn’t hurt either.

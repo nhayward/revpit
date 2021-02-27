@@ -13,6 +13,8 @@ mini: true
 
 Megan fell in love with reading and writing from a young age. She grew up to receive a BA in English with a minor in philosophy; eager to stay as close to books as possible. She has and continues to wear many hats in the publishing world: freelance editor, writer, a marketer for Trade books and now an Agent at D4EO Literary Agency. In her spare time, she’s either traveling, hiking, snuggling her dog, or binge-watching television shows.
 
+**Pronouns: She/Her**
+
 ##### MSWL
 
 For this year’s contest, I will be accepting middle grade and young adult stories. I’m super interested in stories that have diversity in terms of characters, setting, and culture, gray morality, soft/geeky characters, queer representation, slow burn relationships, angst, and strong friendships/sibling relationships. 

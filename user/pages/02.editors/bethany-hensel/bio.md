@@ -14,44 +14,55 @@ mini: true
 
 ##### Bio
 
-BETHANY HENSEL is a writer, editor and teacher. With over ten years of experience, whose clients include both indie and trad published bestselling authors, she truly believes that no manuscript ever gets better unless it gets challenged, and she loves nothing more than asking big questions and digging deeper. She knows what it’s like to feel as if you’re wasting time and not getting anywhere. You just want answers! After thousands of pages read and edited, and with an eye toward big picture issues such as character motivation, world building, magic/eco/political systems, plot, pacing, structure and voice, she is ready and waiting to help you find those answers. 
+BETHANY HENSEL is a writer, editor and teacher. With over ten years of experience, whose clients include both indie and trad published bestselling authors, she truly believes that no manuscript ever gets better unless it gets challenged, and she loves nothing more than asking big questions and digging deeper. After thousands of pages read and edited, and with an eye toward big picture issues such as character motivation, world building, magic/eco/political systems, plot, pacing, structure and voice, she is ready help you find those answers.
 
-Bethany is especially committed to helping build up the vital voices of our most marginalized creators. She is a strong advocate for the \#weneeddiversebooks and \#ownvoices movements. What we read is powerful. Stories shape the world, and she wants to ensure our stories are representative and true of the incredible diversity that exists all around us.
+Bethany is especially committed to helping build up the vital voices of our most marginalized creators. She is a strong advocate for the #weneeddiversebooks and #ownvoices movements. "What we read is powerful. Stories shape the world, and I want to ensure our stories are representative and true of the incredible diversity that exists all around us."
+
+**Pronouns: She/Her**
 
 ##### MSWL
 
-Real. Whether it features unicorns and vampires, or a small-town girl and the boy next door, I need the story to be real. Caricatures, cardboard cutouts, stereotypes and manufactured drama need not apply. I want plots that feel so organic that they don’t need to be loud or crazy, just surprising yet inevitable. However, I am all the way down for a story that is full of thrills and twists and incredible, inventive magic. 
+2021 is all about the real world for me!
+ * MG - Contemporary
+ * YA - Contemporary
+ * Adult - Contemporary
 
-Mostly, I want to work with stories that feature characters that haven’t existed before but need to. The kind of characters that – whether dipped in stardust, ten-thousand years old, falling in love for the first time, or trying desperately to save (or end) the world - can only exist by cutting your heart open and laying it bare. 
+\#ownvoices!
 
-Breakdown:
- * YA – contemporary, fantasy. Some favs: Leigh Bardugo, Marie Lu, Tomi Adeyemi, Ellen Oh, Adalyn Grace, 
- * Adult – contemporary romance, fantasy, urban fantasy. Some favs: Tiffany Reisz, Lisa Kleypas, Helen Hoang, Victoria Schwab/V.E. Schwab, Jeaniene Frost
- * I will not be accepting: historical, sci-fi, epic fantasy, non-fiction, excessive gore, animal deaths, gratuitous violence
- * I will not consider anything over 100k words
+I'm looking for books with heart. Make me cry, make me laugh, make me do both! Give me characters who are a piece of your own dreams and hopes. Give me a character that doesn't exist yet but really needs to. Give me a plot that's layered and fun and thrilling. Organic yet surprising, heartbreaking yet hopeful.
+
+Some of my favorite characters in books and movies, and some of my favorite authors are: Chris Chambers from _Stand by Me_ (played by River Phoenix), Stella Lane from _The Kiss Quotient_ (Helen Hoang), Kiera Johnson from _Slay_ (Britteny Morris), Sonora Webster from _Wild Hearts Can't Be Broken_, Adonis Creed from _Creed_, Syd from _I Am Not Okay with This_, Hardy Cates from _Blue Eyed Devil_ (Lisa Klypas) and Fleabag from _Fleabag_. I'm a huge fan of anything Angie Thomas writes, I adore debut author Bethany Mangle, and Jesse Sutanto's _The Obsession_ is one of my favorite books ever. 
+
+What do all of these characters have in common? Amazing conflict, stakes, heart, soul, and a fire inside that won't ever burn out.
+
+Bonus points if your book comps to any River Phoenix character, Taylor Swift song, or Christopher Pike book.
+
+**Anti-MSWL:** anything over 80k, animal deaths, gratuitous violence, fantasy, historical, horror, sci-fi, Covid-19 storylines
 
 ##### Q&A
 
 **How can a manuscript’s first five pages make you sit up and take notice?**
 
-Voice. Cadence. Confidence. Clarity. Don’t forget those grounding details. Also, character! Give me a lead who raises the hairs on my arms as well as the rate of my heart and I’m pretty much yours forever. 
+Exactly how a song can make me stop and listen to it when I'm flipping through channels on the radio. It's that combination of voice, rhythm, hook. The overall vibe of it. It's a variation of tempo, so then it's not a droning "and then this happened, then that happened, then this happened." Instead, it's a thoughtful construction where every word counts. 
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-I am BIG on communication. If something doesn’t make sense, call me. Text. Whatever you prefer. In terms of the actual work…expect it. We have a short amount of time to get your manuscript shining, and I’m going to challenge all levels of your story. 
+Writers can expect to work hard! My last year's winner did massive edits/rewriting on their book. I think about ten percent of it remained unchanged. While I don't know if that sort of edit will be needed for this year's story, my main goal is to make your book as strong as it can be. I'll never change the heart of it. (If you submit a YA _Always Be My Maybe_, I'm not going to turn it into an MG _John Wick_. Can you even imagine?)  But I will be reading critically. I'll be asking tough questions. 
 
-So we’ll start with a call, and then you’ll get an in-depth edit letter going over the big stuff. Open communication the whole way through to brainstorm, talk, etc.  I really want to do at least two rounds of edits on your book, so we’ll be running right out of the gate.
+As for communication, my edit letter will hit your inbox ASAP, followed by a hoot-filled phone call to welcome you to #TeamPhoenix and go over our game plan. We'll be hitting the ground running! And if during the revision period you want to talk on the phone, email, text or DM, I'm fine with anything. Whatever your preference.
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-Trust and (prompt) communication. I want you to be happy you’re in this contest, not for bragging rights but because you know your story needs work and you want to do hard work. I want you to be excited you got a big ol’ edit letter, not because you want the adulation or compliments, but because you’re ready to be challenged.
+RevPit's Annual Contest is wonderful but it's tough. It's revising on a deadline and for many writers, that can be really intimidating. It can also be very hectic on already jam-packed schedules of at-home learning, working from home, juggling several jobs, etc. So the first thing I expect from my writer is that they tell me if they're struggling. I fully expect life to get in the way and throw its curveballs. What I don't expect is for a writer to ever suffer silently and alone. No way. 
 
-I am not for everybody, so I do expect the person I work with to already have a healthy relationship with the delete key. I’m bringing a critical eye and lots of cheerleading. Having said that, never in a million years do I expect you to take every editorial suggestion I make. Ultimately, this is your story and I am only here to assist in making it the best it can be. If your vision is to write the YA version of Speed, we’re going to make it the best YA version of Speed ever, not turn it into The Lake House.
- 
+Having said that, I do also expect that any writer submitting knows the schedule and honestly assess if this is the right time in their life for this contest. It's eight weeks long and you'll be doing a lot of work in those eight weeks. This contest is not something to enter just for bragging rights or validation. Enter because you really believe in your story and yourself and you want help making it shine.
+
+Finally, I expect the writer who works with me to have a very healthy relationship with the delete key, that they come with an open mind and open heart, that they ask questions, and that they remember to have fun.
+
 **What hobbies do you have outside of writing and editing?**
 
-I run an Etsy store full of merch that celebrates what means the most to me, such as adoption, animal rights and living the kind life. I love movies. Playing sports more than watching them. I adore anything to do with River Phoenix, such as planning a heist to get back his My Own Private Idaho jacket from James Franco’s house. Who’s with me?
+I am a crafting queen! Give me a glue gun and some glitter and I'll make you a Mardi Gras float. My love of River Phoenix is well documented in the annals of history and RevPit so I very much enjoy anything that has to do with him, like watching his movies, crafting Riv-inspired crafts, and talking about him to anyone who will listen. And even though it's not a hobby, I'm a huge animal lover and thought you should know. Oh! And I'm very good at making tofu delicious. Seriously.
 
-**What is your favorite book to reread, and why?**
+**What was your favorite show to binge watch in the last year?**
 
-Jeaniene Frost’s _Halfway to the Grave_. It has a killer opening chapter, incredible INCREDIBLE chemistry between the leads, a heroine that is so kickass and stabby and vulnerable. She’s just this side of Harley Quinn, except, not, y’know, psycho. And not all wrapped up in some mans. But girl is dangerous and sarcastic and funny and I love her. I also love that there is a story outside of the central love story that drives the plot; the urban fantasy elements are fresh; the sex scenes are really well written; and the ending is one of the most cinematic I’ve ever read. It’s a master class in pacing.
+_Cobra Kai_! _Cobra Kai_! _Cobra Kai_!

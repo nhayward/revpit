@@ -14,23 +14,28 @@ mini: true
 
 Elizabeth Buege is a Midwestern girl with a lifelong love of words. She could write her name when she was two, taught herself to read when she was four, and found by high school that people refused to play word games with her because she always won. After graduating with a B.A. in English writing and internship experience in book editing, she started her own editing business. She picked up some part-time teaching experience along the way, with three years teaching Spanish at a private school and four years teaching secondary writing classes for a local homeschool co-op. Elizabeth loves editing because it combines two of her favorite things: getting lost in books and helping people. When she’s not working, you can find her learning languages, gaming with friends, drinking tea, and making tasty messes in the kitchen.
 
+**Pronouns: She/Her**
+
 ##### MSWL
 
-Read carefully! My taste in books is wide and eclectic, but I’m a little quirky with my #RevPit requests. If you’re not sure whether your book fits my wish list, ask!
+As always, my wish list is fairly specific. I’m rewording it a bit this year to try to make it easier to follow. I do NOT have a word count limit, but stay within the guidelines for your genre.
 
-**I want your book if ANY of the following are true:**
+**Adult:**
 
- * It’s magic realism ([READ THIS FIRST!](http://www.elizabethbuege.com/magic-realism-do-you-really-know-what-it-is?target=_blank)), historical fiction, or a faith-based story. These stories can be MG, YA, or A.
- * It’s a story I begged to see more of after a mini event OR shortlisted in a previous contest (I highly recommend revising first). Genre/age category don’t matter here. 
- * It’s a character-driven story written for adults. I tend to favor fantasy, science fiction, contemporary, and the genres mentioned above, but I’ll consider other genres as long as (a) the MC has compelling internal and external struggles/journeys, (b) you know and use your genre well, and (c) you don’t send me the auto-no stories below.
- * BONUS POINTS: Your story fits one of the above categories AND one of the following themes: strong friendships, family bonds (especially siblings), characters dealing with the aftermath of loss/tragedy, and retellings of fairy tales and other classic stories.
- * I will also consider MG and YA stories that meet at least two of the four bonus points.
+ * Preferred genres: magic realism ([READ THIS FIRST](http://www.elizabethbuege.com/magic-realism-do-you-really-know-what-it-is?target=_blank)), historical fiction, faith-based stories (any genre), fantasy, science fiction, and contemporary. Yes, I like space opera. Yes, other genres are okay if they are character-focused (see below).
+ * Do NOT send: horror, paranormal as a genre, zombies, demons as main characters, and anything as gross as or grosser than season 3 of _Stranger Things_. Also, while I love romance in stories, I don’t want straight-up romance as the genre.
+ * Stories should be character-focused: the main character should have compelling internal and external struggles/journeys and compelling motivations.
+ * Bonus points: a focus on strong friendships, family bonds (especially siblings), characters dealing with the aftermath of personal loss, and retellings of fairy tales and other classic stories.
 
-**What I’m NOT taking:**
+**YA:**
 
- * Horror, straight-up paranormal (some elements okay in other genres), zombies, demons as main characters, or anything overly disturbing (Let’s just say season 3 of _Stranger Things_ crossed my grossness line).
- * Romance as a sole genre (but I DO enjoy romance as an element in other genres).
- * YA and MG that doesn’t fit one of the first two bullet points above OR multiple bonus points (I love books for younger readers, but so do several other editors in this contest!)
+ * Preferred genres: magic realism ([READ THIS FIRST](http://www.elizabethbuege.com/magic-realism-do-you-really-know-what-it-is?target=_blank)), historical fiction, and faith-based stories (any genre).
+ * I will only accept other genres in YA if they meet at least two of my bonus points: a focus on strong friendships, family bonds (especially siblings), characters dealing with the aftermath of personal loss, and retellings of fairy tales and other classic stories. I will NOT take horror, paranormal, or romance (see note under adult).
+
+**MG:**
+
+ * Preferred genres: magic realism ([READ THIS FIRST](http://www.elizabethbuege.com/magic-realism-do-you-really-know-what-it-is?target=_blank)), historical fiction, and faith-based stories (any genre).
+ * I will only accept other genres in MG if they meet at least two of my bonus points: a focus on strong friendships, family bonds (especially siblings), characters dealing with the aftermath of personal loss, and retellings of fairy tales and other classic stories. I will NOT take horror or paranormal (see note under adult).
 
 ##### Q&A
 
@@ -44,12 +49,12 @@ My first pass through your book will involve a full edit letter (the same one I 
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-Be ready and able to make major revisions in short windows of time. If I pick your story, it means it’s a good story and that I love it, but that love is going to look like tough love. I’ll be challenging you to deepen characterization and clarify plot elements in situations where there’s not always a “right” way to do so, so you should be ready to think through solutions. The more revisions you make after my first pass, the more constructive the second pass will be. Likewise, the sooner you can get back to me with query/page updates, the more time we’ll have for multiple passes on those materials.  
+Be ready and able to make major revisions in short windows of time. If I pick your story, it means it’s a good story and that I love it, but that love is going to look like tough love. I’ll be challenging you to deepen characterization and clarify plot elements in situations where there’s not always a “right” way to do so, so you should be ready to think through solutions. The more revisions you make after my first pass, the more constructive the second pass will be. Likewise, the sooner you can get back to me with query/page updates, the more time we’ll have for multiple passes on those materials. 
 
 **What hobbies do you have outside of writing and editing?**
 
 In no particular order, here are some of my loves: I love photography, state parks, and combining the two. I love making huge messes in the kitchen as I experiment with new recipes, with bonus points if the ingredients came from my friends at the local farmer’s market. I love dancing and singing to my favorite songs when nobody is around. I love games, whether tabletop or video games. My nerdiest obsession remains Minecraft, which has been an insanely abundant fountain of creativity and community for me.
 
-**What is your favorite book to reread, and why?**
+**What was your favorite show to binge watch in the last year?**
 
-I have a long list of children’s books that fit this question! I’ll pick two novels instead. The two novels I’ve reread the most are Robin McKinley’s _Spindle’s End_ and Matthew Stover’s novelization of _Revenge of the Sith_. _Spindle’s End_ is a Sleeping Beauty retelling that I read five times within a week of bringing it home as a kid, and I still love the living, breathing characters and long, flowing sentences that help me live in the magic of that world. _Revenge of the Sith_ fills in all the plot holes of the movie and paints a picture of a struggle between good and evil, light and dark that’s full of politics, what-ifs, and broken characters facing impossible decisions. Both of these books transport me to other times and places and have become a part of who I am as a reader and a person.
+_Star Wars_, _Star Wars_, and more _Star Wars_! With nowhere to go, my roommates and I made it through all seven seasons of _The Clone Wars_ in no time at all. I started with a skeptical "Who is this Ahsoka kid?" attitude, but by the end I was absolutely sobbing, "That's my girl!!!" as we got to watch the fall of the Jedi through her eyes. I love her so much. _Rebels_ made me laugh and cry, and it was way too short. Last but not least, _The Mandalorian_ was full of all the feels this year (even if I do have complaints about a few episodes not making sense&mdash;comes from being an editor, I guess!). 

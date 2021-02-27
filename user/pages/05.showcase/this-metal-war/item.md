@@ -1,7 +1,7 @@
 ---
 title: 'This Metal War'
 media_order: photo-1542642934-8d90142b60af.jpg
-published: true
+published: false
 taxonomy:
     category:
         - blog

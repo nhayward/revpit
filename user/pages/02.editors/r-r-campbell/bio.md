@@ -16,3 +16,5 @@ mini: true
 ##### Bio
 
 R.R. Campbell is an author, writing coach, and the founder of the Writescast Network, a podcast collective that's been helping creatives worldwide become more confident in themselves and in their craft since 2016. His published novels include _Accounting for It All_ and _Imminent Dawn_, which debuted as the number one new release in its genre on Amazon. Its sequel, _Mourning Dove_, is now available in print and ebook with most major retailers.
+
+**Pronouns: He/Him**
