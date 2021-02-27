@@ -17,13 +17,13 @@ mini: true
 
 ##### Bio
 
-Natasha Hanova is a thorough and understanding freelance developmental editor. Her goal is to collaborate with you in finding your manuscript’s voice. She believes it’s important for writers to come through the editing process with goals they can accomplish. Natasha wants your manuscript to shine.
+Natasha Hanova is a thorough and understanding freelance content editor. She’s represented by Veronica Park of Fuse Literary. Natasha believes it’s important for writers to come through the editing process with accomplishable goals. Her experiences as a biracial Black woman fuel her storytelling and her endeavors to lift and support other marginalized writers.
 
-She has taught writing workshops and has presented at a writer's conference. She’s currently also an authenticity reader for Harlequin, HarperCollins, and Capstone Publishing.
+**Pronouns: She/Her**
 
 ##### MSWL
 
-I love character-driven stories, great voice, and unexpected premises in Adult or Young adult.
+I love character-driven stories, great voice, and unexpected premises in Adult, New Adult, Young Adult, or Middle Grade. I’m drawn in by creative worlds, unique premises, and characters facing impossible choices.
 
 I want…
  * Romance, all subgenres (except historical) and heat levels.
@@ -34,7 +34,7 @@ I want…
 
 I’m not the right editor for…
  * Any kind of historic fiction.
- * Middle grade, picture books, or non-fiction.
+ * Picture books or non-fiction.
  * Anything over 110k words.
 
 ##### Q&A
@@ -49,12 +49,12 @@ As a content editor, my number one job is to find what isn’t working for the m
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-Writing is easy. Writing well is hard. I expect you to be open to feedback and ready to work hard. I love brainstorming and there may be times when we’ll need to work together to find solutions. Communication is key and given the tight timeline, quick responses will help us get the most out of this process. 
+Writing is easy. Writing well is hard. I expect you to be open to feedback and ready to work hard. I love brainstorming and there may be times when we’ll need to work together to find solutions. Communication is key and given the tight timeline, quick responses will help us get the most out of this process.
  
 **What hobbies do you have outside of writing and editing?**
 
-When I’m not editing or writing, I’m most likely trying to find a quiet place to read. I enjoy going to the movies, bingeing shows like _Parks & Rec_, _The Witcher_, _The Good Place_, or _Supernatural_, and traveling through all of time and space with The Doctor. My acrylic on canvas is more about time with friends and family than skill. My Insta is mostly cats.
+When I’m not editing or writing, I’m most likely trying to find a quiet place to read or crochet. I enjoy bingeing shows like _Schitt’s Creek_, _The Untamed_, _New Girl_, or _Supernatural_, and traveling through all of time and space with The Doctor. My acrylic on canvas is more about time with friends and family than skill. My Insta is mostly cats.
 
-**What is your favorite book to reread, and why?**
+**What was your favorite show to binge watch in the last year?**
 
-Oooh…a twist on a common question. To be honest, I don’t usually re-read anything because my shelf is overflowing with all the books I want to read. But if I were going to re-read one, it’d probably be _The Belles_ by Dhonielle Clayton (YA book) for the rich imagination, stunning settings, and unique characters. Or anything by Kresley Cole (either her YA or Adult books) for her fun characters, sassy heroines, and creative worlds.
+I honestly didn't expect to fall as hard as I did for _Schitt's Creek_.

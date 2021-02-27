@@ -24,6 +24,7 @@ Holly started her publishing career as the agency assistant at BookEnds Literary
 
 She lives just outside of NYC with her husband, twin daughters, and two furbabies.
 
+**Pronouns: She/Her**
 
 ##### MSWL
 

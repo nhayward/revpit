@@ -1,6 +1,6 @@
 ---
 title: 'Burning Caine'
-published: true
+published: false
 taxonomy:
     category:
         - blog

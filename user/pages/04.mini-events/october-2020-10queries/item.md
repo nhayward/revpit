@@ -108,7 +108,8 @@ Victoria is a fiction editor and the owner of Blue Pen Books, where she manages 
 
 #### Enter here:
 
-Rafflecopter Coming Soon! Check back closer to the event.
+<a class="rcptr" href="http://www.rafflecopter.com/rafl/display/4bed576913/" rel="nofollow" data-raflid="4bed576913" data-theme="classic" data-template="" id="rcwidget_gf095v5b">a Rafflecopter giveaway</a>
+<script src="https://widget-prime.rafflecopter.com/launch.js"></script>
 
 
 We hope to see you participate! And remember that every writer can benefit from following the #10Queries thread. 

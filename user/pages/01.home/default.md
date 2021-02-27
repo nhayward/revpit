@@ -45,7 +45,7 @@ The #RevPit editors have created a Reedsy Learning course on practical tips for 
   <div class="plank-editor pure-u-1-2 pure-u-md-1-5 pure-u-lg-1-5">
 
     <a href="https://kyramnelson.com/" target="_blank">
-      <img src="/editors/kyra-nelson/Kyra_Nelson_small.jpg" alt="Kyra Nelson">
+      <img src="/editors/kyra-nelson/Kyra_Nelson_small.jpeg" alt="Kyra Nelson">
     </a>
     
   </div>

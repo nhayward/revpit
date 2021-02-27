@@ -1,10 +1,8 @@
 ---
 title: 'Michelle Rascon'
+media_order: 'MichelleRascon.png,MichelleRascon_small.png'
 last_name: Rascon
 website: 'https://www.editorrascon.com/'
-facebook:
-    name: 'Rascon Revisions'
-    url: 'https://www.facebook.com/editorrascon'
 twitter:
     name: '@editorrascon'
     url: 'https://twitter.com/editorrascon'
@@ -18,37 +16,49 @@ mini: true
 
 ##### Bio
 
-Michelle Rascon is a freelance fiction editor who works with self-publishing and traditional authors to strengthen their writing while respecting their unique voice. Her specialties are dark fantasy, LGBTQIA+, paranormal romance and fantasy, and women’s fiction. Michelle enjoys naps, reading, binge-watching medical or crime dramas, and playing video games.
+Michelle Rascon is a freelance fiction editor with over five years of experience working with successful self-publishing and querying authors. Her goal is to strengthen your writing while respecting your unique voice. Her specialties are adult books in dark fantasy, LGBTQIA+, paranormal, romance, urban fantasy, and women’s fiction. An introvert at heart, Michelle enjoys naps, reading, gaming, listening to music, and cuddling with her cat.
+
+**Pronouns: She/Her**
 
 ##### MSWL
 
- * **Adult:** Dark fantasy, horror, LGBTQIA+, romance, women’s fiction. I want something that will make me laugh and cry and close the book feeling satisfied or scare me enough to leave the lights on at night.
- * **YA:** Dark fantasy, LGBTQIA+, paranormal, sci-fi. I’d love to read a novel with heartbreaking themes.
- * **MG:** Contemporary, horror, mystery, paranormal, suspense, thriller. Give me something to keep the kid at heart in me on my toes.
- * **Please do not send** epic or high fantasy, faith-based, historical anything, magical realism, military-based, space operas, or anything over 99,000 words.
+**MG - YA/Crossover - A/NA**
+
+ * Dark Fantasy
+ * Horror (psychological, supernatural)
+ * Mystery (MG only)
+ * Paranormal (ghosts, vampires, werewolves, witches)
+ * Retellings (gender-bent, diverse)
+ * Romance (contemporary, paranormal, slow-burn, steamy, sweet, all the tropes)
+ * Women's Fiction
+ * \#OwnVoices
+ * Body diversity
+ * Humor
+ * LGBTQIA+
+ * Mental health
+
+Please **do not** send anything to do with car accidents, even minor scenes, including backstory. **No exceptions**. I am also not accepting epic or high fantasy, Christian fiction, historical anything, magical realism, military-based, sci-fi, or speculative fiction for this contest. I am not limiting my word count this year, but it should be within or close to publishing standards for the genre.
 
 ##### Q&A
 
 **How can a manuscript’s first five pages make you sit up and take notice?**
 
-When I connect with the character, I connect with the story. Let me experience the main character’s emotions, decisions, and circumstances _with_ them. I want a clear POV that jumps right into what is happening in their world as the MC continues their journey.
+Open with the character(s) promised in the query letter. Give me a deep POV that lets me experience what the character is experiencing instead of telling me what the character is experiencing. I want a sense of who the main character is, where they are in their life, where they are going, and what they're risking. Show me that you know how to create a scene and understand the basics of the craft. Leave me wanting more.
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-You can expect a partnership. We’ll start by discussing your major concerns and questions via our chosen method(s) of communication. My goal is to help you perfect the story you’ve envisioned while keeping your voice. My focus during the first round of developmental editing is the big picture content like world-building, character development, action, pace, and plotting. You’ll receive comprehensive feedback and suggested changes using comments and track changes with Word. After you’ve made revisions, I’ll complete another round to review the changes and provide more feedback. We’ll also polish the query letter and first five pages together for the showcase.
+My preferred methods of communication are email and social media chats. I do not offer video calls or phone calls.
 
-My preferred methods of communication are social media and email. I will not do video chats or phone calls.
+We'll start by discussing your major concerns about the manuscript and the aspects you feel work well. Then, I'll read the full manuscript and write an editorial letter highlighting the strengths, opportunities, recommended revisions, and the next steps you should consider. We’ll have a follow-up chat to discuss any clarifications needed so you can get to work on revisions. We'll also polish your query letter and first five pages together for the showcase. I'll be available for brainstorming and support throughout the entire process, and I hope for long after!
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-Open communication, responsiveness, and respect are essential. If you have questions, ask! If you have concerns, voice them! If you do not want to make a particular change, tell me! This is your baby, and I expect you to protect it fiercely while also allowing it to change and grow.
-
-Prepare to make significant revisions in a limited amount of time, including cutting, adding, and reshaping. I expect you to work as hard, dedicate as much time, and lose as much sleep during the time we have together as I do.
+Mutual, open communication, responsiveness, and respect are essential to a positive working relationship. I expect you to ask questions, voice your concerns, and refuse to make certain subjective changes. Your book is your baby, and I want you to protect it fiercely while also allowing it to adjust and grow. I also expect you to work at least as hard as I will.
 
 **What hobbies do you have outside of writing and editing?**
 
-I love napping, bugging my cat for pets, playing video games, reading, and watching TV.
+Sometimes I squeeze in a TBR book or an audiobook. The kid and I go for walks on most weekdays. I practice yoga and lift weights. I listen to music. Sometimes I play video games. The hubs and I watch TV or movies on weekend nights. Occasionally, we play board games or watch TV as a family. I also find a way to annoy my cat every day.
 
-**What is your favorite book to reread, and why?**
+**What was your favorite show to binge watch in the last year?**
 
-_The Girl Who Loved Tom Gordon_ by Stephen King because it feels like home. I read it in my teen years and connected with the main character’s perseverance despite her circumstances.
+_The Queen's Gambit_.

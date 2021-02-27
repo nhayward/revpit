@@ -17,47 +17,56 @@ mini: true
 
 ##### Bio
 
-Heidi Shoham is a professional editor with over thirteen years’ experience editing for both publishing houses and indie authors. After getting her BA in English language and literature, Heidi spent ten years as a senior editor at Samhain Publishing, over two years as an editorial director at Entangled Publishing, and has worked on various projects for Kensington Lyrical. Heidi’s edited for numerous New York Times and USA Today bestselling authors and helped launch many debut authors. When Heidi’s not working on edits, she can be found wrangling her three wildling kids, her monster dog, and a semi-feral cat who can never decide if she wants in or out.
+Heidi Shoham is a freelance fiction editor with fifteen years’ experience editing for both traditional publishing houses and indie authors. She has a BA in English language and literature and currently edits for Harlequin at HarperCollins and indie authors self-publishing. Heidi has edited numerous New York Times and USA Today bestselling authors and helped launch many debut authors. When Heidi’s not working on edits, she can be found wrangling her three wildling kids, her monster dog, and a semi-feral cat who can never decide if she wants in or out.
+
+**Pronouns: She/Her**
 
 ##### MSWL
 
-**What I’m looking for:**
+This \#RevPit, I’m looking for:
+ * All kinds of romance
+ * Stories with strong romantic elements/a romantic subplot.
+ * YA and Adult fiction
 
-I love romance&mdash;YA, NA, and Adult&mdash;or any story with strong romantic elements.
+I especially like:
+ * Category romance with classic tropes or twists on old favorites.
+ * Single-title romances packed with tons of conflict, subplots, and supporting characters.
+ * Strong, emotional women’s fiction.
+ * Paranormal—YA and adult. All the paranormals!
+ * Sci-fi, fantasy, dystopian. 
+ * Gripping suspense/thrillers.
+ * Dark, angsty characters and plots.
+ * Character-driven stories with authentic conflict and real emotion—even the simplest conflicts can be packed with emotion if I’m invested in the character’s story.
+ * Authentic, fun banter between characters that have great chemistry. I love it when an author can make me laugh while I’m scared or sad or tense.
+ * Angsty heroes, antiheroes, alpha heroes.
+ * I love strong, authentic voices, characters that feel real enough to jump off the page and materialize next to me.
+ * If you can convey your main character’s GMCs well, I can get excited about just about any story set anywhere/at any time/in any genre.
 
-**I especially like:**
- * Category romance&mdash;classic tropes as well as twists on old favorites.
- * Single-title romance packed with tons of conflict, subplots, and supporting characters. 
- * Character-driven stories with authentic conflict and real emotion &mdash;even the simplest conflicts can be packed with emotion if I’m invested in the character’s story.
- * Authentic, fun banter between characters that have great chemistry.
- * Angsty heroes, antiheroes, alpha heroes. 
-
-**Things I’m less interested in:**
+Things I’m less interested in for #RevPit this year:
  * Middle Grade
  * Children’s books
  * Nonfiction
- * Horror 
 
 ##### Q&A
 
 **How can a manuscript’s first five pages make you sit up and take notice?**
 
-I want a story to immediately grab me. Get going with the story, with what you’re here to say, and don’t spend those all-important first few pages explaining how we’re going to get to the story. I know it’s not very helpful when editors say it’s an author’s voice they’re most drawn to, since “voice” is so subjective and difficult to define, but it’s the truth. And I’m looking for a voice that engages me right from that first page.
+I like to get a good feel of the author's voice and what the book is going to be about in those first five pages. I don’t want pages of backstory or heavy explanations. I want to be hooked by an authentic voice and the feeling that something big and exciting is just getting started, and I get to go along for the ride.
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-It’s important we work as a team, that an author knows I’m on their side and that my goal is to help get the book ready for readers. Everything we do has an element of give and take. I work best with open, honest communication.
+Every author/editor relationship is a little different, but I always try for open communication and good collaboration. In a word: teamwork. I am straightforward and will let an author know where something’s missing or not working. Of course, I'll also tell them when something is awesome and if there should be more of it or more focus on it. I’m pretty good at brainstorming and also offering craft advice when I see there’s a noticeable issue that needs some attention.
 
-For this contest, I’ll be focusing on the big-picture &mdash;plot, pacing, structure, characterization, arcs, etc. I’ll provide a comprehensive edit letter with feedback on these aspects, and then we can email for brainstorming and troubleshooting.
+The author I work with can expect a full edit letter, some comments in the manuscript showing exactly where certain issues are showing up or places that need attention, and a call/Google Hangouts meeting to discuss the edit notes and to brainstorm possible solutions for any issues raised.
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-Open communication and commitment to hard work.
+Like I said, I aim for good collaboration and teamwork. I'm interested in working with authors who are serious about improving their stories and their storytelling abilities. I want authors to see me as part of their team. I want my advice and experience to be a tool in their toolbox, something that can hopefully help them get the very best version of their story ready.
  
 **What hobbies do you have outside of writing and editing?**
 
-I love reading a good book &mdash;of course &mdash;and I listen to audiobooks when I’m out for long walks with my monster dog who never runs out of energy. I also love watching TV and… Honestly, I have three kids, so I don’t have a lot of time for hobbies. I used to ride horses before I became a mom, and I spent my teen years as a catch rider. 
+I used to ride horses before I became a mom, and I spent my teen years as a catch rider. (Thankfully, I was good enough to train and compete on other people’s horses, because we certainly didn't have the money for me to afford my own :) ) Nowadays, I take my monster dog out for long walks and love watching TV, but since I have three wildling kids, time for hobbies is scarce.
 
-**What is your favorite book to reread, and why?**
+**What was your favorite show to binge watch in the last year?**
 
-Hmmm, that’s a tough one, and the answer depends on my mood. I love rereading Julie Garwood’s old historicals, N.J. Walters’s paranormals, Zoe York’s small town romances, and old fantasies from Eddings and Robert Jordan.  
+My TV is always on, and I have very eclectic tastes, so this is actually a difficult question… I’m wrecked by the last season of _Vikings_, because the ending was both awful and perfect! I binged _Bridgerton_ in a day, loved _Sweet Magnolias_, and I can’t wait for season 2 of both of those! I recently rewatched _Breaking Bad_ and a quirky paranormal comedy called _Crazy Head_ that unfortunately not many people seem to know about! And as always… _Derry Girls_ forever!!  

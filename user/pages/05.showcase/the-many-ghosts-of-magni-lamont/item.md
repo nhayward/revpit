@@ -1,7 +1,7 @@
 ---
 title: 'The Many Ghosts of Magni Lamont'
 media_order: photo-1523524383574-2f38c0f45d3d.jpg
-published: true
+published: false
 taxonomy:
     category:
         - blog

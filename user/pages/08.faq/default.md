@@ -121,15 +121,23 @@ Pages:
 
 </div>
 
-##### Q: Why can authors only pick two top choices for editors this year?
+##### Q: Why can authors only pick two top choices for editors?
 
 <div markdown="1">
 
-**A:** If you participated in #RevPit the first year, you might notice that we made the switch from three to two editor choices per participant this year (you’ll still get to choose an alternate). This gives everyone the best shot of being assigned to their first choice of editor.
+**A:** This gives everyone the best shot of being assigned to their first choice of editor.
 
  * With fewer editor selections, authors can focus on the most compatible options.
  * Editors will reach their entry cap slower, giving more authors a shot at their top picks.
  * With early entrants each taking two, rather than three, of the early slots, there’s a better chance that later entries will get to their intended editors.
+
+</div>
+
+##### Q: Some of the editors are also agents? If I submit to an editor who is an agent, could they end up representing me?
+
+<div markdown="1">
+
+**A:** No, editors who are also agents are not allowed to request or represent authors through the annual contest. \#RevPit has selected our annual contest editors on the basis of their freelance editing background and not their role as an agent. For authors submitting to any agents, \#RevPit recommends vetting each agent’s credentials and experience.
 
 </div>
 
@@ -221,6 +229,37 @@ Pages:
 
 ## All Events
 
+#### **\#RevPit Code of Conduct**
+
+<div class="faq-accordion" markdown="1">
+
+##### Code of Conduct 
+
+<div markdown="1">
+
+**\#RevPit Code of Conduct**
+
+This code of conduct applies to community members and editors, both online (including but not limited to email, Twitter (including direct messages), #RevPit community Slack groups, and other social media, and in-person (if applicable).
+
+Author submitting to the Annual Contest retain all rights to their work. Participating editors and mentees (if applicable) agree to maintain confidentiality with respect to all materials submitted and will not share it with others without the author’s consent. 
+
+\#RevPit is dedicated to creating an inclusive environment for everyone, regardless of race, ethnicity, nationality, national origin, religion, color, sex (including pregnancy, sexual orientation, romantic orientation, transgender status, gender identity, gender expression, and sex-stereotyping), age, disability (including mental and physical health, neurotypical status, body size, genetic information), parental status, marital status, political affiliation, socioeconomic status, physical appearance, or clothing.
+ 
+We do not tolerate harassment of community members in any form. Harassment includes offensive verbal comments related to the protected classes, calling attention to differences related to protected classes, questioning another author’s #OwnVoices status, belittling or intimidating statements, stalking, sustained disruption of another party’s communications, and unwelcome sexual attention. Harassment does not need to be recognized as unwanted or unwelcome by anyone other than the person being harassed.
+ 
+Be mindful of the words that you choose. Exclusionary jokes can be offensive to those around you. Offending behavior may also include micro-aggressions (subtle put-downs) and tone policing (responding negatively to the emotion behind a person’s message while ignoring its content, such as telling someone who is upset to “calm down” instead of responding to their concerns).
+ 
+Community members asked to stop any offending behavior are expected to comply immediately. It is not the duty of a member of a protected class to explain why the conduct in question is offensive. Take the time to self-educate from the many resources available: [We've gathered some DEI resources here](https://docs.google.com/document/d/1INKf0bjBOzuWKgJlJYpRhxOoxpa9BO_WEPC1wnhietQ/edit?usp=sharing?target=_blank).
+ 
+Community members violating these rules may be removed from community spaces (Slack channels, Twitter Group Chats) and may be ineligible to participate in the Annual Contest or Mini-Events.
+ 
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the #RevPit board via email at reviseresub@gmail.com, the @ReviseResub Twitter account, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
+
+
+</div>
+</div>
+
+
 #### **Nondiscrimination/Anti-Harassment Policy and Complaint Procedure**
 
 <div class="faq-accordion" markdown="1">
@@ -233,7 +272,7 @@ Pages:
 
 **If you’re being harassed:**
 
-Please contact us at reviseresub@gmail.com, our Twitter page [@ReviseResub](http://www.twitter.com/reviseresub?target=_blank), or through any of the [#RevPit editors](https://twitter.com/ReviseResub/lists/revpit-editors). If you believe your safety is threatened, please contact your local authorities immediately. 
+Please contact the #RevPit board via email at reviseresub@gmail.com, the @ReviseResub Twitter account, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
 
 We want to see all writers succeed and will continue to strive to provide a space where writers can grow together. 
 
@@ -251,7 +290,7 @@ Any issues that are brought to our attention will be addressed by promptly reach
 
 We are constantly improving our processes in order to create an inclusive, supportive, and dedicated community for all involved. 
 
-**To file a complaint or voice a concern:** please contact us at reviseresub@gmail.com or our Twitter page [@ReviseResub](http://www.twitter.com/reviseresub?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately. 
+**To file a complaint or voice a concern:** please contact the #RevPit board via email at reviseresub@gmail.com, the @ReviseResub Twitter account, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
 
 
 </div>
@@ -261,13 +300,13 @@ We are constantly improving our processes in order to create an inclusive, suppo
 
 <div class="faq-accordion" markdown="1">
 
-##### STATEMENT FROM THE REVPIT BOARD, 5 APRIL 2019
+##### \#OwnVoices Policy
 
 <div markdown="1">
 
-With the recent, increasing calls for #ownvoices narratives from #RevPit editors and within the publishing industry in general, we have seen a rise this year in questions from authors wondering if their manuscripts count as ownvoices. Additionally, over the last few days authors have raised concerns about the use of the term as applied to other authors’ work, and the role of the RevPit editors in helping people navigate the #ownvoices waters has also been called into question. These conversations, however uncomfortable for those involved, are important conversations to have, and we welcome the opportunity to become more educated and to help others educate themselves.
+We have seen a rise in questions from authors wondering if their manuscripts count as ownvoices. 
 
-After much listening, research, and discussion, the Board has come to agreement on two main points related to these discussions:
+After much listening, research, and discussion, the Board has concluded two main points:
 
 First, the RevPit Editors are not qualified to judge what is or is not a marginalized identity, and we do not presume to know the context in which the writers are living and writing. Furthermore, it is not appropriate to question anyone's identity or force them to out themselves, and we don’t want to put anyone in these positions.
 
@@ -279,10 +318,6 @@ So if you’re wondering whether ownvoices is appropriate for your manuscript, c
  * Different communities have different controversies and discussions around representation and what counts as ownvoices, and it’s important to familiarize yourself with them so you know what you’re taking on if/when you decide to claim the label. For example, [this article](https://www.bustle.com/p/why-the-publishing-industry-needs-to-be-more-inclusive-of-autistic-disabled-people-7705640?target=_blank) by Alaina Leary on Bustle about representations of autistic and disabled people or [this article](https://bookriot.com/2017/04/21/the-problem-with-ownvoices-lgbtq-lit?target=_blank) by Danika Ellis on Book Riot about LGBTQ+ ownvoices, especially when it comes to the romance genre. You can also check out the #ownvoices feed on Twitter to see what people are talking about and/or consider asking other marginalized writers from the communities you’re writing about what the most common issues in publishing are for members of that community. You’re bound to get a plethora of perspectives that you can take into consideration when deciding how to frame your work.
  * If you're still not sure if you should be using #ownvoices, consider instead saying something like, "based on my own experiences as....”
 
-Last but not least, we want you to know that we’re still listening. We invite you to engage with us and other community members in further dialogue about these important issues, and if you have any resources you’d like to share, please do! We also invite conversation about how we can make the community a more inclusive and supportive space. We appreciate the efforts of everyone who has contributed time and energy to the dialogue surrounding these issues.
-
-Sincerely,
-The RevPit Board
 
 </div>
 

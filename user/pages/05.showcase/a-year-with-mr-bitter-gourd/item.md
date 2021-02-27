@@ -1,6 +1,6 @@
 ---
 title: 'A Year with Mr. Bitter Gourd'
-published: true
+published: false
 taxonomy:
     category:
         - blog

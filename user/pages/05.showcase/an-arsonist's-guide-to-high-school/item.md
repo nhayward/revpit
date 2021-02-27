@@ -1,7 +1,7 @@
 ---
 title: 'An Arsonist’s Guide to High School'
 media_order: Mackenzie_image.png
-published: true
+published: false
 taxonomy:
     category:
         - blog

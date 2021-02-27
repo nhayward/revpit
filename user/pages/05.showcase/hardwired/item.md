@@ -1,7 +1,7 @@
 ---
 title: Hardwired
 media_order: photo-1577401159468-3bbc7ee440b5.jpg
-published: true
+published: false
 taxonomy:
     category:
         - blog

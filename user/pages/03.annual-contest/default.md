@@ -36,7 +36,7 @@ When the submission window closes, editors will read all entries. Watch your cho
  * [Prizes](https://reviseresub.com/annual-contest/prizes)
  * Visit our [FAQ page](https://www.reviseresub.com/faq) for our Anti-Bullying and Harassment Policy
 
-For 2020 we paired with **Tessera Editorial** to bring mentees from that program on to \#RevPit to shadow our editors and gain experience with evaluating submissions and going through a slush pile. In their own words, "Tessera Editorial was founded on the idea that publishing can and should be an accessible industry to all people. Through myriad diverse voices in the profession, we hope to open the world of books to as many readers as possible." Learn more about them on [their website](https://www.tesseraeditorial.com?target=_blank)!
+For 2021 we paired with **Tessera Editorial** to bring mentees from that program on to \#RevPit to shadow our editors and gain experience with evaluating submissions and going through a slush pile. In their own words, "Tessera Editorial was founded on the idea that publishing can and should be an accessible industry to all people. Through myriad diverse voices in the profession, we hope to open the world of books to as many readers as possible." Learn more about them on [their website](https://www.tesseraeditorial.com?target=_blank)!
 
 
 

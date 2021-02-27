@@ -80,6 +80,8 @@ Want your amazing artwork or design available in the Revise & Resub store? Well 
 
 Once a winner has been chosen their design will be available in the #RevPit store! (Plus they win awesome bragging rights)
 
+**The winner is eligible for a query critique for themselves or for another writer of their choice**
+
 All proceeds from items sold in our store will go directly to We Need Diverse Books, a non-profit organization that advocates essential changes in the publishing industry. Visit our store [here](https://www.cafepress.com/reviseresub).
 
 #### Schedule

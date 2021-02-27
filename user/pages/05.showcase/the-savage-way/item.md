@@ -1,6 +1,6 @@
 ---
 title: 'The Savage Way'
-published: true
+published: false
 taxonomy:
     category:
         - blog
