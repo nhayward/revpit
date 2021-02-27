@@ -1,5 +1,6 @@
 ---
 title: Login
+cache_control: private, no-cache, must-revalidate
 
 login_redirect_here: false
 
