@@ -6,6 +6,7 @@ website: 'https://tylerzeolieditorial.com'
 twitter:
     name: '@TylerZeoli'
     url: 'https://twitter.com/TylerZeoli'
+annual_contest_2021: true
 mini: true
 ---
 

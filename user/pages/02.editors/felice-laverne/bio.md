@@ -9,6 +9,7 @@ twitter:
 instagram:
     name: 'The Felice Laverne'
     url: 'https://instagram.com/thefelicelaverne'
+annual_contest_2021: true
 mini: true
 ---
 
