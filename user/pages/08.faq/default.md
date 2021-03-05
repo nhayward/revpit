@@ -8,6 +8,16 @@ title: FAQ
 
 <div class="faq-accordion" markdown="1">
 
+##### Q: If I win, what will I receive?
+
+<div markdown="1">
+
+**A:** For the Annual Contest, you will receive an editorial letter (or equivalent) and consultation (via whatever means of communication editor and author agree upon). The editor will also help the author prepare a query letter edit and first five pages for the winner showcase.
+
+Any additional edits will be up to the author's and editor's discretion and follow a mutually agreed upon timeline.
+
+</div>
+
 ##### Q: How many manuscripts can I submit? 
 
 <div markdown="1">
@@ -29,14 +39,6 @@ title: FAQ
 <div markdown="1">
 
 **A:** There is a cap of 100 submissions for all editors. After an editor receives 100, the rest of their submissions will go to the alternates chosen by the authors.
-
-</div>
-
-##### Q: Why do I have to pick an alternate editor? 
-
-<div markdown="1">
-
-**A:** Just in case one of your editor picks caps out, we want to make sure your submission is still being seen by two editors.
 
 </div>
 
@@ -91,14 +93,6 @@ Pages:
 
 </div>
 
-##### Q: What if I need additional accommodations in submitting due to disability, religion, or other special circumstances?
-
-<div markdown="1">
-
-**A:** We want the submission process to be as accessible as possible. Please email us at reviseresub@gmail.com. 
-
-</div>
-
 ##### Q: What materials will the Tessera Editorial mentees have access to?
 
 <div markdown="1">
@@ -119,6 +113,8 @@ Pages:
 
 **A:** Editor wish lists will be available soon with their bios on the [Editors page](http://reviseresub.com/editors), so do your research before the submission window opens. If you’re looking for clarification on what a specific editor is looking for, stop by during their #AskEditor [sessions](http://reviseresub.com/annual-contest/schedule) on Twitter or @ them using the #RevPit tag. 
 
+We also have an accessible spreadsheet that breaks down which age categories and genres the editors are accepting to help you narrow down your choices. You can access the [Editor MSWL spreadsheet](https://reviseresub.com/annual-contest/editor-mswl-spreadsheet) here.
+
 </div>
 
 ##### Q: Why can authors only pick two top choices for editors?
@@ -129,7 +125,15 @@ Pages:
 
  * With fewer editor selections, authors can focus on the most compatible options.
  * Editors will reach their entry cap slower, giving more authors a shot at their top picks.
- * With early entrants each taking two, rather than three, of the early slots, there’s a better chance that later entries will get to their intended editors.
+ * With early entrants each taking only two slots, there’s a better chance that later entries will get to their intended editors.
+
+</div>
+
+##### Q: Why do I have to pick an alternate editor? 
+
+<div markdown="1">
+
+**A:** Just in case one of your editor picks caps out, we want to make sure your submission is still being seen by two editors.
 
 </div>
 
@@ -159,7 +163,7 @@ Pages:
 
 <div markdown="1">
 
-**A:** [This post](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/mastering-dreaded-synopsis?target=_blank) by RevPit editor Kaitlyn Johnson explains. Editors may not provide feedback on your synopsis. They mainly need it to see the plot and character development in your ms.
+**A:** [This post](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/mastering-dreaded-synopsis?target=_blank) by former RevPit editor Kaitlyn Johnson explains. Editors may not provide feedback on your synopsis. They mainly need it to see the plot and character development in your ms.
 
 </div>
 
@@ -213,7 +217,7 @@ Pages:
 
 <div markdown="1">
 
-**A:** Winners will be announced on the [Showcase page](http://reviseresub.com/showcase) of our site as well as on Twitter on. Editors will then email their authors to begin the editing process!
+**A:** Winners will be announced on the [Showcase page](http://reviseresub.com/showcase) of our site as well as on Twitter. Editors will then email their authors to begin the editing process!
 
 </div>
 
@@ -222,6 +226,126 @@ Pages:
 <div markdown="1">
 
 **A:** Yes, all editors are available for hire, but their availability and pricing vary. Reach out directly.
+
+</div>
+
+</div>
+
+#### **Accessibility and Accommodations**
+
+<div class="faq-accordion" markdown="1">
+
+##### Q: What if I need accommodations in submitting?
+
+<div markdown="1">
+
+**A:** We want the submission process to be as accessible as possible. We are happy to make accomodations due to disability, religion, or other special circumstances that create a significant barrier to submitting.
+
+We want RevPit to remain a safe space. No author will be discriminated against due to a need for accommodations. Please email us at reviseresub@gmail.com to discuss your needs. 
+
+</div>
+
+##### Q: Do I qualify for accommodations? 
+
+<div markdown="1">
+
+**A:** We want the submission process to be as accessible as possible. We are happy to make accomodations due to disability, religion, or other special circumstances that create a significant barrier to submitting.
+
+</div>
+
+##### Q: What types of accommodations have been made in the past? 
+
+<div markdown="1">
+
+**A:** In order to make the contest as accessible as possible, we are willing to work with any author to find a helpful solution. We want RevPit to remain a safe space. No author will be discriminated against due to a need for accommodations.
+
+Some previous examples include: 
+ * early entry into the contest due to a chronic illness making it difficult to submit at a specific time
+ * contest information provided in different file formats for accessibility
+ * different forms of communication requested with their editor (if chosen)
+
+*Please note that accommodations are not limited to the above. We are willing to work with you to find the best solution for you*
+
+</div>
+
+##### Q: I'm concerned about the limited editing timeframe, should I still submit? 
+
+<div markdown="1">
+
+**A:** Yes definitely! We do not want the 8 week timeframe to be a barrier to submitting. Our editors are willing to work with you to create a schedule that works for both of you. 
+
+Currently, the Annual Contest 8 week timeframe only applies to: receiving an editorial letter (or equivalent) from the editor and having a consultation (via whatever means of communication editor and author agree upon), as well as the editor helping the author prepare a query letter and first five pages for the winner showcase (this may include notes, ideas, line edits, etc.).
+
+Any additional edits will be up to the author's and editor's discretion and follow a mutually agreed upon timeline.
+
+</div>
+
+##### Q: I'm having trouble going through all the MSWLs, can you help? 
+
+<div markdown="1">
+
+**A:** We also have an accessible spreadsheet that breaks down which age categories and genres the editors are accepting to help you narrow down your choices. You can access the [Editor MSWL spreadsheet](https://reviseresub.com/annual-contest/editor-mswl-spreadsheet) here.
+
+If you need further aid, please let us know!
+
+</div>
+
+##### Q: I need an accommodation. What do I do now? 
+
+<div markdown="1">
+
+**A:** Please email the board at reviseresub@gmail.com to discuss your needs. 
+
+Please include:
+ * your name
+ * accommodations you may need (if known)
+ * current barriers to RevPit for you
+ * preferred method of communication
+ * anything else you'd like us to know
+
+We want RevPit to remain a safe space. No author will be discriminated against due to a need for accommodations.
+
+</div>
+
+</div>
+
+#### **Resources for Literary Agents and Acquiring Editors**
+
+<div class="faq-accordion" markdown="1">
+
+##### Q: What is \#RevPit?
+
+<div markdown="1">
+
+**A:** \#RevPit is a contest where winning authors receive feedback and a developmental edit on their full fiction manuscript from professional editors, ensuring their works are polished and ready for the next step on their publishing journey. Not only are authors immersed in a supportive community of their peers, they also have the chance to learn more about how their story fits into the industry and obtain understanding of why different edits matter and how to continue practicing them in the future.
+
+</div>
+
+##### Q: Who are the editors?
+
+<div markdown="1">
+
+**A:** RevPit prides itself on our extensive vetting program. Each of our editors have gone through several rounds of evaluation to ensure they meet industry standards. To meet our editors, please [visit the editors page](https://reviseresub.com/editors).
+
+</div>
+
+##### Q: How do I view the winning manuscripts?
+
+<div markdown="1">
+
+**A:** All winning manuscripts will take part in our Showcase event, where you can peruse sample pages and author information. [Click here to view the Showcase](https://reviseresub.com/showcase). The Showcase will remain live for three months.
+
+</div>
+
+##### Q: How do I request additional material?
+
+<div markdown="1">
+
+**A:** In order to officially request additional material, all agents and acquiring editors must use the form located at the bottom of each showcase entry. All requests will then be forwarded to the writers in question.
+
+We at \#RevPit know that competition can be fierce, but we ask that each participating agent and acquiring editor adhere to the request process. Our winners are encouraged to share the links to their showcase material on social media. If you ‘like’ an entry on social media, please be sure to request via the form on the official showcase page for that individual author. We can’t ensure that the author in question will interpret your ‘like’ as an official request.
+
+Further Information: If you would like to keep updated on all #RevPit events, please follow [@ReviseResub](https://twitter.com/ReviseResub?target=_blank) on Twitter and turn on notifications for important information. If you have additional questions, feel free to email the Board at: reviseresub (at) gmail (dot) com
 
 </div>
 
@@ -241,7 +365,7 @@ Pages:
 
 This code of conduct applies to community members and editors, both online (including but not limited to email, Twitter (including direct messages), #RevPit community Slack groups, and other social media, and in-person (if applicable).
 
-Author submitting to the Annual Contest retain all rights to their work. Participating editors and mentees (if applicable) agree to maintain confidentiality with respect to all materials submitted and will not share it with others without the author’s consent. 
+Authors submitting to the Annual Contest retain all rights to their work. Participating editors and mentees (if applicable) agree to maintain confidentiality with respect to all materials submitted and will not share it with others without the author’s consent. 
 
 \#RevPit is dedicated to creating an inclusive environment for everyone, regardless of race, ethnicity, nationality, national origin, religion, color, sex (including pregnancy, sexual orientation, romantic orientation, transgender status, gender identity, gender expression, and sex-stereotyping), age, disability (including mental and physical health, neurotypical status, body size, genetic information), parental status, marital status, political affiliation, socioeconomic status, physical appearance, or clothing.
  

@@ -8,6 +8,7 @@ twitter:
 instagram:
     name: 'Hannah Vanvels'
     url: 'https://www.instagram.com/hannahvanvels'
+annual_contest_2021: true
 annual_contest_2020: true
 mini: true
 ---

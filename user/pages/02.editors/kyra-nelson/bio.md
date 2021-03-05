@@ -6,6 +6,7 @@ website: 'https://kyramnelson.com/'
 twitter:
     name: '@KyraMNelson'
     url: 'https://twitter.com/KyraMNelson'
+annual_contest_2021: true
 annual_contest_2020: true
 annual_contest_2019: true
 mini: true
@@ -23,9 +24,9 @@ Kyra is a recurring character on the WordNerds vlog. She likes keeping busy whet
 
 This year I’m open to all genres of YA and MG that is contemporary or historical. For MG, I’m particularly drawn to books that deal with hard topics in ways that are accessible and appropriate for the target audience.
 
-In the YA space, my tastes are really widespread. The past couple years I’ve been very into contemporary, and have a real soft spot for cute romances that pair a love story with character development and self discovery themes. For fantasy, I’m interested in premises I haven’t seen before. I still like a good magical upraising against a corrupt power, but I’m really interested if your book follows a totally different formula. Also if you have a setting I haven’t seen before, I want to that. 
+In the YA space, my tastes are really widespread. The past couple years I’ve been very into contemporary, and have a real soft spot for cute romances that pair a love story with character development and self discovery themes. For fantasy, I’m interested in premises I haven’t seen before. I still like a good magical upraising against a corrupt power, but I’m really interested if your book follows a totally different formula. Also if you have a setting I haven’t seen before, I want to read that. 
 
-I love a good romance, but I also love stories that focus on platonic relationships. If you can give me the intensity of Paul running after Ellie’s train in The Half of It, please submit to me.
+I love a good romance, but I also love stories that focus on platonic relationships. If you can give me the intensity of Paul running after Ellie’s train in _The Half of It_, please submit to me.
 
 Across the board, I’m interested in diverse and OwnVoices works. I don’t ask authors to disclose or confirm their OwnVoices status.
 
@@ -51,6 +52,7 @@ Things I’d especially love to see in my inbox:
  * Nonstandard narrative formats
  * Unreliable narrators
  * Ensemble cast of misfits
+ * Sunshine x Grumpy
 
 If you don’t have those elements, but your book is YA or one of the MG genres I’m taking, still consider submitting to me! My tastes run far and wide and this list is non-exhaustive. However, I am not a good fit for the following:
 

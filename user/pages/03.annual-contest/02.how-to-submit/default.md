@@ -1,5 +1,6 @@
 ---
 title: 'How to Submit'
+media_order: 'RevPitSubmitButton.jpg,RevPit_Submission_Formatting_Sample.docx'
 ---
 
 ### How to Submit
@@ -10,13 +11,13 @@ Once you have your manuscript and query letter ready to go, you’ll come here a
 
 ###### **Please make sure you use the correct email address when submitting. This is the only way editors will be able to contact you regarding your submission materials.**
 
-The link will become active on **April 10th, 2021 at 9:00am EST **and remain open until **11:59pm on April 11th, 2021**.
+The link will become active on **April 10th, 2021 at 12:00pm EST/EDT **and remain open until **11:59pm on April 11th, 2021**.
 
-If you need accommodations for the submission window due to disability, religion, or other special considerations, please contact us via email.
+If you need accommodations for the submission window due to disability, religion, or other special circumstances that create a significant barrier to submitting, please check the [FAQ page](https://reviseresub.com/faq) for more details.
 
 [![](RevPitSubmitButton.jpg)]()
 
-**Step 1:** Browse the participating editor bios and select your top TWO choices and ONE alternate.
+**Step 1:** Browse the participating editor bios and select your top TWO choices and ONE alternate. We also have an accessible spreadsheet that breaks down which age categories and genres the editors are accepting to help you narrow down your choices. You can access the [Editor MSWL spreadsheet](https://reviseresub.com/annual-contest/editor-mswl-spreadsheet) here.
 
 **Step 2:** Fill in the blanks with your personal info.
 
@@ -25,7 +26,9 @@ If you need accommodations for the submission window due to disability, religion
  * On a scale of 1-10, how much tough love do you like in your revision feedback? (10 = Bring it on!)
  * Why did you choose these editors as the best match for you and your manuscript?
 
-**Step 4:** Attach the query letter **and** first five double-spaced pages (approximately 1250-1500 words) of your manuscript in **ONE** document. Make sure your query includes:
+**Step 4:** Attach the query letter **and** first five double-spaced pages (approximately 1250-1500 words) of your manuscript in **ONE** document. For extra help on putting together an awesome pitch, check out our [sample query](https://reviseresub.com/annual-contest/sample-query). (If you need a visual example of formatting for the Annual Contest, take a look at our [submission sample](RevPit_Submission_Formatting_Sample.docx)). 
+
+Make sure your query includes:
  * Title
  * Word count
  * Age category
@@ -38,6 +41,7 @@ If you need accommodations for the submission window due to disability, religion
 
 ##### Eligibility Requirements:
 
+ * You must agree to our Code of Conduct which can be found on the [FAQ page](https://reviseresub.com/faq).
  * Your submission materials are your own original work
  * The manuscript you are submitting has never been published before
  * You are not represented by a literary agent

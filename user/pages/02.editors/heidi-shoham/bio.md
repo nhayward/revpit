@@ -11,6 +11,7 @@ twitter:
 instagram:
     name: 'Heidi Shoham'
     url: 'https://www.instagram.com/heidishoham/'
+annual_contest_2021: true
 annual_contest_2020: true
 mini: true
 ---

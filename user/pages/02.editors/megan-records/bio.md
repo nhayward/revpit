@@ -5,6 +5,7 @@ website: 'http://www.meganrecords.com/'
 twitter:
     name: '@meganrecords'
     url: 'https://twitter.com/meganrecords'
+annual_contest_2021: true
 annual_contest_2020: true
 mini: true
 ---

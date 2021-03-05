@@ -8,6 +8,7 @@ instagram:
 twitter:
     name: '@jenichappelle'
     url: 'https://twitter.com/jenichappelle'
+annual_contest_2021: true
 annual_contest_2020: true
 annual_contest_2019: true
 mini: true
@@ -15,32 +16,31 @@ mini: true
 
 ##### Bio
 
-Jeni Chappelle is a freelance novel editor with twelve years’ experience, cofounding editor and board member for Revise & Resub (#RevPit), and EFA and SCBWI member. Jeni loves working with authors of all levels to shape their stories and bring their books out into the world. She considers herself a hobbit (minus the big, hairy feet) and lives in a tiny town near Charlotte, NC with her family and way too many pets. 
+Jeni Chappelle is a freelance novel editor with twelve years’ experience, cofounding editor and board member for Revise & Resub (#RevPit), and EFA and ACES member. Jeni loves working with authors of all levels to shape their stories and bring their books out into the world. She considers herself a hobbit (minus the big, hairy feet) and lives in a tiny town near Charlotte, NC with her family and way too many pets. 
 
 **Pronouns: She/Her**
 
 ##### MSWL
 
-What I’m really looking for is impeccable voice, characters I immediately connect to, and a premise that excites me.
+Upper MG, YA, and Adult
+
+This year I am accepting historical, fantasy (including contemporary/urban), and soft science fiction; mystery/thrillers or horror that blend with those genres (gothic, dark fantasy, historical mystery, paranormal mystery/horror, etc.); and mashups of those genres (including gaslamp fantasy, steampunk, science fantasy, etc.). 
 
 Some elements that really excite me:
- * Diverse voices, including (but not limited to) OwnVoices
- * Realistic, respectful representation of communities that are underrepresented in publishing
- * Strong, natural voice and compelling characters are a must.
- * Fresh plot or a new twist on old favorites
- * Genre mashups! Any combination of fantasy, sci fi, mystery, and historical is going to make me giddy.
+* OwnVoices, BIPOC, LGBTQIA+, disabilities, neurodiverse, mental illness, and other historically underrepresented groups 
+* Stories based on underrepresented or lesser-known myths, folklore, fables, and legends
+* Intentionally unexpected use of tropes
+* Stories that work real-world concerns into fictional settings
+* I love a strong romance subplot, but I also want stories that focus on family (found family is family, period) and complex friendships. 
+* New twists on old favorites (includes retellings and re-imaginings) 
+* For the contest, I am NOT accepting chapter books, lower MG, space opera, epic fantasy, military-based plots, Christian fiction, cute mermaids/fairies/princesses (but I’ll take badass/scary ones!), stories where book characters come to life or characters go into books, romance genre (no historical, sci-fi, or fantasy/paranormal romance either), straight-up contemporary genre, experimental structures, or slasher-style horror.
 
-Some specifics about genre and age category:
- * I am only accepting Upper MG, not Lower MG or chapter books.
- * I am not accepting military-based plots or Christian fiction.
- * For science fiction, I only want soft sci fi that's more focused on character than tech. 
- * For horror, I am only looking for horror that's related to paranormal/supernatural/fantasy/sci fi elements--the more speculative, the better. I don't want slasher-style horror or serial killers.
 
 ##### Q&A
 
 **How can a manuscript’s first five pages make you sit up and take notice?** 
 
-I want to be excited about your plot and main character. In your query, I mostly want a strong idea of your overall plot, character arc, and stakes, stakes, stakes! In the pages, I’m looking for five elements to be handled well in a sub: voice (I know y’all hate reading that, but it’s true), starting with a scene already in progress, emotional connection to the main character, conflict, and orientation to the MC’s world and story (including characters introductions, world building, backstory, exposition, etc). I need to see that the author knows how to craft a scene and has a good grasp of the basics of storytelling.
+Premise is the first thing that will grab me so send me your big concepts and mashups of cool ideas. I want to be excited about your plot and main character. In your query, I mostly want a strong idea of your overall plot, character arc, and stakes, stakes, stakes! In the pages, I’m looking for five elements to be handled well in a sub: voice (I know y’all hate reading that, but it’s true), starting with a scene already in progress, emotional connection to the main character, conflict, and orientation to the MC’s world and story (including characters introductions, world building, backstory, exposition, etc). I need to see that the author knows how to craft a scene and has a good grasp of the basics of storytelling.
 
 **What can writers expect from working with you during #RevPit, including communication?**
 

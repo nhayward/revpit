@@ -11,6 +11,7 @@ twitter:
 instagram:
     name: 'RUFF Draft Pub'
     url: 'https://www.instagram.com/ruffdraftpub'
+annual_contest_2021: true
 annual_contest_2020: true
 mini: true
 ---

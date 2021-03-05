@@ -8,6 +8,7 @@ twitter:
 instagram:
     name: 'Bethany Hensel'
     url: 'https://www.instagram.com/bethanyhensel13'
+annual_contest_2021: true
 annual_contest_2020: true
 mini: true
 ---
@@ -53,11 +54,9 @@ As for communication, my edit letter will hit your inbox ASAP, followed by a hoo
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-RevPit's Annual Contest is wonderful but it's tough. It's revising on a deadline and for many writers, that can be really intimidating. It can also be very hectic on already jam-packed schedules of at-home learning, working from home, juggling several jobs, etc. So the first thing I expect from my writer is that they tell me if they're struggling. I fully expect life to get in the way and throw its curveballs. What I don't expect is for a writer to ever suffer silently and alone. No way. 
+RevPit's Annual Contest is wonderful but it's tough. Let's face it, revising a book is tough in general. Revising on deadline can be even tougher. But with RevPit's new timeline guidelines, plus my very excited and eager heart to help you get your book in tip-top shape, I know we can do it! However, a big thing I expect from the writer I work with is that if something comes up, if life throws a wild curve ball and revision becomes a real struggle, then you please let me know. We can adjust the revision game plan. But definitely be prepared to work hard. I'm not for the faint of heart or for the writer who just wants praise.
 
-Having said that, I do also expect that any writer submitting knows the schedule and honestly assess if this is the right time in their life for this contest. It's eight weeks long and you'll be doing a lot of work in those eight weeks. This contest is not something to enter just for bragging rights or validation. Enter because you really believe in your story and yourself and you want help making it shine.
-
-Finally, I expect the writer who works with me to have a very healthy relationship with the delete key, that they come with an open mind and open heart, that they ask questions, and that they remember to have fun.
+As for revisions themselves, I fully expect the writer who works with me to already have a healthy relationship with the delete key, that they come with an open mind, that they ask questions, and that they remember to have fun. Prompt communication is always a plus.
 
 **What hobbies do you have outside of writing and editing?**
 

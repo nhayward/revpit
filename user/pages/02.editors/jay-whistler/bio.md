@@ -6,6 +6,7 @@ website: 'http://www.jaywhistler.com/'
 twitter:
     name: '@JayWhistler'
     url: 'https://twitter.com/JayWhistler'
+annual_contest_2021: true
 annual_contest_2019: true
 mini: true
 ---

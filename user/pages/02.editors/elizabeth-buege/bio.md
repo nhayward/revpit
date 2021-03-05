@@ -5,6 +5,7 @@ website: 'http://www.elizabethbuege.com/'
 twitter:
     name: '@ekbuege'
     url: 'https://twitter.com/ekbuege'
+annual_contest_2021: true
 annual_contest_2020: true
 annual_contest_2019: true
 mini: true

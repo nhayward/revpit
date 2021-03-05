@@ -5,10 +5,12 @@ taxonomy:
     category:
         - blog
     tag:
-        - author
         - query
-        - prize
+        - author
         - runner-up
+        - prize
+feed:
+    limit: 10
 ---
 
 #### By Kyra Nelson
@@ -31,11 +33,11 @@ You’ll want to end the synopsis portion of your query with a bang. You can do 
 
 Don’t forget the nuts and bolts that go at the end of your query. This includes genre and audience, word count, comp titles (books that are similar to yours), and a short bio. This part should be short and to the point, but make sure you include it.
 
-If you want more tips, check out our [sample query](http://reviseresub.com/submissions) or get involved with my #askeditor session. I can’t wait to see you on submission day!
+If you want more tips, check out our [sample query](https://reviseresub.com/annual-contest/sample-query) or get involved with my #askeditor session. I can’t wait to see you on submission day!
 
 ##### Kyra Nelson:
 
-![](snow%20profile%20square.jpeg)
+![Kyra Nelson](snow%20profile%20square.jpeg)
 
 Kyra Nelson is a YA author and freelance editor. She earned her BA in English language and Editing from Brigham Young University before completing her MA there in linguistics. She is now pursuing a degree in applied linguistics from Northern Arizona University. Before becoming a freelance editor, Kyra spent several years interning at a literary agency and working in house for various publications. She has also taught university courses in composition, grammar, and editing. 
 

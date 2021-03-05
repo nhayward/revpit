@@ -5,10 +5,6 @@ content:
         by: header.last_name
 tabs:
     -
-        id: annual-editors-2020
-        title: '2020 Annual Contest'
-        filter: annual_contest_2020
-    -
         id: annual-editors-2021
         title: '2021 Annual Contest'
         filter: annual_contest_2021
