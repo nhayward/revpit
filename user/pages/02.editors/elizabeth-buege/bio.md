@@ -19,24 +19,24 @@ Elizabeth Buege is a Midwestern girl with a lifelong love of words. She could wr
 
 ##### MSWL
 
-As always, my wish list is fairly specific. I’m rewording it a bit this year to try to make it easier to follow. I do NOT have a word count limit, but stay within the guidelines for your genre.
+As always, my wish list is fairly specific. Please read carefully. I do NOT have a word count limit, but stay within the guidelines for your genre.
 
 **Adult:**
 
  * Preferred genres: magic realism ([READ THIS FIRST](http://www.elizabethbuege.com/magic-realism-do-you-really-know-what-it-is?target=_blank)), historical fiction, faith-based stories (any genre), fantasy, science fiction, and contemporary. Yes, I like space opera. Yes, other genres are okay if they are character-focused (see below).
- * Do NOT send: horror, paranormal as a genre, zombies, demons as main characters, and anything as gross as or grosser than season 3 of _Stranger Things_. Also, while I love romance in stories, I don’t want straight-up romance as the genre.
- * Stories should be character-focused: the main character should have compelling internal and external struggles/journeys and compelling motivations.
- * Bonus points: a focus on strong friendships, family bonds (especially siblings), characters dealing with the aftermath of personal loss, and retellings of fairy tales and other classic stories.
+* Do NOT send: horror, paranormal as a genre, zombies, demons as main characters, and anything as gross as or grosser than season 3 of Stranger Things. Also, while I love romance in stories, I don’t want straight-up romance as the genre.
+* Stories should be character-focused: the main character should have compelling internal and external struggles/journeys and compelling motivations.
+* Bonus points: a focus on strong friendships, family bonds (especially siblings), characters dealing with the aftermath of personal loss, and retellings of fairy tales and other classic stories.
 
 **YA:**
 
  * Preferred genres: magic realism ([READ THIS FIRST](http://www.elizabethbuege.com/magic-realism-do-you-really-know-what-it-is?target=_blank)), historical fiction, and faith-based stories (any genre).
- * I will only accept other genres in YA if they meet at least two of my bonus points: a focus on strong friendships, family bonds (especially siblings), characters dealing with the aftermath of personal loss, and retellings of fairy tales and other classic stories. I will NOT take horror, paranormal, or romance (see note under adult).
+* I will only accept other genres in YA if they meet at least two of my bonus points: a focus on strong friendships, family bonds (especially siblings), characters dealing with the aftermath of personal loss, and retellings of fairy tales and other classic stories. I will NOT take horror, paranormal, or romance (see note under adult).
 
 **MG:**
 
  * Preferred genres: magic realism ([READ THIS FIRST](http://www.elizabethbuege.com/magic-realism-do-you-really-know-what-it-is?target=_blank)), historical fiction, and faith-based stories (any genre).
- * I will only accept other genres in MG if they meet at least two of my bonus points: a focus on strong friendships, family bonds (especially siblings), characters dealing with the aftermath of personal loss, and retellings of fairy tales and other classic stories. I will NOT take horror or paranormal (see note under adult).
+* I will only accept other genres in MG if they meet at least two of my bonus points: a focus on strong friendships, family bonds (especially siblings), characters dealing with the aftermath of personal loss, and retellings of fairy tales and other classic stories. I will NOT take horror or paranormal (see note under adult).
 
 ##### Q&A
 
@@ -46,7 +46,7 @@ The biggest factor is the hardest to quantify: it’s the author’s voice. I ge
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-My first pass through your book will involve a full edit letter (the same one I do for critiques) as well as developmental comments throughout the manuscript. After you make revisions, I’ll make another full pass through the manuscript, focusing feedback on whatever your story still needs. I’ll also block out time near the end of the process for multiple passes through your query letter and opening pages. I’ll be available by email throughout the entire process and always ready to bounce ideas back and forth.
+My first pass through your book will involve a full edit letter (the same one I do for critiques) as well as a summary of suggestions for each chapter. After you make revisions, I’ll make another full pass through the manuscript, focusing feedback on whatever your story still needs (this will include annotations to the text). I’ll also block out time near the end of the process for multiple passes through your query letter and opening pages. I’ll be available by email throughout the entire process and always ready to bounce ideas back and forth.
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
@@ -55,7 +55,3 @@ Be ready and able to make major revisions in short windows of time. If I pick yo
 **What hobbies do you have outside of writing and editing?**
 
 In no particular order, here are some of my loves: I love photography, state parks, and combining the two. I love making huge messes in the kitchen as I experiment with new recipes, with bonus points if the ingredients came from my friends at the local farmer’s market. I love dancing and singing to my favorite songs when nobody is around. I love games, whether tabletop or video games. My nerdiest obsession remains Minecraft, which has been an insanely abundant fountain of creativity and community for me.
-
-**What was your favorite show to binge watch in the last year?**
-
-_Star Wars_, _Star Wars_, and more _Star Wars_! With nowhere to go, my roommates and I made it through all seven seasons of _The Clone Wars_ in no time at all. I started with a skeptical "Who is this Ahsoka kid?" attitude, but by the end I was absolutely sobbing, "That's my girl!!!" as we got to watch the fall of the Jedi through her eyes. I love her so much. _Rebels_ made me laugh and cry, and it was way too short. Last but not least, _The Mandalorian_ was full of all the feels this year (even if I do have complaints about a few episodes not making sense&mdash;comes from being an editor, I guess!). 
