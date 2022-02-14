@@ -1,354 +1,382 @@
 ---
 title: FAQ
+media_order: 'RevPit_Query_Formatting_Sample.docx,RevPit_Synopsis_Formatting_Sample.docx,RevPit_Full_Manuscript_Formatting_Sample.docx,RevPit_1st_5_Pages_Formatting_Sample.docx'
 ---
 
 ## Annual Contest
-
+ 
 #### **The submission process**
-
+ 
 <div class="faq-accordion" markdown="1">
-
+ 
 ##### Q: If I win, what will I receive?
-
+ 
 <div markdown="1">
-
-**A:** For the Annual Contest, you will receive an editorial letter (or equivalent) and consultation (via whatever means of communication editor and author agree upon). The editor will also help the author prepare a query letter edit and first five pages for the winner showcase.
-
+ 
+**A:** For the Annual Contest, you will receive an editorial letter (or equivalent) and consultation (via whatever means of communication the editor and author agree upon). The editor will also help the author prepare their query letter edit and first five pages for the winner showcase.
+ 
 Any additional edits will be up to the author's and editor's discretion and follow a mutually agreed upon timeline.
-
+ 
 </div>
-
-##### Q: How many manuscripts can I submit? 
-
+ 
+##### Q: How many manuscripts can I submit?
+ 
 <div markdown="1">
-
-**A:** Only **one** submission per entrant. 
-
+ 
+**A:** Only **one** submission per entrant is allowed.
+ 
 </div>
-
-##### Q: If I've won another contest, can I enter? 
-
+ 
+##### Q: If I've won another contest, can I enter?
+ 
 <div markdown="1">
-
+ 
 **A:** Yes! If you've won another contest or one of our mini events, you are eligible to submit to our Annual Contest. However, past Annual Contest Grand Prize winners cannot enter again for two years after they've won, and it cannot be with the same manuscript.
-
+ 
 </div>
-
-##### Q: How many submissions will each editor accept? 
-
+ 
+##### Q: Can winners participate in pitch events during the contest?
+ 
+<div markdown="1">
+ 
+**A:** Winners can still pitch their manuscripts while working with editors. If they receive requests, they'll just need to let the agents know they're revising and will send the manuscripts as soon as they're done.
+ 
+</div>
+ 
+##### Q: How many submissions will each editor accept?
+ 
+<div markdown="1">
+ 
+**A:** There is no longer a cap on submissions! All of your chosen editors will receive your submission. However, we no longer guarantee that the editor will read your submission.
+ 
+</div>
+ 
+##### Q: How do submissions need to be formatted?
+ 
 <div markdown="1">
 
-**A:** There is a cap of 100 submissions for all editors. After an editor receives 100, the rest of their submissions will go to the alternates chosen by the authors.
-
-</div>
-
-##### Q: How do submissions need to be formatted? 
-
-<div markdown="1">
-
-**A:** Your query letter and pages will be uploaded in **one** document to our submission form. 
-
-Query letter: 
- * Less than 1 page long
- * Use a generic greeting, as the same letter will be seen by both of your chosen editors.
+**A:** Your query letter, first five pages, full manuscript, and synopsis will be uploaded to our submission form in SEPARATE documents. (Accepted file formats are .doc, .docx, and .pdf.)
+ 
+Query letter:
+ * Less than 1 page long.
+ * Use a generic greeting, as the same letter will be seen by all of your chosen editors.
  * See our [Sample Query](http://reviseresub.com/annual-contest/sample-query) for inspiration!
-
-Pages:
- * Pages should be in Word doc format, double-spaced, with one-inch margins and a standard font (Calibri, Arial, or Times New Roman, 11 or 12 pt).
+ 
+First five pages:
+ * Pages should be double-spaced, with one-inch margins and a standard font (Calibri, Arial, or Times New Roman, 11 or 12 pt).
  * Do not include a title page; the pages should begin with your first chapter or prologue.
- * Five double-spaced pages is approximately 1250-1500 words.
- * Make sure your pages end on a complete sentence. 
+ * Five double-spaced pages is approximately 1250–1500 words.
+ * Make sure your pages end on a complete sentence.
+ 
+Full manuscript:
+ * Pages should be double-spaced, with one-inch margins and a standard font (Calibri, Arial, or Times New Roman, 11 or 12 pt).
+ * Do not include a title page; the pages should begin with your first chapter or prologue.
+ 
+Synopsis:
+* Less than 2 pages long.
+* **Single-spaced**, with one-inch margins and a standard font (Calibri, Arial, or Times New Roman, 11 or 12 pt).
+
+
+If you need a visual example of formatting for the Annual Contest, take a look at our [submission form example](/annual-contest/submission-example), [query formatting sample](RevPit_Query_Formatting_Sample.docx), [synopsis formatting sample](RevPit_Synopsis_Formatting_Sample.docx), [full manuscript formatting sample](RevPit_Full_Manuscript_Formatting_Sample.docx), and [first five pages formatting sample](RevPit_1st_5_Pages_Formatting_Sample.docx).
 
 </div>
-
-##### Q: What needs to go into my query letter? 
-
+ 
+##### Q: What needs to go into my query letter?
+ 
 <div markdown="1">
-
-**A:** We have [a post](http://reviseresub.com/showcase/writing-a-really-excellent-query-and-an-announcement) about this from RevPit editor Kyra Nelson. 
-
+ 
+**A:** We have a [query article](http://reviseresub.com/showcase/writing-a-really-excellent-query-and-an-announcement) about this from RevPit editor Kyra Nelson.
+ 
 </div>
-
+ 
 ##### Q: What goes into the bio of my query letter?
-
+ 
 <div markdown="1">
-
-**A:** Here’s a [great article](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/what-should-you-write-in-the-bio-paragraph-of-a-query-letter?target=_blank) that goes into detail. If you don’t have any writing credits, just a few short sentences about yourself are preferred. 
-
+ 
+**A:** Here’s a [query bio article](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/what-should-you-write-in-the-bio-paragraph-of-a-query-letter?target=_blank) that goes into detail. If you don’t have any writing credits, just a few short sentences about yourself are preferred.
+ 
 </div>
-
+ 
 ##### Q: What if my first pages go over the word count?
-
+ 
 <div markdown="1">
-
+ 
 **A:** No more than 1500 words, please.
-
-</div>
-
-##### Q: Is there a word count for answers to the questions on the submission page?
-
-<div markdown="1">
-
-**A:** Yes! 750 characters per question. 
-
-</div>
-
-##### Q: What materials will the Tessera Editorial mentees have access to?
-
-<div markdown="1">
-
-**A:** Tessera Editorial mentees will have access to their paired editor's submissions and corresponding notes. With approval from the author, mentees will also have access to the first round of revisions with the editor's winner.
-
-</div>
-
-</div>
-
-#### **Choosing editors**
-
-<div class="faq-accordion" markdown="1">
-
-##### Q: How do you pick which editors to submit to? 
-
-<div markdown="1">
-
-**A:** Editor wish lists will be available soon with their bios on the [Editors page](http://reviseresub.com/editors), so do your research before the submission window opens. If you’re looking for clarification on what a specific editor is looking for, stop by during their #AskEditor [sessions](http://reviseresub.com/annual-contest/schedule) on Twitter or @ them using the #RevPit tag. 
-
-We also have an accessible spreadsheet that breaks down which age categories and genres the editors are accepting to help you narrow down your choices. You can access the [Editor MSWL spreadsheet](https://reviseresub.com/annual-contest/editor-mswl-spreadsheet) here.
-
-</div>
-
-##### Q: Why can authors only pick two top choices for editors?
-
-<div markdown="1">
-
-**A:** This gives everyone the best shot of being assigned to their first choice of editor.
-
- * With fewer editor selections, authors can focus on the most compatible options.
- * Editors will reach their entry cap slower, giving more authors a shot at their top picks.
- * With early entrants each taking only two slots, there’s a better chance that later entries will get to their intended editors.
-
-</div>
-
-##### Q: Why do I have to pick an alternate editor? 
-
-<div markdown="1">
-
-**A:** Just in case one of your editor picks caps out, we want to make sure your submission is still being seen by two editors.
-
-</div>
-
-##### Q: Some of the editors are also agents? If I submit to an editor who is an agent, could they end up representing me?
-
-<div markdown="1">
-
-**A:** No, editors who are also agents are not allowed to request or represent authors through the annual contest. \#RevPit has selected our annual contest editors on the basis of their freelance editing background and not their role as an agent. For authors submitting to any agents, \#RevPit recommends vetting each agent’s credentials and experience.
-
-</div>
-
-</div>
-
-#### **Additional materials**
-
-<div class="faq-accordion" markdown="1">
-
-##### Q: If an editor wants to see additional materials, what will they request?
-
-<div markdown="1"> 
-
-**A:** Each editor may request something different; it is entirely up to them. Participating authors need to have their query letter, complete manuscript, and a 1-2 page (500-1000 words) single-spaced synopsis ready by the first day of submissions. 
-
+ 
 </div>
 
 ##### Q: What needs to go in a synopsis?
-
+ 
 <div markdown="1">
-
-**A:** [This post](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/mastering-dreaded-synopsis?target=_blank) by former RevPit editor Kaitlyn Johnson explains. Editors may not provide feedback on your synopsis. They mainly need it to see the plot and character development in your ms.
-
+ 
+**A:** This [synopsis how-to post](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/mastering-dreaded-synopsis?target=_blank) by former RevPit editor Kaitlyn Johnson explains what should go into your synopsis. Editors might not provide feedback on your synopsis. They mainly need it to see the plot and character development in your manuscript.
+ 
+</div>
+ 
+##### Q: How do I write a logline?
+ 
+<div markdown="1">
+ 
+**A:** Check out this [logline writing article](https://writershelpingwriters.net/2016/01/how-and-why-to-write-a-log-line-for-your-story?target=_blank) by Becca Puglisi to learn what a logline is and how to write it!
+ 
 </div>
 
 ##### Q: What should the total word count for my novel be?
-
+ 
 <div markdown="1">
-
-**A:** [This post](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/word-count-for-novels-and-childrens-books-the-definitive-post?target=_blank) explains industry standards for word count. If your word count is too high or too low, it won’t disqualify you, but that is one element the editors may take into consideration.
-
+ 
+**A:** This [word count post](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/word-count-for-novels-and-childrens-books-the-definitive-post?target=_blank) explains industry standards for word count. If your word count is too high or too low, it won’t disqualify you, but that is one element the editors might take into consideration.
+ 
 </div>
-
-##### Q: When and how will editors request additional materials?
-
+ 
+##### Q: Is there a word count for answers to the questions on the submission page?
+ 
 <div markdown="1">
-
-**A:** Editors may request additional materials at any time between the submission window and the winner announcements. Editors will announce on Twitter when they have sent all requests for additional materials. Requests will be sent via the email you specify in the form. 
-
+ 
+**A:** Yes! 750 characters per question. Please note that characters includes punctuation and spaces.
+ 
 </div>
 
+##### Q: If an editor wants to see additional materials, what will they request?
+ 
+<div markdown="1">
+ 
+**A:** The editors will not request additional materials. Authors will not hear from the editors until winner announcements have been made.
+ 
+</div>
+ 
+##### Q: What materials will the First Readers have access to?
+ 
+<div markdown="1">
+ 
+**A:** The First Readers will ONLY have access to the first five pages document, content warnings, genre, and age category sections. They will not have access to any personal information.
+
+When uploading your first five pages, please remove all identifying information from the document, including (but not necessarily limited to) author’s name, email address, physical address, mailing address, telephone number, website, and social media links. Please check the headers and footers too!
+
+</div>
+ 
+##### Q: What materials will the Tessera Editorial mentees have access to?
+ 
+<div markdown="1">
+ 
+**A:** In 2020 and 2021, we paired with **Tessera Editorial** to bring mentees from that program on to \#RevPit to shadow our editors and gain experience with evaluating submissions and going through a slush pile. While we aren’t pairing with them in 2022, we plan on doing so again in 2023. In their own words, "Tessera Editorial was founded on the idea that publishing can and should be an accessible industry to all people. Through myriad diverse voices in the profession, we hope to open the world of books to as many readers as possible." Learn more about them on the [Tessera Editorial website](https://www.tesseraeditorial.com?target=_blank)!
+
+In 2023, Tessera Editorial mentees will have access to their paired editor's submissions and corresponding notes. With approval from the author, mentees will also have access to the first round of revisions with the editor's winner.
+ 
+</div>
+ 
+</div>
+ 
+#### **Choosing editors**
+ 
+<div class="faq-accordion" markdown="1">
+ 
+##### Q: How do you pick which editors to submit to?
+ 
+<div markdown="1">
+ 
+**A:** Editor wish lists will be available soon with their bios on the [Editors page](http://reviseresub.com/editors), so do your research before the submission window opens. If you’re looking for clarification on what a specific editor is looking for, stop by during their #MeetTheEditor [sessions](http://reviseresub.com/annual-contest/schedule) on Twitter or @ them using the #RevPit tag.
+ 
+We also have an accessible spreadsheet that breaks down which age categories and genres the editors are accepting to help you narrow down your choices. You can access the [Editor MSWL spreadsheet](https://reviseresub.com/annual-contest/editor-mswl-spreadsheet) here soon.
+ 
+</div>
+ 
+##### Q: Why can authors only pick three editors?
+ 
+<div markdown="1">
+ 
+**A:** This gives everyone the best shot of being seen by their first choice of editor. With fewer editor selections, authors can focus on the most compatible options.
+ 
+</div>
+ 
+ 
+##### Q: Some of the editors are also agents? If I submit to an editor who is an agent, could they end up representing me?
+ 
+<div markdown="1">
+ 
+**A:** Editors who are also agents are not allowed to request or represent authors through the annual contest. \#RevPit has selected our annual contest editors on the basis of their freelance editing background and not their role as an agent. For authors submitting to any agents, \#RevPit recommends vetting each agent’s credentials and experience.
+ 
+</div>
+ 
+##### Q: I've worked with an editor before, can I submit to them?
+ 
+<div markdown="1">
+ 
+**A:** If you have a pre-existing personal or client/editor relationship with any of our editors, you are not permitted to submit to that editor.
+ 
+A pre-existing client/editor relationship is defined as an ongoing editorial contract for developmental editing or having worked on a developmental edit/full manuscript critique for the manuscript you're submitting. A personal relationship is defined as family and close friends.
+ 
+Having previously engaged with an editor on social media, in other events, or on small projects will not disqualify an author from submitting to that editor, nor will it give you preferential treatment. All winners are determined by their submission materials.
+ 
+</div>
+ 
 </div>
 
+ 
 #### **Feedback**
-
+ 
 <div class="faq-accordion" markdown="1">
-
+ 
 ##### Q: What is #10Queries?
-
+ 
 <div markdown="1">
-
-**A:** #10Queries sessions are when editors will tweet anonymous feedback on some of the submissions they’ve received. For more information on #10Queries, check out [this post](https://katiemccoach.com/how-an-editor-sees-it-10queries?target=_blank). 
-
+ 
+**A:** #10Queries sessions are when editors will tweet anonymous feedback on some of the submissions they’ve received. For more information on #10Queries, check out this [post about 10Queries](https://katiemccoach.com/how-an-editor-sees-it-10queries?target=_blank).
+ 
 </div>
-
+ 
 ##### Q: When will editors tweet #10Queries?
-
+ 
 <div markdown="1">
-
+ 
 **A:** #10Queries sessions will take place on Twitter **between the submission window and the winner announcements**. Watch your chosen editors’ Twitter feeds and the #RevPit feed for updates on when editors will post their #10Queries feedback.
-
+ 
 </div>
-
+ 
 ##### Q: When will editors send feedback? Will everyone receive feedback? How will they send it?
-
+ 
 <div markdown="1">
-
-**A:** All editors will send feedback to the authors they request additional materials from but are not required to send feedback to authors from whom they do not request additional materials. Any feedback will be sent via email to the email the authors specified in the form. As this contest is very labor-intensive, some editors may take some time to get back to you. Try not to worry!
-
+ 
+**A:** All editors will send feedback to the authors they used for #10Queries but are not required to send feedback to any other authors. Any feedback will be sent via email to the email the authors specified in the form. As this contest is very labor-intensive, some editors may take some time to get back to you. Try not to worry!
+ 
 </div>
-
+ 
 ##### Q: How and when will winners be notified?
-
+ 
 <div markdown="1">
-
+ 
 **A:** Winners will be announced on the [Showcase page](http://reviseresub.com/showcase) of our site as well as on Twitter. Editors will then email their authors to begin the editing process!
-
+ 
 </div>
-
-##### Q: Can we work with the editors even if we don’t win? 
-
+ 
+##### Q: Can we work with the editors even if we don’t win?
+ 
 <div markdown="1">
-
+ 
 **A:** Yes, all editors are available for hire, but their availability and pricing vary. Reach out directly.
-
+ 
 </div>
-
+ 
 </div>
-
+ 
 #### **Accessibility and Accommodations**
-
+ 
 <div class="faq-accordion" markdown="1">
-
+ 
 ##### Q: What if I need accommodations in submitting?
-
+ 
 <div markdown="1">
-
-**A:** We want the submission process to be as accessible as possible. We are happy to make accomodations due to disability, religion, or other special circumstances that create a significant barrier to submitting.
-
-We want RevPit to remain a safe space. No author will be discriminated against due to a need for accommodations. Please email us at reviseresub@gmail.com to discuss your needs. 
-
+ 
+**A:** We want the submission process to be as accessible as possible. We are happy to make accommodations due to disability, religion, or other special circumstances that create a significant barrier to submitting.
+ 
+We want RevPit to remain a safe space. No author will be discriminated against due to a need for accommodations. Please email us at reviseresub@gmail.com to discuss your needs.
+ 
 </div>
-
-##### Q: Do I qualify for accommodations? 
-
+ 
+##### Q: Do I qualify for accommodations?
+ 
 <div markdown="1">
-
-**A:** We want the submission process to be as accessible as possible. We are happy to make accomodations due to disability, religion, or other special circumstances that create a significant barrier to submitting.
-
+ 
+**A:** We want the submission process to be as accessible as possible. We are happy to make accommodations due to disability, religion, or other special circumstances that create a significant barrier to submitting.
+ 
 </div>
-
-##### Q: What types of accommodations have been made in the past? 
-
+ 
+##### Q: What types of accommodations have been made in the past?
+ 
 <div markdown="1">
-
+ 
 **A:** In order to make the contest as accessible as possible, we are willing to work with any author to find a helpful solution. We want RevPit to remain a safe space. No author will be discriminated against due to a need for accommodations.
-
-Some previous examples include: 
- * early entry into the contest due to a chronic illness making it difficult to submit at a specific time
+ 
+Some previous examples include:
+ * early entry into the contest due to a chronic illness or religious practices making it difficult to submit at a specific time
  * contest information provided in different file formats for accessibility
  * different forms of communication requested with their editor (if chosen)
-
+ 
 *Please note that accommodations are not limited to the above. We are willing to work with you to find the best solution for you*
-
+ 
 </div>
-
-##### Q: I'm concerned about the limited editing timeframe, should I still submit? 
-
+ 
+##### Q: I'm concerned about the limited editing timeframe. Should I still submit?
+ 
 <div markdown="1">
-
-**A:** Yes definitely! We do not want the 8 week timeframe to be a barrier to submitting. Our editors are willing to work with you to create a schedule that works for both of you. 
-
+ 
+**A:** Yes definitely! We do not want the 8 week timeframe to be a barrier to submitting. Our editors are willing to work with you to create a schedule that works for both of you.
+ 
 Currently, the Annual Contest 8 week timeframe only applies to: receiving an editorial letter (or equivalent) from the editor and having a consultation (via whatever means of communication editor and author agree upon), as well as the editor helping the author prepare a query letter and first five pages for the winner showcase (this may include notes, ideas, line edits, etc.).
-
+ 
 Any additional edits will be up to the author's and editor's discretion and follow a mutually agreed upon timeline.
-
+ 
 </div>
-
-##### Q: I'm having trouble going through all the MSWLs, can you help? 
-
+ 
+##### Q: I'm having trouble going through all the MSWLs. Can you help?
+ 
 <div markdown="1">
-
-**A:** We also have an accessible spreadsheet that breaks down which age categories and genres the editors are accepting to help you narrow down your choices. You can access the [Editor MSWL spreadsheet](https://reviseresub.com/annual-contest/editor-mswl-spreadsheet) here.
-
+ 
+**A:** We also have an accessible spreadsheet that breaks down which age categories and genres the editors are accepting to help you narrow down your choices. You can access the [Editor MSWL spreadsheet](https://reviseresub.com/annual-contest/editor-mswl-spreadsheet) here soon.
+ 
 If you need further aid, please let us know!
-
+ 
 </div>
-
-##### Q: I need an accommodation. What do I do now? 
-
+ 
+##### Q: I need an accommodation. What do I do now?
+ 
 <div markdown="1">
-
-**A:** Please email the board at reviseresub@gmail.com to discuss your needs. 
-
+ 
+**A:** Please email the board at reviseresub@gmail.com to discuss your needs.
+ 
 Please include:
  * your name
  * accommodations you may need (if known)
  * current barriers to RevPit for you
  * preferred method of communication
  * anything else you'd like us to know
-
+ 
 We want RevPit to remain a safe space. No author will be discriminated against due to a need for accommodations.
-
+ 
 </div>
-
+ 
 </div>
-
+ 
 #### **Resources for Literary Agents and Acquiring Editors**
-
+ 
 <div class="faq-accordion" markdown="1">
-
+ 
 ##### Q: What is \#RevPit?
-
+ 
 <div markdown="1">
-
-**A:** \#RevPit is a contest where winning authors receive feedback and a developmental edit on their full fiction manuscript from professional editors, ensuring their works are polished and ready for the next step on their publishing journey. Not only are authors immersed in a supportive community of their peers, they also have the chance to learn more about how their story fits into the industry and obtain understanding of why different edits matter and how to continue practicing them in the future.
-
+ 
+**A:** \#RevPit is a contest where winning authors receive developmental edits on their full fiction manuscripts from professional editors, ensuring their works are polished and ready for the next step on their publishing journey. Authors will be immersed in a supportive community of their peers and have the chance to learn more about how their story fits into the industry and why different edits matter and how to continue practicing them in the future.
+ 
 </div>
-
+ 
 ##### Q: Who are the editors?
-
+ 
 <div markdown="1">
-
+ 
 **A:** RevPit prides itself on our extensive vetting program. Each of our editors have gone through several rounds of evaluation to ensure they meet industry standards. To meet our editors, please [visit the editors page](https://reviseresub.com/editors).
-
+ 
 </div>
-
+ 
 ##### Q: How do I view the winning manuscripts?
-
+ 
 <div markdown="1">
-
+ 
 **A:** All winning manuscripts will take part in our Showcase event, where you can peruse sample pages and author information. [Click here to view the Showcase](https://reviseresub.com/showcase). The Showcase will remain live for three months.
-
+ 
 </div>
-
+ 
 ##### Q: How do I request additional material?
-
+ 
 <div markdown="1">
-
+ 
 **A:** In order to officially request additional material, all agents and acquiring editors must use the form located at the bottom of each showcase entry. All requests will then be forwarded to the writers in question.
-
+ 
 We at \#RevPit know that competition can be fierce, but we ask that each participating agent and acquiring editor adhere to the request process. Our winners are encouraged to share the links to their showcase material on social media. If you ‘like’ an entry on social media, please be sure to request via the form on the official showcase page for that individual author. We can’t ensure that the author in question will interpret your ‘like’ as an official request.
-
+ 
 Further Information: If you would like to keep updated on all #RevPit events, please follow [@ReviseResub](https://twitter.com/ReviseResub?target=_blank) on Twitter and turn on notifications for important information. If you have additional questions, feel free to email the Board at: reviseresub (at) gmail (dot) com
-
+ 
 </div>
-
+ 
 </div>
 
 ## All Events
@@ -363,9 +391,9 @@ Further Information: If you would like to keep updated on all #RevPit events, pl
 
 **\#RevPit Code of Conduct**
 
-This code of conduct applies to community members and editors, both online (including but not limited to email, Twitter (including direct messages), #RevPit community Slack groups, and other social media, and in-person (if applicable).
+This code of conduct applies to community members, First Readers, and editors, both online (including but not limited to email, Twitter (including direct messages), #RevPit community Slack groups, and other social media, and in-person (if applicable).
 
-Authors submitting to the Annual Contest retain all rights to their work. Participating editors and mentees (if applicable) agree to maintain confidentiality with respect to all materials submitted and will not share it with others without the author’s consent. 
+Authors submitting to the Annual Contest retain all rights to their work. Participating editors, First Readers, and mentees (if applicable) agree to maintain confidentiality with respect to all materials submitted and will not share it with others without the author’s consent. 
 
 \#RevPit is dedicated to creating an inclusive environment for everyone, regardless of race, ethnicity, nationality, national origin, religion, color, sex (including pregnancy, sexual orientation, romantic orientation, transgender status, gender identity, gender expression, and sex-stereotyping), age, disability (including mental and physical health, neurotypical status, body size, genetic information), parental status, marital status, political affiliation, socioeconomic status, physical appearance, or clothing.
  
@@ -446,5 +474,3 @@ So if you’re wondering whether ownvoices is appropriate for your manuscript, c
 </div>
 
 </div>
-
-

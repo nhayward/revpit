@@ -19,7 +19,7 @@ Should you win, the editor that picks you will help you with what your manuscrip
 
 ## Runners-up Prizes
 
-TBA
+Coming Soon!
 
 ##### Check back here or [follow us on Twitter](https://twitter.com/ReviseResub?target=_blank) to find out more!
 

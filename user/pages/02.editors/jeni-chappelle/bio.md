@@ -16,45 +16,81 @@ mini: true
 
 ##### Bio
 
-Jeni Chappelle is a freelance novel editor with twelve years’ experience, cofounding editor and board member for Revise & Resub (#RevPit), and EFA and ACES member. Jeni loves working with authors of all levels to shape their stories and bring their books out into the world. She considers herself a hobbit (minus the big, hairy feet) and lives in a tiny town near Charlotte, NC with her family and way too many pets. 
+Jeni Chappelle is a freelance novel editor, cofounding editor and board member for Revise & Resub (#RevPit), and EFA and ACES member. Jeni loves working with authors of all levels to shape their stories and bring their books out into the world. She considers herself a hobbit (minus the big, hairy feet) and lives in a tiny town near Charlotte, NC with her family and way too many pets.
 
 **Pronouns: She/Her**
 
 ##### MSWL
 
-Upper MG, YA, and Adult
+**Fantasy only in YA and Adult**
 
-This year I am accepting historical, fantasy (including contemporary/urban), and soft science fiction; mystery/thrillers or horror that blend with those genres (gothic, dark fantasy, historical mystery, paranormal mystery/horror, etc.); and mashups of those genres (including gaslamp fantasy, steampunk, science fantasy, etc.). 
+PLEASE SEND ME...
+* OwnVoices, BIPOC, LGBTQIA+, disabilities, neurodivergence, mental health, fat positive, and other historically underrepresented groups. Disclosure of identity is up to the author's discretion.
+* All the stories based on mythologies, folklore, cultures, and communities that are underrepresented in the market 
+* Retellings of lesser known (again, in the market) European stories ONLY IF the author is from that culture or has . EX: American author/Bosnian fable=no. Bosnian author/Bosnian fable=yes!
+* Retellings of classic literature ONLY IF it's told from a marginalized POV. EX: Modern King Arthur reimagining=no. Modern King Arthur reimagining but make it queer=yes! 
+* Stories with elements of mystery, historical, horror, and science fiction. I want all the gothic, dark fantasy, science fantasy, dystopian fantasy, etc. 
+* I'd love to see some ""cozy"" fantasy (ex: THE HOUSE IN THE CERULEAN SEA)
+* Thoughtful, modern approaches to real-world concerns in fictional settings
+* Complex family (found family IS family) and friendships
+* I am a sucker for thieves, assassins, antiheroes, and other morally gray characters
+* I also love underdogs and ordinary people in extraordinary circumstances
 
-Some elements that really excite me:
-* OwnVoices, BIPOC, LGBTQIA+, disabilities, neurodiverse, mental illness, and other historically underrepresented groups 
-* Stories based on underrepresented or lesser-known myths, folklore, fables, and legends
-* Intentionally unexpected use of tropes
-* Stories that work real-world concerns into fictional settings
-* I love a strong romance subplot, but I also want stories that focus on family (found family is family, period) and complex friendships. 
-* New twists on old favorites (includes retellings and re-imaginings) 
-* For the contest, I am NOT accepting chapter books, lower MG, space opera, epic fantasy, military-based plots, Christian fiction, cute mermaids/fairies/princesses (but I’ll take badass/scary ones!), stories where book characters come to life or characters go into books, romance genre (no historical, sci-fi, or fantasy/paranormal romance either), straight-up contemporary genre, experimental structures, or slasher-style horror.
+DO NOT SEND ME...
+* Epic or sword and sorcery fantasy
+* Over-represented retellings (see criteria above)
+* Novels in verse
+* Military-based or political fantasy. It's okay as a subplot, just not the main plot.
+* Soulmate insta-love
+* Toxic relationships (romantic or otherwise) we are supposed to stan
+* Angels, biblical retellings, biblical dystopian, or other Christianity-based stories
+* Cute mermaids/fairies/princesses (but I’ll take badass/scary ones!)
+* This trope: everyone knows something important, but no one will tell the MC
+
+FAIR WARNING! I am very very picky about these tropes or elements. I have specific standards for each that are way too much to get into here. You're welcome to ask me about it, but if you still aren't sure, you may want to choose other editors. 
+* Prologues 
+* Dual or multiple timelines
+* Multiple POV 
+* Main plots about royalty/aristocracy
+* Medieval Europe-inspired settings
+* Any version of a road trip
+* Portals
+* Time travel
+* Magic schools
+* Riddles/puzzles
+* Stories that revolve around dreams, visions, books (except grimoires! I love a grimoire!) or book characters, journals/diaries, magical artifacts, a dark lord rising to power, or prophecies 
+ 
+AUTHORS AND TITLES I LOVE
+* C.L. Polk
+* Gail Carriger
+* TJ Klune
+* Susan Dennard
+* Neil Gaiman (except AMERICAN GODS. Don't @ me!)
+* Zoraida Córdova
+* THE BONE HOUSES
+* MEXICAN GOTHIC
+* BAD WITCH BURNING
+* GIDEON THE NINTH
+* THE CITY OF BRASS
+* THE MERMAID, THE WITCH, AND THE SEA
+* THE SOUND OF STARS
+* SMALL FAVORS
 
 
 ##### Q&A
 
 **How can a manuscript’s first five pages make you sit up and take notice?** 
 
-Premise is the first thing that will grab me so send me your big concepts and mashups of cool ideas. I want to be excited about your plot and main character. In your query, I mostly want a strong idea of your overall plot, character arc, and stakes, stakes, stakes! In the pages, I’m looking for five elements to be handled well in a sub: voice (I know y’all hate reading that, but it’s true), starting with a scene already in progress, emotional connection to the main character, conflict, and orientation to the MC’s world and story (including characters introductions, world building, backstory, exposition, etc). I need to see that the author knows how to craft a scene and has a good grasp of the basics of storytelling.
+Premise is the first thing that will grab me so send me your big concepts and mashups of cool ideas. I want to be excited about your plot and main character. I'll be looking at voice (I know y’all hate reading that, but it’s true), emotional connection to the main character, conflict, and orientation to the MC’s world and story (including characters introductions, world building, backstory, exposition, etc). I hope to see that the author knows how to craft a scene and has a good grasp of the basics of storytelling. And remember, I'm not looking for something that's perfect, just something that sparks my interest and shows promise.
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-What’s most important to me is that we work together to create your best manuscript possible and maintain your vision for your book. My main focus for this contest will be big-picture storytelling&mdash;plot, characterization, pacing, structure, etc. So first I’ll provide comprehensive feedback on the big picture. We’ll plan at least one call (probably phone or Zoom, but I'm also open to other kinds of communication if you're not a phone/Zoom person) to address any questions or concerns so you’ll have a clear direction on how to approach revisions. I’m all about collaboration, so I’ll touch base frequently and be available via email for brainstorming and troubleshooting throughout the process.
+What’s most important to me is that we work together to create your best manuscript possible and maintain your vision for your book. My main focus for this contest will be big-picture storytelling—plot, characterization, pacing, structure, etc. We will also definitely discuss any problematic content I see, including lack of diverse representation or any potentially harmful representation. So first I’ll provide comprehensive feedback on the big picture. We’ll plan at least one call (probably phone or Zoom, but I'm also open to other kinds of communication if you're not a phone/Zoom person) to address any questions or concerns so you’ll have a clear direction on how to approach revisions. I am typically pretty quiet while I'm editing (during which you will have homework!), but the rest of the time, I will check in frequently to encourage questions. A lot of authors are used to working alone on their writing, so I'll try to move us into a more collaborative space. You can also expect lots of aggressive encouragement and a heavy dose of (sometimes sarcastic, often inappropriate) humor.
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-Musts: frequent communication, commitment to hard work, and willingness to talk through suggestions you feel reluctant to implement. I am open to more than one round of edits if we have time and the author works hard on revisions. I’ll bring a lot of energy to this process, and I want an author who will do the same.
+I will guide the process but let my author set the pace and adjust where necessary to make sure we're working together as smoothly as possible. Ultimately, what makes that happen is openness on both sides. If you've never worked with an editor before, getting an edit back can be daunting to say the least. I ask my author to keep an open mind and come to me with their questions and concerns. In return, I try to be as transparent as possible, really listen to my author, and guide our work together so we bridge any gaps in understanding. *I* am here to help *you* and want you to get as much from this opportunity as you can, but I never want anyone to feel stuck or overwhelmed (in what is a very overwhelming world right now!).
 
 **What hobbies do you have outside of writing and editing?**
 
-I love to spend time with my family and my pets. I also like video games like Skyrim, Horizon Zero Dawn, The Legend of Zelda series, and every LEGO game ever. I’m a big fan of live entertainment (if I ever get to see it again): theater, dance, music, comedy, burlesque…you name it. And I could never get enough of Disney World. 
-
-**What was your favorite show to binge watch in the last year?**
-
-_Schitt's Creek_! Highly recommend if you haven't seen it yet. It has the best character development I've ever seen on any sitcom, it subverts so many tropes, and there are some really clever, subtle elements that make it really genius. Plus, it's worth it just so you know the context of all the gifs! 
-
+Ummm ... buying notebooks and good pens? Does that count? Just kidding ... sorta. I'm at a place where I'm kinda between hobbies, but I love audiobooks and video games—usually on PlayStation or Switch, sometimes on PC, and usually open world games are my favorite. Right now, I am very enmeshed in _Horizon Forbidden West_. Beyond that, I love hanging out with my family, including our pets (because, yes, they are part of the family), and I'm open to suggestion if you have ideas for what my awesome new hobby should be!
