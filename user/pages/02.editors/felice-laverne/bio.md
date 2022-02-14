@@ -43,7 +43,7 @@ As an editor, I want to ensure that I’m editing to amplify my writers’ voice
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-Give your manuscript your very best effort, and don’t try to be live everyone else! What do you have to say that no one else can say like you can? The manuscript you’ve always envisioned is already inside of you. Our partnership will help to bring it out! Feel free to reach out to me via email, and be yourself! :)
+Give your manuscript your very best effort, and don’t try to be like everyone else! What do you have to say that no one else can say like you can? The manuscript you’ve always envisioned is already inside of you. Our partnership will help to bring it out! Feel free to reach out to me via email, and be yourself! :)
 
 **What hobbies do you have outside of writing and editing?**
 

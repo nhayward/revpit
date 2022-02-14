@@ -9,6 +9,12 @@ twitter:
 instagram:
     name: 'Book Light Editorial'
     url: 'https://www.instagram.com/booklighteditorial/'
+tiktok:
+    name: 'Book Light Editorial'
+    url: 'https://www.tiktok.com/@booklighteditorial'
+podcast:
+    name: 'Story Chat Radio'
+    url: 'https://www.storychatradio.com/'
 annual_contest_2021: true
 annual_contest_2020: true
 annual_contest_2019: true

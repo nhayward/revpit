@@ -1,5 +1,6 @@
 ---
 title: 'Annual Contest'
+media_order: 'RevPit 2022 Annual Contest - Full Details.pdf,RevPit 2022 Annual Contest - Full Details.docx'
 ---
 
 ### The #RevPit 2022 Annual Contest Begins March 17th!
@@ -64,3 +65,5 @@ _ \#RevPit is only open to COMPLETED fiction manuscripts. Non-fiction, poetry, c
  * [Sample Query](https://reviseresub.com/annual-contest/sample-query)
  * [Prizes](https://reviseresub.com/annual-contest/prizes)
  * Visit our [FAQ page](https://www.reviseresub.com/faq) for our Anti-Bullying and Harassment Policy
+
+###### Click here if you would like a downloadable version of the [annual contest website copy as a pdf](RevPit%202022%20Annual%20Contest%20-%20Full%20Details.pdf) or the [annual contest website copy as a Word doc](RevPit%202022%20Annual%20Contest%20-%20Full%20Details.docx).

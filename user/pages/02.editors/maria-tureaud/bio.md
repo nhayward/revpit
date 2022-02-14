@@ -8,6 +8,9 @@ twitter:
 instagram:
     name: 'Maria Tureaud'
     url: 'https://www.instagram.com/Maria_Tureaud/'
+tiktok:
+    name: '@Maria_Tureaud'
+    url: 'https://www.tiktok.com/@maria_tureaud'
 annual_contest_2021: true
 annual_contest_2020: true
 annual_contest_2019: true
@@ -26,7 +29,7 @@ Maria is one half Tolkien, one half Captain Kirk. She began writing fan fiction 
 1. Adult Historical Fiction. Word to the wise…I’m a history aficionado, and if I’m unfamiliar with a certain era, I will research to ensure accuracy. My favorite historical periods include the Viking Age, the Restoration Period, and the late 1700’s. I would like to see untold/rarely told stories (no Anne Boleyn, Marie Antoinette, etc.), and any manuscript that throws a spotlight on underrepresented groups of any era. Philippa Gregory and Anya Seton are two of my favorite Historical Fiction authors.
 2. YA—Dystopian Fantasy, Sci-Fi Fantasy. I’m looking for fresh, gritty, well-written dystopian and SFF that grips me from the first page. I need stories that go beyond the plot of a post-apocalyptic intrigue—the character stories. Think about _The Walking Dead_, where survival is less about the zombies, and more about the human experience.
 3. Middle Grade—all genres, though I do have a very special place in my heart for dark, Upper MG, MG Horror, and MG Paranormal.
-4. Adult, Young Adult, and Middle Grade HORROR. But let me be clear—no slasher/gore bonanzas. I’m not looking for shock value. I want hair-raising, sleep with the light on feels that leave me in a state of panic (I’m the toughest person to scare, so anyone who can do this is my new idol). Think _The Parting Veil_, _Mexican Gothic_, _The Year Of The Witching_, _City of Ghosts_.
+4. Adult, Young Adult, and Middle Grade HORROR. But let me be clear—no slasher/gore bonanzas. I’m not looking for shock value. I want hair-raising, sleep with the light on feels that leave me in a state of panic (I’m the toughest person to scare, so anyone who can do this is my new idol). Think _Parting The Veil_, _Mexican Gothic_, _The Year Of The Witching_, _City of Ghosts_.
 5. \#ownvoices (As an immigrant, this is very dear to my heart)
 6. Ace representation
 7. YA Fantasy…but let me be clear: I’m extremely picky. Unless it lives and breathes two or more elements from my “Things I love” section, please send it to another editor as you’ll stand a better chance.
