@@ -24,6 +24,12 @@
 {% if page.header.instagram %}
     <span><b>Instagram:</b> <a target="_blank" href="{{ page.header.instagram.url }}">{{ page.header.instagram.name }}</a></span><br>
 {% endif %}
+{% if page.header.tiktok %}
+    <span><b>TikTok:</b> <a target="_blank" href="{{ page.header.tiktok.url }}">{{ page.header.tiktok.name }}</a></span><br>
+{% endif %}
+{% if page.header.podcast %}
+    <span><b>Podcast:</b> <a target="_blank" href="{{ page.header.podcast.url }}">{{ page.header.podcast.name }}</a></span><br>
+{% endif %}
 
 {% if page.header.annual_contest_2021 %}
     <h5>2021 Annual Contest Editor &check;</h5>
