@@ -16,59 +16,67 @@ mini: true
 
 Kyra Nelson is a YA author and freelance editor. She is a recovering academic who has studied linguistics, editing, literature, and rhetoric. As a graduate student, she researched the language of fiction and query letters, with a special emphasis on young adult literature. Before becoming a freelance editor, Kyra spent several years interning at a literary agency and working in house for various publications. She has also taught university courses in composition, grammar, and editing.
 
-Kyra is a recurring character on the WordNerds vlog. She likes keeping busy whether she's reading, writing, baking, hiking, playing violin, or just goofing off with friends. Kyra loves adventure, even if it's a small adventure like roasting Starbursts over the open flame of her stove top.
+Kyra is a recurring character on the WordNerds vlog. She likes keeping busy whether she's reading, writing, baking, hiking, or just goofing off with friends. Kyra loves adventure, even if it's a small adventure like roasting Starbursts over the open flame of her stove top.
 
 **Pronouns: She/Her**
 
 ##### MSWL
 
-This year I’m open to all genres of YA and MG that is contemporary or historical. For MG, I’m particularly drawn to books that deal with hard topics in ways that are accessible and appropriate for the target audience.
+This year I am choosing to focus on YA books! I am open to all genres except horror. Across genres, I’m particularly interested in character-driven stories. This year, a happy ending is a must for me. Put your characters through the ringer, but I want to end with optimism.
 
-In the YA space, my tastes are really widespread. The past couple years I’ve been very into contemporary, and have a real soft spot for cute romances that pair a love story with character development and self discovery themes. For fantasy, I’m interested in premises I haven’t seen before. I still like a good magical upraising against a corrupt power, but I’m really interested if your book follows a totally different formula. Also if you have a setting I haven’t seen before, I want to read that. 
+Contemporary is probably where my tastes are broadest. I’m really pretty much open to anything contemporary! I’ve also been devouring romcoms over the past year, and would love to see some in my submissions.
 
-I love a good romance, but I also love stories that focus on platonic relationships. If you can give me the intensity of Paul running after Ellie’s train in _The Half of It_, please submit to me.
+For fantasy, I’m especially looking for character driven books. I gravitate more towards second world/epic fantasy over contemporary fantasy (but am open to contemporary fantasy with a really strong commercial hook!). What I really most desperately want in fantasy is something fun. I’d love a good light-hearted fantasy. Something that doesn’t take itself too seriously and feels like a romp. I want to see strong internal stakes, distinct characters. If you are writing a fantasy romance or fantasy romcom, pretty please send it to me. I’d also appreciate fantasy with a fresh setting. A chosen one story or a story solely focused on overthrowing a regime isn’t an instant no, but would be a harder sell for me. 
 
-Across the board, I’m interested in diverse and OwnVoices works. I don’t ask authors to disclose or confirm their OwnVoices status.
+Science fiction has a lot of untapped potential for YA! I’m open to a pretty broad range of stories in this realm, but am most interested in stories where character doesn’t take a backseat to worldbuilding. Time travel is a hard sell for me. I’m open to both stories about dire, dystopian futures and escapist adventures. As with fantasy, I’d love a story with heaping doses of fun and shenanigans.
 
-Things I’d especially love to see in my inbox:
- * Works set outside the United States
- * OwnVoices disability rep
- * Fat positive protagonists
- * Characters anywhere on the asexual spectrum
- * A heist story
- * Geek romance
- * Cinnamon Roll love interests
- * Fun twists on familiar tropes
- * Fake dating
- * Cunning, mischievous characters
- * Political intrigue
- * Friendship stories
- * Stories that deal with complex family dynamics
- * Strong sibling relationships
- * Enemies/rivals to lovers
- * Entertaining character banter
- * Stories built around extracurricular activities (Debate! Robotics club! School Paper! Etc.!)
- * Characters with interesting jobs
- * Nonstandard narrative formats
- * Unreliable narrators
- * Ensemble cast of misfits
- * Sunshine x Grumpy
+For historical fiction, I’m looking for untold histories. This can be based on historical events that aren’t talked about much or told from perspectives that have been ignored in the past.
 
-If you don’t have those elements, but your book is YA or one of the MG genres I’m taking, still consider submitting to me! My tastes run far and wide and this list is non-exhaustive. However, I am not a good fit for the following:
+In mystery/thriller I’m quite picky. This genre might be a better fit for another editor, but I’ll consider it if it has a really fresh premise or a really unforgettable protagonist, or if it hits other items on my wishlist.
 
- * Third person, present tense narration (first person, present is fine as is third person, past)
- * Stories where the protagonists are animals
- * Grimm fairy-tale retellings. I am interested in stories based on non-Western folklore, mythology, and fairy-tale. I’m also in retellings of classical lit. I’ve just read enough Cinderellas and Twelve Dancing Princesses to last me awhile.
+For all genres, I welcome stories from authors who have often been excluded from publishing. I’m happy to see stories from authors who are BIPOC, queer, disabled, fat, religious minorities, or otherwise marginalized.
+
+Some things I’d love to see in any genre: 
+
+* Banter and witty dialogue
+* Humor
+* Ensemble casts with big personalities and found family
+* Stories that focus on friendship, familial ties, or other types of platonic love. Romance isn’t a necessity for me!
+* Sunshine x grumpy
+* Enemies to lovers (especially love with forced proximity trope!)
+* Friends to lovers
+* Sassy characters
+* Cinnamon roll characters
+* Himbos
+* Characters with swords or knives
+* Cunning characters
+* Geeky characters
+* Stories set outside the United States
+* Activist main characters
+* Extracurricular activities and after-school jobs
+* Revenge stories
+* Main characters who are famous or go viral
+* Body positivity and fat liberation
+* Genre-bending and quirky plots
+* Characters who can be compared to Peggy Carter, Zuko, Loki, Elizabeth Bennet, Kaz Brekker (or any of the Crows), Dick Grayson, Barbara Gordon, Kamala Khan, Julie (from Julie and the Phantoms), Enjolras, Cisco Ramon, Elle Woods, Druig, Makkari, Artemis Crock, Tadashi Hamada, or any character who could be played by Dwayne “The Rock” Johnson.
+
+I am NOT a good fit for
+* Westerns
+* Third person and present tense used simultaneously (third person/past tense is fine and first person/present tense is fine)
+* Books where the protagonists are animals
+* I’m pretty picky about second chance romance, but if it fits other things on my wishlist, I might be interested.
+* I'm very picky about fairy-tale/folklore/mythology retellings. I am interested in under-represented fairy tales, though. So if it's been made into a movie by Disney or Barbie, I'm probably not the right person. Retellings of classical literature are fine… except for _Romeo and Juliet_.
+
 
 ##### Q&A
 
 **How can a manuscript’s first five pages make you sit up and take notice?**
 
-If I get to the end of your first five pages and feel like I've known the main POV character for years, I'm interested. That's the kind of emotional connection that will keep me reading late into the night. 
+If I feel like I know the character after five pages, I'm probably hooked. I'm all about distinct voices and compelling characters, so if I've already got a sense for your character's personality after five pages, I'm probably interested!
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-My approach to editing is very focused on author vision. I always want to see what the author envisions for the book and then work with them to get the manuscript to that place. I never want to turn the book into my thing, so I'm always checking in with authors to see how they feel about the suggested changes and proposing different solutions if something isn't clicking. 
+My approach to editing is very focused on author vision. I always want to see what the author envisions for the book and then work with them to get the manuscript to that place. I never want to turn the book into my thing, so I'm always checking in with authors to see how they feel about the suggested changes and proposing different solutions if something isn't clicking.
 
 I'm also very solutions focused and try to make my action concrete and actionable. I don't just want to analyze what isn't working, I want authors to have a game plan and feel confident that they can take the next steps.
 
@@ -81,7 +89,3 @@ I'm looking for an author who is serious about craft and eager to make their pro
 **What hobbies do you have outside of writing and editing?**
 
 Reading, hiking, baking. In high school and college I did like 500 extracurriculars, but I'm much more boring now.
-
-**What was your favorite show to binge watch in the last year?**
-
-_Dash and Lily_. So cute! 

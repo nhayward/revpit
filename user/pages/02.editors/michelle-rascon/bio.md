@@ -38,7 +38,7 @@ Michelle Rascon is a freelance fiction editor with over five years of experience
  * LGBTQIA+
  * Mental health
 
-Please **do not** send anything to do with car accidents, even minor scenes, including backstory. **No exceptions**. I am also not accepting epic or high fantasy, Christian fiction, historical anything, magical realism, military-based, sci-fi, or speculative fiction for this contest. I am not limiting my word count this year, but it should be within or close to publishing standards for the genre.
+Please **do not** send anything to do with car accidents, even minor scenes, including backstory. **No exceptions**. (If in doubt, please choose another editor.) I am also not accepting epic or high fantasy, Christian fiction, historical anything, magical realism, military-based, sci-fi, or speculative fiction for this contest. I am not limiting my word count this year, but it should be within or close to publishing standards for the genre.
 
 ##### Q&A
 

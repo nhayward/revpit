@@ -1,16 +1,10 @@
 ---
 title: 'Natasha Hanova'
 last_name: Hanova
-website: 'https://ruffdraft.pub'
-facebook:
-    name: 'RUFF Draft Pub'
-    url: 'https://www.facebook.com/RUFFdraftpub'
+website: 'https://www.natashahanova.com/'
 twitter:
     name: '@NatashaHanova'
     url: 'https://twitter.com/NatashaHanova'
-instagram:
-    name: 'RUFF Draft Pub'
-    url: 'https://www.instagram.com/ruffdraftpub'
 annual_contest_2021: true
 annual_contest_2020: true
 mini: true
@@ -18,25 +12,27 @@ mini: true
 
 ##### Bio
 
-Natasha Hanova is a thorough and understanding freelance content editor. She’s represented by Veronica Park of Fuse Literary. Natasha believes it’s important for writers to come through the editing process with accomplishable goals. Her experiences as a biracial Black woman fuel her storytelling and her endeavors to lift and support other marginalized writers.
+Natasha Hanova loves imaginative problem solving and discussing the craft of writing with others. She writes sweet and evocative romance with a dark twist and is represented by Veronica Park of Fuse Literary. Natasha’s experiences as a biracial woman fuel not only her storytelling, but her endeavors to lift and support other marginalized writers. 
+
+Natasha is a thorough and understanding freelance developmental editor. Her editorial style has been called a mini workshop. She believes it’s important for writers to come through the editing process with goals they can accomplish. She works on fiction manuscripts from young adult to adult across a variety of genres. When she’s not editing, she’s sipping tea with a good book, watching scary movies while crocheting, or playing cards with her friends.
 
 **Pronouns: She/Her**
 
 ##### MSWL
 
-I love character-driven stories, great voice, and unexpected premises in Adult, New Adult, Young Adult, or Middle Grade. I’m drawn in by creative worlds, unique premises, and characters facing impossible choices.
+I love character-driven stories, great voice, and unexpected premises in Adult, New Adult, or Young Adult. I’m drawn in by creative worlds, unique premises, and characters facing impossible choices.
 
 I want…
- * Romance, all subgenres (except historical) and heat levels.
- * Paranormal, especially paranormal romance.
- * Urban fantasy, dark fantasy, dystopian, horror, and contemporary.
- * New twist on vampires, demons, shifters, witches, etc…YES, please.
- * I’d love to see more diverse fiction!
+* I’d love to see more diverse fiction!
+* Romance, all subgenres (except historical or royal fantasy) and heat levels.
+* Paranormal, especially paranormal romance.
+* Urban fantasy, dark fantasy, and dystopian.
+* New twist on vampires, demons, shifters, witches, etc…YES, please.
 
-I’m not the right editor for…
- * Any kind of historic fiction.
- * Picture books or non-fiction.
- * Anything over 110k words.
+I’m **not** the right editor for…
+* Any kind of historic fiction.
+* Picture books or non-fiction.
+* Anything over 110k words.
 
 ##### Q&A
 
@@ -54,8 +50,4 @@ Writing is easy. Writing well is hard. I expect you to be open to feedback and r
  
 **What hobbies do you have outside of writing and editing?**
 
-When I’m not editing or writing, I’m most likely trying to find a quiet place to read or crochet. I enjoy bingeing shows like _Schitt’s Creek_, _The Untamed_, _New Girl_, or _Supernatural_, and traveling through all of time and space with The Doctor. My acrylic on canvas is more about time with friends and family than skill. My Insta is mostly cats.
-
-**What was your favorite show to binge watch in the last year?**
-
-I honestly didn't expect to fall as hard as I did for _Schitt's Creek_.
+When I’m not editing or writing, I’m most likely exploring the woods with my family and dog, trying to find a quiet place to read, or crocheting while bingeing a variety of shows from _Schitt’s Creek_ to _Derry Girls_ to _Black_ (where Ha-ram sees grim reapers). My acrylic on canvas is more about time with friends and family than skill. My Insta is mostly cats.
