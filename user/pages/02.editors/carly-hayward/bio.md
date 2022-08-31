@@ -9,12 +9,10 @@ twitter:
 instagram:
     name: 'Book Light Editorial'
     url: 'https://www.instagram.com/booklighteditorial/'
-tiktok:
-    name: 'Book Light Editorial'
-    url: 'https://www.tiktok.com/@booklighteditorial'
 podcast:
     name: 'Story Chat Radio'
     url: 'https://www.storychatradio.com/'
+annual_contest_2022: true
 annual_contest_2021: true
 annual_contest_2020: true
 annual_contest_2019: true
@@ -49,7 +47,7 @@ Some elements that will make me flip:
  * Retellings that are unique or I haven’t seen before (think representation from a marginalized group or something completely out-there)
  * Diverse characters (including but not limited to LGBTQA+, BIPOC, and **especially** disabled characters)
 	 * I don't want the diversity to be the _only_ focus of the book. People are more than their marginalization and are complex characters. Don't distill them to just one thing.
- * \#OwnVoices (I won’t ask authors to disclose or confirm this. I'm not looking to out anyone. If you feel comfortable listing it, great! But I do realize some stories may be OwnVoices that authors are uncomfortable disclosing. This will not affect your submission status)
+ * \#OwnVoices (I won’t ask authors to disclose or confirm this. I'm not looking to out anyone. If you feel comfortable listing it, great! But I do realize some stories may be OwnVoices that authors are uncomfortable disclosing or prefer not to use the term. This will not affect your submission status)
 
 Some elements that I **do not** want to see: 
  * The Chosen One trope

@@ -8,6 +8,7 @@ twitter:
 instagram:
     name: 'Hannah Vanvels'
     url: 'https://www.instagram.com/hannahvanvels'
+annual_contest_2022: true
 annual_contest_2021: true
 annual_contest_2020: true
 mini: true
@@ -28,7 +29,7 @@ This year, I’m only open to Middle Grade, books for readers ages 8-12.
 
 Middle Grade
 * Adventure
- * I would love to see a MG version of The Mummy (the Brendan Frasier version, of course)
+ * I would love to see a MG version of _The Mummy_ (the Brendan Frasier version, of course)
  * Animal protagonists are surprisingly polarizing, but I am firmly in the pro camp!
 * Contemporary
  * Stories of friendship, silly antics, and growing up

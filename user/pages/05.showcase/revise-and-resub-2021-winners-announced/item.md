@@ -170,7 +170,7 @@ After discovering the mythical island of lost things, 11yo Rae must choose betwe
 
 YA Speculative Fiction
 
-Editor: Tyler Zeoli @TylerZeoli
+Editor: Rowan Zeoli @RowanZeoli
 
 When android Everest Perdita's friend is framed for murder, she’ll have to defy her design to learn the killer's true identity before they strike again.
 
@@ -284,7 +284,7 @@ MARIPOSA FALL by Jennifer Ruddock - @RuFauxRiz
 
 YA Horror
 
-##### Tyler Zeoli's pick:
+##### Rowan Zeoli's pick:
 
 BLOODWRITTEN by Afshaan Purvez - @theantiheroine_
 

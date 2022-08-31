@@ -11,6 +11,7 @@ twitter:
 instagram:
     name: 'Miranda Darrow'
     url: 'https://www.instagram.com/miranda.darrow'
+annual_contest_2022: true
 annual_contest_2021: true
 annual_contest_2020: true
 mini: true
@@ -28,13 +29,14 @@ After graduating with a degree in English and then a law degree, she became a pr
 
 For #RevPit 2022, I’m looking for an escape from 2022:
 
-* Is your sci-fi or fantasy story my escape-hatch from 2022? Transport me out of my COVID-cave and into your unique universe. Show me your cool worldbuilding, your fantastical creatures, scientific innovations, even your dystopian government rulebook. Send me all the time-travel, alternate history, and multi-verse stories. My logical side loves keeping track of multiple timelines and the butterfly effect those pesky time travelers leave in their wakes.
+* Is your sci-fi or fantasy story my escape-hatch from 2022? Transport me out of my COVID-cave and into your unique universe. Show me your cool worldbuilding, your fantastical creatures, scientific innovations, even your dystopian government rulebook. Send me all the time-travel, high fantasy, alternate history, and multi-verse stories. My logical side loves keeping track of multiple timelines and the butterfly effect those pesky time travelers leave in their wakes.
 * Out of the frying pan and into the fire – I’m looking for mysteries, suspense, and thrillers that will capture my attention and make me think living in 2022 is a walk in the park. Twist me into a pretzel so I can’t figure out the truth, but once it’s revealed, the clues were right there all along. I can help with pacing, foreshadowing, and red herrings.
-* For the first time as a #RevPit editor, I’m open to historical novels (other than the recent historical like when I went to high school in the 1980s – which are always my jam). Take me away to another time when it wasn’t year 2+ of a pandemic. Romance, YA, speculative (especially time travel and alt history), women’s fiction showing us untold history (based on actual or fictional stories). Given the short editing window I’ll be relying on the author for historical accuracy, but I’m ready to go back in time for #RevPit.
+* Escape to youth - I'm interested in stories for younger readers this year, accepting most middle grade stories (including contemporary and contemporary fantasy). I have a son reading middle grade stories now and would love a sneak peek at the next middle grade hit.
+* For the first time as a #RevPit editor, I’m open to historical novels (other than the recent historical like when I went to high school in the 1980s – which are always my jam). Take me away to another time when it wasn’t year 2+ of a pandemic. Romance, YA, speculative (especially time travel and alt history), women’s fiction showing us untold history (based on actual or fictional stories). Given the short editing window, I’ll be relying on the author for historical accuracy, but I’m ready to go back in time for #RevPit.
 
 **Loves:** road trips (including the inter-galactic variety), tricky family dynamics, immersive settings, and quirky characters. Romance (as a genre or subplot) is welcome but not required.
 
-**Not looking for:** horror, non-fiction, anything over 120,000 words, stories with COVID at the forefront, contemporary YA and contemporary romance (for the 2022 #RevPit contest – I work with both of these frequently, but I’m looking for a break in my submissions this spring). 
+**Not looking for:** horror, non-fiction, anything over 120,000 words, stories with COVID or grief at the forefront, contemporary YA and contemporary romance (for the 2022 #RevPit contest – I work with both of these frequently, but I’m looking for a break in my submissions this spring).
 
 I’m always open to diverse stories, including #OwnVoices, BIPOC, LBGTQA+, and disability representation.
 

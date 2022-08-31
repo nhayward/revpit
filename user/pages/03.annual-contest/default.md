@@ -3,7 +3,7 @@ title: 'Annual Contest'
 media_order: 'RevPit 2022 Annual Contest - Full Details.pdf,RevPit 2022 Annual Contest - Full Details.docx'
 ---
 
-### The #RevPit 2022 Annual Contest Begins March 17th!
+### The #RevPit 2023 Annual Contest Begins March 16th!
 
 In this contest, authors are eligible to receive developmental edits on their **full fiction manuscript** from professional editors, ensuring their works are polished and ready for agents. Authors will be immersed in a supportive community of their peers and have the chance to learn more about how their story fits into the industry and why different edits matter and how to continue practicing them in the future.
  
@@ -17,7 +17,7 @@ _Note: Non-fiction, poetry, chapter books, picture books, and projects under 25,
 
 Writers must choose three editors. Editors will hold #MeetTheEditor Twitter chats to answer writers’ questions.
  * [Click here to learn more about the editors](http://reviseresub.com/editors)
- * **Coming soon:** Click here to view the editor MSWL spreadsheet
+ * [Click here to view the editor MSWL spreadsheet](/annual-contest/editor-mswl-spreadsheet)
  * [Click here to see the Twitter chat schedules](https://reviseresub.com/annual-contest/schedule)
  
 ##### 2. Submission Window

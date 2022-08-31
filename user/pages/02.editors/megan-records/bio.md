@@ -8,6 +8,7 @@ twitter:
 instagram:
     name: 'Megan Records Editorial'
     url: 'https://www.instagram.com/meganrecordseditorial/'
+annual_contest_2022: true
 annual_contest_2021: true
 annual_contest_2020: true
 mini: true

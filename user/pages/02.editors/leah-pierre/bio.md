@@ -5,6 +5,7 @@ website: 'http://leahpierre.com'
 twitter:
     name: '@leahbene'
     url: 'https://twitter.com/leahbene'
+annual_contest_2022: true
 annual_contest_2021: true
 mini: true
 ---

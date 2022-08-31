@@ -7,8 +7,9 @@ twitter:
     name: '@bookgurufelice'
     url: 'https://twitter.com/bookgurufelice'
 instagram:
-    name: 'The Felice Laverne'
+    name: '@TheFeliceLaverne'
     url: 'https://instagram.com/thefelicelaverne'
+annual_contest_2022: true
 annual_contest_2021: true
 mini: true
 ---

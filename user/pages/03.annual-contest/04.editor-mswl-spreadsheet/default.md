@@ -1,12 +1,12 @@
 ---
 title: 'Editor MSWL Spreadsheet'
-media_order: 'RevPit 2021 Editor MSWL Spreadsheet.xlsx'
-published: false
+media_order: 'RevPit 2022 Editor MSWL Spreadsheet.xlsx'
+published: true
 ---
 
 ### Annual Contest Editor MSWL Spreadsheet
 
-Browse the participating editor bios and select your top TWO choices and ONE alternate. This accessible spreadsheet breaks down which age categories and genres the editors are accepting to help you narrow down your choices. However, this spreadsheet is just a **starting place**. Please read the editor's full MSWL on their Bio page, as each editor has additional preferences.
+Browse the participating editor bios and select your THREE choices. This accessible spreadsheet breaks down which age categories and genres the editors are accepting to help you narrow down your choices. However, this spreadsheet is just a **starting place**. Please read the editor's full MSWL on their Bio page, as each editor has additional preferences.
 
 #### How to use the spreadsheet:
 * Select the age category for your manuscript from the **tabs** at the bottom of the spreadsheet.
@@ -14,9 +14,9 @@ Browse the participating editor bios and select your top TWO choices and ONE alt
 * Look down the list. Editors who are accepting that age category and genre are marked with a Yes, and those not taking that age category and genre are marked are marked with a No.
 * Once you've located the editors accepting your manuscript's age category and genre, click on the links next to those editors' names to go to their editor page and review their MSWL.
 * Carefully read each editor's MSWL. The spreadsheet covers broad genres, but each editor has their own (whatever word that was we used)
-* Select your two editors and one alternate!
-* If you're having a hard time deciding, watch the \#RevPit \#10Queries feed on Twitter for a chance to ask questions of the editors you're considering.
+* Select your three editors!
+* If you're having a hard time deciding, watch the \#RevPit \#MeetTheEditor feed on Twitter for a chance to ask questions of the editors you're considering.
 
 #### Available Formats:
-* Google Sheets: [Google 2021 Editor MSWL Spreadsheet](https://docs.google.com/spreadsheets/d/1Ik5rYhGt_6J5q14hjH4zq2XfeT1rFX12US36dvIuyEM/edit?usp=sharing&target=_blank)
-* Microsoft Excel: [Excel 2021 Editor MSWL Spreadsheet](RevPit%202021%20Editor%20MSWL%20Spreadsheet.xlsx) (If you use a screen reader, please note that the column headers start on row 2)
+* Google Sheets: [Google 2022 Editor MSWL Spreadsheet](https://docs.google.com/spreadsheets/d/1jfDqRdf1uP57Itlix04jc9BsvYLoBrGjnqlarzDHd10/edit?usp=sharing?target=_blank)
+* Microsoft Excel: [Excel 2022 Editor MSWL Spreadsheet](RevPit%202022%20Editor%20MSWL%20Spreadsheet.xlsx) (If you use a screen reader, please note that the column headers start on row 2)

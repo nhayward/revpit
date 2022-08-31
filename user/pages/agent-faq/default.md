@@ -4,7 +4,7 @@ title: 'Agent FAQ'
 
 ### Agent FAQ
 
-Welcome agents! If you're here to request from our authors, here is a link to [the showcase](https://reviseresub.com/showcase). Or you can go directly to our [request form](https://forms.gle/ttzaGQHoahEnkN6h6?target=_blank).
+Welcome agents! If you're here to request from our authors, here is a link to [the showcase](https://reviseresub.com/showcase). Or you can go directly to our [request form](https://forms.gle/tcssy8nWmZ98u6sT6).
 
 A little about our contest: Revise & Resub (#RevPit) supports authors with an annual contest wherein querying authors can win feedback and edits on their full manuscripts from professional editors, ensuring their works are polished and ready for agent inboxes. At the end of the editing we showcase all the work our author/editor pairs have done.
 

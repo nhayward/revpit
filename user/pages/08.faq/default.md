@@ -35,6 +35,18 @@ Any additional edits will be up to the author's and editor's discretion and foll
  
 </div>
  
+##### Q:What are the eligibility requirements?
+ 
+<div markdown="1">
+ 
+**A:** 
+* Your submission materials are your own original work
+* The manuscript you are submitting has never been published before
+* You are not represented by a literary agent
+* No non-fiction, poetry, chapter books, picture books, or projects under 25,000 words
+ 
+</div>
+
 ##### Q: Can winners participate in pitch events during the contest?
  
 <div markdown="1">
@@ -177,7 +189,7 @@ In 2023, Tessera Editorial mentees will have access to their paired editor's sub
  
 **A:** Editor wish lists will be available soon with their bios on the [Editors page](http://reviseresub.com/editors), so do your research before the submission window opens. If you’re looking for clarification on what a specific editor is looking for, stop by during their #MeetTheEditor [sessions](http://reviseresub.com/annual-contest/schedule) on Twitter or @ them using the #RevPit tag.
  
-We also have an accessible spreadsheet that breaks down which age categories and genres the editors are accepting to help you narrow down your choices. You can access the [Editor MSWL spreadsheet](https://reviseresub.com/annual-contest/editor-mswl-spreadsheet) here soon.
+We also have an accessible spreadsheet that breaks down which age categories and genres the editors are accepting to help you narrow down your choices. You can access the [Editor MSWL spreadsheet](https://reviseresub.com/annual-contest/editor-mswl-spreadsheet) here.
  
 </div>
  
@@ -458,13 +470,15 @@ We are constantly improving our processes in order to create an inclusive, suppo
 
 We have seen a rise in questions from authors wondering if their manuscripts count as ownvoices. 
 
-After much listening, research, and discussion, the Board has concluded two main points:
+After much listening, research, and discussion, the Board has concluded three main points:
 
 First, the RevPit Editors are not qualified to judge what is or is not a marginalized identity, and we do not presume to know the context in which the writers are living and writing. Furthermore, it is not appropriate to question anyone's identity or force them to out themselves, and we don’t want to put anyone in these positions.
 
 Second, we are also very clear that, in order to be #ownvoices, the author must share the same marginalized identity as the MC(s). Being adjacent to a marginalized person is not the same as being marginalized. For example, it is not ownvoices if your family member is mixed race and your MC is mixed race, but you are not mixed race.
 
-So if you’re wondering whether ownvoices is appropriate for your manuscript, consider:
+Third, we have also seen that the label has received legitimate pushback from writers in marginalized communities, so we don’t want anyone to feel obligated to use such a label.
+
+So if you’re wondering whether ownvoices is appropriate for your manuscript, consider whether you want to use this label and if so:
  * Do you and your MC share one or more of the same marginalized identities? If not, then it’s not #ownvoices.
  * What counts as a marginalized identity? [Corinne Duyvis’s](http://www.corinneduyvis.net/ownvoices?target=_blank) (the hashtag creator’s) site says that, ultimately, it’s up to the author to determine that for themselves, and the DVPit website has a bunch of useful examples: [http://dvpit.com/about](http://dvpit.com/about?target=_blank) 
  * Different communities have different controversies and discussions around representation and what counts as ownvoices, and it’s important to familiarize yourself with them so you know what you’re taking on if/when you decide to claim the label. For example, [this article](https://www.bustle.com/p/why-the-publishing-industry-needs-to-be-more-inclusive-of-autistic-disabled-people-7705640?target=_blank) by Alaina Leary on Bustle about representations of autistic and disabled people or [this article](https://bookriot.com/2017/04/21/the-problem-with-ownvoices-lgbtq-lit?target=_blank) by Danika Ellis on Book Riot about LGBTQ+ ownvoices, especially when it comes to the romance genre. You can also check out the #ownvoices feed on Twitter to see what people are talking about and/or consider asking other marginalized writers from the communities you’re writing about what the most common issues in publishing are for members of that community. You’re bound to get a plethora of perspectives that you can take into consideration when deciding how to frame your work.

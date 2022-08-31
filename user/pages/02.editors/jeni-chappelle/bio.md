@@ -11,6 +11,7 @@ twitter:
 podcast:
     name: 'Story Chat Radio'
     url: 'https://www.storychatradio.com/'
+annual_contest_2022: true
 annual_contest_2021: true
 annual_contest_2020: true
 annual_contest_2019: true

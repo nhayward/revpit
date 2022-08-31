@@ -7,11 +7,11 @@ The Revise & Resub (#RevPit) [Annual Contest](http://reviseresub.com/annual-cont
  
 **Once you have your submission materials ready to go, you’ll come here and click the link to our submission form.**
  
-The link will become active on **March 17th, 2022 at 12:00pm EDT** and remain open until **7pm EDT on March 20th, 2022**.
+The link will become active on **March 16th, 2023 at 12:00pm EDT** and remain open until **7pm EDT on March 19th, 2023**.
  
 If you need accommodations for the submission window due to disability, religion, or other special circumstances that create a significant barrier to submitting, please check the [FAQ page](https://reviseresub.com/faq) for more details.
  
-[![Submit Button](RevPitSubmitButton.jpg)](https://docs.google.com/forms/d/e/1FAIpQLScZtvavRnGjI6wacwVNBQMBDn0lnTD50UZZ-PBUTGZ7TQPxVQ/viewform?usp=sf_link)
+[![Submit Button](RevPitSubmitButton.jpg)](https://forms.gle/442dqQzhw5jSdF1T8)
 
 Please make sure you use the correct email address when submitting. This is the only way editors will be able to contact you regarding your submission materials.
 
@@ -22,7 +22,7 @@ Please make sure you use the correct email address when submitting. This is the 
 #### Step 2: Choose your editors.
 Browse the participating [editor bios and MSWLs](https://reviseresub.com/editors) and select your top THREE choices. 
 
-We also have an accessible spreadsheet that breaks down which age categories and genres the editors are accepting to help you narrow down your choices. You can access the Editor MSWL spreadsheet soon.
+We also have an accessible spreadsheet that breaks down which age categories and genres the editors are accepting to help you narrow down your choices. You can access the [Editor MSWL spreadsheet](https://www.reviseresub.com/annual-contest/editor-mswl-spreadsheet) here.
  
 #### Step 3: Fill in the blanks with your author information.
  * Your name (short answer)

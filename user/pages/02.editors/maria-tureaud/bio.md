@@ -11,6 +11,7 @@ instagram:
 tiktok:
     name: '@Maria_Tureaud'
     url: 'https://www.tiktok.com/@maria_tureaud'
+annual_contest_2022: true
 annual_contest_2021: true
 annual_contest_2020: true
 annual_contest_2019: true

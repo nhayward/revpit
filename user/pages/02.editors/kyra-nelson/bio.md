@@ -6,6 +6,7 @@ website: 'https://kyramnelson.com/'
 twitter:
     name: '@KyraMNelson'
     url: 'https://twitter.com/KyraMNelson'
+annual_contest_2022: true
 annual_contest_2021: true
 annual_contest_2020: true
 annual_contest_2019: true
