@@ -3,7 +3,7 @@
 /**
  * @package    Grav\Framework\Flex
  *
- * @copyright  Copyright (c) 2015 - 2021 Trilby Media, LLC. All rights reserved.
+ * @copyright  Copyright (c) 2015 - 2022 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
 
@@ -17,13 +17,12 @@ use Grav\Common\Page\Interfaces\PageInterface;
 use Grav\Common\Page\Pages;
 use Grav\Common\Utils;
 use Grav\Common\Yaml;
-use Grav\Framework\Cache\CacheInterface;
 use Grav\Framework\File\Formatter\MarkdownFormatter;
 use Grav\Framework\File\Formatter\YamlFormatter;
 use Grav\Framework\Filesystem\Filesystem;
-use Grav\Framework\Flex\FlexDirectory;
 use Grav\Framework\Flex\Interfaces\FlexCollectionInterface;
 use Grav\Framework\Flex\Interfaces\FlexIndexInterface;
+use Grav\Framework\Flex\Pages\FlexPageCollection;
 use Grav\Framework\Flex\Pages\FlexPageIndex;
 use Grav\Framework\Flex\Pages\FlexPageObject;
 use InvalidArgumentException;
@@ -277,6 +276,8 @@ trait PageLegacyTrait
             throw new RuntimeException('Failed: Cannot set page parent to a child of current page');
         }
 
+        $this->storeOriginal();
+
         // TODO:
         throw new RuntimeException(__METHOD__ . '(): Not Implemented');
     }
@@ -292,11 +293,13 @@ trait PageLegacyTrait
      */
     public function copy(PageInterface $parent = null)
     {
+        $this->storeOriginal();
+
         $filesystem = Filesystem::getInstance(false);
 
         $parentStorageKey = ltrim($filesystem->dirname("/{$this->getMasterKey()}"), '/');
 
-        /** @var FlexPageIndex $index */
+        /** @var FlexPageIndex<FlexPageObject,FlexPageCollection<FlexPageObject>> $index */
         $index = $this->getFlexDirectory()->getIndex();
 
         if ($parent) {
@@ -316,15 +319,24 @@ trait PageLegacyTrait
 
         // Find non-existing key.
         $parentKey = $parent ? $parent->getKey() : '';
-        $key = trim($parentKey . '/' . basename($this->getKey()), '/');
-        $key = preg_replace('/-\d+$/', '', $key);
-        $i = 1;
-        do {
-            $i++;
-            $test = "{$key}-{$i}";
-        } while ($index->containsKey($test));
-        $key = $test;
-        $folder = basename($key);
+        if ($this instanceof FlexPageObject) {
+            $key = trim($parentKey . '/' . $this->folder(), '/');
+            $key = preg_replace(static::PAGE_ORDER_PREFIX_REGEX, '', $key);
+            \assert(is_string($key));
+        } else {
+            $key = trim($parentKey . '/' . Utils::basename($this->getKey()), '/');
+        }
+
+        if ($index->containsKey($key)) {
+            $key = preg_replace('/\d+$/', '', $key);
+            $i = 1;
+            do {
+                $i++;
+                $test = "{$key}{$i}";
+            } while ($index->containsKey($test));
+            $key = $test;
+        }
+        $folder = Utils::basename($key);
 
         // Get the folder name.
         $order = $this->getProperty('order');
@@ -527,7 +539,7 @@ trait PageLegacyTrait
         if ($language) {
             $language = '.' . $language;
         }
-        $format = '.' . ($this->getProperty('format') ?? pathinfo($this->name(), PATHINFO_EXTENSION));
+        $format = '.' . ($this->getProperty('format') ?? Utils::pathinfo($this->name(), PATHINFO_EXTENSION));
 
         return $language . $format;
     }
@@ -715,8 +727,9 @@ trait PageLegacyTrait
 
         /** @var UniformResourceLocator $locator */
         $locator = Grav::instance()['locator'];
+        $folder = $locator->isStream($folder) ? $locator->getResource($folder) : GRAV_ROOT . "/{$folder}";
 
-        return $locator->findResource($folder, true, true) . '/' . ($this->isPage() ? $this->name() : 'default.md');
+        return $folder . '/' . ($this->isPage() ? $this->name() : 'default.md');
     }
 
     /**
@@ -733,8 +746,9 @@ trait PageLegacyTrait
 
         /** @var UniformResourceLocator $locator */
         $locator = Grav::instance()['locator'];
+        $folder = $locator->isStream($folder) ? $locator->getResource($folder, false) : $folder;
 
-        return $locator->findResource($folder, false, true) .  '/' . ($this->isPage() ? $this->name() : 'default.md');
+        return $folder .  '/' . ($this->isPage() ? $this->name() : 'default.md');
     }
 
     /**
@@ -1083,18 +1097,6 @@ trait PageLegacyTrait
     public function folderExists(): bool
     {
         return $this->exists() || is_dir($this->getStorageFolder() ?? '');
-    }
-
-    /**
-     * Gets the Page Unmodified (original) version of the page.
-     *
-     * Assumes that object has been cloned before modifying it.
-     *
-     * @return PageInterface|null The original version of the page.
-     */
-    public function getOriginal()
-    {
-        return $this->getFlexDirectory()->getObject($this->getKey());
     }
 
     /**

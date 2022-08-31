@@ -5,7 +5,7 @@ namespace Grav\Framework\Flex\Traits;
 /**
  * @package    Grav\Framework\Flex
  *
- * @copyright  Copyright (c) 2015 - 2021 Trilby Media, LLC. All rights reserved.
+ * @copyright  Copyright (c) 2015 - 2022 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
 
@@ -14,20 +14,25 @@ use Grav\Common\Grav;
 use Grav\Common\Media\Interfaces\MediaCollectionInterface;
 use Grav\Common\Media\Interfaces\MediaUploadInterface;
 use Grav\Common\Media\Traits\MediaTrait;
+use Grav\Common\Page\Media;
 use Grav\Common\Page\Medium\Medium;
 use Grav\Common\Page\Medium\MediumFactory;
+use Grav\Common\Utils;
 use Grav\Framework\Cache\CacheInterface;
 use Grav\Framework\Filesystem\Filesystem;
 use Grav\Framework\Flex\FlexDirectory;
 use Grav\Framework\Form\FormFlashFile;
+use Grav\Framework\Media\Interfaces\MediaObjectInterface;
+use Grav\Framework\Media\MediaObject;
+use Grav\Framework\Media\UploadedMediaObject;
 use Psr\Http\Message\UploadedFileInterface;
 use RocketTheme\Toolbox\ResourceLocator\UniformResourceLocator;
 use RuntimeException;
+use function array_key_exists;
 use function in_array;
 use function is_array;
 use function is_callable;
 use function is_int;
-use function is_object;
 use function is_string;
 use function strpos;
 
@@ -41,7 +46,7 @@ trait FlexMediaTrait
     }
 
     /** @var array */
-    protected $_uploads;
+    protected $_uploads = [];
 
     /**
      * @return string|null
@@ -77,9 +82,38 @@ trait FlexMediaTrait
 
     /**
      * @param string $field
+     * @return MediaCollectionInterface|null
+     */
+    public function getMediaField(string $field): ?MediaCollectionInterface
+    {
+        // Field specific media.
+        $settings = $this->getFieldSettings($field);
+        if (!empty($settings['media_field'])) {
+            $var = 'destination';
+        } elseif (!empty($settings['media_picker_field'])) {
+            $var = 'folder';
+        }
+
+        if (empty($var)) {
+            // Not a media field.
+            $media = null;
+        } elseif ($settings['self']) {
+            // Uses main media.
+            $media = $this->getMedia();
+        } else {
+            // Uses custom media.
+            $media = new Media($settings[$var]);
+            $this->addUpdatedMedia($media);
+        }
+
+        return $media;
+    }
+
+    /**
+     * @param string $field
      * @return array|null
      */
-    protected function getFieldSettings(string $field): ?array
+    public function getFieldSettings(string $field): ?array
     {
         if ($field === '') {
             return null;
@@ -87,15 +121,33 @@ trait FlexMediaTrait
 
         // Load settings for the field.
         $schema = $this->getBlueprint()->schema();
-        $settings = $field && is_object($schema) ? (array)$schema->getProperty($field) : null;
+        $settings = (array)$schema->getProperty($field);
+        if (!is_array($settings)) {
+            return null;
+        }
 
-        if (isset($settings['type']) && (in_array($settings['type'], ['avatar', 'file', 'pagemedia']) || !empty($settings['destination']))) {
-            // Set destination folder.
+        $type = $settings['type'] ?? '';
+
+        // Media field.
+        if (!empty($settings['media_field']) || array_key_exists('destination', $settings) || in_array($type, ['avatar', 'file', 'pagemedia'], true)) {
             $settings['media_field'] = true;
-            if (empty($settings['destination']) || in_array($settings['destination'], ['@self', 'self@', '@self@'], true)) {
-                $settings['destination'] = $this->getMediaFolder();
+            $var = 'destination';
+        }
+
+        // Media picker field.
+        if (!empty($settings['media_picker_field']) || in_array($type, ['filepicker', 'pagemediaselect'], true)) {
+            $settings['media_picker_field'] = true;
+            $var = 'folder';
+        }
+
+        // Set media folder for media fields.
+        if (isset($var)) {
+            $folder = $settings[$var] ?? '';
+            if (in_array(rtrim($folder, '/'), ['', '@self', 'self@', '@self@'], true)) {
+                $settings[$var] = $this->getMediaFolder();
                 $settings['self'] = true;
             } else {
+                $settings[$var] = Utils::getPathFromToken($folder, $this);
                 $settings['self'] = false;
             }
         }
@@ -115,7 +167,9 @@ trait FlexMediaTrait
         return $settings + ['accept' => '*', 'limit' => 1000, 'self' => true];
     }
 
-
+    /**
+     * @return array
+     */
     protected function getMediaFields(): array
     {
         // Load settings for the field.
@@ -156,10 +210,10 @@ trait FlexMediaTrait
                 $filename = $info['path'] ?? $info['name'];
             }
 
-            /** @var Medium|null $thumbFile */
+            /** @var Medium|null $imageFile */
             $imageFile = $media[$filename];
 
-            /** @var Medium|null $thumbFile */
+            /** @var Medium|null $originalFile */
             $originalFile = $originalMedia ? $originalMedia[$filename] : null;
 
             $url = $imageFile ? $imageFile->url() : null;
@@ -206,12 +260,13 @@ trait FlexMediaTrait
      */
     public function uploadMediaFile(UploadedFileInterface $uploadedFile, string $filename = null, string $field = null): void
     {
-        $media = $this->getMedia();
+        $settings = $this->getMediaFieldSettings($field ?? '');
+
+        $media = $field ? $this->getMediaField($field) : $this->getMedia();
         if (!$media instanceof MediaUploadInterface) {
             throw new RuntimeException("Media for {$this->getFlexDirectory()->getFlexType()} doesn't support file uploads.");
         }
 
-        $settings = $this->getMediaFieldSettings($field ?? '');
         $filename = $media->checkUploadedFile($uploadedFile, $filename, $settings);
         $media->copyUploadedFile($uploadedFile, $filename, $settings);
         $this->clearMediaCache();
@@ -236,11 +291,61 @@ trait FlexMediaTrait
     /**
      * @return array
      */
+    #[\ReturnTypeWillChange]
     public function __debugInfo()
     {
         return parent::__debugInfo() + [
                 'uploads:private' => $this->getUpdatedMedia()
             ];
+    }
+
+    /**
+     * @param string|null $field
+     * @param string $filename
+     * @param MediaObjectInterface|null $image
+     * @return MediaObject|UploadedMediaObject
+     */
+    protected function buildMediaObject(?string $field, string $filename, MediaObjectInterface $image = null)
+    {
+        if (!$image) {
+            $media = $field ? $this->getMediaField($field) : null;
+            if ($media) {
+                $image = $media[$filename];
+            }
+        }
+
+        return new MediaObject($field, $filename, $image, $this);
+    }
+
+    /**
+     * @param string|null $field
+     * @return array
+     */
+    protected function buildMediaList(?string $field): array
+    {
+        $names = $field ? (array)$this->getNestedProperty($field) : [];
+        $media = $field ? $this->getMediaField($field) : null;
+        if (null === $media) {
+            $media = $this->getMedia();
+        }
+
+        $list = [];
+        foreach ($names as $key => $val) {
+            $name = is_string($val) ? $val : $key;
+            $medium = $media[$name];
+            if ($medium) {
+                if ($medium->uploaded_file) {
+                    $upload = $medium->uploaded_file;
+                    $id = $upload instanceof FormFlashFile ? $upload->getId() : "{$field}-{$name}";
+
+                    $list[] = new UploadedMediaObject($id, $field, $name, $upload);
+                } else {
+                    $list[] = $this->buildMediaObject($field, $name, $medium);
+                }
+            }
+        }
+
+        return $list;
     }
 
     /**
@@ -292,7 +397,7 @@ trait FlexMediaTrait
                 }
 
                 // Calculate path without the retina scaling factor.
-                $realpath = $filesystem->pathname($filepath) . str_replace(['@3x', '@2x'], '', basename($filepath));
+                $realpath = $filesystem->pathname($filepath) . str_replace(['@3x', '@2x'], '', Utils::basename($filepath));
 
                 $list[$filename] = [$file, $settings];
 
@@ -321,14 +426,23 @@ trait FlexMediaTrait
         $updated = false;
         foreach ($this->getUpdatedMedia() as $filename => $upload) {
             if (is_array($upload)) {
-                // Uses new format with [UploadedFileInterface, array].
-                $upload = $upload[0];
+                /** @var array{UploadedFileInterface,array} $upload */
+                $settings = $upload[1];
+                if (isset($settings['destination']) && $settings['destination'] === $media->getPath()) {
+                    $upload = $upload[0];
+                } else {
+                    $upload = false;
+                }
             }
-            if ($upload) {
-                $medium = MediumFactory::fromUploadedFile($upload);
+            if (false !== $upload) {
+                $medium = $upload ? MediumFactory::fromUploadedFile($upload) : null;
+                $updated = true;
                 if ($medium) {
-                    $updated = true;
+                    $medium->uploaded = true;
+                    $medium->uploaded_file = $upload;
                     $media->add($filename, $medium);
+                } elseif (is_callable([$media, 'hide'])) {
+                    $media->hide($filename);
                 }
             }
         }
@@ -339,11 +453,11 @@ trait FlexMediaTrait
     }
 
     /**
-     * @return array<string, UploadedFileInterface|array|null>
+     * @return array<string,UploadedFileInterface|array|null>
      */
     protected function getUpdatedMedia(): array
     {
-        return $this->_uploads ?? [];
+        return $this->_uploads;
     }
 
     /**
@@ -355,7 +469,6 @@ trait FlexMediaTrait
         if (!$media instanceof MediaUploadInterface) {
             return;
         }
-
 
         // Upload/delete altered files.
         /**
@@ -447,7 +560,7 @@ trait FlexMediaTrait
         user_error(__METHOD__ . '() is deprecated since Grav 1.7, use Media class that implements MediaUploadInterface instead', E_USER_DEPRECATED);
 
         // Check the file extension.
-        $extension = strtolower(pathinfo($filename, PATHINFO_EXTENSION));
+        $extension = strtolower(Utils::pathinfo($filename, PATHINFO_EXTENSION));
 
         $grav = Grav::instance();
 

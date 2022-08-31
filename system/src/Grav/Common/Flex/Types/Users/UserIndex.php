@@ -5,7 +5,7 @@ declare(strict_types=1);
 /**
  * @package    Grav\Common\Flex
  *
- * @copyright  Copyright (c) 2015 - 2021 Trilby Media, LLC. All rights reserved.
+ * @copyright  Copyright (c) 2015 - 2022 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
 
@@ -15,20 +15,20 @@ use Grav\Common\Debugger;
 use Grav\Common\File\CompiledYamlFile;
 use Grav\Common\Flex\FlexIndex;
 use Grav\Common\Grav;
+use Grav\Common\User\Interfaces\UserCollectionInterface;
 use Grav\Common\User\Interfaces\UserInterface;
 use Grav\Framework\Flex\Interfaces\FlexStorageInterface;
 use Monolog\Logger;
 use function count;
 use function is_string;
-use function method_exists;
 
 /**
  * Class UserIndex
  * @package Grav\Common\Flex\Types\Users
  *
- * @extends FlexIndex<string,UserObject,UserCollection>
+ * @extends FlexIndex<UserObject,UserCollection>
  */
-class UserIndex extends FlexIndex
+class UserIndex extends FlexIndex implements UserCollectionInterface
 {
     public const VERSION = parent::VERSION . '.1';
 
@@ -62,7 +62,7 @@ class UserIndex extends FlexIndex
      * @param FlexStorageInterface $storage
      * @return void
      */
-    public static function updateObjectMeta(array &$meta, array $data, FlexStorageInterface $storage)
+    public static function updateObjectMeta(array &$meta, array $data, FlexStorageInterface $storage): void
     {
         // Username can also be number and stored as such.
         $key = (string)($data['username'] ?? $meta['key'] ?? $meta['storage_key']);
@@ -107,6 +107,24 @@ class UserIndex extends FlexIndex
     }
 
     /**
+     * Delete user account.
+     *
+     * @param string $username
+     * @return bool True if user account was found and was deleted.
+     */
+    public function delete($username): bool
+    {
+        $user = $this->load($username);
+
+        $exists = $user->exists();
+        if ($exists) {
+            $user->delete();
+        }
+
+        return $exists;
+    }
+
+    /**
      * Find a user by username, email, etc
      *
      * @param string $query the query to search for
@@ -124,7 +142,7 @@ class UserIndex extends FlexIndex
                 } elseif ($field === 'flex_key') {
                     $user = $this->withKeyField('flex_key')->get($query);
                 } elseif ($field === 'email') {
-                    $user = $this->withKeyField('email')->get($query);
+                    $user = $this->withKeyField('email')->get(static::filterUsername($query, $this->getFlexDirectory()->getStorage()));
                 } elseif ($field === 'username') {
                     $user = $this->get(static::filterUsername($query, $this->getFlexDirectory()->getStorage()));
                 } else {
@@ -146,7 +164,7 @@ class UserIndex extends FlexIndex
      */
     protected static function filterUsername(string $key, FlexStorageInterface $storage): string
     {
-        return $storage->normalizeKey($key);
+        return method_exists($storage, 'normalizeKey') ? $storage->normalizeKey($key) : $key;
     }
 
     /**
@@ -169,7 +187,7 @@ class UserIndex extends FlexIndex
      * @param array $updated
      * @param array $removed
      */
-    protected static function onChanges(array $entries, array $added, array $updated, array $removed)
+    protected static function onChanges(array $entries, array $added, array $updated, array $removed): void
     {
         $message = sprintf('Flex: User index updated, %d objects (%d added, %d updated, %d removed).', count($entries), count($added), count($updated), count($removed));
 

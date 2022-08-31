@@ -3,7 +3,7 @@
 /**
  * @package    Grav\Common\Page
  *
- * @copyright  Copyright (c) 2015 - 2021 Trilby Media, LLC. All rights reserved.
+ * @copyright  Copyright (c) 2015 - 2022 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
 
@@ -197,6 +197,58 @@ class Pages
     }
 
     /**
+     * Get relative referrer route and language code. Returns null if the route isn't within the current base, language (if set) and route.
+     *
+     * @example `$langCode = null; $referrer = $pages->referrerRoute($langCode, '/admin');` returns relative referrer url within /admin and updates $langCode
+     * @example `$langCode = 'en'; $referrer = $pages->referrerRoute($langCode, '/admin');` returns relative referrer url within the /en/admin
+     *
+     * @param string|null $langCode Variable to store the language code. If already set, check only against that language.
+     * @param string $route Optional route within the site.
+     * @return string|null
+     * @since 1.7.23
+     */
+    public function referrerRoute(?string &$langCode, string $route = '/'): ?string
+    {
+        $referrer = $_SERVER['HTTP_REFERER'] ?? null;
+
+        // Start by checking that referrer came from our site.
+        $root = $this->grav['base_url_absolute'];
+        if (!is_string($referrer) || !str_starts_with($referrer, $root)) {
+            return null;
+        }
+
+        /** @var Language $language */
+        $language = $this->grav['language'];
+
+        // Get all language codes and append no language.
+        if (null === $langCode) {
+            $languages = $language->enabled() ? $language->getLanguages() : [];
+            $languages[] = '';
+        } else {
+            $languages[] = $langCode;
+        }
+
+        $path_base = rtrim($this->base(), '/');
+        $path_route = rtrim($route, '/');
+
+        // Try to figure out the language code.
+        foreach ($languages as $code) {
+            $path_lang = $code ? "/{$code}" : '';
+
+            $base = $path_base . $path_lang . $path_route;
+            if ($referrer === $base || str_starts_with($referrer, "{$base}/")) {
+                if (null === $langCode) {
+                    $langCode = $code;
+                }
+
+                return substr($referrer, \strlen($base));
+            }
+        }
+
+        return null;
+    }
+
+    /**
      *
      * Get base URL for Grav pages.
      *
@@ -274,7 +326,7 @@ class Pages
      *
      * @return void
      */
-    public function reset()
+    public function reset(): void
     {
         $this->initialized = false;
 
@@ -540,9 +592,9 @@ class Pages
         }
 
         if (isset($params['dateRange'])) {
-            $start = $params['dateRange']['start'] ?? 0;
-            $end = $params['dateRange']['end'] ?? false;
-            $field = $params['dateRange']['field'] ?? false;
+            $start = $params['dateRange']['start'] ?? null;
+            $end = $params['dateRange']['end'] ?? null;
+            $field = $params['dateRange']['field'] ?? null;
             $collection = $collection->dateRange($start, $end, $field);
         }
 
@@ -554,7 +606,7 @@ class Pages
 
             if (is_array($sort_flags)) {
                 $sort_flags = array_map('constant', $sort_flags); //transform strings to constant value
-                $sort_flags = array_reduce($sort_flags, function ($a, $b) {
+                $sort_flags = array_reduce($sort_flags, static function ($a, $b) {
                     return $a | $b;
                 }, 0); //merge constant values using bit or
             }
@@ -597,7 +649,7 @@ class Pages
             $cmd = $value;
             $params = [];
         } elseif (is_array($value) && count($value) === 1 && !is_int(key($value))) {
-            // Format: @command.param: { attr1: value1, attr2: value2 }
+            // Format: @command.param: { attr1: value1, attr2: value2 }
             $cmd = (string)key($value);
             $params = (array)current($value);
         } else {
@@ -663,29 +715,45 @@ class Pages
 
         switch ($type) {
             case 'all':
-                return $page->children();
+                $collection = $page->children();
+                break;
             case 'modules':
             case 'modular':
-                return $page->children()->modules();
+                $collection = $page->children()->modules();
+                break;
             case 'pages':
             case 'children':
-                return $page->children()->pages();
+                $collection = $page->children()->pages();
+                break;
             case 'page':
             case 'self':
-                return !$page->root() ? (new Collection())->addPage($page) : new Collection();
+                $collection = !$page->root() ? (new Collection())->addPage($page) : new Collection();
+                break;
             case 'parent':
                 $parent = $page->parent();
                 $collection = new Collection();
-                return $parent ? $collection->addPage($parent) : $collection;
+                $collection = $parent ? $collection->addPage($parent) : $collection;
+                break;
             case 'siblings':
                 $parent = $page->parent();
-                return $parent ? $parent->children()->remove($page->path()) : new Collection();
+                if ($parent) {
+                    /** @var Collection $collection */
+                    $collection = $parent->children();
+                    $collection = $collection->remove($page->path());
+                } else {
+                    $collection = new Collection();
+                }
+                break;
             case 'descendants':
-                return $this->all($page)->remove($page->path())->pages();
+                $collection = $this->all($page)->remove($page->path())->pages();
+                break;
             default:
                 // Unknown type; return empty collection.
-                return new Collection();
+                $collection = new Collection();
+                break;
         }
+
+        return $collection;
     }
 
     /**
@@ -769,6 +837,9 @@ class Pages
     public function get($path)
     {
         $path = (string)$path;
+        if ($path === '') {
+            return null;
+        }
 
         // Check for local instances first.
         if (array_key_exists($path, $this->instances)) {
@@ -777,14 +848,26 @@ class Pages
 
         $instance = $this->index[$path] ?? null;
         if (is_string($instance)) {
-            /** @var Language $language */
-            $language = $this->grav['language'];
-            $lang = $language->getActive();
-            if ($lang) {
-                $instance .= ':' . $lang;
+            if ($this->directory) {
+                /** @var Language $language */
+                $language = $this->grav['language'];
+                $lang = $language->getActive();
+                if ($lang) {
+                    $languages = $language->getFallbackLanguages($lang, true);
+                    $key = $instance;
+                    $instance = null;
+                    foreach ($languages as $code) {
+                        $test = $code ? $key . ':' . $code : $key;
+                        if (($instance = $this->directory->getObject($test, 'flex_key')) !== null) {
+                            break;
+                        }
+                    }
+                } else {
+                    $instance = $this->directory->getObject($instance, 'flex_key');
+                }
             }
-            $instance = $this->directory ? $this->directory->getObject($instance, 'flex_key') : null;
-            if ($instance) {
+
+            if ($instance instanceof PageInterface) {
                 if ($this->fire_events && method_exists($instance, 'initialize')) {
                     $instance->initialize();
                 }
@@ -865,103 +948,151 @@ class Pages
     }
 
     /**
-     * alias method to return find a page.
+     * Find a page based on route.
      *
-     * @param string $route The relative URL of the page
-     * @param bool   $all
+     * @param string $route The route of the page
+     * @param bool   $all   If true, return also non-routable pages, otherwise return null if page isn't routable
      * @return PageInterface|null
      */
     public function find($route, $all = false)
     {
-        return $this->dispatch($route, $all, false);
+        $route = urldecode((string)$route);
+
+        // Fetch page if there's a defined route to it.
+        $path = $this->routes[$route] ?? null;
+        $page = null !== $path ? $this->get($path) : null;
+
+        // Try without trailing slash
+        if (null === $page && Utils::endsWith($route, '/')) {
+            $path = $this->routes[rtrim($route, '/')] ?? null;
+            $page = null !== $path ? $this->get($path) : null;
+        }
+
+        if (!$all && !isset($this->grav['admin'])) {
+            if (null === $page || !$page->routable()) {
+                // If the page cannot be accessed, look for the site wide routes and wildcards.
+                $page = $this->findSiteBasedRoute($route) ?? $page;
+            }
+        }
+
+        return $page;
+    }
+
+    /**
+     * Check site based routes.
+     *
+     * @param string $route
+     * @return PageInterface|null
+     */
+    protected function findSiteBasedRoute($route)
+    {
+        /** @var Config $config */
+        $config = $this->grav['config'];
+
+        $site_routes = $config->get('site.routes');
+        if (!is_array($site_routes)) {
+            return null;
+        }
+
+        $page = null;
+
+        // See if route matches one in the site configuration
+        $site_route = $site_routes[$route] ?? null;
+        if ($site_route) {
+            $page = $this->find($site_route);
+        } else {
+            // Use reverse order because of B/C (previously matched multiple and returned the last match).
+            foreach (array_reverse($site_routes, true) as $pattern => $replace) {
+                $pattern = '#^' . str_replace('/', '\/', ltrim($pattern, '^')) . '#';
+                try {
+                    $found = preg_replace($pattern, $replace, $route);
+                    if ($found && $found !== $route) {
+                        $page = $this->find($found);
+                        if ($page) {
+                            return $page;
+                        }
+                    }
+                } catch (ErrorException $e) {
+                    $this->grav['log']->error('site.routes: ' . $pattern . '-> ' . $e->getMessage());
+                }
+            }
+        }
+
+        return $page;
     }
 
     /**
      * Dispatch URI to a page.
      *
      * @param string $route The relative URL of the page
-     * @param bool $all
-     * @param bool $redirect
+     * @param bool $all If true, return also non-routable pages, otherwise return null if page isn't routable
+     * @param bool $redirect If true, allow redirects
      * @return PageInterface|null
      * @throws Exception
      */
     public function dispatch($route, $all = false, $redirect = true)
     {
-        $route = urldecode($route);
+        $page = $this->find($route, true);
 
-        // Fetch page if there's a defined route to it.
-        $path = $this->routes[$route] ?? null;
-        $page = null !== $path ? $this->get($path) : null;
-        // Try without trailing slash
-        if (!$page && Utils::endsWith($route, '/')) {
-            $path = $this->routes[rtrim($route, '/')] ?? null;
-            $page = null !== $path ? $this->get($path) : null;
+        // If we want all pages or are in admin, return what we already have.
+        if ($all || isset($this->grav['admin'])) {
+            return $page;
         }
 
-        // Are we in the admin? this is important!
-        $not_admin = !isset($this->grav['admin']);
-
-        // If the page cannot be reached, look into site wide redirects, routes + wildcards
-        if (!$all && $not_admin) {
-            // If the page is a simple redirect, just do it.
-            if ($redirect && $page && $page->redirect()) {
-                $this->grav->redirectLangSafe($page->redirect());
-            }
-
-            // fall back and check site based redirects
-            if (!$page || !$page->routable()) {
-                // Redirect to the first child (placeholder page)
-                if ($redirect && $page && count($children = $page->children()->visible()->routable()->published()) > 0) {
-                    $this->grav->redirectLangSafe($children->first()->route());
+        if ($page) {
+            $routable = $page->routable();
+            if ($redirect) {
+                if ($page->redirect()) {
+                    // Follow a redirect page.
+                    $this->grav->redirectLangSafe($page->redirect());
                 }
 
-                /** @var Config $config */
-                $config = $this->grav['config'];
-
-                // See if route matches one in the site configuration
-                $site_route = $config->get("site.routes.{$route}");
-                if ($site_route) {
-                    $page = $this->dispatch($site_route, $all, $redirect);
-                } else {
-                    /** @var Uri $uri */
-                    $uri = $this->grav['uri'];
-                    /** @var \Grav\Framework\Uri\Uri $source_url */
-                    $source_url = $uri->uri(false);
-
-                    // Try Regex style redirects
-                    $site_redirects = $config->get('site.redirects');
-                    if (is_array($site_redirects)) {
-                        foreach ((array)$site_redirects as $pattern => $replace) {
-                            $pattern = ltrim($pattern, '^');
-                            $pattern = '#^' . str_replace('/', '\/', $pattern) . '#';
-                            try {
-                                /** @var string $found */
-                                $found = preg_replace($pattern, $replace, $source_url);
-                                if ($found && $found !== $source_url) {
-                                    $this->grav->redirectLangSafe($found);
-                                }
-                            } catch (ErrorException $e) {
-                                $this->grav['log']->error('site.redirects: ' . $pattern . '-> ' . $e->getMessage());
-                            }
-                        }
+                if (!$routable) {
+                    /** @var Collection $children */
+                    $children = $page->children()->visible()->routable()->published();
+                    $child = $children->first();
+                    if ($child !== null) {
+                        // Redirect to the first visible child as current page isn't routable.
+                        $this->grav->redirectLangSafe($child->route());
                     }
+                }
+            }
 
-                    // Try Regex style routes
-                    $site_routes = $config->get('site.routes');
-                    if (is_array($site_routes)) {
-                        foreach ((array)$site_routes as $pattern => $replace) {
-                            $pattern = '#^' . str_replace('/', '\/', ltrim($pattern, '^')) . '#';
-                            try {
-                                /** @var string $found */
-                                $found = preg_replace($pattern, $replace, $source_url);
-                                if ($found && $found !== $source_url) {
-                                    $page = $this->dispatch($found, $all, $redirect);
-                                }
-                            } catch (ErrorException $e) {
-                                $this->grav['log']->error('site.routes: ' . $pattern . '-> ' . $e->getMessage());
-                            }
-                        }
+            if ($routable) {
+                return $page;
+            }
+        }
+
+        $route = urldecode((string)$route);
+
+        // The page cannot be reached, look into site wide redirects, routes and wildcards.
+        $redirectedPage = $this->findSiteBasedRoute($route);
+        if ($redirectedPage) {
+            $page = $this->dispatch($redirectedPage->route(), false, $redirect);
+        }
+
+        /** @var Config $config */
+        $config = $this->grav['config'];
+
+        /** @var Uri $uri */
+        $uri = $this->grav['uri'];
+        /** @var \Grav\Framework\Uri\Uri $source_url */
+        $source_url = $uri->uri(false);
+
+        // Try Regex style redirects
+        $site_redirects = $config->get('site.redirects');
+        if (is_array($site_redirects)) {
+            foreach ((array)$site_redirects as $pattern => $replace) {
+                $pattern = ltrim($pattern, '^');
+                $pattern = '#^' . str_replace('/', '\/', $pattern) . '#';
+                try {
+                    /** @var string $found */
+                    $found = preg_replace($pattern, $replace, $source_url);
+                    if ($found && $found !== $source_url) {
+                        $this->grav->redirectLangSafe($found);
                     }
+                } catch (ErrorException $e) {
+                    $this->grav['log']->error('site.redirects: ' . $pattern . '-> ' . $e->getMessage());
                 }
             }
         }
@@ -1159,7 +1290,14 @@ class Pages
                 $event->types = $types;
                 $grav->fireEvent('onGetPageBlueprints', $event);
 
-                $types->scanBlueprints('theme://blueprints/');
+                $types->init();
+
+                // Try new location first.
+                $lookup = 'theme://blueprints/pages/';
+                if (!is_dir($lookup)) {
+                    $lookup = 'theme://blueprints/';
+                }
+                $types->scanBlueprints($lookup);
 
                 // Scan templates
                 $event = new Event();
@@ -1696,7 +1834,7 @@ class Pages
         // Build regular expression for all the allowed page extensions.
         $page_extensions = $language->getFallbackPageExtensions();
         $regex = '/^[^\.]*(' . implode('|', array_map(
-            function ($str) {
+            static function ($str) {
                 return preg_quote($str, '/');
             },
             $page_extensions
@@ -1938,7 +2076,7 @@ class Pages
                     $list[$key] = $child->slug();
                     break;
                 case 'basename':
-                    $list[$key] = basename($key);
+                    $list[$key] = Utils::basename($key);
                     break;
                 case 'folder':
                     $list[$key] = $child->folder();

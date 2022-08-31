@@ -5,13 +5,14 @@ declare(strict_types=1);
 /**
  * @package    Grav\Framework\Flex
  *
- * @copyright  Copyright (c) 2015 - 2021 Trilby Media, LLC. All rights reserved.
+ * @copyright  Copyright (c) 2015 - 2022 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
 
 namespace Grav\Framework\Flex\Storage;
 
 use FilesystemIterator;
+use Grav\Common\Utils;
 use Grav\Framework\Flex\Interfaces\FlexStorageInterface;
 use RuntimeException;
 use SplFileInfo;
@@ -83,6 +84,8 @@ class FileStorage extends FolderStorage
         $path = $this->getPathFromKey($src);
         $file = $this->getFile($path);
         $file->delete();
+        $file->free();
+        unset($file);
 
         return true;
     }
@@ -123,7 +126,7 @@ class FileStorage extends FolderStorage
      */
     protected function getKeyFromPath(string $path): string
     {
-        return basename($path, $this->dataFormatter->getDefaultFileExtension());
+        return Utils::basename($path, $this->dataFormatter->getDefaultFileExtension());
     }
 
     /**
