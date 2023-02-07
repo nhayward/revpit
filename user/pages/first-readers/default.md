@@ -45,9 +45,9 @@ Our ideal candidates have experience with one or more of the following:
 
 * **November 1st:** Application deadline
 * **November 8th:** Sample test deadline
-* **December 17:** applicants will be notified of participation in the program
+* **December 19:** applicants will be notified of participation in the program
 * **January/February:** First Reader Training (exact dates TBD)
-* **March 17th - March 31st:** First Readers review submissions
+* **March 19th - March 31st:** First Readers review submissions
 * **Summer:** Workshops offered by the editors (exact dates TBD)
 
-#### If this sounds like you, and you’d like to join the #RevPit First Readers Program for 2022, then fill out the [First Reader Application here](https://forms.gle/GN3zBZJPuEsVQZCn8?target=_blank)! We look forward to hearing from you.
+#### If this sounds like you, and you’d like to join the #RevPit First Readers Program for 2023, then fill out the [First Reader Application here](https://forms.gle/UPXjvWvWTNErZvUQ9?target=_blank)! We look forward to hearing from you.

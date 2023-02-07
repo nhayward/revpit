@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInite1930548d5c16c66b56258eddd2dc2b1
+class ComposerStaticInit4f32c98099166bb37625a171fd302f37
 {
     public static $files = array (
         'a4a119a56e50fbb293281d9a48007e0e' => __DIR__ . '/..' . '/symfony/polyfill-php80/bootstrap.php',
@@ -101,6 +101,7 @@ class ComposerStaticInite1930548d5c16c66b56258eddd2dc2b1
         ),
         'D' => 
         array (
+            'Doctrine\\Deprecations\\' => 22,
             'Doctrine\\Common\\Collections\\' => 28,
             'Doctrine\\Common\\Cache\\' => 22,
             'DebugBar\\' => 9,
@@ -289,6 +290,10 @@ class ComposerStaticInite1930548d5c16c66b56258eddd2dc2b1
         'Grav\\' => 
         array (
             0 => __DIR__ . '/../..' . '/system/src/Grav',
+        ),
+        'Doctrine\\Deprecations\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/doctrine/deprecations/lib/Doctrine/Deprecations',
         ),
         'Doctrine\\Common\\Collections\\' => 
         array (
@@ -564,7 +569,10 @@ class ComposerStaticInite1930548d5c16c66b56258eddd2dc2b1
         'Doctrine\\Common\\Collections\\Expr\\ExpressionVisitor' => __DIR__ . '/..' . '/doctrine/collections/lib/Doctrine/Common/Collections/Expr/ExpressionVisitor.php',
         'Doctrine\\Common\\Collections\\Expr\\Value' => __DIR__ . '/..' . '/doctrine/collections/lib/Doctrine/Common/Collections/Expr/Value.php',
         'Doctrine\\Common\\Collections\\ExpressionBuilder' => __DIR__ . '/..' . '/doctrine/collections/lib/Doctrine/Common/Collections/ExpressionBuilder.php',
+        'Doctrine\\Common\\Collections\\ReadableCollection' => __DIR__ . '/..' . '/doctrine/collections/lib/Doctrine/Common/Collections/ReadableCollection.php',
         'Doctrine\\Common\\Collections\\Selectable' => __DIR__ . '/..' . '/doctrine/collections/lib/Doctrine/Common/Collections/Selectable.php',
+        'Doctrine\\Deprecations\\Deprecation' => __DIR__ . '/..' . '/doctrine/deprecations/lib/Doctrine/Deprecations/Deprecation.php',
+        'Doctrine\\Deprecations\\PHPUnit\\VerifyDeprecations' => __DIR__ . '/..' . '/doctrine/deprecations/lib/Doctrine/Deprecations/PHPUnit/VerifyDeprecations.php',
         'Grav\\Common\\Assets' => __DIR__ . '/../..' . '/system/src/Grav/Common/Assets.php',
         'Grav\\Common\\Assets\\BaseAsset' => __DIR__ . '/../..' . '/system/src/Grav/Common/Assets/BaseAsset.php',
         'Grav\\Common\\Assets\\BlockAssets' => __DIR__ . '/../..' . '/system/src/Grav/Common/Assets/BlockAssets.php',
@@ -846,6 +854,7 @@ class ComposerStaticInite1930548d5c16c66b56258eddd2dc2b1
         'Grav\\Console\\GravCommand' => __DIR__ . '/../..' . '/system/src/Grav/Console/GravCommand.php',
         'Grav\\Console\\Plugin\\PluginListCommand' => __DIR__ . '/../..' . '/system/src/Grav/Console/Plugin/PluginListCommand.php',
         'Grav\\Console\\TerminalObjects\\Table' => __DIR__ . '/../..' . '/system/src/Grav/Console/TerminalObjects/Table.php',
+        'Grav\\Events\\BeforeSessionStartEvent' => __DIR__ . '/../..' . '/system/src/Grav/Events/BeforeSessionStartEvent.php',
         'Grav\\Events\\FlexRegisterEvent' => __DIR__ . '/../..' . '/system/src/Grav/Events/FlexRegisterEvent.php',
         'Grav\\Events\\PermissionsRegisterEvent' => __DIR__ . '/../..' . '/system/src/Grav/Events/PermissionsRegisterEvent.php',
         'Grav\\Events\\PluginsLoadedEvent' => __DIR__ . '/../..' . '/system/src/Grav/Events/PluginsLoadedEvent.php',
@@ -2104,10 +2113,10 @@ class ComposerStaticInite1930548d5c16c66b56258eddd2dc2b1
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInite1930548d5c16c66b56258eddd2dc2b1::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInite1930548d5c16c66b56258eddd2dc2b1::$prefixDirsPsr4;
-            $loader->prefixesPsr0 = ComposerStaticInite1930548d5c16c66b56258eddd2dc2b1::$prefixesPsr0;
-            $loader->classMap = ComposerStaticInite1930548d5c16c66b56258eddd2dc2b1::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit4f32c98099166bb37625a171fd302f37::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit4f32c98099166bb37625a171fd302f37::$prefixDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInit4f32c98099166bb37625a171fd302f37::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInit4f32c98099166bb37625a171fd302f37::$classMap;
 
         }, null, ClassLoader::class);
     }

@@ -161,9 +161,7 @@ If you need a visual example of formatting for the Annual Contest, take a look a
  
 <div markdown="1">
  
-**A:** The First Readers will ONLY have access to the first five pages document, content warnings, genre, and age category sections. They will not have access to any personal information.
-
-When uploading your first five pages, please remove all identifying information from the document, including (but not necessarily limited to) author’s name, email address, physical address, mailing address, telephone number, website, and social media links. Please check the headers and footers too!
+**A:** The First Readers will ONLY have access to the first five pages and query letter, content warnings, genre, and age category sections. They may have access to any personal information that is included in the query letter, so feel free to remove your contact information from the query letter if you aren't comfortable with the first readers seeing this (editors will get this info from the submission form). Your name will be attached to these files, so the entries will not be anonymous.
 
 </div>
  

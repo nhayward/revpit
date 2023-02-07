@@ -18,5 +18,5 @@ Browse the participating editor bios and select your THREE choices. This accessi
 * If you're having a hard time deciding, watch the \#RevPit \#MeetTheEditor feed on Twitter for a chance to ask questions of the editors you're considering.
 
 #### Available Formats:
-* Google Sheets: [Google 2022 Editor MSWL Spreadsheet](https://docs.google.com/spreadsheets/d/1jfDqRdf1uP57Itlix04jc9BsvYLoBrGjnqlarzDHd10/edit?usp=sharing?target=_blank)
-* Microsoft Excel: [Excel 2022 Editor MSWL Spreadsheet](RevPit%202022%20Editor%20MSWL%20Spreadsheet.xlsx) (If you use a screen reader, please note that the column headers start on row 2)
+
+Coming soon!
