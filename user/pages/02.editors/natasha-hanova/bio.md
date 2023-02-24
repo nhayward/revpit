@@ -5,6 +5,7 @@ website: 'https://www.natashahanova.com/'
 twitter:
     name: '@NatashaHanova'
     url: 'https://twitter.com/NatashaHanova'
+annual_contest_2023: true
 annual_contest_2022: true
 annual_contest_2021: true
 annual_contest_2020: true
@@ -13,27 +14,31 @@ mini: true
 
 ##### Bio
 
-Natasha Hanova loves imaginative problem solving and discussing the craft of writing with others. She writes sweet and evocative romance with a dark twist. Natasha’s experiences as a biracial woman fuel not only her storytelling, but her endeavors to lift and support other marginalized writers. 
+I’m an experienced developmental editor, with an eye for detail, who has actively participated in multiple critique groups for more than twenty years. I love discussing the craft with others, regardless of where writers are on their journey. It brings me a particular joy to help people source out the cause of writer’s block or plot issues or characters that stop talking. I’m an author coach with The Creatives Apprentice, where we simplify business so writers have the brain space to create, as well.
 
-Natasha is a thorough and understanding freelance developmental editor. Her editorial style has been called a mini workshop. She believes it’s important for writers to come through the editing process with goals they can accomplish. She works on fiction manuscripts from young adult to adult across a variety of genres. When she’s not editing, she’s sipping tea with a good book, watching scary movies while crocheting, or playing cards with her friends.
+My experiences as a biracial Black woman fuel not only my storytelling, but my endeavors to lift and support other marginalized writers. As a military kid, I’ve called places as far as Germany home. I now live in the Midwest with my amazing husband, twin boys, daughter, dog, and a sassy cat.
+
+I write Adult/YA contemporary fantasy, romance and dystopian. When I’m not editing, writing or reading, I enjoy time with my family and pets, spending time in nature, crocheting and recently, amigurumi.
+
+My love of crochet has shown me similarities between yarn art and writing: it takes dedication, determination, and resilience to get through to The End. Similarly, my journey in the query trenches is one of persistence and perseverance. I’m now represented by Amy Giuffrida.
 
 **Pronouns: She/Her**
 
 ##### MSWL
 
-I love character-driven stories, great voice, and unexpected premises in Adult or Young Adult. I’m drawn in by creative worlds, unique premises, and characters facing impossible choices.
+I love character-driven stories, great voice, and unexpected premises in Adult, New Adult, or Young Adult. I’m drawn in by creative worlds, unique premises, and characters facing impossible choices.
 
-I want…
+**I want…**
 * I’d love to see more diverse fiction!
-* Romance, all subgenres (except historical or royal fantasy) and heat levels.
+* Romance, all subgenres and heat levels (except historical or royal fantasy).
 * Paranormal, especially paranormal romance.
-* Urban fantasy, dark fantasy, and dystopian.
-* Horror – Comedic (ex. _Shaun of the Dead_, _Ready or Not_, or _What We Do In Shadows_), Monsters or Witchcraft.
+* Cozy fantasy, urban fantasy, dark fantasy, and dystopian.
+* New twist on vampires, demons, shifters, witches, etc…YES, please.
+* Something quirky, lighthearted and fun.
 
-I’m **not** the right editor for…
+**I’m not the right editor for…**
 * Any kind of historic fiction.
-* Picture books, middle grade, or non-fiction. 
-* Horror subgenres slasher, demonic possession, gore/splatter, or psychological.
+* Picture books or non-fiction.
 * Anything over 110k words.
 
 ##### Q&A
@@ -44,7 +49,7 @@ Whenever a writer is able to introduce an interesting character with a unique vo
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-As a content editor, my number one job is to find what isn’t working for the manuscript, as well as what makes the work shine. You can expect kind, yet honest feedback on plot, pacing, characterization, and worldbuilding. We’ll start with an email, phone call, or Zoom/Google Meet to discuss any concerns. I’ll stay in touch while I do a big-picture content edit. After time to digest feedback, we’ll chat again to go over questions, concerns, or any brainstorming before you attack revisions. Then, we’ll repeat the process one final time.
+As a content editor, my number one job is to find what isn’t working for the manuscript, as well as what makes the work shine. You can expect kind, yet honest feedback on plot, pacing, characterization, and worldbuilding. We’ll start with an email, phone call, or Skype/Google Hangout to discuss any concerns. I’ll stay in touch while I do a big-picture content edit. After time to digest feedback, we’ll chat again to go over questions, concerns, or any brainstorming before you attack revisions.
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
@@ -52,4 +57,4 @@ Writing is easy. Writing well is hard. I expect you to be open to feedback and r
  
 **What hobbies do you have outside of writing and editing?**
 
-When I’m not editing or writing, I’m most likely exploring the woods with my family and dog, trying to find a quiet place to read, or crocheting while bingeing a variety of shows from _Schitt’s Creek_ to _Derry Girls_ to _Black_ (where Ha-ram sees grim reapers). My acrylic on canvas is more about time with friends and family than skill. My Insta is mostly cats.
+I like to explore the woods with my family and dog, find a quiet places to read, or crochet while bingeing a variety of shows from _Schitt’s Creek_ to _Derry Girls_ to _Only Murders In The Building_. I also love playing card games and collecting decks of cards. I probably have too many.

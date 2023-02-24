@@ -11,6 +11,7 @@ twitter:
 instagram:
     name: 'Miranda Darrow'
     url: 'https://www.instagram.com/miranda.darrow'
+annual_contest_2023: true
 annual_contest_2022: true
 annual_contest_2021: true
 annual_contest_2020: true
@@ -19,24 +20,29 @@ mini: true
 
 ##### Bio
 
-Miranda Darrow is a freelance editor, #RevPit board member, and story sleuth who digs deep into your manuscript to uncover the best version of your story. She’s a writer and voracious reader who has turned her passion for books into a career helping authors develop the intricate facets of their stories.
+Miranda Darrow is an editor and story sleuth who digs deep into your manuscript to uncover the best version of your story. She’s a writer and voracious reader who has turned her passion for books into a career helping authors develop the intricate facets of their stories. After graduating with a degree in English, she became an attorney and used her logic skills in her decades-long legal practice, but never lost the urge to read and write fiction. Taking an in-house position twelve years ago allowed her the time to develop her writing and editing skills. 
 
-After graduating with a degree in English and then a law degree, she became a practicing attorney, but never lost the urge to read and write fiction. Taking an in-house counsel position fourteen years ago allowed her the time to develop her writing and editing skills. She’s a member of the Editorial Freelancers Association, the Professional Editors Network, and a frequent presenter to writing groups. Her logic skills honed as an attorney are an asset in detecting and remedying timeline issues, plot inconsistencies, as well as pacing and story arc concerns.
+Miranda is a board member and contributing editor with the #RevPit online editing contest. She’s also a member of the Editorial Freelancers Association, the Professional Editors Network, and a frequent presenter to writing groups. She specializes in fiction and creative non-fiction. Her logic skills honed as an attorney are an asset in detecting and remedying timeline issues, plot inconsistencies, as well as pacing and story arc concerns. She’s a book coach, developmental editor, and copyeditor.
 
 **Pronouns: She/Her**
 
 ##### MSWL
 
-For #RevPit 2022, I’m looking for an escape from 2022:
+For #RevPit 2023, I’m mostly open for genre this year. Usually I write a detailed MSWL, and then ignore it and pick something I wasn’t expecting. This year, rather than trying to predict, I’m listing ten published books I enjoyed reading last year and am jealous that I didn’t get to work on as an editor:
+* _Cold the Night, Fast the Wolves_ by Meg Long 
+* _The Kindred Spirits Supper Club_ by Amy E. Reichert
+* _The Yellow Wife_ by Sadeqa Johnson
+* _My Sister's Big Fat Indian Wedding_ by Sajni Patel
+* _Light Years from Home_ by Mike Chen
+* _Perish_ by Latoya Watkins
+* _Queen of the Tiles_ by Hanna Alkaf
+* _Sophie Go’s Lonely Hearts Club_ by Roselle Lim
+* _The Wife Before_ by Shanora Williams
+* _Catch and Cradle_ by Katia Rose
 
-* Is your sci-fi or fantasy story my escape-hatch from 2022? Transport me out of my COVID-cave and into your unique universe. Show me your cool worldbuilding, your fantastical creatures, scientific innovations, even your dystopian government rulebook. Send me all the time-travel, high fantasy, alternate history, and multi-verse stories. My logical side loves keeping track of multiple timelines and the butterfly effect those pesky time travelers leave in their wakes.
-* Out of the frying pan and into the fire – I’m looking for mysteries, suspense, and thrillers that will capture my attention and make me think living in 2022 is a walk in the park. Twist me into a pretzel so I can’t figure out the truth, but once it’s revealed, the clues were right there all along. I can help with pacing, foreshadowing, and red herrings.
-* Escape to youth - I'm interested in stories for younger readers this year, accepting most middle grade stories (including contemporary and contemporary fantasy). I have a son reading middle grade stories now and would love a sneak peek at the next middle grade hit.
-* For the first time as a #RevPit editor, I’m open to historical novels (other than the recent historical like when I went to high school in the 1980s – which are always my jam). Take me away to another time when it wasn’t year 2+ of a pandemic. Romance, YA, speculative (especially time travel and alt history), women’s fiction showing us untold history (based on actual or fictional stories). Given the short editing window, I’ll be relying on the author for historical accuracy, but I’m ready to go back in time for #RevPit.
+**Love:** road trips (including the inter-galactic variety), tricky family dynamics, immersive settings, and quirky characters. Romance (as a genre or subplot) is welcome but not required.
 
-**Loves:** road trips (including the inter-galactic variety), tricky family dynamics, immersive settings, and quirky characters. Romance (as a genre or subplot) is welcome but not required.
-
-**Not looking for:** horror, non-fiction, anything over 120,000 words, stories with COVID or grief at the forefront, contemporary YA and contemporary romance (for the 2022 #RevPit contest – I work with both of these frequently, but I’m looking for a break in my submissions this spring).
+**Not looking for:** revenge stories, horror, non-fiction, anything over 120,000 words, stories with COVID at the forefront.
 
 I’m always open to diverse stories, including #OwnVoices, BIPOC, LBGTQA+, and disability representation.
 
@@ -44,28 +50,20 @@ I’m always open to diverse stories, including #OwnVoices, BIPOC, LBGTQA+, and 
 
 **How can a manuscript’s first five pages make you sit up and take notice?**
 
-* Jump right in & show your main character facing challenges in a clearly defined universe.
-* A main character with agency, making choices to obtain their goal, even if those choices are bad and lead to disaster.
-* No floaters in this pool, only swimmers. Authors who recognize this quote from one of my favorite reality tv shows get bonus points.
+Jump right into the story and let us get to know your main character and their goal starting on page one with how your protagonist is going through life and its challenges. I’m looking for a strong sense of identity for your protagonist and a clearly defined universe, not a story set in Anywhere, USA. Make sure your character has agency, meaning they are making choices to try to obtain their goal, even if those choices are bad and lead to disaster.
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-My goal is for the story on the page to reflect the story vision the author carries, with the most impactful scenes and conflicts making it onto the pages. Sometimes I pick a manuscript with ideas for a fairly comprehensive restructuring, as my 2020 #RevPit winner can attest. True confession: I’m not your best source for sugar-coating. Consider me if you’re ready to accept direct feedback on your story and are ready and willing to tackle revisions with enthusiasm.
+My goal is for the story on the page to reflect the story vision the author carries, with the most impactful scenes and conflicts making it onto the pages. If you submit to me, be advised that this may include larger structural changes, so please list any deal-breakers that you wouldn't entertain. Note - I would never ask an author to change the identity of their main character. My recommended changes would be plot-based, possibly reducing the number of characters, but not changing who they are. See my testimonials on my websites from my past winners if you'd like more insights into my process.
 
-I’ll start with an in-depth assessment of developmental editing recommendations, which we can discuss after you read and review my assessment. Together, we’ll develop a plan for your revisions, which you’ll work on and send back to me. Depending on the timing and state of the manuscript after these revisions, we may take another round of developmental edits, time permitting. I love reading almost everything, 100 – 150 books each year, so if you need a comp title, I might have ideas. 
-
-I hope to have my manuscript evaluation assessment letter ready to send to my winner the day winners are announced, so be ready to hit the ground running if you submit to me.
+I’ll start with an in-depth assessment of developmental editing recommendations, which we can discuss after you read and review my assessment. Together, we’ll develop a plan for your revisions, which you’ll work on and send back to me. Depending on the timing and state of the manuscript after these revisions, we may have time to take another round of developmental edits. Email is the best way to reach me, and I’ll try to get back within a day with answers to questions, and will communicate my timelines for editing feedback once I receive your revisions. I’m not a night owl, so you’re more likely to catch me at 6 a.m. than you are at 9 p.m.  
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-I’m a high energy person and want my chosen author to be excited to jump in and work on revisions so we can tease out the very best version of your story. I want passion paired with professionalism, as our efforts should be focused on the work with story goals in mind. I’m clearing time in my schedule and I expect the same from my author so we can be focused and driven with the goal of the best possible manuscript and query letter in the short time we’ll have as part of the program.
+First, I want someone open to large-scale structural changes in their manuscript. For RevPit, I enjoy the challenge of tinkering with a story to rebuild it into something stronger, and I want authors willing to be open to that process.
 
-I also have a quirky sense of humor and look for the bright side of things, so expect every communication from me to have some positive feedback and some banter as we get to know each other. After we talk about next steps and revisions, tell me about your favorite new show, movie, music, books. I’d love to find some new object for my nerdy obsessions.
-
-Email is the best way to reach me, and I’ll try to get back within a day with answers to questions. After winners are announced, we can jump on Zoom video chat to get on the same page for the timeline for your edits and my feedback once I receive your revisions. I’m not a night owl, so you’re more likely to catch me at 6 a.m. than you are at 10 p.m.
+Also, I’m a high-energy person and want my chosen author to be even more excited to jump in and work on revisions so we can tease out the very best version of your story. I want passion paired with professionalism, as I want our efforts focused on the work with story goals in mind. I’m clearing time in my hectic schedule for this, and I expect the same from my author so we can be focused and driven with the goal of the best possible manuscript and query letter in the short time we’ll have as part of the program.
  
 **What hobbies do you have outside of writing and editing?**
 
-Writing and reading are my main “recreational activities.” I’m also an avid crocheter. I have a bookish Etsy store SpunAYarnCrochet, where I offer scarfs, afghans, and other items that pair well with favorite novels and WIPs.
-
-When not editing and reading, I watch reality shows with my sons: _Survivor_, _Amazing Race_, _Big Brother_, _Lego Masters_, _Tough as Nails_, and others (though usually not “celebrity” versions). I also spend a fair amount of time at sports events for my sons' teams.
+I enjoy reading (I'm a super-reader, over 100 books/year), crochet, and attending my kids' sports events. We also like camping and boating in the summers.

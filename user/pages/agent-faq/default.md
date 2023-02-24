@@ -40,7 +40,7 @@ A little about our contest: Revise & Resub (#RevPit) supports authors with an an
 
 <div markdown="1">
 
-**A:** In order to officially request additional material, all agents and acquiring editors must use the form located at the bottom of each showcase entry. All requests will then be forwarded to the writers in question.
+**A:** In order to officially request additional material, all agents and acquiring editors must use the form located at the bottom of each showcase entry. All requests will then be forwarded to the writers in question. Please note that not all manuscripts will be complete as of the showcase.
 
 We at \#RevPit know that competition can be fierce, but we ask that each participating agent and acquiring editor adhere to the request process. Our winners are encouraged to share the links to their showcase material on social media. If you ‘like’ an entry on social media, please be sure to request via the form on the official showcase page for that individual author. We can’t ensure that the author in question will interpret your ‘like’ as an official request.
 

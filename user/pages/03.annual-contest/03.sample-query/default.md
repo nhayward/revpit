@@ -1,6 +1,6 @@
 ---
 title: 'Sample Query'
-media_order: RevPit_Query_Formatting_Sample.docx
+media_order: RevPit_Query5Pages_Formatting_Sample.docx
 ---
 
 ### Sample Query
@@ -23,6 +23,6 @@ Thank you for your time and consideration.
 
  * We often get questions about what appropriate word counts for category and genre are. Although there isn't universal agreement around this issue in the publishing industry, this [word count article](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/word-count-for-novels-and-childrens-books-the-definitive-post?target=_blank) provides some good guidelines.
  * Need help writing your bio? Check out this [query bio article](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/what-should-you-write-in-the-bio-paragraph-of-a-query-letter?target=_blank) for tips on what does and does not go into your query letter bio.
- * If you need a visual example of formatting for the Annual Contest, take a look at our [query submission sample](RevPit_Query_Formatting_Sample.docx).
+ * If you need a visual example of formatting for the Annual Contest, take a look at our [query and first pages submission sample](RevPit_Query5Pages_Formatting_Sample.docx).
 
 #### This query is a great guide for submitting to our [Annual Contest](http://reviseresub.com/annual-contest) as well to agents!

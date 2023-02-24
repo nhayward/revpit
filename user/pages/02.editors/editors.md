@@ -8,7 +8,6 @@ tabs:
         id: annual-editors-2023
         title: '2023 Annual Contest'
         filter: annual_contest_2023
-        text: 'Coming Soon!'
     -
         id: mini-editors
         title: 'Mini-Event Editors'

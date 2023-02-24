@@ -1,6 +1,6 @@
 ---
 title: FAQ
-media_order: 'RevPit_Query_Formatting_Sample.docx,RevPit_Synopsis_Formatting_Sample.docx,RevPit_Full_Manuscript_Formatting_Sample.docx,RevPit_1st_5_Pages_Formatting_Sample.docx'
+media_order: 'RevPit_Synopsis_Formatting_Sample.docx,RevPit_Full_Manuscript_Formatting_Sample.docx,RevPit_Query5Pages_Formatting_Sample.docx'
 ---
 
 ## Annual Contest
@@ -40,6 +40,7 @@ Any additional edits will be up to the author's and editor's discretion and foll
 <div markdown="1">
  
 **A:** 
+* You must agree to our Code of Conduct, which can be found below.
 * Your submission materials are your own original work
 * The manuscript you are submitting has never been published before
 * You are not represented by a literary agent
@@ -67,15 +68,13 @@ Any additional edits will be up to the author's and editor's discretion and foll
  
 <div markdown="1">
 
-**A:** Your query letter, first five pages, full manuscript, and synopsis will be uploaded to our submission form in SEPARATE documents. (Accepted file formats are .doc, .docx, and .pdf.)
+**A:** Your query letter & first five pages, full manuscript, and synopsis will be uploaded to our submission form in SEPARATE documents. (Accepted file formats are .doc, .docx, and .pdf.)
  
-Query letter:
- * Less than 1 page long.
- * Use a generic greeting, as the same letter will be seen by all of your chosen editors.
- * See our [Sample Query](http://reviseresub.com/annual-contest/sample-query) for inspiration!
- 
-First five pages:
- * Pages should be double-spaced, with one-inch margins and a standard font (Calibri, Arial, or Times New Roman, 11 or 12 pt).
+Query letter and first five pages in ONE document:
+ * Query should be single-spaced and the first five pages should be double-spaced. Use one-inch margins and a standard font (Calibri, Arial, or Times New Roman, 11 or 12 pt).
+ * Include a page break between the query and first five pages
+ * Use a generic greeting in your query, as the same letter will be seen by all of your chosen editors.
+  * See our [Sample Query](http://reviseresub.com/annual-contest/sample-query) for inspiration!
  * Do not include a title page; the pages should begin with your first chapter or prologue.
  * Five double-spaced pages is approximately 1250–1500 words.
  * Make sure your pages end on a complete sentence.
@@ -89,7 +88,7 @@ Synopsis:
 * **Single-spaced**, with one-inch margins and a standard font (Calibri, Arial, or Times New Roman, 11 or 12 pt).
 
 
-If you need a visual example of formatting for the Annual Contest, take a look at our [submission form example](/annual-contest/submission-example), [query formatting sample](RevPit_Query_Formatting_Sample.docx), [synopsis formatting sample](RevPit_Synopsis_Formatting_Sample.docx), [full manuscript formatting sample](RevPit_Full_Manuscript_Formatting_Sample.docx), and [first five pages formatting sample](RevPit_1st_5_Pages_Formatting_Sample.docx).
+If you need a visual example of formatting for the Annual Contest, take a look at our [submission form example](/annual-contest/submission-example), [query and first pages formatting sample](RevPit_Query5Pages_Formatting_Sample.docx), [synopsis formatting sample](RevPit_Synopsis_Formatting_Sample.docx), and [full manuscript formatting sample](RevPit_Full_Manuscript_Formatting_Sample.docx).
 
 </div>
  
@@ -129,7 +128,7 @@ If you need a visual example of formatting for the Annual Contest, take a look a
  
 <div markdown="1">
  
-**A:** Check out this [logline writing article](https://writershelpingwriters.net/2016/01/how-and-why-to-write-a-log-line-for-your-story?target=_blank) by Becca Puglisi to learn what a logline is and how to write it!
+**A:** Check out this [logline writing article](https://writershelpingwriters.net/2016/01/how-and-why-to-write-a-log-line-for-your-story?target=_blank) by Becca Puglisi to learn what a logline is and how to write it! Or check out [_Essentials for Writers: Loglines_](https://www.jenichappelleeditorial.com/post/essentials-for-writers-loglines?target=_blank) by our own Jeni Chappelle
  
 </div>
 
@@ -169,9 +168,8 @@ If you need a visual example of formatting for the Annual Contest, take a look a
  
 <div markdown="1">
  
-**A:** In 2020 and 2021, we paired with **Tessera Editorial** to bring mentees from that program on to \#RevPit to shadow our editors and gain experience with evaluating submissions and going through a slush pile. While we aren’t pairing with them in 2022, we plan on doing so again in 2023. In their own words, "Tessera Editorial was founded on the idea that publishing can and should be an accessible industry to all people. Through myriad diverse voices in the profession, we hope to open the world of books to as many readers as possible." Learn more about them on the [Tessera Editorial website](https://www.tesseraeditorial.com?target=_blank)!
+**A:** In 2020 and 2021, we paired with **Tessera Editorial** to bring mentees from that program on to \#RevPit to shadow our editors and gain experience with evaluating submissions and going through a slush pile. While we aren’t pairing with them for the 2023 Annual Contest, we plan on doing so again in 2024. We do continually pair with them for our 10Queries mini events. In their own words, "Tessera Editorial was founded on the idea that publishing can and should be an accessible industry to all people. Through myriad diverse voices in the profession, we hope to open the world of books to as many readers as possible." Learn more about them on the [Tessera Editorial website](https://www.tesseraeditorial.com?target=_blank)!
 
-In 2023, Tessera Editorial mentees will have access to their paired editor's submissions and corresponding notes. With approval from the author, mentees will also have access to the first round of revisions with the editor's winner.
  
 </div>
  
@@ -379,7 +377,7 @@ We want RevPit to remain a safe space. No author will be discriminated against d
  
 <div markdown="1">
  
-**A:** In order to officially request additional material, all agents and acquiring editors must use the form located at the bottom of each showcase entry. All requests will then be forwarded to the writers in question.
+**A:** In order to officially request additional material, all agents and acquiring editors must use the form located at the bottom of each showcase entry. All requests will then be forwarded to the writers in question. Please note that not all manuscripts will be complete as of the showcase. 
  
 We at \#RevPit know that competition can be fierce, but we ask that each participating agent and acquiring editor adhere to the request process. Our winners are encouraged to share the links to their showcase material on social media. If you ‘like’ an entry on social media, please be sure to request via the form on the official showcase page for that individual author. We can’t ensure that the author in question will interpret your ‘like’ as an official request.
  

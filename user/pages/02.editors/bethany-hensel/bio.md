@@ -8,67 +8,103 @@ twitter:
 instagram:
     name: 'Bethany Hensel'
     url: 'https://www.instagram.com/bethanyhensel13'
+annual_contest_2023: true
 annual_contest_2022: true
 annual_contest_2021: true
 annual_contest_2020: true
 mini: true
+media_order: 'Bethany_Hensel.jpg,Bethany_Hensel_small.jpg'
 ---
 
 ##### Bio
 
-Bethany Hensel is an author and editor, animal lover and optimist. With over ten years of experience, whose clients include both indie and trad published bestselling authors, she truly believes that no manuscript ever gets better unless it gets challenged, and she loves nothing more than asking big questions and digging deeper. After thousands of pages read and edited, and with an eye toward big picture issues such as character motivation, world building, magic/eco/political systems, plot, pacing, structure and voice, she is ready help you find those answers.
+Bethany Hensel is a writer, editor, book coach and host of the popular The Empowered Writer Podcast. For over 13 years she has been helping writers transform their stories and jumpstart their careers. From indie darlings to trad superstars, brand new writers to writers who've been writing for years, she's had the extraordinary privilege of working with some  amazing stories. But the real joy has been working with the incredible people behind those stories. Through her one-on-one work and courses, she hopes to continue to work with many many more.
 
 **Pronouns: She/Her**
 
 ##### MSWL
 
-* MG
-* YA
-* Adult Romance
+**Categories:** MG, YA, Adult
 
-Any genres except horror, western and epic fantasy
+**Genres:** ANYTHING BUT HORROR, and yes, I know I just said I've been binge-watching _Interview with the Vampire_ but I classify something like that as more "fantastical sexy" so if you have something like that, then send it! Right away. Seriously.
 
-To break it down further:
+**Here's a not very exhaustive list of some favorites of mine to help you get a sense of what I like:**
 
-**Things I love:**
-* A good animal sidekick
-* A fun external plot mixed with really great internal conflict and heart. 
-* Forced proximity
-* Found family
-* Drama llamas, you know the type. Looking at you, Loki
-* Settings so rich and amazing it's like a character
-* Fun unique jobs
-* Anything food related ie main character owns a pizza place or bakery. Bonus points if they're vegan!
-* If a story can comp a River Phoenix movie or character...do you even have to ask at this point?
-* Athletes like dancers, cheerleaders, gymnasts, figure skaters, etc.
-* Slow burn romance
+Fav movies: 
+* _13 Lives_
+* _Kingsman_
+* _Pretty Woman_
+* _Captain America: Winter Soldier_
+* _Something New_
+* _Lady and the Tramp_
+* _Always Be My Maybe_
+* _Stardust_
+* _Jumper_
 
-**Things I don't want to read:**
-* Animal abuse
-* Animals dying/death
-* Torture
-* Rape
-* Incest
-* Graphic violence
+Fav authors:
+* Tiffany Reisz
+* Harlan Coben
+* Jeaniene Frost
+* Bethany Baptiste
+* Jason Reynolds
+* Christina Lauren
+* Gloria Chao
+* McCall Hoyle
+
+Fav tv shows: 
+* _RuPaul's Dragrace_
+* _Interview with the Vampire_
+* _Master Chef_
+* _Abbott Elementary_
+* _Cobra Kai_
+* _Daredevil_
+* _Hart of Dixie_
+
+Fav theater shows: 
+* _Newsies_
+* _Kinky Boots_
+* _12 Angry Men_
+* _Good People_
+* _Priscilla, Queen of the Desert_
+* _Drowsy Chaperone_
+* _Thoroughly Modern Millie_
+
+**Evergreen Yes:** If your story comps anything River Phoenix, send it!
+
+**Evergreen No:** If the dog, cat, horse, etc does NOT live, please don't send to me. I can handle if they get hurt but they need to live. Please don't send me anything where there's animal cruelty, torture or graphic hunting scenes. 
+
+And please **don't** send me any stories with rape, torture, incest, or graphic violence.
 
 ##### Q&A
 
 **How can a manuscript’s first five pages make you sit up and take notice?**
 
-Great voice and a really nice sense of time and place. If this were a movie, for example, I need that camera to be perfectly focused. Too zoomed in and I'm confused. Too zoomed out and I'm not engaged. So it's definitely a balancing act but when writers can nail that? Combined with a wonderful voice? I'm hooked! 
+Lots of things! A fun character name! Great voice! A fantastic setting and fascinating set up! A combo of all of it. The big thing is I want to be immersed. Don't show me a postcard of the place. Plop me right down in there! 
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-I'm a pretty optimistic, happy person. I'm high energy and I love problem solving. So writers can expect lots of communication from me and lots of cheerleading. But they should also expect me to ask hard questions, encourage them to dig deeper into the manuscript, and push them to really flex their creative muscle.
+They can expect LOTS of communication! I'm very available during the entire process. Email, text, phone calls, Zoom, Google doc parties. 
 
-The edit I provide for the contest will contain both inline edits plus an edit letter. Each will be comprehensive and go over the big pillars of story ie plot logic and pacing, character arcs and chemistry, readability and story flow, goal, motivation and conflict, and world building/magic systems. 
+I'll be checking in while I read and absolutely during the editing process. If the writer I work with prefers a really scheduled calendar full of deadlines and homework, we can do that. If they want it more loose, totally fine too. 
 
-However, I am not here to rewrite your book or impose my own authorial voice. I would never do that to you and your wonderful uniqueness. Michaelangelo once said, "I saw the angel in the marble and carved until I set him free" and yeah, I like that. You're the artist, your story is the marble and angel. I just want to help hand you the chisel and tools.
+In terms of work, I'll be reading the manuscript with an eye on those big picture, structural components of story ie character arc, character chemistry, deep pov, reader logic, scene economics, pacing, tension, etc. 
+
+Once I send back the edit letter, then it's pedal to the metal! Brainstorm sessions, strategy calls, whatever the writer needs to help them really understand and impliment the revisions they feel serves their story best. (I totally don't expect a writer to take every single edit note I have and apply it!) 
+
+It'll be a productive time but I also want it to feel really good and exciting, like they're digging all the great diamonds out of the mine that is their story. And once we have all those diamonds, we are going to really really make them shine!
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-I want to work with a nice, genuine, sincere person who loves stories and understands their magic. I don't need a reply to emails ASAP but a prompt response is always appreciated. Most importantly, I expect a can-do attitude, a writer who is not just ready to work but excited to work. That they're just as eager to free that angel in the marble as I am. 
+The writer who works with me should feel comfortable asking questions, talking things out, and looking at their manuscript in a new, fresh way. And they should be oh so excited to get their proverbial hands dirty! My edits aren't surface level. I'll be looking at the very most core pieces of the story and when those begin to move, shift and/or get deleted, the ripple effects tend to be huge. So the writer should be ready to ride those waves. (With my help of course!)
+
+I jokingly say that working with me is becoming part of Team Phoenix, but actually, it's a pretty apropos name. What we'll be doing together is breathing new life into your story. We're going to let go of what's not working so there's tons of space to usher in something better, stronger, brighter and more powerful than before. 
+
+I'll bring the matches. The writer I work with needs to bring the spark.  
 
 **What hobbies do you have outside of writing and editing?**
 
-Well, by now I think EVERYONE knows my love of River Phoenix and yes, I still do have an Etsy shop that sells things inspired by him. Oh my god, I should be ashamed but I'm not. I also love reading and I love my movies and binge shows. I rewatched _Mandalorian_ (Grogu!!) and I'm also giving _Reacher_ a try. It's...okay. The last movie I saw was _The Eyes of Tammy Faye_ (oooh boy) and the last book I read was _The Baby-sitters Club: Kristy's Great Idea_ because somehow, I never actually read the very first book in that series. I love it.
+I'm not sure if this counts as a hobby but I'm currently decluttering and redoing my entire house and it's so much fun! Does looking at paint swatches count as a hobby? Putting in new flooring? Watching old clips of Bob Villa's _This Old House_? 
+
+Okay, if house stuff doesn't count, then I love movies and reading, of course. I'm currently rhinestoning everything and anything. This is a relatively new hobby. We'll see how weird and diligent I get with it. Oh, and I spend a ton of time spoiling my pets and meeting other people's pets and just generally always wanting to meet new pets. Live theater is my soul food and I go as often as I can. 
+
+Other than that, lately you can find me either watching an episode of _Dragrace_ or _Interview with the Vampire_ (the tv show).

@@ -1,6 +1,6 @@
 ---
 title: 'How to Submit'
-media_order: 'RevPitSubmitButton.jpg,RevPit_Synopsis_Formatting_Sample.docx,RevPit_Query_Formatting_Sample.docx,RevPit_1st_5_Pages_Formatting_Sample.docx,RevPit_Full_Manuscript_Formatting_Sample.docx,RevPitSubmissionChecklist.pdf'
+media_order: 'RevPitSubmitButton.jpg,RevPit_Synopsis_Formatting_Sample.docx,RevPit_Full_Manuscript_Formatting_Sample.docx,RevPit_Query5Pages_Formatting_Sample.docx,RevPitSubmissionChecklist.pdf'
 ---
 
 The Revise & Resub (#RevPit) [Annual Contest](http://reviseresub.com/annual-contest) is open to completed, unpublished, fiction manuscripts ONLY. Non-fiction, poetry, chapter books, picture books, and projects under 25,000 words are not eligible. By entering, you have the chance to win 8 weeks of editing of your **full manuscript**. Your manuscript should be polished and beta-reader tested before submission. Only **one** submission is allowed per entrant.
@@ -45,18 +45,18 @@ We also have an accessible spreadsheet that breaks down which age categories and
  * Subgenre (optional) (short answer)
  * Word count (short answer)
  * Logline (short answer)
-  * To learn more about how to write a logline, take a look at this [logline writing article](https://writershelpingwriters.net/2016/01/how-and-why-to-write-a-log-line-for-your-story?target=_blank).
+  * To learn more about how to write a logline, take a look at this [logline writing article](https://writershelpingwriters.net/2016/01/how-and-why-to-write-a-log-line-for-your-story?target=_blank) or [_Logline Writing Essentials_](https://www.jenichappelleeditorial.com/post/essentials-for-writers-loglines?target=_blank).
 
 ###### **If you aren't sure which age category or genre to choose, pick the one that's the best match.**
 
 #### Step 5: Upload your documents
  
-##### A. Upload your query letter
+##### A. Upload your query letter and first five pages in ONE document
  * Format:
-  * Single-spaced
+  * Query should be single-spaced and the first five pages should be double-spaced
+  * Include a page break between the query and first five pages
   * One-inch margins
   * Standard font (Calibri, Arial, or Times New Roman, 11 or 12 pt)
-  * If you need a visual example of formatting for the Annual Contest, take a look at our [query submission sample](RevPit_Query_Formatting_Sample.docx).
  * Make sure your query letter includes:
   * A generic greeting, as the same letter will be seen by all of your chosen editors
   * Title
@@ -66,6 +66,9 @@ We also have an accessible spreadsheet that breaks down which age categories and
   * Description of story
   * Author bio
  * For extra help on putting together an awesome query letter, check out our [sample query](https://reviseresub.com/annual-contest/sample-query).
+ * Remove any personal information that you don't want a first reader to know from this document (for example: email address, physical address, telephone number, website, and social media links). 
+ * If you need a visual example of formatting for the Annual Contest, take a look at our [query and first five pages submission sample](RevPit_Query5Pages_Formatting_Sample.docx).
+ * There will be a spot on the form to list any content warnings ONLY in your first five pages. (short answer)
 
 ##### B. Upload your synopsis
  * Format:
@@ -76,16 +79,7 @@ We also have an accessible spreadsheet that breaks down which age categories and
   * If you need a visual example of formatting for the Annual Contest, take a look at our [synopsis submission sample](RevPit_Synopsis_Formatting_Sample.docx).
  * Never written a synopsis? Check out this [synopsis how-to](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/mastering-dreaded-synopsis?target=_blank). 
 
-##### C. Upload your first five pages
-* Format:
- * Remove all information that identifies the author from this document, including (but not necessarily limited to) author’s name, email address, physical address, mailing address, telephone number, website, and social media links. Be sure to check the headers and footers too!
-  * Double-spaced
-  * One-inch margins
-  * Standard font (Calibri, Arial, or Times New Roman, 11 or 12 pt)
-  * If you need a visual example of formatting for the Annual Contest, take a look at our [first five pages submission sample](RevPit_1st_5_Pages_Formatting_Sample.docx).
-* There will be a spot on the form to list any content warnings ONLY in your first five pages. (short answer)
-
-##### D. Upload your full manuscript
+##### C. Upload your full manuscript
  * Format:
   * Double-spaced
   * One-inch margins

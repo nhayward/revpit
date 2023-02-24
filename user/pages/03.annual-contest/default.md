@@ -28,7 +28,7 @@ Check out the [How to Submit page](http://reviseresub.com/annual-contest/how-to-
  
 ##### 3. First Reader Round
 
-When the submission window closes, the First Readers will read the first five pages only for all entries and provide brief feedback to aid the editors. 
+When the submission window closes, the First Readers will read the first five pages for all entries and provide brief feedback to aid the editors. 
 
 ##### 4. Editor Round
 
@@ -38,7 +38,7 @@ Watch your chosen editors’ tweets and the #RevPit feed, as all editors will tw
 
 ##### 5. Editors Select Winners
 
-Editors select one winner and one runner-up to receive [prizes](http://reviseresub.com/annual-contest/prizes). 
+Editors select one winner and two runners-up to receive [prizes](http://reviseresub.com/annual-contest/prizes). 
 
 ##### 6. Editing Round
 
@@ -49,13 +49,12 @@ _ \#RevPit is only open to COMPLETED fiction manuscripts. Non-fiction, poetry, c
 
 1. Your full manuscript
   * A list of content warnings in your full MS
-2. Your query letter 
-3. A separate document of the first five pages of your manuscript
+2. Your query letter and the first five pages of your manuscript in ONE document.
   * A list of content warnings for the first five pages
-4. Your synopsis 
-5. A logline
-6. Editor choices
-7. Answers to questions
+3. Your synopsis 
+4. A logline
+5. Editor choices
+6. Answers to questions
 
 ##### For full details on what you'll need to submit check out our [How to Submit](https://reviseresub.com/annual-contest/how-to-submit) page.
 
@@ -65,5 +64,3 @@ _ \#RevPit is only open to COMPLETED fiction manuscripts. Non-fiction, poetry, c
  * [Sample Query](https://reviseresub.com/annual-contest/sample-query)
  * [Prizes](https://reviseresub.com/annual-contest/prizes)
  * Visit our [FAQ page](https://www.reviseresub.com/faq) for our Anti-Bullying and Harassment Policy
-
-###### Click here if you would like a downloadable version of the [annual contest website copy as a pdf](RevPit%202022%20Annual%20Contest%20-%20Full%20Details.pdf) or the [annual contest website copy as a Word doc](RevPit%202022%20Annual%20Contest%20-%20Full%20Details.docx).
