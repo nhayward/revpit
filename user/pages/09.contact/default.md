@@ -7,4 +7,4 @@ Email us at: reviseresub (at) gmail (dot) com
 
 or 
 
-Send us a message on Twitter at: [@reviseresub](https://twitter.com/ReviseResub?target=_blank)
+Send us a message on [our subreddit](https://www.reddit.com/r/RevPit?target=_blank).

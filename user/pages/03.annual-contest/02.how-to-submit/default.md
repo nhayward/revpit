@@ -1,17 +1,17 @@
 ---
 title: 'How to Submit'
-media_order: 'RevPitSubmitButton.jpg,RevPit_Synopsis_Formatting_Sample.docx,RevPit_Full_Manuscript_Formatting_Sample.docx,RevPit_Query5Pages_Formatting_Sample.docx,RevPitSubmissionChecklist.pdf'
+media_order: 'RevPit_Synopsis_Formatting_Sample.docx,RevPit_Full_Manuscript_Formatting_Sample.docx,RevPitSubmitButton.jpg,RevPit_Query5Pages_Formatting_Sample.docx,RevPitSubmissionChecklist.pdf'
 ---
 
 The Revise & Resub (#RevPit) [Annual Contest](http://reviseresub.com/annual-contest) is open to completed, unpublished, fiction manuscripts ONLY. Non-fiction, poetry, chapter books, picture books, and projects under 25,000 words are not eligible. By entering, you have the chance to win 8 weeks of editing of your **full manuscript**. Your manuscript should be polished and beta-reader tested before submission. Only **one** submission is allowed per entrant.
  
 **Once you have your submission materials ready to go, you’ll come here and click the link to our submission form.**
  
-The link will become active on **March 16th, 2023 at 12:00pm EDT** and remain open until **12pm EDT on March 19th, 2023**.
+The link will become active on **March 14th, 2024 at 12:00pm EDT** and remain open until **12pm EDT on March 17th, 2024**.
  
 If you need accommodations for the submission window due to disability, religion, or other special circumstances that create a significant barrier to submitting, please check the [FAQ page](https://reviseresub.com/faq) for more details.
  
-[![Submit Button](RevPitSubmitButton.jpg)](https://forms.gle/442dqQzhw5jSdF1T8)
+[![Submit Button](RevPitSubmitButton.jpg)](https://forms.gle/L3Amsq4rFPN7EgBZ9?target=_blank)
 
 Please make sure you use the correct email address when submitting. This is the only way editors will be able to contact you regarding your submission materials.
 
@@ -27,7 +27,7 @@ We also have an accessible spreadsheet that breaks down which age categories and
 #### Step 3: Fill in the blanks with your author information.
  * Your name (short answer)
  * Pronouns (optional) (short answer)
- * Twitter handle (short answer)
+ * Social media links/handles (short answer)
  * Your THREE editor choices (pick from list)
  * Answer these questions (short answer):
   * Why did you choose these editors as the best match for you and your manuscript?
@@ -47,7 +47,7 @@ We also have an accessible spreadsheet that breaks down which age categories and
  * Logline (short answer)
   * To learn more about how to write a logline, take a look at this [logline writing article](https://writershelpingwriters.net/2016/01/how-and-why-to-write-a-log-line-for-your-story?target=_blank) or [_Logline Writing Essentials_](https://www.jenichappelleeditorial.com/post/essentials-for-writers-loglines?target=_blank).
 
-###### **If you aren't sure which age category or genre to choose, pick the one that's the best match.**
+<small>**If you aren't sure which age category or genre to choose, pick the one that's the best match.**</small>
 
 #### Step 5: Upload your documents
  
@@ -98,6 +98,8 @@ We also have an accessible spreadsheet that breaks down which age categories and
  * Your submission materials are your own original work
  * The manuscript you are submitting has never been published before
  * You are not represented by a literary agent
- * No non-fiction, poetry, chapter books, picture books, or projects under 25,000 words  
+ * No non-fiction, poetry, chapter books, picture books, or projects under 25,000 words
+ * As a condition for entering the contest, each author consents to receive one (1) email from each editor they submitted to. Any additional contact, must be actively consented to or at the request of the author, consistent with GDPR and other legal guidelines.
 
-###### Please note: If you are selected for Revise & Resub, your query and first five pages will be showcased on our website at the end of the contest. We want to be able to share your hard work with the world! Revised submissions will be showcased for three months and then removed from the site. After three months, or upon securing agent representation or a publishing contract, an author may request their submission be taken out of the showcase.
+
+<small>Please note: If you are selected for Revise &amp; Resub, your query and first five pages will be showcased on our website at the end of the contest. We want to be able to share your hard work with the world! Revised submissions will be showcased for three months and then removed from the site. After three months, or upon securing agent representation or a publishing contract, an author may request their submission be taken out of the showcase.</small>

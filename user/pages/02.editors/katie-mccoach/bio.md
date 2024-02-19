@@ -46,8 +46,8 @@ I'm also a great candidate for a book that includes romance. (Psst. I love love 
 
 **Genres I am open to: **
 * Thriller/suspense/horror 
-* Contemporary fiction
-* Romance (contemporary, suspense, paranormal)
+* Contemporary fiction (can include romantic elements)
+* Romance (suspense, paranormal)
 * YA mystery
 * Magical Realism
 

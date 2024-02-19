@@ -45,6 +45,7 @@ Any additional edits will be up to the author's and editor's discretion and foll
 * The manuscript you are submitting has never been published before
 * You are not represented by a literary agent
 * No non-fiction, poetry, chapter books, picture books, or projects under 25,000 words
+* As a condition for entering the contest, each author consents to receive one (1) email from each editor they submitted to. Any additional contact, must be actively consented to or at the request of the author, consistent with GDPR and other legal guidelines.
  
 </div>
 
@@ -156,19 +157,11 @@ If you need a visual example of formatting for the Annual Contest, take a look a
  
 </div>
  
-##### Q: What materials will the First Readers have access to?
- 
-<div markdown="1">
- 
-**A:** The First Readers will ONLY have access to the first five pages and query letter, content warnings, genre, and age category sections. They may have access to any personal information that is included in the query letter, so feel free to remove your contact information from the query letter if you aren't comfortable with the first readers seeing this (editors will get this info from the submission form). Your name will be attached to these files, so the entries will not be anonymous.
-
-</div>
- 
 ##### Q: What materials will the Tessera Editorial mentees have access to?
  
 <div markdown="1">
  
-**A:** In 2020 and 2021, we paired with **Tessera Editorial** to bring mentees from that program on to \#RevPit to shadow our editors and gain experience with evaluating submissions and going through a slush pile. While we aren’t pairing with them for the 2023 Annual Contest, we plan on doing so again in 2024. We do continually pair with them for our 10Queries mini events. In their own words, "Tessera Editorial was founded on the idea that publishing can and should be an accessible industry to all people. Through myriad diverse voices in the profession, we hope to open the world of books to as many readers as possible." Learn more about them on the [Tessera Editorial website](https://www.tesseraeditorial.com?target=_blank)!
+**A:** In 2020 and 2021, we paired with **Tessera Editorial** to bring mentees from that program on to \#RevPit to shadow our editors and gain experience with evaluating submissions and going through a slush pile. While we aren’t pairing with them for the 2024 Annual Contest, we plan on doing so again. We do continually pair with them for our 10Queries mini events. In their own words, "Tessera Editorial was founded on the idea that publishing can and should be an accessible industry to all people. Through myriad diverse voices in the profession, we hope to open the world of books to as many readers as possible." Learn more about them on the [Tessera Editorial website](https://www.tesseraeditorial.com?target=_blank)!
 
  
 </div>
@@ -183,7 +176,7 @@ If you need a visual example of formatting for the Annual Contest, take a look a
  
 <div markdown="1">
  
-**A:** Editor wish lists will be available soon with their bios on the [Editors page](http://reviseresub.com/editors), so do your research before the submission window opens. If you’re looking for clarification on what a specific editor is looking for, stop by during their #MeetTheEditor [sessions](http://reviseresub.com/annual-contest/schedule) on Twitter or @ them using the #RevPit tag.
+**A:** Editor wish lists will be available soon with their bios on the [Editors page](http://reviseresub.com/editors), so do your research before the submission window opens. If you’re looking for clarification on what a specific editor is looking for, stop by during their #MeetTheEditor [sessions](http://reviseresub.com/annual-contest/schedule) on our [Subreddit](https://www.reddit.com/r/RevPit?target=_blank) or @ them using the #RevPit tag on other social media.
  
 We also have an accessible spreadsheet that breaks down which age categories and genres the editors are accepting to help you narrow down your choices. You can access the [Editor MSWL spreadsheet](https://reviseresub.com/annual-contest/editor-mswl-spreadsheet) here.
  
@@ -220,7 +213,6 @@ Having previously engaged with an editor on social media, in other events, or on
  
 </div>
 
- 
 #### **Feedback**
  
 <div class="faq-accordion" markdown="1">
@@ -229,15 +221,15 @@ Having previously engaged with an editor on social media, in other events, or on
  
 <div markdown="1">
  
-**A:** #10Queries sessions are when editors will tweet anonymous feedback on some of the submissions they’ve received. For more information on #10Queries, check out this [post about 10Queries](https://katiemccoach.com/how-an-editor-sees-it-10queries?target=_blank).
+**A:** #10Queries sessions are when editors will post anonymous feedback on some of the submissions they’ve received on our [Subreddit](https://www.reddit.com/r/RevPit?target=_blank). For more information on #10Queries, check out [our past 10Queries](https://reviseresub.com/mini-events).
  
 </div>
  
-##### Q: When will editors tweet #10Queries?
+##### Q: When will editors post #10Queries?
  
 <div markdown="1">
  
-**A:** #10Queries sessions will take place on Twitter **between the submission window and the winner announcements**. Watch your chosen editors’ Twitter feeds and the #RevPit feed for updates on when editors will post their #10Queries feedback.
+**A:** #10Queries sessions will take place on our [Subreddit](https://www.reddit.com/r/RevPit?target=_blank) **between the submission window and the winner announcements**. Watch the #RevPit subreddit for updates on when editors will post their #10Queries feedback.
  
 </div>
  
@@ -253,7 +245,7 @@ Having previously engaged with an editor on social media, in other events, or on
  
 <div markdown="1">
  
-**A:** Winners will be announced on the [Showcase page](http://reviseresub.com/showcase) of our site as well as on Twitter. Editors will then email their authors to begin the editing process!
+**A:** Winners will be announced on the [Showcase page](http://reviseresub.com/showcase) of our site as well as on our [Subreddit](https://www.reddit.com/r/RevPit?target=_blank). Editors will then email their authors to begin the editing process!
  
 </div>
  
@@ -262,6 +254,52 @@ Having previously engaged with an editor on social media, in other events, or on
 <div markdown="1">
  
 **A:** Yes, all editors are available for hire, but their availability and pricing vary. Reach out directly.
+ 
+</div>
+ 
+</div>
+
+#### **First Readers**
+ 
+<div class="faq-accordion" markdown="1">
+ 
+##### Q: Who are the First Readers?
+ 
+<div markdown="1">
+ 
+**A:** Previous winners and runners up, mostly. Beyond that, First Readers are from the community and have publishing experience. There’s a whole process that also involves a test and training. First Readers can’t enter the annual contest.
+ 
+</div>
+
+##### Q: What materials will the First Readers have access to?
+ 
+<div markdown="1">
+ 
+**A:** The First Readers will ONLY have access to the first five pages and query letter, content warnings, genre, and age category sections. They may have access to any personal information that is included in the query letter, so feel free to remove your contact information from the query letter if you aren't comfortable with the first readers seeing this (editors will get this info from the submission form). Your name will be attached to these files, so the entries will not be anonymous.
+
+</div>
+ 
+##### Q: What do First Readers look for in a manuscript?
+ 
+<div markdown="1">
+ 
+**A:** First Readers score the first five pages based on a few categories that they’ve been trained in. Queries are only used for context and are not graded. Each submission is seen by two first readers. They look for writing style, voice, and connection to characters. First Readers provide feedback that helps organize and flag any concerns, but can’t “eliminate” any submisions. The editor will always have access to all submissions directed at them. With the sub cap now gone, this helps editors immensely. Like having highly skilled PAs!
+ 
+</div>
+ 
+##### Q: Do you share First Reader scores with the author?
+ 
+<div markdown="1">
+ 
+**A:** We don’t share the scores at all out of respect to our First Readers. Every submission gets two First Readers. Sometimes the scores vary widely.
+ 
+</div>
+
+##### Q: How can I become a First Reader?
+ 
+<div markdown="1">
+ 
+**A:** Check out our [First Reader page](https://reviseresub.com/first-readers) to learn more. If we are open for applications there will be a form to fill out, otherwise email reviseresub @ gmail. com expressing your interest, and we’ll reach out next time we are looking. 
  
 </div>
  
@@ -320,7 +358,7 @@ Any additional edits will be up to the author's and editor's discretion and foll
  
 <div markdown="1">
  
-**A:** We also have an accessible spreadsheet that breaks down which age categories and genres the editors are accepting to help you narrow down your choices. You can access the [Editor MSWL spreadsheet](https://reviseresub.com/annual-contest/editor-mswl-spreadsheet) here soon.
+**A:** We also have an accessible spreadsheet that breaks down which age categories and genres the editors are accepting to help you narrow down your choices. You can access the [Editor MSWL spreadsheet](https://reviseresub.com/annual-contest/editor-mswl-spreadsheet) here.
  
 If you need further aid, please let us know!
  
@@ -381,7 +419,7 @@ We want RevPit to remain a safe space. No author will be discriminated against d
  
 We at \#RevPit know that competition can be fierce, but we ask that each participating agent and acquiring editor adhere to the request process. Our winners are encouraged to share the links to their showcase material on social media. If you ‘like’ an entry on social media, please be sure to request via the form on the official showcase page for that individual author. We can’t ensure that the author in question will interpret your ‘like’ as an official request.
  
-Further Information: If you would like to keep updated on all #RevPit events, please follow [@ReviseResub](https://twitter.com/ReviseResub?target=_blank) on Twitter and turn on notifications for important information. If you have additional questions, feel free to email the Board at: reviseresub (at) gmail (dot) com
+Further Information: If you would like to keep updated on all #RevPit events, please follow [our Substack](https://reviseresub.substack.com?target=_blank) for important information. If you have additional questions, feel free to email the Board at: reviseresub (at) gmail (dot) com
  
 </div>
  
@@ -399,7 +437,7 @@ Further Information: If you would like to keep updated on all #RevPit events, pl
 
 **\#RevPit Code of Conduct**
 
-This code of conduct applies to community members, First Readers, and editors, both online (including but not limited to email, Twitter (including direct messages), #RevPit community Slack groups, and other social media, and in-person (if applicable).
+This code of conduct applies to community members, First Readers, and editors, both online (including but not limited to email, Reddit, X/Twitter (including direct messages), #RevPit community Slack groups, and other social media, and in-person (if applicable).
 
 Authors submitting to the Annual Contest retain all rights to their work. Participating editors, First Readers, and mentees (if applicable) agree to maintain confidentiality with respect to all materials submitted and will not share it with others without the author’s consent. 
 
@@ -411,9 +449,9 @@ Be mindful of the words that you choose. Exclusionary jokes can be offensive to 
  
 Community members asked to stop any offending behavior are expected to comply immediately. It is not the duty of a member of a protected class to explain why the conduct in question is offensive. Take the time to self-educate from the many resources available: [We've gathered some DEI resources here](https://docs.google.com/document/d/1INKf0bjBOzuWKgJlJYpRhxOoxpa9BO_WEPC1wnhietQ/edit?usp=sharing?target=_blank).
  
-Community members violating these rules may be removed from community spaces (Slack channels, Twitter Group Chats) and may be ineligible to participate in the Annual Contest or Mini-Events.
+Community members violating these rules may be removed from community spaces (Slack channels, RevPit SubReddit, X/Twitter Group Chats) and may be ineligible to participate in the Annual Contest or Mini-Events.
  
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the #RevPit board via email at reviseresub@gmail.com, the @ReviseResub Twitter account, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the #RevPit board via email at reviseresub@gmail.com, the @ReviseResub Reddit or Twitter account, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
 
 
 </div>
@@ -428,11 +466,11 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 <div markdown="1">
 
-**Bullying or harassment of any kind is unacceptable.** The ReviseResub editors want #RevPit to continue to be a safe, supportive place for all writers and will do whatever possible to keep harassment out of the #RevPit community. This includes reporting, blocking, and removal from the Annual Contest or any mini-event, any individual or account that has demonstrated harassing behavior. We use Twitter’s standards for harassment and abuse, which you can read [here](https://help.twitter.com/en/rules-and-policies/twitter-rules?target=_blank).
+**Bullying or harassment of any kind is unacceptable.** The ReviseResub editors want #RevPit to continue to be a safe, supportive place for all writers and will do whatever possible to keep harassment out of the #RevPit community. This includes reporting, blocking, and removal from the Annual Contest or any mini-event, any individual or account that has demonstrated harassing behavior. We use [Reddit’s standards for harassment and abuse](https://www.redditinc.com/policies/content-policy?target=_blank).
 
 **If you’re being harassed:**
 
-Please contact the #RevPit board via email at reviseresub@gmail.com, the @ReviseResub Twitter account, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
+Please contact the #RevPit board via email at reviseresub@gmail.com, message the mods on the subreddit, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
 
 We want to see all writers succeed and will continue to strive to provide a space where writers can grow together. 
 
@@ -450,7 +488,7 @@ Any issues that are brought to our attention will be addressed by promptly reach
 
 We are constantly improving our processes in order to create an inclusive, supportive, and dedicated community for all involved. 
 
-**To file a complaint or voice a concern:** please contact the #RevPit board via email at reviseresub@gmail.com, the @ReviseResub Twitter account, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
+**To file a complaint or voice a concern:** please contact the #RevPit board via email at reviseresub@gmail.com, message the mods on the subreddit, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
 
 
 </div>

@@ -3,9 +3,15 @@ title: 'Carly Hayward'
 media_order: 'Carly_BornsteinHayward.jpg,Carly_BornsteinHayward_small.jpg'
 last_name: Hayward
 website: 'https://booklighteditorial.com'
+reddit:
+    name: 'Book Light Editorial'
+    url: 'https://www.reddit.com/user/BookLightEditorial'
 twitter:
     name: '@fromcarly'
     url: 'https://twitter.com/FromCarly'
+bluesky:
+    name: '@fromcarly'
+    url: 'https://bsky.app/profile/fromcarly.bsky.social'
 instagram:
     name: 'Book Light Editorial'
     url: 'https://www.instagram.com/booklighteditorial/'

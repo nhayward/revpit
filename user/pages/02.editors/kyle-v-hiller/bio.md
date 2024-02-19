@@ -9,6 +9,7 @@ instagram:
     name: kyleliterally
     url: 'https://www.instagram.com/kyleliterally/'
 annual_contest_2019: true
+published: false
 ---
 
 ##### Bio

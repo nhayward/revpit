@@ -21,5 +21,6 @@ Should you win, the editor that picks you will help you with what your manuscrip
 
 Coming soon!
 
-##### Check back here or [follow us on Twitter](https://twitter.com/ReviseResub?target=_blank) to find out more!
+
+##### Check back here, [get email updates](https://reviseresub.substack.com?target=_blank), or [follow us on Twitter](https://twitter.com/ReviseResub?target=_blank) to find out more!
 

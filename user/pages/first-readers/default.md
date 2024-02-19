@@ -4,20 +4,20 @@ title: 'First Readers'
 
 ## Welcome Potential First Readers!
 
-This year, in order to make our submission process more accessible for the #RevPit community, we’re making the following changes:
+Recently, in order to make our submission process more accessible for the #RevPit community, we made the following changes:
 
-1. We’re removing the submission limit so that editors will receive all the submissions directed their way during the submission window.
-2. We’re expanding the submission window to cover three full days so that people in all time zones and with work and other commitments won’t be disadvantaged in submitting.
-3. We’re expanding the number of editors authors can select to three (instead of two) so authors have one more opportunity for an editor to fall in love with their submission.
+1. Removed the submission limit so that editors received all the submissions directed their way during the submission window.
+2. Expanded the submission window to cover three full days so that people in all time zones and with work and other commitments wouldn’t be disadvantaged in submitting.
+3. Expanded the number of editors authors could select to three (instead of two) so authors had one more opportunity for an editor to fall in love with their submission.
 
 First Readers are an integral part of making this possible by providing editors additional information to help them pick which story is best for them.
 
 #### What Do First Readers Do?
 
-First Readers will read and evaluate the first five pages of each submission assigned to them. Each may receive up to 100 submissions within their chosen genre(s) and age category(s). Content warnings will also be considered. Please plan up to 20 hours over the two-week window. Please note: First Readers are not eligible to enter the annual contest the year they act as First Reader but may enter in future years.
+First Readers will read and evaluate the first five pages of each submission assigned to them. Each may receive up to 100 submissions within their chosen genre(s) and age category(s). Content warnings will also be considered. Please plan up to 20 hours over the eight-day window. Please note: First Readers are not eligible to enter the annual contest the year they act as First Reader but may enter in future years.
 
 You will receive training on how to evaluate the submissions, and there will be a report card allocated to each reader that looks at three main categories:
-1. Connection the the main character
+1. Connection to the main character
 2. Writing style (craft: conflict and tension, show don’t tell, grammar)
 3. Narrative voice/POV
 
@@ -45,9 +45,9 @@ Our ideal candidates have experience with one or more of the following:
 
 * **November 1st:** Application deadline
 * **November 8th:** Sample test deadline
-* **December 19:** applicants will be notified of participation in the program
+* **December 18:** applicants will be notified of participation in the program
 * **January/February:** First Reader Training (exact dates TBD)
-* **March 19th - March 31st:** First Readers review submissions
+* **March 17th - March 25th (subject to change):** First Readers review submissions
 * **Summer:** Workshops offered by the editors (exact dates TBD)
 
-#### If this sounds like you, and you’d like to join the #RevPit First Readers Program for 2023, then fill out the [First Reader Application here](https://forms.gle/UPXjvWvWTNErZvUQ9?target=_blank)! We look forward to hearing from you.
+#### If this sounds like you, and you’d like to join the #RevPit First Readers Program, then fill out the [First Reader Application here](https://forms.gle/eYLDEeMtxvbapT149?target=_blank)! We look forward to hearing from you.

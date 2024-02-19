@@ -1,6 +1,5 @@
 ---
 title: 'Editor MSWL Spreadsheet'
-media_order: 'RevPit 2023 Editor MSWL Spreadsheet.xlsx'
 published: true
 ---
 
@@ -13,11 +12,11 @@ Browse the participating editor bios and select your THREE choices. This accessi
 * Locate your manuscript's genre in the headers at the top.
 * Look down the list. Editors who are accepting that age category and genre are marked with a Yes, and those not taking that age category and genre are marked are marked with a No.
 * Once you've located the editors accepting your manuscript's age category and genre, click on the links next to those editors' names to go to their editor page and review their MSWL.
-* Carefully read each editor's MSWL. The spreadsheet covers broad genres, but each editor has their own (whatever word that was we used)
+* Carefully read each editor's MSWL. The spreadsheet covers broad genres, but each editor has their own specifications. 
 * Select your three editors!
-* If you're having a hard time deciding, watch the \#RevPit \#MeetTheEditor feed on Twitter for a chance to ask questions of the editors you're considering.
+* If you're having a hard time deciding, watch the \#RevPit \#MeetTheEditor feed on [our subreddit](https://www.reddit.com/r/RevPit?target=_blank) for a chance to ask questions of the editors you're considering.
 
 #### Available Formats:
 
-* Google Sheets: [Google 2023 Editor MSWL Spreadsheet](https://docs.google.com/spreadsheets/d/1AuMH9R-FIO73dDBBTkscLAB7rsCP-JoXI-qFloH33yc/edit?usp=sharing?target=_blank)
-* Microsoft Excel: [Excel 2023 Editor MSWL Spreadsheet](RevPit%202023%20Editor%20MSWL%20Spreadsheet.xlsx) (If you use a screen reader, please note that the column headers start on row 2)
+* Google Sheets: Google 2024 Editor MSWL Spreadsheet coming soon!
+* Microsoft Excel: Excel 2024 Editor MSWL Spreadsheet coming soon! (If you use a screen reader, please note that the column headers start on row 2)
