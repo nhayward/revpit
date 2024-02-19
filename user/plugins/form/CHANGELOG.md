@@ -1,3 +1,40 @@
+# v7.3.0
+## 12/14/2023
+
+1. [](#new)
+   * Added XHR/Ajax form submission as an option in the form blueprint. See [Learn Forms](https://learn.getgrav.org/17/forms/forms/how-to-ajax-submission) for details.
+
+# v7.2.2
+## 12/13/2023
+
+1. [](#improved)
+   * Add _inline errors_ for `file` field.  Useful in combination with `form: no-validate: true` form setting.
+   * Validate filename against `uploads_dangerous_extensions` when using the `save:` action
+1. [](#bugfix)
+   * Cleared 'basic captcha' value when invalid
+
+# v7.2.1
+## 06/27/2023
+
+1. [](#improved)
+   * Added some optional debug output to help isolate form loading problems
+1. [](#bugfix)
+   * More robust fix for multi-language form caching
+
+# v7.2.0
+## 06/21/2023
+
+1. [](#bugfix)
+   * Fixed a long-standing bug with cached forms not working properly in multi-language scenarios
+
+# v7.1.3
+## 05/09/2023
+
+1. [](#improved)
+   * Removed `FILTER_SANITIZE_STRING` input filter in favor of `htmlspecialchars(strip_tags())` 
+   * Fixed a deprecated message when using `Route::_toString()`
+   * Require Grav `v1.7.41` as it contains `GRAV_SANITIZE_STRING` constant
+
 # v7.1.2
 ## 01/08/2023
 

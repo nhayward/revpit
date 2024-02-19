@@ -1,3 +1,57 @@
+# v1.10.44
+## 01/05/2024
+
+1. [](#improved)
+   * Updated languages with fresh **Crowdin.com** builds
+   * Updated copyright date
+1. [](#bugfix)
+   * fixed `medium` tags in select fields [#2376]((https://github.com/getgrav/grav-plugin-admin/pull/2376)
+
+# v1.10.43
+## 10/02/2023
+
+1. [](#improved)
+   * Updated vendor libraries
+
+# v1.10.42
+## 06/14/2023
+
+1. [](#new)
+   * Added a couple of string translations
+
+# v1.10.41.2
+## 05/11/2023
+
+1. [](#improved)
+   * Fixed an issue with `lastBackup()` that caused admin dashboard to fail with an error.
+
+# v1.10.41.1
+## 05/09/2023
+
+1. [](#improved)
+   * Fixed another Toolbox deprecation error for `lastBackup()`
+
+# v1.10.41
+## 05/09/2023
+
+1. [](#new)
+   * Updated to use new `BaconQRCode` version `2.0.8` for new SVG features + PHP 8.2+ fixes
+1. [](#improved)
+   * Require Grav `v1.7.41`
+   * Fixed a deprecated message where `Admin::$routes` was being dynamically defined
+   * Fixes to use non-deprecated methods in `ScssCompiler`
+
+# v1.10.40
+## 03/22/2023
+
+1. [](#new)
+   * Added Github actions for dependabot [#2258](https://github.com/getgrav/grav-plugin-admin/pull/2258)
+1. [](#improved)
+   * Syslog tag fields label added [#2296](https://github.com/getgrav/grav-plugin-admin/pull/2296)
+   * Updated vendor libraries to the latest versions
+1. [](#bugfix)
+   * Fix more than one file upload [#2317](https://github.com/getgrav/grav-plugin-admin/pull/2317)
+
 # v1.10.39
 ## 02/19/2023
 
