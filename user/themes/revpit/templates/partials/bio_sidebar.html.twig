@@ -15,6 +15,15 @@
 {% if page.header.website %}
     <span><b>Website:</b> <a target="_blank" href="{{ page.header.website }}">{{ page.header.website }}</a></span><br>
 {% endif %}
+{% if page.header.reddit %}
+    <span><b>Reddit:</b> <a target="_blank" href="{{ page.header.reddit.url }}">{{ page.header.reddit.name }}</a></span><br>
+{% endif %}
+{% if page.header.bluesky %}
+    <span><b>Bluesky:</b> <a target="_blank" href="{{ page.header.bluesky.url }}">{{ page.header.bluesky.name }}</a></span><br>
+{% endif %}
+{% if page.header.threads %}
+    <span><b>Threads:</b> <a target="_blank" href="{{ page.header.threads.url }}">{{ page.header.threads.name }}</a></span><br>
+{% endif %}
 {% if page.header.facebook %}
     <span><b>Facebook:</b> <a target="_blank" href="{{ page.header.facebook.url }}">{{ page.header.facebook.name }}</a></span><br>
 {% endif %}
