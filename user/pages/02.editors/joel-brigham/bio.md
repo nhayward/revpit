@@ -14,6 +14,7 @@ bluesky:
 threads:
     name: '@joelbrigham'
     url: 'https://www.threads.net/@joelbrigham'
+annual_contest_2024: true
 annual_contest_2023: true
 mini: true
 ---

@@ -18,13 +18,13 @@ Detailed schedule coming soon.
  * **March 14- March 17th:** Submission window opens
   * The submission window opens at **12pm EDT on March 14th and will remain open until 12pm EDT on March 17th**.
  * **March 17- March 25th:** First Reader Round
- * **March 18- March 25th:** \#AskEditor sessions
+ * **March 18- March 27th:** \#AskEditor sessions
 
 Detailed schedule coming soon.
  
 <small>[Download an Excel spreadsheet version of the #AskEditor schedule here soon](RevPitAskEditorSessions2023.xlsx)</small>
 
- * **March 27th- April 12th:** [#10Queries](https://reviseresub.com/mini-events) sessions 
+ * **March 28th- April 12th:** [#10Queries](https://reviseresub.com/mini-events) sessions 
   * Editors will tweet out #10Queries throughout the two weeks. Watch your chosen editors’ tweets and the #RevPit feed for schedules and details.
  * **April 15th:** Editor picks announced! 
   * Author-editor teams announced beginning at noon EDT. 

@@ -2,6 +2,9 @@
 title: 'Maria Tureaud'
 last_name: Tureaud
 website: 'https://mariatureaud.com/'
+reddit:
+    name: '@MariaTureaud'
+    url: 'https://www.reddit.com/user/MariaTureaud'
 twitter:
     name: '@Maria_Tureaud'
     url: 'https://twitter.com/Maria_Tureaud'
@@ -11,6 +14,7 @@ instagram:
 tiktok:
     name: '@Maria_Tureaud'
     url: 'https://www.tiktok.com/@maria_tureaud'
+annual_contest_2024: true
 annual_contest_2023: true
 annual_contest_2022: true
 annual_contest_2021: true
@@ -27,53 +31,50 @@ Maria Tureaud hails from the Wild Atlantic Way on the west coast of Ireland. A D
 
 ##### MSWL
 
-1. Historical Fiction (including gothic—ghosties, ghouls, paranormal—alternate history/fantasy, etc). Word to the wise…I’m a history aficionado, and if I’m unfamiliar with a certain era, I will research to ensure accuracy. SUPER passionate/amateur expert on the Tudor period (England and beyond), Restoration Era (England and beyond), and the French Revolution…but would love to see historical fiction from underrepresented countries and cultures.  
-2. Fantasy. Give me luscious worldbuilding, tough heroines, questionable morals, and underrepresented mythologies).  
-3. Horror. But let me be clear—no slasher/gore bonanzas. I’m not looking for shock value. I want hair-raising, sleep with the light on feels that leave me in a state of panic (I’m the toughest person to scare, so anyone who can do this is a magician).  
-4. This one is a shot in the dark, but I would love to see a dark fantasy featuring the Fae/Firbolg/Tuatha Dé Danann but by #ownvoices Irish authors.  
-5. Ace/Queer #ownvoices representation.
-6. I'm also open to Romance this year, but I need it to be fresh and different. Turn those tropes on their head!
+I’m changing things up a bit for 2024, and narrowing my MSWL to the following genres: 
+1. Romantasy of all flavors.
+2. Fantasy, especially from #ownvoices cultures and folklore we don’t traditionally see in publishing. Give me worldbuilding, tough heroines/heroes, and questionable morals.
+3. Horror. But no slasher/gore bonanzas. I’m not looking for shock value. I want hair-raising, sleep with the light on feels that leave me in a state of panic (I’m the toughest person to scare, so anyone who can do this is a God/dess. 
+4. Historical Fiction, but I’d prefer #ownvoices works from places and people we don’t traditionally see in publishing. The exception would be anything from the Stuart reign.
 
-**Things I love:**  
-* Found family/siblings 
-* Twists/Unexpected use of tired tropes—friends to lovers, chosen ones, etc. 
-* Vampires, werewolves, witches! GIVE THEM TO ME! 
-* Most fantasy mash-ups 
-* YA romantic sub-plots that obliterate the usual first-love-is-forever-love trope. Give me break-ups, discovery of self, and the ability to stand alone without needing the validation of a relationship. 
-* Historical Fiction featuring little-known people who had a great story to tell. (Think Joseph Bologne).
+**Things I love:**
+* New twists on tired tropes—friends to lovers, love triangles, chosen ones, etc
+* Most fantasy sub-genres
+* Light sci-fi
+* Romance with a twist…as in, the romance—not the plot—has a twist.
+* HORROR – ALL THE HORROR (If you can scare me, I’ll throw in a free Query Critique. Yes. I’m that confident).
 
-**Preferred Markets: **
-* Upper MG   
-* YA  
-* NA  
-* Adult   
+**Preferred Markets:**
+* Upper MG 
+* YA
+* NA
+* Adult
 
-**I Am Not The Best Advocate For:  **
-* Erotica  
-* Contemporary   
-* High Fantasy  
-* Mermaids, princesses in fantasy, love triangles, or any combination of these things  
-* Christian Fiction  
-* Sci-fi/Space Operas   
-* Rape  
-* Abuse   
-* Redemption arcs for abusers   
-* Historical Fiction set in the Twentieth Century, UNLESS it is MG or YA.
+**I Am Not The Best Advocate For:**
+* Erotica
+* Contemporary
+* High Fantasy
+* Adult Sci-fi
+* Romance that’s actually erotica
+* Rape…masquerading as romance
+* Abuse…masquerading as romance
+* Redemption arcs for abusers
+* Adult Historical Fiction set in my lifetime, or a decade before, because…that makes me feel some sort of way. Nothing from the 1970’s, 80’s, or 90’s.
 
 ##### Q&A
 
 **How can a manuscript’s first five pages make you sit up and take notice?**
 
-Character voice and authorial style will make me sit up and take notice. I'm looking for brilliant prose with a character I can't ignore.
+A setting grounded in place, time, and a character's emotional wound generally draws me in. Couple that with a great premise, and I'm hooked.
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-Writers can expect honesty, coaching, and timely responses to emails.
+Writers can expect efficiency, collaboration, and--hehe--I have a tendency to over-communicate a little. I like authors to know where I am in the process, and when to expect material/what is expected at every juncture.
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-I expect writers to be open to feedback, and enthusiastic about revisions/rewrites--this is a developmental edit, after all.
+As RevPit is not a mentorship, but an opportunity to receive a professional Developmental Edit, I expect openness, and willingness to collaborate, as that's the only way a Developmental Edit can be executed. 
 
 **What hobbies do you have outside of writing and editing?**
 
-I love anime, K-pop, and K-drama! 
+I'm a K-drama enthusiast, so if you're Team "I watched Goblin for the bromance," I think we'll really get along!

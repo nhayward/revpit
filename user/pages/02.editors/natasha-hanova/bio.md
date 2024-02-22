@@ -14,6 +14,7 @@ instagram:
 threads:
     name: '@NatashaHanova'
     url: 'https://www.threads.net/@natashahanova'
+annual_contest_2024: true
 annual_contest_2023: true
 annual_contest_2022: true
 annual_contest_2021: true

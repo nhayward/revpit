@@ -17,6 +17,7 @@ threads:
 podcast:
     name: 'Story Chat Radio'
     url: 'https://www.storychatradio.com/'
+annual_contest_2024: true
 annual_contest_2023: true
 annual_contest_2022: true
 annual_contest_2021: true
@@ -33,7 +34,7 @@ Jeni Chappelle is founder of Jeni Chappelle Editorial and Writers’ Craft Room,
 
 ##### MSWL
 
-This year, I am accepting fantasy and romantasy in young adult and adult age categories. This includes crossover/new adult. Please read these specifics carefully. 
+This year, I am accepting **fantasy and romantasy** in young adult and adult age categories. This includes crossover/new adult. Please read these specifics carefully. 
 
 **PLEASE SEND ME...**
  * Subgenres I love: gothic, dark fantasy, science fantasy, romantasy, cozy fantasy, gaslamp fantasy, fantasy of manners, contemporary fantasy, urban fantasy, historical fantasy

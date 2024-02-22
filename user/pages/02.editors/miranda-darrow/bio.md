@@ -7,13 +7,14 @@ reddit:
     url: 'https://www.reddit.com/user/Miranda_Darrow'
 facebook:
     name: 'Miranda Darrow'
-    url: 'https://www.facebook.com/BookMDEditing/'
+    url: 'https://www.facebook.com/miranda.darrow/'
 twitter:
     name: '@Miranda_Darrow'
     url: 'https://twitter.com/Miranda_Darrow'
 instagram:
     name: 'Miranda Darrow'
     url: 'https://www.instagram.com/miranda.darrow'
+annual_contest_2024: true
 annual_contest_2023: true
 annual_contest_2022: true
 annual_contest_2021: true
