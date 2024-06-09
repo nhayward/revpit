@@ -34,7 +34,7 @@ Jeni Chappelle is founder of Jeni Chappelle Editorial and Writers’ Craft Room,
 
 ##### MSWL
 
-This year, I am accepting **fantasy and romantasy** in young adult and adult age categories. This includes crossover/new adult. Please read these specifics carefully. 
+This year, I am accepting **fantasy and romantasy ONLY** in young adult and adult age categories. This includes crossover/new adult. Please read these specifics carefully. 
 
 **PLEASE SEND ME...**
  * Subgenres I love: gothic, dark fantasy, science fantasy, romantasy, cozy fantasy, gaslamp fantasy, fantasy of manners, contemporary fantasy, urban fantasy, historical fantasy
@@ -42,6 +42,8 @@ This year, I am accepting **fantasy and romantasy** in young adult and adult age
  * Stories based on cultures and communities that are underrepresented in the market, specifically by authors from those communities
 
 **DO NOT SEND ME...**
+ * Any genre other than fantasy or romantasy
+ * Middle grade
  * Epic fantasy
  * Novels in verse
  * Military-based or political fantasy. It's okay as a subplot, just not the main plot.

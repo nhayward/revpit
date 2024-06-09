@@ -35,17 +35,18 @@ Any additional edits will be up to the author's and editor's discretion and foll
  
 </div>
  
-##### Q:What are the eligibility requirements?
+##### Q: What are the eligibility requirements?
  
 <div markdown="1">
  
 **A:** 
 * You must agree to our Code of Conduct, which can be found below.
-* Your submission materials are your own original work
-* The manuscript you are submitting has never been published before
+* Your submission materials are your own original work and have not been AI-generated. See our policy on the use of AI, which can be found below
+* The manuscript you are submitting has never been published before (this includes publishing on WattPad)
 * You are not represented by a literary agent
 * No non-fiction, poetry, chapter books, picture books, or projects under 25,000 words
-* As a condition for entering the contest, each author consents to receive one (1) email from each editor they submitted to. Any additional contact, must be actively consented to or at the request of the author, consistent with GDPR and other legal guidelines.
+* As a condition for entering the contest, each author consents to receive one (1) email from each editor they submitted to. Any additional contact, must be actively consented to or at the request of the author, consistent with GDPR and other legal guidelines
+* By entering this contest you retain all rights to your writing and we have no copyright interest or claims to your work
  
 </div>
 
@@ -54,6 +55,14 @@ Any additional edits will be up to the author's and editor's discretion and foll
 <div markdown="1">
  
 **A:** Winners can still pitch their manuscripts while working with editors. If they receive requests, they'll just need to let the agents know they're revising and will send the manuscripts as soon as they're done.
+ 
+</div>
+
+##### Q: What if the full manuscript I want to enter is out with agent(s)?
+ 
+<div markdown="1">
+ 
+**A:** Yes, you can still enter manuscripts that have fulls out with agents. Be sure to note that under Manuscript History on the submission form. If they are chosen for the contest, they'll just need to let the agents know they're revising and will send the manuscripts as soon as they're done.
  
 </div>
  
@@ -490,6 +499,45 @@ We are constantly improving our processes in order to create an inclusive, suppo
 
 **To file a complaint or voice a concern:** please contact the #RevPit board via email at reviseresub@gmail.com, message the mods on the subreddit, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
 
+
+</div>
+</div>
+
+#### **AI Content**
+
+<div class="faq-accordion" markdown="1">
+
+##### AI Policy
+
+<div markdown="1">
+
+#### RevPit’s stance on the use of AI in fiction manuscripts (effective February 24, 2024)
+
+RevPit acknowledges the huge impact that AI has had recently on the writing world and wants to clarify the RevPit contest’s position regarding the Annual Contest, 10Queries, and any other RevPit events. This is the official position of the RevPit contest, but not necessarily of all of our participating editors in their own editorial businesses apart from the RevPit contest and events.
+ 
+##### AI-generated works are <u>not</u> eligible to be entered into any RevPit contest or event or to win prizes.
+
+As freelance editors, we support the work of authors who pour their hearts into their fiction manuscripts. We want to encourage the free expression of people in creating art for other people in the world. The AI tools currently available that generate text are using the intellectual property of many writers (often without their consent or compensation) and are producing work that could take the place of manuscripts written by people. This is not consistent with RevPit’s guiding principle of supporting writers (not AI tools) in their pursuit of writing knowledge and publication. In addition, AI-generated content is not protected by Intellectual Property Law and so may be in breach of RevPit's terms and conditions, which require authors to wholly own the rights to the content they submit. RevPit acknowledges that many literary agencies, publishing companies, distributors, and other reputable industry professionals are now including a clause in their contracts asking authors to guarantee they have not used AI to generate content. We define AI-generated content as text created by an AI-based tool (such as ChatGPT). If an AI-based tool wrote the actual content of the manuscript, query letter, synopsis, or logline, it is considered "AI-generated," even if a person edited the text substantially afterward.
+ 
+##### AI-assisted works <u>are</u> eligible to be entered into a RevPit contest or event or to win prizes.
+
+We acknowledge the longstanding use of various AI tools (such as Pro Writing Aid and Grammarly) to assist writers in honing their stories and improving their prose, and will accept manuscripts, query letters, synopses, and loglines in contests and events from authors who have created their own content and then used AI tools like grammar checkers and/or plotting/outlining tools. If you created the content yourself and used AI-based tools to suggest improvements such as error-checking, proofreading, or otherwise self-editing that text, then it is considered "AI-assisted" and not “AI-generated.” Similarly, if you used an AI-based tool to brainstorm and generate ideas, but ultimately drafted and revised the text yourself, this is also considered "AI-assisted" and not “AI-generated.” These manuscripts are allowed to enter the RevPit contests and events and be eligible for the prizes.
+ 
+**Images used in mood boards and other collateral materials**
+
+Submissions for the RevPit annual contest and other events may include:
+* the full manuscript (including the first five pages)
+* the query letter
+* the synopsis
+* the log line
+
+All of the materials included in the submission package (including the query letter, synopsis, and log line) <u>are subject to the prohibition on AI-generated work</u>. The purpose of such materials is to concisely capture the plot and voice of your manuscript, and as such, the use of any other content would likely not lead to an effective query letter, synopsis, or log line. Prior to submitting materials to a RevPit contest or event, we encourage authors to assist each other in polishing their query letters, as fellow authors are an excellent source of feedback.
+
+Images such as mood boards, mock cover art, and other images about your manuscript are not considered to be part of the submission materials. As such, the editors will not be offering editorial feedback to their winners about any visual art posted in the Reddit forum or other social media by the authors. RevPit will allow mood boards and other images to be posted, including those that are AI-generated, with the knowledge that these are not part of the submission for any manuscript into a RevPit contest or event. RevPit does, however, discourage the use of any AI-generated images. Authors who choose to post such an image are responsible for verifying that all AI-generated content adheres to all content guidelines and complies with all applicable intellectual property rights. RevPit reserves the right to remove any content from the Reddit subforum that doesn’t comply with the content guidelines.
+
+##### Social media and website
+
+Reddit and many other social media platforms are subject to such platform’s policies which may allow any information posted to be used by content-generating AI technology. If authors want to prevent their inclusion in content-generating AI tools, authors are cautioned against posting their intellectual property, including portions of manuscripts, on such forums, including the RevPit Reddit subforum. All submissions to RevPit contests and events are held in strict confidence by the RevPit editors and first readers, and the author maintains all rights to their intellectual property. The winners’ first five pages and query letters will be posted on RevPit’s website, reviseresub.com, for three months for the winner showcase. The content of postings on the RevPit website are <u>not</u> also shared on various social media and are not subject to the AI policy of such social media sites. Reasonable measures are taken on the RevPit website to protect the authors’ intellectual property and prevent AI bots from crawling the showcase pages.
 
 </div>
 </div>

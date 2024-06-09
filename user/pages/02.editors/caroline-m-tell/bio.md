@@ -43,7 +43,7 @@ This year, I’m looking for stories with unique worlds and magic systems. Wheth
 * Manipulation plots
 * World-shattering revelations
 * Multi POVs (think Six of Crows style)
-* Handicap/Disability representation
+* Disability representation
 * Characters that feel deeply about the world around them
 * Retellings (of any kind, I’m not picky ✌🏻)
 

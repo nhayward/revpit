@@ -19,8 +19,25 @@ Should you win, the editor that picks you will help you with what your manuscrip
 
 ## Runners-up Prizes
 
-Coming soon!
+#### Submission Materials Critique Package:
 
+Runner-ups will receive a query, synopsis, and first five page critique package. This package will focus on improving the stakes and hook of your submission materials. (Please submit all materials as word documents)
+
+##### With Megan Manzano
+
+Having been in publishing for nine years, Megan has worked as an editor and marketing manager for Trade books and a Literary Agent at D4EO and Steven Literary. She has previously edited for the RevPit 2020 contest. When she’s not editing, she’s either snuggling her dog, or crying over a piece of media.
+
+Website: [Megan Mazano Edits](https://meganmanzano12.wixsite.com/meg-edits/services?target=_blank)
+
+#### One-on-one Coaching Session
+
+A one hour one-on-one coaching session about your writing career. You know how to write, Jessica just helps with the stuff that gets in the way of doing it, like mindset, time management, owning your worth, and accepting how much creative power you really hold. 
+
+##### With Jessica Conoley
+
+Jessica Conoley is a writer, coach, & speaker. She founded The Creative’s Apprentice to help writers learn how to build their businesses in a mentally healthy, sustainable manner. She teaches how our personal body of creative work is the key that unlocks individual intuitive guidance, allowing us to step into our full creative power and highest potential.
+
+Website: [The Creative's Apprentice](https://thecreativesapprentice.com?target=_blank)
 
 ##### Check back here, [get email updates](https://reviseresub.substack.com?target=_blank), or [follow us on Twitter](https://twitter.com/ReviseResub?target=_blank) to find out more!
 

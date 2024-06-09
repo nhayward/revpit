@@ -3,7 +3,7 @@ title: 'How to Submit'
 media_order: 'RevPit_Synopsis_Formatting_Sample.docx,RevPit_Full_Manuscript_Formatting_Sample.docx,RevPitSubmitButton.jpg,RevPit_Query5Pages_Formatting_Sample.docx,RevPitSubmissionChecklist.pdf'
 ---
 
-The Revise & Resub (#RevPit) [Annual Contest](http://reviseresub.com/annual-contest) is open to completed, unpublished, fiction manuscripts ONLY. Non-fiction, poetry, chapter books, picture books, and projects under 25,000 words are not eligible. By entering, you have the chance to win 8 weeks of editing of your **full manuscript**. Your manuscript should be polished and beta-reader tested before submission. Only **one** submission is allowed per entrant.
+The Revise & Resub (#RevPit) [Annual Contest](http://reviseresub.com/annual-contest) is open to completed, unpublished, fiction manuscripts ONLY. Non-fiction, poetry, chapter books, picture books, and projects under 25,000 words are not eligible. By entering, you have the chance to win 8 weeks of editing of your **full manuscript**. Your manuscript should be polished to the best of your abilities via self-editing, beta readers and/or critique partners before submission. Only **one** submission is allowed per entrant.
  
 **Once you have your submission materials ready to go, you’ll come here and click the link to our submission form.**
  
@@ -95,11 +95,12 @@ We also have an accessible spreadsheet that breaks down which age categories and
  
 #### Eligibility Requirements:
  * You must agree to our Code of Conduct, which can be found on the [FAQ page](https://reviseresub.com/faq).
- * Your submission materials are your own original work
+ * Your submission materials are your own original work and have not been AI-generated. See our policy on the use of AI, which can be found on the [FAQ page](https://reviseresub.com/faq).
  * The manuscript you are submitting has never been published before
  * You are not represented by a literary agent
  * No non-fiction, poetry, chapter books, picture books, or projects under 25,000 words
  * As a condition for entering the contest, each author consents to receive one (1) email from each editor they submitted to. Any additional contact, must be actively consented to or at the request of the author, consistent with GDPR and other legal guidelines.
+ * By entering this contest you retain all rights to your writing and we have no copyright interest or claims to your work.
 
 
 <small>Please note: If you are selected for Revise &amp; Resub, your query and first five pages will be showcased on our website at the end of the contest. We want to be able to share your hard work with the world! Revised submissions will be showcased for three months and then removed from the site. After three months, or upon securing agent representation or a publishing contract, an author may request their submission be taken out of the showcase.</small>

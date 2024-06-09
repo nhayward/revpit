@@ -1,6 +1,7 @@
 ---
 title: 'Editor MSWL Spreadsheet'
 published: true
+media_order: 'RevPit 2024 Editor MSWL Spreadsheet.xlsx'
 ---
 
 ### Annual Contest Editor MSWL Spreadsheet
@@ -18,5 +19,5 @@ Browse the participating editor bios and select your THREE choices. This accessi
 
 #### Available Formats:
 
-* Google Sheets: Google 2024 Editor MSWL Spreadsheet coming soon!
-* Microsoft Excel: Excel 2024 Editor MSWL Spreadsheet coming soon! (If you use a screen reader, please note that the column headers start on row 2)
+* Google Sheets: [Google 2024 Editor MSWL Spreadsheet](https://docs.google.com/spreadsheets/d/1TQTRLpiMReW2lp_0sXyE7LIWDVcfHGPy2oKwaeD1FPM/edit?usp=sharing)
+* Microsoft Excel: [Excel 2024 Editor MSWL Spreadsheet](RevPit%202024%20Editor%20MSWL%20Spreadsheet.xlsx) (If you use a screen reader, please note that the column headers start on row 2)
