@@ -1,6 +1,6 @@
 ---
 title: '2024 Specials'
-published: true
+published: false
 ---
 
 #### If you are ready to hire a freelance editor, some of our editors are offering deals to make it more affordable.

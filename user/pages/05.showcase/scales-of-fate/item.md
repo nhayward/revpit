@@ -5,7 +5,9 @@ feed:
 media_order: jonathan-kemper-zQMN9fLJehM-unsplash.jpg
 date: '10-06-2024 12:00'
 publish_date: '10-06-2024 12:00'
-robots: noindex
+metadata:
+    robots: 'noindex, nofollow'
+published: false
 ---
 
 #### by Michelle Donovan ([@michelledonovancreates](https://www.instagram.com/michelledonovancreates/?igsh=MzZ1YTMxZ3c1ZW42))

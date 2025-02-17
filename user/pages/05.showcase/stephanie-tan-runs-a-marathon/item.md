@@ -5,7 +5,9 @@ feed:
 media_order: sporlab-XiZ7pRvCzro-unsplash.jpg
 date: '10-06-2024 12:00'
 publish_date: '10-06-2024 12:00'
-robots: noindex
+metadata:
+    robots: 'noindex, nofollow'
+published: false
 ---
 
 #### by Linh Chau ([@linhwriteswithcoffee](https://www.instagram.com/linhwriteswithcoffee/))

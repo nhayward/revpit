@@ -4,8 +4,6 @@ title: 'New Editors'
 
 ## RevPit Editors Open Call
 
-Accepting applications June 10th - June 27th.
-
 #### Who Are We?
 
 Revise & Resub (#RevPit) is a writing community co-founded in 2017 by a group of editors. It supports authors by offering editing-focused chats and mini-events throughout the year as well as an annual contest wherein querying authors can win feedback and edits on their full manuscripts from professional editors, ensuring their works are polished and ready for agent inboxes.
@@ -37,7 +35,7 @@ In addition to a good fit, we’re also hoping to find editors who can work with
 
 #### What Is the Timeframe?
 
-We are accepting applications June 10 - June 27 and will be in touch with applicants in August.
+We are accepting applications through early July and will be in touch with applicants in August.
 
 Finalists will be asked to participate in our October 10Queries event as a last step in our application process and will know by November whether they are invited to join the RevPit team for the 2025 Annual Contest.
 

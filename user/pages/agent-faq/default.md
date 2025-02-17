@@ -44,7 +44,7 @@ A little about our contest: Revise & Resub (#RevPit) supports authors with an an
 
 We at \#RevPit know that competition can be fierce, but we ask that each participating agent and acquiring editor adhere to the request process. Our winners are encouraged to share the links to their showcase material on social media. If you ‘like’ an entry on social media, please be sure to request via the form on the official showcase page for that individual author. We can’t ensure that the author in question will interpret your ‘like’ as an official request.
 
-Further Information: If you would like to keep updated on all #RevPit events, please follow [@ReviseResub](https://twitter.com/ReviseResub?target=_blank) on Twitter and turn on notifications for important information. If you have additional questions, feel free to email the Board at: reviseresub (at) gmail (dot) com
+Further Information: If you would like to keep updated on all #RevPit events, please follow [@ReviseResub](https://bsky.app/profile/reviseresub.bsky.social?target=_blank) on Bluesky and turn on notifications for important information. If you have additional questions, feel free to email the Board at: reviseresub (at) gmail (dot) com
 
 </div>
 

@@ -9,6 +9,8 @@ taxonomy:
         - showcase
         - winners
         - runners-up
+feed:
+    limit: 10
 ---
 
 It’s the moment we’ve all been waiting for, the author-editor pair announcement!
@@ -25,7 +27,6 @@ Adult Alternate History
 
 **Editor:** Sione Aeschliman @writelearndream
 
-In 2011, Kalki Kamal led Indian rebels to freedom from the British Occupation. Now she wants to be Prime Minister. But when a series of interviews forces her to revisit the past, she must decide if repression and silence will be the price she pays for position.
 
 ##### ABOUT A GOLEM by Nadia Diament - @nadiadiament
 

@@ -5,7 +5,9 @@ feed:
 media_order: clement-delacre-M5s9Ffs1KqU-unsplash.jpg
 date: '10-06-2024 12:00'
 publish_date: '10-06-2024 12:00'
-robots: noindex
+metadata:
+    robots: 'noindex, nofollow'
+published: false
 ---
 
 #### by Kimberly Deng ([@KimberlyD73219](https://twitter.com/KimberlyD73219))

@@ -5,7 +5,9 @@ feed:
 media_order: sebastian-kanczok-mNEYVEjalV8-unsplash.jpg
 date: '10-06-2024 12:00'
 publish_date: '10-06-2024 12:00'
-robots: noindex
+metadata:
+    robots: 'noindex, nofollow'
+published: false
 ---
 
 #### by Alex Steullet ([AlexSTWrites](https://x.com/AlexstWrites))

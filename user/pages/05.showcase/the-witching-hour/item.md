@@ -5,7 +5,9 @@ feed:
 media_order: dollar-gill-0V7_N62zZcU-unsplash.jpg
 date: '10-06-2024 12:00'
 publish_date: '10-06-2024 12:00'
-robots: noindex
+metadata:
+    robots: 'noindex, nofollow'
+published: false
 ---
 
 #### by Dana Nuenighoff ([@dananuens](https://x.com/DanaNuens))

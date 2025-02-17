@@ -5,7 +5,9 @@ feed:
 media_order: aron-visuals-_l4yffWjgt4-unsplash.jpg
 date: '10-06-2024 12:00'
 publish_date: '10-06-2024 12:00'
-robots: noindex
+metadata:
+    robots: 'noindex, nofollow'
+published: false
 ---
 
 #### by Haley Gray ([@hkaygray](https://x.com/hkaygray))

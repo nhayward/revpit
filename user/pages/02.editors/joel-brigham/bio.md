@@ -21,19 +21,26 @@ mini: true
 
 ##### Bio
 
-Joel Brigham (Brigham Editorial) is a freelance editor and an agented kidlit author with a YA and MG books currently on submission. He also has been a high school English teacher for two decades and has a bachelor's degree in Creative Writing and a master's degree in Education. He loves '90s hip-hop, fantasy football, genealogy research, and the _Teenage Mutant Ninja Turtles_.
+Joel Brigham (Brigham Editorial) is a freelance editor with over two decades of experience helping writers young and old find their story and their voice. He has a bachelor's degree in Creative Writing and a master's degree in Education and has been an RevPit editor for three years. He loves '90s hip-hop, fantasy football, genealogy research, and the _Teenage Mutant Ninja Turtles_.
 
 **Pronouns: He/Him**
 
 ##### MSWL
 
-In terms of age levels, MG and YA are my sweet spots, but I also work with a lot of adult-level stuff. "New Adult" (college-age protagonists) and literary fiction/book club fiction are great, too!
+Look, friends. I'm not picky and have edited a little bit of everything over the years. More than anything, I want to work on something unique. I realize that's not specific, though, so I hope this MSWL helps a little:
 
-My preferred genres include contemporary, action & adventure, historical, romance, literary, fairy tale retellings, and magical realism/speculative fiction.
+* Age Level: MG, YA, NA, and Adult. I'm open to any of those.
+* Preferred Genres: Romance, Historical. Literary/Book Club, Magical Realism/Speculative, Contemporary.
+* Other Genres I'll Happily Consider: Action/Adventure, Gothic, or Fairy Tale/Mythology Retellings
+* Genres I'll Take, But It'll Have to Completely Blow My Mind: Fantasy, Science Fiction
+* Genres I'm Very, Very Unlikely to Choose: Horror, Mystery, Novels in Verse
 
-Genres that I love (and am open to working with!) but may not necessarily be the BEST fit: novels in verse, horror, and thrillers. I'm not a good fit for picture books or graphic novels.
+There are a few weirdly specific things I'd actually love to read, but I always hated when agents put weirdly specific things on their MSWL documents. Please don't discount your book if your story isn't any of these things!
 
-As for science fiction and fantasy, it depends entirely on the story. I'm more likely to take low fantasy than high or epic fantasy, and I'm more likely to take character-driven soft sci-fi than hard sci-fi. Steampunk, space operas, and space westerns aren't for me.
+Weirdly Specific Wants:
+* Sequels/Prequels/Retellings of Literary Classics (a la _James_, by Percival Everett)
+* Unexpected hybrids of two genres that typically do not go together
+* Any manuscript capable of both cracking me up and choking me up.
 
 ##### Q&A
 
@@ -41,27 +48,37 @@ As for science fiction and fantasy, it depends entirely on the story. I'm more l
 
 I want to see mystery, tension, and/or suspense on Page One. Voice and stakes early on also get my attention!
 
-If the lead gets me, I'll devour the first paragraph. If the first paragraph gets me, I'll devour the first page. It usually only takes me about that long to know if I'm going to fall in love with a manuscript. 
+If the lead gets me, I'll devour the first paragraph. If the first paragraph gets me, I'll devour the first page. It usually only takes me about that long to know if I'm going to fall in love with a manuscript.
 
 More than anything, I want to see something new and unique. If the character and/or plot is something that feels original in some way, I'm in. Bonus points if you can make me laugh.
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-I've got two goals when working with authors:
+Well, let's run it down, shall we?
 
-1. I'm looking to help authors make manuscripts more appealing to agents and readers, especially early on.
-2. My feedback is actionable. I want to give you feedback you can work with. When I put together an edit letter, it's so the writer has a solid list of to-do items that they can tackle one at a time until the manuscript is just the way they like it. 
-
-My specialty is plotting and pacing, so if your book feels like it drags or sags at certain points, that's something I can help with. I'm also great with voice, dialogue, and character arcs, and I'm the King of Show-Don't-Tell.
-
-In terms of communication, I'm ridiculously accessible. Probably more than I should be. But I've been a teacher for so long that helping people is in my DNA at this point. I'm the kind of person who likes consistent (and persistent!) communication. We're going to be buddies if we end up working together. You really won't have much of a choice.
+1. I work fast once I've gotten started.
+2. My feedback style is to be constructive and actionable. I'll tell you what I love, but I'm a problem-solver by nature, so I'm primarily identifying areas of concern and then guiding writers toward removing any concern from those areas.
+3. My specialties are plotting, pacing, flow, and maximizing for mainstream appeal. I do view literature as art, but my job is to help you write a book an agent can sell. That means my approach is a mix between maintaining the integrity of your artistic vision while also optimizing a manuscript for success.
+4. I'm a great pep-talker and cheerleader.
+5. I really like to respond to email quickly, and I often do. If I don't, reminders and nudges are encouraged. If it's three millimeters in front of my nose, I'll probably forget it exists.
+6. I'm very, very hard to offend, so let's just be honest with each other, yeah? :)
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-I'm looking for writers that are interested (and maybe even excited!) to take feedback and apply it to their manuscript. Be ready to put in the work necessary to make the most of this opportunity, and know that while I love to dole out praise, I also work best with people who are ready to get down to business. I value work ethic above all things, including talent!
+When it comes to working with writers, I value grit, flexibility, and timeliness above all things.
 
-Your book is going to need work, and I'm going to need you to want to do that work.
+Be ready to work. Be ready to try ideas you might not have considered trying. And please stay on schedule!
 
 **What hobbies do you have outside of writing and editing?**
 
-I love to watch baseball in the summer (go White Sox! and Savannah Bananas!), and in the fall I've grown to enjoy the challenge and community around fantasy football. I collect vintage Ninja Turtles, watch every Oscar-nominated movie each year, and walk or run for an hour almost every day. I also coach both my daughters' softball teams and am on the board for my area's rec league of over 700 girls. And there's nothing I love more than planning a good family vacation!
+I am incapable of sitting still, so my list of beloved hyper-focuses is lengthy and eclectic. But quickly:
+
+* I collect vintage _Teenage Mutant Ninja Turtles_ toys.
+* I am the president of my town's recreational softball leagues (and I help coach both of my daughters' teams in the summer).
+* I play a TON of fantasy football.
+* I'm a huge fan of the Savannah Bananas.
+* I'm obsessed with genealogy.
+* I watch every Oscar-nominated film each year.
+* I'm a big travel nut and love scouring every possible AirBNB in an area until I've found the perfect one for that year's family vacation.
+
+And I'm sure there's more. Or at least there will be! I always find something new and shiny to keep the ol' dopamine flowin'!

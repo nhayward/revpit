@@ -5,10 +5,12 @@ feed:
 media_order: marcel-smits-bmpMwZ_Rfxs-unsplash.jpg
 date: '10-06-2024 12:00'
 publish_date: '10-06-2024 12:00'
-robots: noindex
+metadata:
+    robots: 'noindex, nofollow'
+published: false
 ---
 
-#### by Charlie Winter ([u/Deejaymil](https://www.reddit.com/user/Deejaymil/))
+#### by Charlie Winter
 
 ##### Adult Cozy Fantasy
 

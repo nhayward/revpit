@@ -15,7 +15,7 @@ Browse the participating editor bios and select your THREE choices. This accessi
 * Once you've located the editors accepting your manuscript's age category and genre, click on the links next to those editors' names to go to their editor page and review their MSWL.
 * Carefully read each editor's MSWL. The spreadsheet covers broad genres, but each editor has their own specifications. 
 * Select your three editors!
-* If you're having a hard time deciding, watch the \#RevPit \#MeetTheEditor feed on [our subreddit](https://www.reddit.com/r/RevPit?target=_blank) for a chance to ask questions of the editors you're considering.
+* If you're having a hard time deciding, watch the \#RevPit \#MeetTheEditor feed on [Bluesky](https://bsky.app/hashtag/RevPit?target=_blank) for a chance to ask questions of the editors you're considering.
 
 #### Available Formats:
 

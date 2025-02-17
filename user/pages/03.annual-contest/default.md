@@ -3,7 +3,7 @@ title: 'Annual Contest'
 media_order: 'RevPit 2022 Annual Contest - Full Details.pdf,RevPit 2022 Annual Contest - Full Details.docx'
 ---
 
-### The #RevPit 2024 Annual Contest Begins March 14th!
+### The #RevPit 2025 Annual Contest Begins March 13th!
 
 In this contest, authors are eligible to receive developmental edits on their **full fiction manuscript** from professional editors, ensuring their works are polished and ready for agents. Authors will be immersed in a supportive community of their peers and have the chance to learn more about how their story fits into the industry and why different edits matter and how to continue practicing them in the future.
  
@@ -34,7 +34,7 @@ When the submission window closes, the First Readers will read the first five pa
 
 After the First Reader round, the editors will go through their entries. 
 
-Watch your chosen editors’ posts on the #RevPit [Subreddit](https://www.reddit.com/r/RevPit?target=_blank), as all editors will post anonymous [#10queries](https://reviseresub.com/mini-events) feedback as they go. 
+Watch your chosen editors’ posts on the #RevPit [Bluesky](https://bsky.app/hashtag/RevPit?target=_blank), as all editors will post anonymous [#10queries](https://reviseresub.com/mini-events) feedback as they go. 
 
 ##### 5. Editors Select Winners
 

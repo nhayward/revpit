@@ -7,7 +7,7 @@ The Revise & Resub (#RevPit) [Annual Contest](http://reviseresub.com/annual-cont
  
 **Once you have your submission materials ready to go, you’ll come here and click the link to our submission form.**
  
-The link will become active on **March 14th, 2024 at 12:00pm EDT** and remain open until **12pm EDT on March 17th, 2024**.
+The link will become active on **March 13th, 2025 at 12:00pm EDT** and remain open until **12pm EDT on March 16th, 2025**.
  
 If you need accommodations for the submission window due to disability, religion, or other special circumstances that create a significant barrier to submitting, please check the [FAQ page](https://reviseresub.com/faq) for more details.
  

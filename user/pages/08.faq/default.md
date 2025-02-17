@@ -185,7 +185,7 @@ If you need a visual example of formatting for the Annual Contest, take a look a
  
 <div markdown="1">
  
-**A:** Editor wish lists will be available soon with their bios on the [Editors page](http://reviseresub.com/editors), so do your research before the submission window opens. If you’re looking for clarification on what a specific editor is looking for, stop by during their #MeetTheEditor [sessions](http://reviseresub.com/annual-contest/schedule) on our [Subreddit](https://www.reddit.com/r/RevPit?target=_blank) or @ them using the #RevPit tag on other social media.
+**A:** Editor wish lists will be available soon with their bios on the [Editors page](http://reviseresub.com/editors), so do your research before the submission window opens. If you’re looking for clarification on what a specific editor is looking for, stop by during their #MeetTheEditor [sessions](http://reviseresub.com/annual-contest/schedule) on [Bluesky](https://bsky.app/hashtag/RevPit?target=_blank) or @ them using the #RevPit tag on other social media.
  
 We also have an accessible spreadsheet that breaks down which age categories and genres the editors are accepting to help you narrow down your choices. You can access the [Editor MSWL spreadsheet](https://reviseresub.com/annual-contest/editor-mswl-spreadsheet) here.
  
@@ -230,7 +230,7 @@ Having previously engaged with an editor on social media, in other events, or on
  
 <div markdown="1">
  
-**A:** #10Queries sessions are when editors will post anonymous feedback on some of the submissions they’ve received on our [Subreddit](https://www.reddit.com/r/RevPit?target=_blank). For more information on #10Queries, check out [our past 10Queries](https://reviseresub.com/mini-events).
+**A:** #10Queries sessions are when editors will post anonymous feedback on some of the submissions they’ve received on [Bluesky](https://bsky.app/hashtag/RevPit?target=_blank). For more information on #10Queries, check out [our past 10Queries](https://reviseresub.com/mini-events).
  
 </div>
  
@@ -238,7 +238,7 @@ Having previously engaged with an editor on social media, in other events, or on
  
 <div markdown="1">
  
-**A:** #10Queries sessions will take place on our [Subreddit](https://www.reddit.com/r/RevPit?target=_blank) **between the submission window and the winner announcements**. Watch the #RevPit subreddit for updates on when editors will post their #10Queries feedback.
+**A:** #10Queries sessions will take place on [Bluesky](https://bsky.app/hashtag/RevPit?target=_blank) **between the submission window and the winner announcements**. Watch the #RevPit hashtag for updates on when editors will post their #10Queries feedback.
  
 </div>
  
@@ -254,7 +254,7 @@ Having previously engaged with an editor on social media, in other events, or on
  
 <div markdown="1">
  
-**A:** Winners will be announced on the [Showcase page](http://reviseresub.com/showcase) of our site as well as on our [Subreddit](https://www.reddit.com/r/RevPit?target=_blank). Editors will then email their authors to begin the editing process!
+**A:** Winners will be announced on the [Showcase page](http://reviseresub.com/showcase) of our site as well as on our [Subreddit](https://www.reddit.com/r/RevPit?target=_blank) and on [Bluesky](https://bsky.app/profile/reviseresub.bsky.social?target=_blank). Editors will then email their authors to begin the editing process!
  
 </div>
  
@@ -446,7 +446,7 @@ Further Information: If you would like to keep updated on all #RevPit events, pl
 
 **\#RevPit Code of Conduct**
 
-This code of conduct applies to community members, First Readers, and editors, both online (including but not limited to email, Reddit, X/Twitter (including direct messages), #RevPit community Slack groups, and other social media, and in-person (if applicable).
+This code of conduct applies to community members, First Readers, and editors, both online (including but not limited to email, Bluesky, Reddit, X/Twitter (including direct messages), #RevPit community Slack groups, and other social media, and in-person (if applicable).
 
 Authors submitting to the Annual Contest retain all rights to their work. Participating editors, First Readers, and mentees (if applicable) agree to maintain confidentiality with respect to all materials submitted and will not share it with others without the author’s consent. 
 
@@ -456,11 +456,11 @@ We do not tolerate harassment of community members in any form. Harassment inclu
  
 Be mindful of the words that you choose. Exclusionary jokes can be offensive to those around you. Offending behavior may also include micro-aggressions (subtle put-downs) and tone policing (responding negatively to the emotion behind a person’s message while ignoring its content, such as telling someone who is upset to “calm down” instead of responding to their concerns).
  
-Community members asked to stop any offending behavior are expected to comply immediately. It is not the duty of a member of a protected class to explain why the conduct in question is offensive. Take the time to self-educate from the many resources available: [We've gathered some DEI resources here](https://docs.google.com/document/d/1INKf0bjBOzuWKgJlJYpRhxOoxpa9BO_WEPC1wnhietQ/edit?usp=sharing?target=_blank).
+Anyone asked to stop any offending behavior are expected to comply immediately. It is not the duty of a member of a protected class to explain why the conduct in question is offensive. Take the time to self-educate from the many resources available: [We've gathered some DEI resources here](https://docs.google.com/document/d/1INKf0bjBOzuWKgJlJYpRhxOoxpa9BO_WEPC1wnhietQ/edit?usp=sharing?target=_blank).
  
-Community members violating these rules may be removed from community spaces (Slack channels, RevPit SubReddit, X/Twitter Group Chats) and may be ineligible to participate in the Annual Contest or Mini-Events.
+Anyone violating these rules may be removed from community spaces (Slack channels, RevPit SubReddit, Bluesky Chats, etc.) and may be ineligible to participate in the Annual Contest or Mini-Events.
  
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the #RevPit board via email at reviseresub@gmail.com, the @ReviseResub Reddit or Twitter account, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the #RevPit board via email at reviseresub@gmail.com, the @ReviseResub Reddit or Bluesky account, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
 
 
 </div>
@@ -475,11 +475,11 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 <div markdown="1">
 
-**Bullying or harassment of any kind is unacceptable.** The ReviseResub editors want #RevPit to continue to be a safe, supportive place for all writers and will do whatever possible to keep harassment out of the #RevPit community. This includes reporting, blocking, and removal from the Annual Contest or any mini-event, any individual or account that has demonstrated harassing behavior. We use [Reddit’s standards for harassment and abuse](https://www.redditinc.com/policies/content-policy?target=_blank).
+**Bullying or harassment of any kind is unacceptable.** The ReviseResub editors want #RevPit to continue to be a safe, supportive place for all writers and will do whatever possible to keep harassment out of the #RevPit community. This includes reporting, blocking, and removal from the Annual Contest or any mini-event, any individual or account that has demonstrated harassing behavior. We use [Bluesky’s standards for harassment and abuse](https://bsky.social/about/support/community-guidelines?target=_blank).
 
 **If you’re being harassed:**
 
-Please contact the #RevPit board via email at reviseresub@gmail.com, message the mods on the subreddit, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
+Please contact the #RevPit board via email at reviseresub@gmail.com, message the mods on the subreddit (if taking place on out subreddit), or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
 
 We want to see all writers succeed and will continue to strive to provide a space where writers can grow together. 
 
@@ -497,7 +497,7 @@ Any issues that are brought to our attention will be addressed by promptly reach
 
 We are constantly improving our processes in order to create an inclusive, supportive, and dedicated community for all involved. 
 
-**To file a complaint or voice a concern:** please contact the #RevPit board via email at reviseresub@gmail.com, message the mods on the subreddit, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
+**To file a complaint or voice a concern:** please contact the #RevPit board via email at reviseresub@gmail.com, message the mods on the subreddit (if taking place on the subreddit), or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
 
 
 </div>
@@ -533,11 +533,11 @@ Submissions for the RevPit annual contest and other events may include:
 
 All of the materials included in the submission package (including the query letter, synopsis, and log line) <u>are subject to the prohibition on AI-generated work</u>. The purpose of such materials is to concisely capture the plot and voice of your manuscript, and as such, the use of any other content would likely not lead to an effective query letter, synopsis, or log line. Prior to submitting materials to a RevPit contest or event, we encourage authors to assist each other in polishing their query letters, as fellow authors are an excellent source of feedback.
 
-Images such as mood boards, mock cover art, and other images about your manuscript are not considered to be part of the submission materials. As such, the editors will not be offering editorial feedback to their winners about any visual art posted in the Reddit forum or other social media by the authors. RevPit will allow mood boards and other images to be posted, including those that are AI-generated, with the knowledge that these are not part of the submission for any manuscript into a RevPit contest or event. RevPit does, however, discourage the use of any AI-generated images. Authors who choose to post such an image are responsible for verifying that all AI-generated content adheres to all content guidelines and complies with all applicable intellectual property rights. RevPit reserves the right to remove any content from the Reddit subforum that doesn’t comply with the content guidelines.
+Images such as mood boards, mock cover art, and other images about your manuscript are not considered to be part of the submission materials. As such, the editors will not be offering editorial feedback to their winners about any visual art posted in the Reddit forum, on Bluesky, or other social media by the authors. RevPit will allow mood boards and other images to be posted, including those that are AI-generated, with the knowledge that these are not part of the submission for any manuscript into a RevPit contest or event. RevPit does, however, discourage the use of any AI-generated images. Authors who choose to post such an image are responsible for verifying that all AI-generated content adheres to all content guidelines and complies with all applicable intellectual property rights. RevPit reserves the right to remove any content from the Reddit subforum that doesn’t comply with the content guidelines.
 
 ##### Social media and website
 
-Reddit and many other social media platforms are subject to such platform’s policies which may allow any information posted to be used by content-generating AI technology. If authors want to prevent their inclusion in content-generating AI tools, authors are cautioned against posting their intellectual property, including portions of manuscripts, on such forums, including the RevPit Reddit subforum. All submissions to RevPit contests and events are held in strict confidence by the RevPit editors and first readers, and the author maintains all rights to their intellectual property. The winners’ first five pages and query letters will be posted on RevPit’s website, reviseresub.com, for three months for the winner showcase. The content of postings on the RevPit website are <u>not</u> also shared on various social media and are not subject to the AI policy of such social media sites. Reasonable measures are taken on the RevPit website to protect the authors’ intellectual property and prevent AI bots from crawling the showcase pages.
+Reddit, Bluesky, and many other social media platforms are subject to such platform’s policies which may allow any information posted to be used by content-generating AI technology. If authors want to prevent their inclusion in content-generating AI tools, authors are cautioned against posting their intellectual property, including portions of manuscripts, on such forums, including the RevPit Reddit subforum or using the RevPit hashtag on Bluesky. All submissions to RevPit contests and events are held in strict confidence by the RevPit editors and first readers, and the author maintains all rights to their intellectual property. The winners’ first five pages and query letters will be posted on RevPit’s website, reviseresub.com, for three months for the winner showcase. The content of postings on the RevPit website are <u>not</u> also shared on various social media and are not subject to the AI policy of such social media sites. Reasonable measures are taken on the RevPit website to protect the authors’ intellectual property and prevent AI bots from crawling the showcase pages.
 
 </div>
 </div>
@@ -562,8 +562,8 @@ Third, we have also seen that the label has received legitimate pushback from wr
 
 So if you’re wondering whether ownvoices is appropriate for your manuscript, consider whether you want to use this label and if so:
  * Do you and your MC share one or more of the same marginalized identities? If not, then it’s not #ownvoices.
- * What counts as a marginalized identity? [Corinne Duyvis’s](http://www.corinneduyvis.net/ownvoices?target=_blank) (the hashtag creator’s) site says that, ultimately, it’s up to the author to determine that for themselves, and the DVPit website has a bunch of useful examples: [http://dvpit.com/about](http://dvpit.com/about?target=_blank) 
- * Different communities have different controversies and discussions around representation and what counts as ownvoices, and it’s important to familiarize yourself with them so you know what you’re taking on if/when you decide to claim the label. For example, [this article](https://www.bustle.com/p/why-the-publishing-industry-needs-to-be-more-inclusive-of-autistic-disabled-people-7705640?target=_blank) by Alaina Leary on Bustle about representations of autistic and disabled people or [this article](https://bookriot.com/2017/04/21/the-problem-with-ownvoices-lgbtq-lit?target=_blank) by Danika Ellis on Book Riot about LGBTQ+ ownvoices, especially when it comes to the romance genre. You can also check out the #ownvoices feed on Twitter to see what people are talking about and/or consider asking other marginalized writers from the communities you’re writing about what the most common issues in publishing are for members of that community. You’re bound to get a plethora of perspectives that you can take into consideration when deciding how to frame your work.
+ * What counts as a marginalized identity? [Corinne Duyvis’s](http://www.corinneduyvis.net/ownvoices?target=_blank) (the hashtag creator’s) site says that, ultimately, it’s up to the author to determine that for themselves
+ * Different communities have different controversies and discussions around representation and what counts as ownvoices, and it’s important to familiarize yourself with them so you know what you’re taking on if/when you decide to claim the label. For example, [this article](https://www.bustle.com/p/why-the-publishing-industry-needs-to-be-more-inclusive-of-autistic-disabled-people-7705640?target=_blank) by Alaina Leary on Bustle about representations of autistic and disabled people or [this article](https://bookriot.com/2017/04/21/the-problem-with-ownvoices-lgbtq-lit?target=_blank) by Danika Ellis on Book Riot about LGBTQ+ ownvoices, especially when it comes to the romance genre. You can also check out the #ownvoices feed on Bluesky to see what people are talking about and/or consider asking other marginalized writers from the communities you’re writing about what the most common issues in publishing are for members of that community. You’re bound to get a plethora of perspectives that you can take into consideration when deciding how to frame your work.
  * If you're still not sure if you should be using #ownvoices, consider instead saying something like, "based on my own experiences as....”
 
 

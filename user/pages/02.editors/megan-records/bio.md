@@ -5,9 +5,9 @@ website: 'http://www.meganrecords.com/'
 reddit:
     name: '@meganrecords'
     url: 'https://www.reddit.com/user/meganrecords'
-twitter:
+bluesky:
     name: '@meganrecords'
-    url: 'https://twitter.com/meganrecords'
+    url: 'https://bsky.app/profile/meganrecords.bsky.social'
 instagram:
     name: 'Megan Records Editorial'
     url: 'https://www.instagram.com/meganrecordseditorial/'
@@ -22,36 +22,37 @@ media_order: 'Megan_Records.jpg,Megan_Records_small.jpg'
 
 ##### Bio
 
-Megan Records has been a professional editor for over 15 years. She edits most types of fiction, but particularly loves romance, mysteries, and YA. Editing isn’t just about fixing—it’s about learning what you’re doing right, where you can improve, and how you can grow as a writer. Through developmental and line editing, Megan helps authors make their stories shine!
+Megan Records has been a professional editor for over 17 years. She edits most types of fiction, but particularly loves romance, mysteries, fantasy, and YA. Editing isn’t just about fixing—it’s about learning what you’re doing right, where you can improve, and how you can grow as a writer. Through developmental and line editing, Megan helps authors make their stories shine!
 
-She has a M.S. in Publishing and worked at Kensington Publishing. She ALSO has (sometimes crippling) imposter syndrome and a serious addiction to the em dash. When not editing, you can find her singing rather loudly to a variety of music and drinking copious amounts of tea.
+She has a M.S. in Publishing and worked at Kensington Publishing. She loves: dogs, em dashes, shows requiring subtitles, Choco Churro Turtle chips. She dislikes: heels over 2 inches, doing dishes, early mornings. When not editing, you can find her singing rather loudly to a variety of music and drinking copious amounts of tea.
 
 **Pronouns: She/Her**
 
 ##### MSWL
 
-This is what I’m looking for this year. Feel free to ask questions on my \#MeetTheEditor chat.
+This is what I’m looking for this year. Feel free to ask questions on my #MeetTheEditor chat.
 
 **Adult:**
 * romance of all heat levels in these subgenres: contemporary, historical, paranormal, fantasy, romantic suspense
-* character-driven fantasy (not epics). If there are more than 3 POVs, probably not for me.
+* character-driven fantasy (not epics). If there are more than 4 POVs, probably not for me.
+* cozy fantasy
 * cozy mysteries and historical mysteries
 * historical fiction with a strong romance plot
 
 **YA:**
 * romance in these subgenres: contemporary, historical, paranormal, fantasy, romantic suspense
-* character-driven fantasy (not epics). No more than 3 POVs
+* character-driven fantasy (not epics). No more than 4 POVs
 * dystopian
-* historical mystery
+* mystery
 
 **Not For Me:**
 * Horror
 * Books that depict toxic relationships as healthy/desirable (including bully romance)
-* Romance that falls under the following categories: non-consensual, dubious consent, bestiality, incest, or extreme violence
+* Romance that falls under the following categories: non-consensual, bestiality, incest, or extreme violence
 * Inspirational romance
 * nonfiction
 * Anything related to sexual abuse of children (including backstory or side characters)
-* Any main plots or side plots involving cancer. A small mention about background information (e.g. “My grandma died of cancer.”) is fine.
+* Any main plots or side plots involving cancer. A small mention about background information (e.g. “My grandma died of cancer.”) is fine. Similar diseases in fantasy settings are fine.
 
 ##### Q&A
 

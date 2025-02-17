@@ -5,9 +5,9 @@ website: 'https://www.natashahanova.com/'
 reddit:
     name: NatashaHanova
     url: 'https://www.reddit.com/user/NatashaHanova'
-twitter:
-    name: '@NatashaHanova'
-    url: 'https://twitter.com/NatashaHanova'
+bluesky:
+    name: '@natashahanova'
+    url: 'https://bsky.app/profile/natashahanova.bsky.social'
 instagram:
     name: '@NatashaHanova'
     url: 'https://www.instagram.com/natashahanova/'
@@ -24,7 +24,7 @@ mini: true
 
 ##### Bio
 
-Natasha Hanova, a freelance developmental editor and author, loves imaginative problem solving and discussing the writing craft. She is represented by Amy Giuffrida and writes Adult/YA contemporary fantasy, romance and SciFi. Natasha is a #RevPit board member and contributing editor. Her experiences as a biracial woman fuel her storytelling and her endeavors to lift and support other marginalized writers.
+Natasha Hanova, a freelance developmental editor, author, craft coach and RevPit Board member, loves imaginative problem solving and discussing the writing craft. She’s represented by Amy Giuffrida. Natasha specializes in romance, fantasy and SciFi. She applies decades of experience to help creatives hone their craft. Her love of crochet has shown her similarities between yarn art and writing: it takes dedication, determination, and resilience to get through to The End. Natasha believes it’s important for writers to come through the editing process with goals they can accomplish.
 
 **Pronouns: She/Her**
 
@@ -32,18 +32,17 @@ Natasha Hanova, a freelance developmental editor and author, loves imaginative p
 
 I love character-driven stories, great voice, and unexpected premises in Adult or Young Adult. I’m drawn in by creative worlds, unique premises, and characters facing impossible choices.
 
-**I want…**
- * I’d love to see more diverse fiction!
- * Romance, all subgenres (except historic), especially RomCom or Romantasy.
- * Paranormal, especially paranormal romance.
- * Urban fantasy, dark fantasy, and dystopian.
- * Horror – Monsters, witchcraft or comedic (ex. _Shaun of the Dead_, _Ready or Not_, or _What
-We Do In Shadows_).
+I want…
+* I’d love to see more diverse fiction!
+* Romance, all subgenres, especially RomCom.
+* Science fiction.
+* Urban fantasy, dark fantasy, and dystopian.
+* Horror – Monsters, witchcraft or comedic (ex. _Shaun of the Dead_, _Ready or Not_, or _What We Do In Shadows_).
 
-**I’m not the right editor for…**
- * Any kind of historic fiction.
- * Picture books, middle grade, or non-fiction.
- * Horror subgenres slasher, religious horror, gore/splatter, or psychological.
+I’m not the right editor for…
+* Historic fiction.
+* Picture books, middle grade, or non-fiction.
+* Horror subgenres slasher, religious horror, gore/splatter, or psychological.
 
 ##### Q&A
 
@@ -61,4 +60,4 @@ Writing is easy. Writing well is hard. I expect writers to be open to feedback a
  
 **What hobbies do you have outside of writing and editing?**
 
-I’m most likely exploring the woods with my family and dog or snuggled up with a book. I enjoy crocheting while bingeing a variety of shows from sitcoms to K-Dramas (feel free to DM recs) to action/sci-fi shows. I also love word games, card games and board games like Codenames, Forbidden Dessert or The Chameleon.
+I have entered my puzzle era. I love time with my family, exploring the outdoors with my dog or snuggling up with a book and my cat, whenever she deigns to join me. I also enjoy crocheting, word games, card games and board games like Codenames, Catan or The Chameleon (alliteration unintended).

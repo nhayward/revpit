@@ -5,7 +5,9 @@ feed:
 media_order: zoe-N4GN-4s9-rs-unsplash.jpg
 date: '10-06-2024 12:00'
 publish_date: '10-06-2024 12:00'
-robots: noindex
+metadata:
+    robots: 'noindex, nofollow'
+published: false
 ---
 
 #### by Wyatt Ong ([@wyattcaraway](https://x.com/wyattcaraway))
