@@ -13,6 +13,7 @@ podcast:
     url: 'https://worldbuilderstavern.com/'
 mini: true
 media_order: 'Allison_Alexander.jpg,Allison_Alexander_small.jpg'
+annual_contest_2025: true
 ---
 
 ##### Bio

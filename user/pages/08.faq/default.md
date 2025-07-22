@@ -44,7 +44,7 @@ Any additional edits will be up to the author's and editor's discretion and foll
 * Your submission materials are your own original work and have not been AI-generated. See our policy on the use of AI, which can be found below
 * The manuscript you are submitting has never been published before (this includes publishing on WattPad)
 * You are not represented by a literary agent
-* No non-fiction, poetry, chapter books, picture books, or projects under 25,000 words
+* No non-fiction, poetry, chapter books, short stories, picture books, or projects under 25,000 words
 * As a condition for entering the contest, each author consents to receive one (1) email from each editor they submitted to. Any additional contact, must be actively consented to or at the request of the author, consistent with GDPR and other legal guidelines
 * By entering this contest you retain all rights to your writing and we have no copyright interest or claims to your work
  
@@ -130,7 +130,7 @@ If you need a visual example of formatting for the Annual Contest, take a look a
  
 <div markdown="1">
  
-**A:** This [synopsis how-to post](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/mastering-dreaded-synopsis?target=_blank) by former RevPit editor Kaitlyn Johnson explains what should go into your synopsis. Editors might not provide feedback on your synopsis. They mainly need it to see the plot and character development in your manuscript.
+**A:** This [synopsis how-to post](https://www.writersdigest.com/publishing-insights/mastering-dreaded-synopsis?target=_blank) by former RevPit editor Kaitlyn Johnson explains what should go into your synopsis. Editors might not provide feedback on your synopsis. They mainly need it to see the plot and character development in your manuscript.
  
 </div>
  
@@ -166,11 +166,11 @@ If you need a visual example of formatting for the Annual Contest, take a look a
  
 </div>
  
-##### Q: What materials will the Tessera Editorial mentees have access to?
+##### Q: What materials will the mentees have access to?
  
 <div markdown="1">
  
-**A:** In 2020 and 2021, we paired with **Tessera Editorial** to bring mentees from that program on to \#RevPit to shadow our editors and gain experience with evaluating submissions and going through a slush pile. While we aren’t pairing with them for the 2024 Annual Contest, we plan on doing so again. We do continually pair with them for our 10Queries mini events. In their own words, "Tessera Editorial was founded on the idea that publishing can and should be an accessible industry to all people. Through myriad diverse voices in the profession, we hope to open the world of books to as many readers as possible." Learn more about them on the [Tessera Editorial website](https://www.tesseraeditorial.com?target=_blank)!
+**A:** In 2020 and 2021, we paired with Tessera Editorial to bring mentees from that program on to #RevPit to shadow our editors and gain experience with evaluating submissions and going through a slush pile. While we aren’t pairing with them currently, we continue to offer a small mentoring program focused on newer editors from diverse backgrounds to advance our goal that publishing be an accessible industry to all people. Mentees are subject to the same confidentiality provisions as our editors and must follow the RevPit Code of Conduct and shadow specific editors with access to their submissions to gain editing skills.
 
  
 </div>
@@ -446,7 +446,7 @@ Further Information: If you would like to keep updated on all #RevPit events, pl
 
 **\#RevPit Code of Conduct**
 
-This code of conduct applies to community members, First Readers, and editors, both online (including but not limited to email, Bluesky, Reddit, X/Twitter (including direct messages), #RevPit community Slack groups, and other social media, and in-person (if applicable).
+This code of conduct applies to community members, First Readers, and editors, both online (including but not limited to email, Bluesky, Reddit, X/Twitter (including direct messages), #RevPit community Slack groups, and other social media, and in-person (if applicable)).
 
 Authors submitting to the Annual Contest retain all rights to their work. Participating editors, First Readers, and mentees (if applicable) agree to maintain confidentiality with respect to all materials submitted and will not share it with others without the author’s consent. 
 

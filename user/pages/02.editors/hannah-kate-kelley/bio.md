@@ -11,12 +11,13 @@ bluesky:
 instagram:
     name: kelleyeditorial
     url: 'https://www.instagram.com/kelleyeditorial/'
+annual_contest_2025: true
 mini: true
 ---
 
 ##### Bio
 
-Hannah Kate Kelley is a developmental editor and Author Accelerator certified book coach living in New York City. She is a member of Women’s Media Group and the LGTBQ+ Editors Association, contributes regularly to writing resources such Jane Friedman’s blog and ProWritingAid, and worked for Red Hen Press, B\*tch Media, and Missouri Life Magazine. Outside of editing, Hannah is also the founder of Queer Soccer League and loves throwing themed game nights for her friends.
+Hannah Kate Kelley is a developmental editor and Author Accelerator certified book coach living in New York City. She is a member of Women’s Media Group and the LGTBQ+, contributes regularly to writing resources such Jane Friedman’s blog and ProWritingAid, and worked for Red Hen Press, B\*tch Media, and Missouri Life Magazine. Outside of editing, Hannah is also the founder of Queer Soccer League and loves throwing themed game nights for her friends.
 
 **Pronouns: She/Her**
 

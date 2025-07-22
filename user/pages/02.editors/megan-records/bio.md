@@ -11,6 +11,7 @@ bluesky:
 instagram:
     name: 'Megan Records Editorial'
     url: 'https://www.instagram.com/meganrecordseditorial/'
+annual_contest_2025: true
 annual_contest_2024: true
 annual_contest_2023: true
 annual_contest_2022: true

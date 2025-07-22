@@ -15,6 +15,7 @@ instagram:
 podcast:
     name: 'Story Chat Radio'
     url: 'https://www.storychatradio.com/'
+annual_contest_2025: true
 annual_contest_2024: true
 annual_contest_2023: true
 annual_contest_2022: true

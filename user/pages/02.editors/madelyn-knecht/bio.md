@@ -15,6 +15,7 @@ instagram:
 tiktok:
     name: '@madelynknecht'
     url: 'https://www.tiktok.com/@madelynknecht'
+annual_contest_2025: true
 annual_contest_2024: true
 mini: true
 ---

@@ -14,6 +14,7 @@ twitter:
 instagram:
     name: hannaneier
     url: 'https://www.instagram.com/hannaneier/'
+annual_contest_2025: true
 mini: true
 media_order: 'Hanna_R_Neier.JPG,Hanna_R_Neier_small.JPG'
 ---

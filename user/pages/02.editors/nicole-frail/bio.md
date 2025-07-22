@@ -18,6 +18,7 @@ threads:
 instagram:
     name: nicolefrailedits
     url: 'https://www.instagram.com/nicolefrailedits'
+annual_contest_2025: true
 annual_contest_2024: true
 mini: true
 ---
@@ -55,7 +56,7 @@ I appreciate being dropped right into some sort of action—not necessarily a fi
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-Email is my main form of communication. I usually hide away with the manuscripts I work on; I don't offer a lot of updates or check-ins. I like to for the author to hold all questions and comments until I've been able to read through it, think on it, and then deliver. Then we chat. :)
+Email is my main form of communication. I usually hide away with the manuscripts I work on; I don't offer a lot of updates or check-ins. I like for the author to hold all questions and comments until I've been able to read through it, think on it, and then deliver. Then we chat. :)
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 

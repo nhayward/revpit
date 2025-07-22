@@ -15,6 +15,7 @@ instagram:
     name: dcmdraper
     url: 'https://www.instagram.com/dcmdraper/'
 mini: true
+annual_contest_2025: true
 media_order: 'Dana_Draper.JPG,Dana_Draper_small.JPG'
 ---
 

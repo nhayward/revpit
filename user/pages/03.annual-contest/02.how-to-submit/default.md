@@ -3,7 +3,7 @@ title: 'How to Submit'
 media_order: 'RevPit_Synopsis_Formatting_Sample.docx,RevPit_Full_Manuscript_Formatting_Sample.docx,RevPitSubmitButton.jpg,RevPit_Query5Pages_Formatting_Sample.docx,RevPitSubmissionChecklist.pdf'
 ---
 
-The Revise & Resub (#RevPit) [Annual Contest](http://reviseresub.com/annual-contest) is open to completed, unpublished, fiction manuscripts ONLY. Non-fiction, poetry, chapter books, picture books, and projects under 25,000 words are not eligible. By entering, you have the chance to win 8 weeks of editing of your **full manuscript**. Your manuscript should be polished to the best of your abilities via self-editing, beta readers and/or critique partners before submission. Only **one** submission is allowed per entrant.
+The Revise & Resub (#RevPit) [Annual Contest](http://reviseresub.com/annual-contest) is open to completed, unpublished, fiction manuscripts ONLY. Non-fiction, poetry, chapter books, short stories, picture books, and projects under 25,000 words are not eligible. By entering, you have the chance to win 8 weeks of editing of your **full novel manuscript**. Your manuscript should be polished to the best of your abilities via self-editing, beta readers and/or critique partners before submission. Only **one** submission is allowed per entrant.
  
 **Once you have your submission materials ready to go, you’ll come here and click the link to our submission form.**
  
@@ -11,7 +11,7 @@ The link will become active on **March 13th, 2025 at 12:00pm EDT** and remain op
  
 If you need accommodations for the submission window due to disability, religion, or other special circumstances that create a significant barrier to submitting, please check the [FAQ page](https://reviseresub.com/faq) for more details.
  
-[![Submit Button](RevPitSubmitButton.jpg)](https://forms.gle/L3Amsq4rFPN7EgBZ9?target=_blank)
+[![Submit Button](RevPitSubmitButton.jpg)](https://forms.gle/A4GjmyAHJmPNYeJB6?target=_blank)
 
 Please make sure you use the correct email address when submitting. This is the only way editors will be able to contact you regarding your submission materials.
 

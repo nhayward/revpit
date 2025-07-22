@@ -20,6 +20,7 @@ instagram:
 youtube:
     name: 'Miranda Darrow'
     url: 'https://www.youtube.com/@mirandadarrow3994'
+annual_contest_2025: true
 annual_contest_2024: true
 annual_contest_2023: true
 annual_contest_2022: true

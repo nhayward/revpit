@@ -9,16 +9,16 @@ In this contest, authors are eligible to receive developmental edits on their **
  
 See our [Contest Schedule](http://reviseresub.com/annual-contest/schedule) for a breakdown of contest dates.
  
-_Note: Non-fiction, poetry, chapter books, picture books, and projects under 25,000 words are not eligible._
+_Note: Non-fiction, poetry, chapter books, picture books, short stories, and projects under 25,000 words are not eligible._
  
 #### How It Works
  
 ##### 1.  Meet The Editors 
 
-Writers must choose three editors. Editors will hold #MeetTheEditor chats on our [Subreddit](https://www.reddit.com/r/RevPit?target=_blank) to answer writers’ questions.
+Writers must choose three editors. Editors will hold #MeetTheEditor chats on [Bluesky](https://bsky.app/hashtag/RevPit?target=_blank) to answer writers’ questions.
  * [Click here to learn more about the editors](http://reviseresub.com/editors)
  * [Click here to view the editor MSWL spreadsheet](/annual-contest/editor-mswl-spreadsheet)
- * [Click here to see the subreddit chat schedules](https://reviseresub.com/annual-contest/schedule)
+ * [Click here to see the chat schedules](https://reviseresub.com/annual-contest/schedule)
  
 ##### 2. Submission Window
 

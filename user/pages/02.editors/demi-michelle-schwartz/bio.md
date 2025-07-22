@@ -11,12 +11,13 @@ twitter:
 instagram:
     name: '@demimschwartz'
     url: 'https://www.instagram.com/demimschwartz'
+annual_contest_2025: true
 mini: true
 ---
 
 ##### Bio
 
-Demi Michelle Schwartz is an author from Pittsburgh, represented by Michelle Jackson at LCS Literary. She primarily writes young adult fiction, focusing on the fantasy and thriller genres, though she loves to explore other genres and age categories in her short stories found in anthologies. In 2019, Demi graduated summa cum laude with BAs in Creative Writing and Music from Seton Hill University. With encouragement from her English professors, she went on to pursue her MFA in Writing Popular Fiction at Seton Hill and graduated with her degree in June of 2022. Along with being an author, Demi is the host of Literary Blend: A Publishing Podcast, a freelance fiction editor through her independently-run services, Amethyst Ink Editorial, an editor for Revise & Resub (#RevPit), a publicist for Wild Ink Publishing, and a literary agent intern at the Purcell Agency. When Demi isn’t working on her manuscripts and finding ways to further her involvement in the publishing industry, she is chasing her other dream as an award-winning songwriter and recording artist.
+Demi Michelle Schwartz is an author from Pittsburgh. She primarily writes young adult fiction, focusing on the fantasy and thriller genres, though she loves to explore other genres and age categories in her short stories found in anthologies. In 2019, Demi graduated summa cum laude with BAs in Creative Writing and Music from Seton Hill University. With encouragement from her English professors, she went on to pursue her MFA in Writing Popular Fiction at Seton Hill and graduated with her degree in June of 2022. Along with being an author, Demi is the host of Literary Blend: A Publishing Podcast, a freelance fiction editor through her independently-run services, Amethyst Ink Editorial, an editor for Revise & Resub (#RevPit), a publicist for Wild Ink Publishing, and a literary agent intern at the Purcell Agency. When Demi isn’t working on her manuscripts and finding ways to further her involvement in the publishing industry, she is chasing her other dream as an award-winning songwriter and recording artist.
 
 **Pronouns: She/Her**
 

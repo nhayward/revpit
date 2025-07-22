@@ -30,7 +30,7 @@ The #RevPit editors have created a Reedsy Learning course on practical tips for 
   <div class="plank-editor pure-u-1-2 pure-u-md-1-5 pure-u-lg-1-5">
 
     <a href="https://www.jenichappelleeditorial.com/" target="_blank">
-      <img src="/editors/jeni-chappelle/Jeni_Chappelle_small.jpg" alt="Jeni Chappelle">
+      <img src="/editors/jeni-chappelle/Jeni_Chappelle_small.png" alt="Jeni Chappelle">
     </a>
     
   </div>

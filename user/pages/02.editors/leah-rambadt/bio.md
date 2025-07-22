@@ -12,6 +12,7 @@ bluesky:
 twitter:
     name: '@LeahRambadt'
     url: 'https://twitter.com/LeahRambadt'
+annual_contest_2025: true
 annual_contest_2024: true
 mini: true
 ---

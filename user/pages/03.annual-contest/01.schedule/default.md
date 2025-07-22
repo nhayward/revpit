@@ -11,10 +11,20 @@ Learn more about the [Annual Contest here](http://reviseresub.com/annual-contest
 
  * **February 21st:** Editors announced
  * **March 3- March 7:** \#MeetTheEditor sessions
+ 
+ ![2025 Meet The Editor Schedule](2025MeetTheEditorSchedule.png "2025 Meet The Editor Schedule")
+ 
+<small>[Download an Excel spreadsheet version of the #MeetTheEditor schedule here](RevPitMeetTheEditorSessions2025.xlsx)</small>
+
  * **March 13- March 16th:** Submission window 
   * The submission window opens at **12pm EDT on March 13th and will remain open until 12pm EDT on March 16th**.
  * **March 16- March 24th:** First Reader Round
  * **March 17- March 25th:** \#AskEditor sessions
+ 
+ ![2025 Ask Editor Schedule](2025AskEditorSchedule.png "2025 Ask Editor Schedule")
+ 
+<small>[Download an Excel spreadsheet version of the #AskEditor schedule here](RevPitAskEditorSessions2025.xlsx)</small>
+
  * **March 26th- April 11th:** [#10Queries](https://reviseresub.com/mini-events) sessions 
   * Editors will post #10Queries throughout the two weeks. Watch your chosen editors’ posts on [Bluesky](https://bsky.app/hashtag/RevPit?target=_blank) using \#10Queries and \#RevPit.
  * **April 14th:** Editor picks announced! 

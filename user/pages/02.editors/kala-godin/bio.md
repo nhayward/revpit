@@ -14,6 +14,7 @@ instagram:
 threads:
     name: kala_g_writes
     url: 'https://www.threads.net/@kala_g_writes'
+annual_contest_2025: true
 mini: true
 media_order: 'Kala_Godin.jpg,Kala_Godin_small.jpg'
 ---

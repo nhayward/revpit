@@ -9,6 +9,7 @@ bluesky:
 instagram:
     name: 'Burgeon Design and Editorial'
     url: 'https://www.instagram.com/burgeondesignandeditorial/'
+annual_contest_2025: true
 annual_contest_2021: true
 annual_contest_2020: true
 mini: true

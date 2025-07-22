@@ -12,6 +12,7 @@ bluesky:
 instagram:
     name: raquel.editing
     url: 'https://www.instagram.com/raquel.editing'
+annual_contest_2025: true
 annual_contest_2024: true
 mini: true
 ---
@@ -28,20 +29,20 @@ When she’s not busy with a book, you can find her cooking, hiking, or playing 
 
 ##### MSWL
 
-I’m looking for engaging, sincere characters that drag me into their worlds! I’m super excited to work with **adult** or **young adult** stories in the following genres:
-* **Fantasy** — May I see some stories with dragons, please? How about a book with vampires, faeries, paladins, werewolves, or some witchcraft? I’m hoping to get lost in a fun portal fantasy, some intriguing grimdark, or your take on a classic sword and sorcery story! Swashbuckling, anyone? Or fantasy stories with suspicious religious institutions? If you’re working on a LitRPG, catapult it over! Please send me romantasy (all spice is totally fine). I love low fantasy and high fantasy equally, and would love to see a mashup with another genre. In keeping with what I said last year, I will not hold a grudge against a doorstopper—if a chonky book grabs me, it grabs me, and we’ll get that word count where it needs to be.
-* **Sci-Fi** —Let’s see some first contact books! I’d love some stories featuring non-earthlings as main characters. I am still searching for some droids. (If your story has a robot who falls in love, I need you to send it asap.) I’m also open to time travel. Send me a mashup sci-fi, a mystery on another planet, something on Earth in like, 3595. I would especially love to see some small-scale sci-fi. If you’re trying something new, it would be awesome to have some cozy or romantic elements mixed in. (Missed connection: cozy alien invasion?) And, last but certainly not least, my eternal request for steampunk!
-* **Horror** — Are you working on some medieval/historical horror? Horror with a side of romance? Send it to me! I want to see some possession horror, folk horror, religious horror, gothic horror, classic monster mashes, or classic horror remixes. (It sure would be a shame if that creepy old house you just moved into was haunted!) I neglected to mention cannibalism last year, so count me in if you’re doing something neat there. Communion with the dead, creeping through a cave, camping, dripping teeth, dark forests, recognizing the beast inside yourself. Send me your ghosts and cold hands and dread.
+I’m looking for sincere characters that drag me into their world and make me feel what they're going through! Whether your cast is charming, broody, curious, bitter, playful, villainous, or anything in between, I want personality that bleeds through the page. I’m super excited to work with **adult** or **young adult** stories in the following genres:
+* **Fantasy** — I’d love to see some non-Western fantasy, especially something on an epic scale, or with a new take on legendary creatures in a non-European world! Dragons, please? Do you have a new twist on a classic fantasy tale? How about a book with vampires, faeries, werewolves, or some witchcraft? (And I’m still looking for a paladin!) I love low fantasy and high fantasy equally, and would really enjoy a mashup with another genre. In keeping with what I said last year, I will not hold a grudge against a doorstopper—if a chonky book grabs me, it grabs me, and we’ll get that word count where it needs to be. I’m ready to adventure into a fun portal fantasy, an intriguing grimdark, or your take on a classic sword and sorcery. Swashbuckling, anyone? I would also be thrilled to see some romantasy! All spice levels are totally fine, for whatever genre you’re writing in. If you’re working on a LitRPG, please catapult it over. Send me dark fantasy stories with suspicious religious institutions! And—I’m going out on a limb here with this request—marionettes or homunculi.
+* **Sci-Fi** — I want to see some first contact books! I’d love some stories featuring non-earthlings as main characters. I am still searching for some droids. (If your story has a robot who falls in love, I need you to send it asap.) I’m also open to time travel. Send me a sci-fi noir, a mashup sci-fi, a mystery on another planet, something on a far-off future Earth. Utopian sci-fi! Dark military sci-fi! I would especially love to see a take on a small-scale tale, really character driven and moody. If you’re trying a genre blend, it would be awesome to have some cozy or romantic elements mixed in. (Missed connection: cozy alien invasion?) And, last but certainly not least, my eternal request for steampunk!
+* **Horror** — Are you working on some medieval/historical horror? Horror with a side of romance? Send it to me! I want to see some possession horror, folk horror, religious horror, gothic horror, classic monster mashes, or classic horror remixes. (It sure would be a shame if that creepy old house you just moved into was haunted!) I neglected to mention cannibalism last year, so count me in if you’re doing something neat there. Ritualistic communion with the dead (!!!!!), creeping through a cave, camping, dripping teeth, dark forests, recognizing the beast inside yourself. Send me your ghosts and cold hands and dread.
 
-I love epistolary novels, unreliable narrators, and genre mashups. As much as I love big, serious stories, I also have a ton of fun with highly unserious mashups and small slice-of-life stories too! I’m a big fan of expanded speculative cultures and speculative religious institutions. I think there's a little room for romance within any story, and while I’m not very trope-focused, I do appreciate the enemies-to-smooching pipeline. If there’s something not on this list, but you think I would dig it, go for it! And if you have any questions, please let me know!
+I love diverse speculative worlds, epistolary novels, unreliable narrators, and genre mashups. And as much as I’m a fan of big, serious stories, I also have a ton of fun with highly unserious mashups and small slice-of-life stories too! I really enjoy expanded speculative cultures and speculative religious institutions. I think there's a little room for romance within any story, and while I’m not very trope-focused, I appreciate the enemies-to-smooching pipeline across all genres. If there’s something not on this list, but you think I would dig it, send it! And if you have any questions, please let me know!
 
 **I am pickier about…**
 * Heists
 * Splatterpunk/Body horror (let’s see some scares but not just horror for shock value)
 * Contemporary zombie novels
+* Novels with slavery as a main theme
 * Books that are not intended as a standalone (LitRPG authors can ignore this one)
 * Fantasy stories where a group teams up to go kill a god (I really want to see some strong character/worldbuilding for something headed in this direction)
-* Stories with main characters who are siblings
 * Contemporary Fantasy
 * Magical schools and/or summer camps
 * Retellings (e.g., fairy tale or mythology remixes) 
@@ -50,7 +51,7 @@ I love epistolary novels, unreliable narrators, and genre mashups. As much as I 
 **I’m not planning to take on…**
 * Contemporary Romance
 * Contemporary Thrillers/Suspense
-* Stories with 3+ main character POVs (Unless I absolutely fall in love with it—which is entirely possible—I am trying to stick to under 2 POVs this year!)
+* Stories with 3 or more main character POVs (If you’re open to condensing storylines/POVs, we can work on that! But unless I absolutely fall in love with a huge multi-POV story—which is totally possible—I am hoping to stick to under 2 POVs this year!)
 * Stories where a terminal illness is a major plot point
 
 ##### Q&A
