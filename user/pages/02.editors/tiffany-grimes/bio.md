@@ -9,13 +9,13 @@ bluesky:
 instagram:
     name: 'Burgeon Design and Editorial'
     url: 'https://www.instagram.com/burgeondesignandeditorial/'
-annual_contest_2025: true
-annual_contest_2021: true
-annual_contest_2020: true
-mini: true
 published: true
 taxonomy:
-    tag: annual_contest_2025
+    tag:
+        - annual_contest_2025
+        - annual_contest_2021
+        - annual_contest_2020
+        - mini
 ---
 
 ##### Bio

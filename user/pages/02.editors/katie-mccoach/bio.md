@@ -14,12 +14,14 @@ instagram:
 tiktok:
     name: '@coachmccoach'
     url: 'https://www.tiktok.com/@coachmccoach'
-annual_contest_2023: true
-annual_contest_2021: true
-annual_contest_2020: true
-annual_contest_2019: true
-mini: true
 published: false
+taxonomy:
+    tag:
+        - annual_contest_2023
+        - annual_contest_2021
+        - annual_contest_2020
+        - annual_contest_2019
+        - mini
 ---
 
 ##### Bio

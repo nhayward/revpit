@@ -5,8 +5,10 @@ website: 'https://editoradahbeatrice.wixsite.com/adahbeatrice'
 twitter:
     name: '@theadahbeatrice'
     url: 'https://twitter.com/theadahbeatrice'
-annual_contest_2021: true
-mini: true
+taxonomy:
+    tag:
+        - annual_contest_2021
+        - mini
 ---
 
 ##### Bio

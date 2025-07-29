@@ -8,8 +8,10 @@ twitter:
 instagram:
     name: 'Writers Untapped'
     url: 'https://www.instagram.com/writersuntapped/'
-annual_contest_2019: true
-mini: true
+taxonomy:
+    tag:
+        - annual_contest_2019
+        - mini
 ---
 
 ##### Bio

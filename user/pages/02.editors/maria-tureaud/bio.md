@@ -14,13 +14,15 @@ instagram:
 tiktok:
     name: '@Maria_Tureaud'
     url: 'https://www.tiktok.com/@maria_tureaud'
-annual_contest_2024: true
-annual_contest_2023: true
-annual_contest_2022: true
-annual_contest_2021: true
-annual_contest_2020: true
-annual_contest_2019: true
-mini: true
+taxonomy:
+    tag:
+        - annual_contest_2024
+        - annual_contest_2023
+        - annual_contest_2022
+        - annual_contest_2021
+        - annual_contest_2020
+        - annual_contest_2019
+        - mini
 ---
 
 ##### Bio

@@ -6,6 +6,9 @@ website: 'https://stephanieeding.wordpress.com/'
 twitter:
     name: '@saeding'
     url: 'https://twitter.com/saeding'
+taxonomy:
+    tag:
+        - mini
 ---
 
 ##### Bio

@@ -9,11 +9,13 @@ twitter:
 instagram:
     name: 'Editor Rascon'
     url: 'https://www.instagram.com/editorrascon/'
-annual_contest_2023: true
-annual_contest_2021: true
-annual_contest_2020: true
-annual_contest_2019: true
-mini: true
+taxonomy:
+    tag:
+        - annual_contest_2023
+        - annual_contest_2021
+        - annual_contest_2020
+        - annual_contest_2019
+        - mini
 ---
 
 ##### Bio

@@ -8,12 +8,14 @@ twitter:
 instagram:
     name: 'Hannah Vanvels'
     url: 'https://www.instagram.com/hannahvanvels'
-annual_contest_2023: true
-annual_contest_2022: true
-annual_contest_2021: true
-annual_contest_2020: true
-mini: true
 media_order: 'Hannah_VanVels.jpg,Hannah_VanVels_small.jpg'
+taxonomy:
+    tag:
+        - annual_contest_2023
+        - annual_contest_2022
+        - annual_contest_2021
+        - annual_contest_2020
+        - mini
 ---
 
 ##### Bio

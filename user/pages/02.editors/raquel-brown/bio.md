@@ -12,11 +12,11 @@ bluesky:
 instagram:
     name: raquel.editing
     url: 'https://www.instagram.com/raquel.editing'
-annual_contest_2025: true
-annual_contest_2024: true
-mini: true
 taxonomy:
-    tag: annual_contest_2025
+    tag:
+        - annual_contest_2025
+        - annual_contest_2024
+        - mini
 ---
 
 ##### Bio

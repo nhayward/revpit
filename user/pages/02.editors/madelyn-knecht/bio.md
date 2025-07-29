@@ -15,11 +15,11 @@ instagram:
 tiktok:
     name: '@madelynknecht'
     url: 'https://www.tiktok.com/@madelynknecht'
-annual_contest_2025: true
-annual_contest_2024: true
-mini: true
 taxonomy:
-    tag: annual_contest_2025
+    tag:
+        - annual_contest_2025
+        - annual_contest_2024
+        - mini
 ---
 
 ##### Bio

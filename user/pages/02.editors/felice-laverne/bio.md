@@ -9,10 +9,12 @@ twitter:
 instagram:
     name: '@TheFeliceLaverne'
     url: 'https://instagram.com/thefelicelaverne'
-annual_contest_2022: true
-annual_contest_2021: true
-mini: true
 published: false
+taxonomy:
+    tag:
+        - annual_contest_2022
+        - annual_contest_2021
+        - mini
 ---
 
 ##### Bio

@@ -6,13 +6,15 @@ website: 'https://kyramnelson.com/'
 twitter:
     name: '@KyraMNelson'
     url: 'https://twitter.com/KyraMNelson'
-annual_contest_2023: true
-annual_contest_2022: true
-annual_contest_2021: true
-annual_contest_2020: true
-annual_contest_2019: true
-mini: true
 published: false
+taxonomy:
+    tag:
+        - annual_contest_2023
+        - annual_contest_2022
+        - annual_contest_2021
+        - annual_contest_2020
+        - annual_contest_2019
+        - mini
 ---
 
 ##### Bio

@@ -14,15 +14,15 @@ instagram:
 threads:
     name: '@NatashaHanova'
     url: 'https://www.threads.net/@natashahanova'
-annual_contest_2025: true
-annual_contest_2024: true
-annual_contest_2023: true
-annual_contest_2022: true
-annual_contest_2021: true
-annual_contest_2020: true
-mini: true
 taxonomy:
-    tag: annual_contest_2025
+    tag:
+        - annual_contest_2025
+        - annual_contest_2024
+        - annual_contest_2023
+        - annual_contest_2022
+        - annual_contest_2021
+        - annual_contest_2020
+        - mini
 ---
 
 ##### Bio

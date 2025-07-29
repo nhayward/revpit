@@ -8,12 +8,14 @@ twitter:
 instagram:
     name: 'Bethany Hensel'
     url: 'https://www.instagram.com/bethanyhensel13'
-annual_contest_2023: true
-annual_contest_2022: true
-annual_contest_2021: true
-annual_contest_2020: true
-mini: true
 media_order: 'Bethany_Hensel.jpg,Bethany_Hensel_small.jpg'
+taxonomy:
+    tag:
+        - annual_contest_2023
+        - annual_contest_2022
+        - annual_contest_2021
+        - annual_contest_2020
+        - mini
 ---
 
 ##### Bio

@@ -12,7 +12,9 @@ twitter:
 instagram:
     name: 'Meg LaTorre'
     url: 'https://www.instagram.com/meg_latorre/'
-mini: true
+taxonomy:
+    tag:
+        - mini
 ---
 
 ##### Bio

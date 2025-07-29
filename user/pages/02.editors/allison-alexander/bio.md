@@ -11,11 +11,11 @@ reddit:
 podcast:
     name: 'Worldbuilder''s Tavern'
     url: 'https://worldbuilderstavern.com/'
-mini: true
 media_order: 'Allison_Alexander.jpg,Allison_Alexander_small.jpg'
-annual_contest_2025: true
 taxonomy:
-    tag: annual_contest_2025
+    tag:
+        - annual_contest_2025
+        - mini
 ---
 
 ##### Bio

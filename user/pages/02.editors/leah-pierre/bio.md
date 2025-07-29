@@ -5,11 +5,13 @@ website: 'http://leahpierre.com'
 twitter:
     name: '@leahbene'
     url: 'https://twitter.com/leahbene'
-annual_contest_2023: true
-annual_contest_2022: true
-annual_contest_2021: true
-mini: true
 media_order: 'Leah_Bene.jpg,Leah_Bene_small.jpg'
+taxonomy:
+    tag:
+        - annual_contest_2023
+        - annual_contest_2022
+        - annual_contest_2021
+        - mini
 ---
 
 ##### Bio

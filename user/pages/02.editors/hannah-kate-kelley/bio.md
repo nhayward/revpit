@@ -11,10 +11,10 @@ bluesky:
 instagram:
     name: kelleyeditorial
     url: 'https://www.instagram.com/kelleyeditorial/'
-annual_contest_2025: true
-mini: true
 taxonomy:
-    tag: annual_contest_2025
+    tag:
+        - annual_contest_2025
+        - mini
 ---
 
 ##### Bio
