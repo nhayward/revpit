@@ -18,6 +18,8 @@ annual_contest_2025: true
 annual_contest_2024: true
 annual_contest_2023: true
 mini: true
+taxonomy:
+    tag: annual_contest_2025
 ---
 
 ##### Bio

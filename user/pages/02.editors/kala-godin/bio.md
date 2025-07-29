@@ -17,6 +17,8 @@ threads:
 annual_contest_2025: true
 mini: true
 media_order: 'Kala_Godin.jpg,Kala_Godin_small.jpg'
+taxonomy:
+    tag: annual_contest_2025
 ---
 
 ##### Bio

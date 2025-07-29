@@ -31,7 +31,7 @@
                             {% for child in collection %}
                                 {% if attribute(child.header, tab.filter) %}
                                     <div class="editor pure-u-1 pure-u-md-1-3">
-                                        <a href="{{ child.url }}">
+                                        <a href="{{ child.url }}/tag:{{ tab.filter }}">
                                             {{ child.media.images|last }}
                                             <h4>{{ child.header.title }}</h4>
                                         </a>

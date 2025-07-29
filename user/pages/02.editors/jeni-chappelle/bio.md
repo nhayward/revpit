@@ -25,6 +25,8 @@ annual_contest_2021: true
 annual_contest_2020: true
 annual_contest_2019: true
 mini: true
+taxonomy:
+    tag: annual_contest_2025
 ---
 
 ##### Bio

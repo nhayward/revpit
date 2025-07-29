@@ -28,6 +28,8 @@ annual_contest_2021: true
 annual_contest_2020: true
 mini: true
 media_order: 'Miranda_Darrow.jpg,Miranda_Darrow_small.jpg'
+taxonomy:
+    tag: annual_contest_2025
 ---
 
 ##### Bio

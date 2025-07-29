@@ -14,6 +14,8 @@ podcast:
 mini: true
 media_order: 'Allison_Alexander.jpg,Allison_Alexander_small.jpg'
 annual_contest_2025: true
+taxonomy:
+    tag: annual_contest_2025
 ---
 
 ##### Bio

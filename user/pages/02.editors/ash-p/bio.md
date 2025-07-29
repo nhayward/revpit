@@ -19,6 +19,8 @@ facebook:
     url: 'https://www.facebook.com/AshPReads'
 annual_contest_2025: true
 mini: true
+taxonomy:
+    tag: annual_contest_2025
 ---
 
 ##### Bio

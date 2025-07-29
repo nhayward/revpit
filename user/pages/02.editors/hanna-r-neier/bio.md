@@ -17,6 +17,8 @@ instagram:
 annual_contest_2025: true
 mini: true
 media_order: 'Hanna_R_Neier.JPG,Hanna_R_Neier_small.JPG'
+taxonomy:
+    tag: annual_contest_2025
 ---
 
 ##### Bio

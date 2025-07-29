@@ -13,6 +13,8 @@ instagram:
     url: 'https://www.instagram.com/demimschwartz'
 annual_contest_2025: true
 mini: true
+taxonomy:
+    tag: annual_contest_2025
 ---
 
 ##### Bio
