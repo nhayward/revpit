@@ -1089,6 +1089,15 @@ body#top #sb-site #body .ui-accordion .ui-state-active {
 body#top #sb-site #body .ui-accordion .ui-widget-content a {
   color: #1BB3E9;
 }
+body#top #sb-site #body .ui-accordion .ui-widget-content a:hover {
+  filter: brightness(0.8);
+}
+body#top #sb-site #body .ui-tabs .ui-widget-content a {
+  color: #1BB3E9;
+}
+body#top #sb-site #body .ui-tabs .ui-widget-content a:hover {
+  filter: brightness(0.8);
+}
 body#top #sb-site #body .box-row .box .box-content {
   background-color: rgba(27, 179, 233, 0.1);
   margin-bottom: 2rem;

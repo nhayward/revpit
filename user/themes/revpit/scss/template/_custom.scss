@@ -78,8 +78,16 @@ body#top #sb-site {
                 background-color: rgb(27, 179, 233);
             }
 
+        }
+        
+        .ui-accordion, .ui-tabs {
+
             .ui-widget-content a {
                 color: $core-accent;
+
+                &:hover {
+                    color: darken($core-accent, 20%);
+                }
             }
 
         }
