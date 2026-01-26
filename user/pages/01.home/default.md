@@ -3,13 +3,15 @@ title: Home
 media_order: 'RevPit_Header.png,RevPitSubstackJoin.png'
 sidebar:
     enabled: true
+sitemap:
+    lastmod: '16-01-2026 15:21'
 ---
 
 ### Welcome to Revise & Resub!
 
 **Revise & Resub (#RevPit)** is a writing community co-founded in 2017 by a group of editors. It supports authors by offering editing-focused chats and mini-events throughout the year as well as an annual contest wherein querying authors can win feedback and edits on their **full manuscripts** from professional editors, ensuring their works are polished and ready for agent inboxes.
 
-The 2025 Annual Contest Begins **March 13th**! See the [Annual Contest page](http://reviseresub.com/annual-contest) for more details. Visit our [Mini-Events page](http://reviseresub.com/mini-events) for updates on chats, mini-contests, and more!
+The 2026 Annual Contest Begins **March 12th**! See the [Annual Contest page](http://reviseresub.com/annual-contest) for more details. Visit our [Mini-Events page](http://reviseresub.com/mini-events) for updates on chats, mini-contests, and more!
 
 The #RevPit editors have created a Reedsy Learning course on practical tips for revising your novel. Learn more and sign up [here](https://blog.reedsy.com/learning/courses/writing/novel-revision-practical-tips-rewrites?target=_blank).
 

@@ -1,5 +1,7 @@
 ---
 title: 'First Readers'
+sitemap:
+    lastmod: '22-10-2025 12:45'
 ---
 
 ## Welcome Potential First Readers!
@@ -43,11 +45,11 @@ Our ideal candidates have experience with one or more of the following:
 
 #### What is the timeframe?
 
-* **November 1st:** Application deadline
-* **November 8th:** Sample test deadline
-* **December 18:** applicants will be notified of participation in the program
+* **November 3rd:** Application deadline
+* **November 10th:** Sample test deadline
+* **December 15th:** applicants will be notified of participation in the program
 * **January/February:** First Reader Training (exact dates TBD)
-* **March 16th - March 24th (subject to change):** First Readers review submissions
+* **March 15th - March 23rd (subject to change):** First Readers review submissions
 * **Summer:** Workshops offered by the editors (exact dates TBD)
 
 #### If this sounds like you, and you’d like to join the #RevPit First Readers Program, then fill out the [First Reader Application here](https://forms.gle/NgRWf6gfLYSojbV19?target=_blank)! We look forward to hearing from you.

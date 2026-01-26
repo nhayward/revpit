@@ -1,6 +1,8 @@
 ---
 title: FAQ
 media_order: 'RevPit_Synopsis_Formatting_Sample.docx,RevPit_Full_Manuscript_Formatting_Sample.docx,RevPit_Query5Pages_Formatting_Sample.docx'
+sitemap:
+    lastmod: '12-01-2026 16:22'
 ---
 
 ## Annual Contest
@@ -31,7 +33,16 @@ Any additional edits will be up to the author's and editor's discretion and foll
  
 <div markdown="1">
  
-**A:** Yes! If you've won another contest or one of our mini events, you are eligible to submit to our Annual Contest. However, past Annual Contest Grand Prize winners cannot enter again for two years after they've won, and it cannot be with the same manuscript.
+**A:** Yes! If you've won another contest, one of our mini events, or you were a runner-up for our Annual contest, you are eligible to submit to our Annual Contest. However, past Annual Contest Grand Prize winners cannot enter again.
+ 
+</div>
+
+##### Q: If plan to self-publish this manuscript, can I enter?
+ 
+<div markdown="1">
+ 
+**A:** No. Many of our editors do work with indie authors, but for this contest we are focused on querying authors. If you've self-published in the past but intend to query this manuscript with agents, you are more than welcome to submit. 
+
  
 </div>
  
@@ -63,6 +74,14 @@ Any additional edits will be up to the author's and editor's discretion and foll
 <div markdown="1">
  
 **A:** Yes, you can still enter manuscripts that have fulls out with agents. Be sure to note that under Manuscript History on the submission form. If they are chosen for the contest, they'll just need to let the agents know they're revising and will send the manuscripts as soon as they're done.
+ 
+</div>
+
+##### Q: Can I make changes to my manuscript after I submit to the contest?
+ 
+<div markdown="1">
+ 
+**A:** The manuscript you submit will be the one edited. Any changes made after submission will not be included in your edit with your editor. We know everyone can be inspired to make changes, make notes on what those changes are, but don’t make changes yet!
  
 </div>
  
@@ -158,20 +177,20 @@ If you need a visual example of formatting for the Annual Contest, take a look a
  
 </div>
 
+##### Q: Why do I need to share an active internet presence?
+ 
+<div markdown="1">
+ 
+**A:** It is important to have public facing accounts for promoting your books and our editors want to make sure they will be a good fit. In publishing it is important to have an online presence and we want to get to know you! We ask for a place where our editors can learn more about you to make sure you’re a good fit. Where do you engage with the writer/bookish community(i.e. SM profiles, substack, website, blog, etc.)?
+
+
+</div>
+
 ##### Q: If an editor wants to see additional materials, what will they request?
  
 <div markdown="1">
  
 **A:** The editors will not request additional materials. Authors will not hear from the editors until winner announcements have been made.
- 
-</div>
- 
-##### Q: What materials will the mentees have access to?
- 
-<div markdown="1">
- 
-**A:** In 2020 and 2021, we paired with Tessera Editorial to bring mentees from that program on to #RevPit to shadow our editors and gain experience with evaluating submissions and going through a slush pile. While we aren’t pairing with them currently, we continue to offer a small mentoring program focused on newer editors from diverse backgrounds to advance our goal that publishing be an accessible industry to all people. Mentees are subject to the same confidentiality provisions as our editors and must follow the RevPit Code of Conduct and shadow specific editors with access to their submissions to gain editing skills.
-
  
 </div>
  
@@ -313,6 +332,28 @@ Having previously engaged with an editor on social media, in other events, or on
 </div>
  
 </div>
+
+#### **BIPOC Editor Mentorship Program**
+ 
+<div class="faq-accordion" markdown="1">
+
+##### Q: What materials will the mentees have access to?
+ 
+<div markdown="1">
+ 
+**A:** We currently have a BIPOC editor mentorship program where the mentees will shadow our editors and gain experience with evaluating submissions and going through a slush pile. The mentees will have access to the submission materials. Mentees are subject to the same confidentiality provisions as our editors and must follow the RevPit Code of Conduct and shadow specific editors with access to their submissions to gain editing skills.
+
+ </div>
+ 
+##### Q: How do I become a mentee for the BIPOC editor mentorship?
+ 
+<div markdown="1">
+ 
+**A:** If you are a BIPOC editor or are breaking in to editing, check out our [BIPOC Editor Mentorship page](/bipoc-editor-mentorship) to learn more details and sign up! 
+
+ </div>
+ 
+ </div>
  
 #### **Accessibility and Accommodations**
  
@@ -322,9 +363,9 @@ Having previously engaged with an editor on social media, in other events, or on
  
 <div markdown="1">
  
-**A:** We want the submission process to be as accessible as possible. We are happy to make accommodations due to disability, religion, or other special circumstances that create a significant barrier to submitting.
- 
-We want RevPit to remain a safe space. No author will be discriminated against due to a need for accommodations. Please email us at reviseresub@gmail.com to discuss your needs.
+**A:** We want the submission process to be as accessible as possible. We want RevPit to remain a safe space. No author will be discriminated against due to a need for accommodations. 
+
+Please email us at reviseresub@gmail.com to discuss your needs.
  
 </div>
  
@@ -458,9 +499,9 @@ Be mindful of the words that you choose. Exclusionary jokes can be offensive to 
  
 Anyone asked to stop any offending behavior are expected to comply immediately. It is not the duty of a member of a protected class to explain why the conduct in question is offensive. Take the time to self-educate from the many resources available: [We've gathered some DEI resources here](https://docs.google.com/document/d/1INKf0bjBOzuWKgJlJYpRhxOoxpa9BO_WEPC1wnhietQ/edit?usp=sharing?target=_blank).
  
-Anyone violating these rules may be removed from community spaces (Slack channels, RevPit SubReddit, Bluesky Chats, etc.) and may be ineligible to participate in the Annual Contest or Mini-Events.
+Anyone violating these rules may be removed from community spaces (Slack channels, Bluesky Chats, etc.) and may be ineligible to participate in the Annual Contest or Mini-Events.
  
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the #RevPit board via email at reviseresub@gmail.com, the @ReviseResub Reddit or Bluesky account, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the #RevPit board via email at reviseresub@gmail.com or Bluesky account, or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
 
 
 </div>
@@ -479,7 +520,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 **If you’re being harassed:**
 
-Please contact the #RevPit board via email at reviseresub@gmail.com, message the mods on the subreddit (if taking place on out subreddit), or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
+Please contact the #RevPit board via email at reviseresub@gmail.com or message one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
 
 We want to see all writers succeed and will continue to strive to provide a space where writers can grow together. 
 
@@ -497,7 +538,7 @@ Any issues that are brought to our attention will be addressed by promptly reach
 
 We are constantly improving our processes in order to create an inclusive, supportive, and dedicated community for all involved. 
 
-**To file a complaint or voice a concern:** please contact the #RevPit board via email at reviseresub@gmail.com, message the mods on the subreddit (if taking place on the subreddit), or one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
+**To file a complaint or voice a concern:** please contact the #RevPit board via email at reviseresub@gmail.com, message one of the #RevPit board members directly (the list of board members is available at [reviseresub.com](/home)\). You may also report concerns anonymously through our [confidential reporting form available here](https://forms.gle/z3T8uGhmRicfP7nA6?target=_blank). If you believe your safety is threatened, please contact your local authorities immediately.
 
 
 </div>

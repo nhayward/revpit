@@ -1,5 +1,8 @@
 ---
 title: '2025 Specials'
+published: false
+sitemap:
+    lastmod: '12-01-2026 15:56'
 ---
 
 # RevPit Specials

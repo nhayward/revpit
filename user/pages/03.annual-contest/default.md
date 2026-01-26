@@ -1,9 +1,11 @@
 ---
 title: 'Annual Contest'
 media_order: 'RevPit 2022 Annual Contest - Full Details.pdf,RevPit 2022 Annual Contest - Full Details.docx'
+sitemap:
+    lastmod: '12-01-2026 15:08'
 ---
 
-### The #RevPit 2025 Annual Contest Begins March 13th!
+### The #RevPit 2026 Annual Contest Begins March 12th!
 
 In this contest, authors are eligible to receive developmental edits on their **full fiction manuscript** from professional editors, ensuring their works are polished and ready for agents. Authors will be immersed in a supportive community of their peers and have the chance to learn more about how their story fits into the industry and why different edits matter and how to continue practicing them in the future.
  

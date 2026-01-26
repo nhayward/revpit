@@ -16,10 +16,13 @@ instagram:
     url: 'https://www.instagram.com/carolinereadsstories/'
 taxonomy:
     tag:
-        - annual_contest_2025
-        - annual_contest_2024
-        - annual_contest_2023
         - mini
+        - annual_contest_2025
+        - annual_contest_2023
+        - annual_contest_2024
+published: false
+sitemap:
+    lastmod: '15-01-2026 14:10'
 ---
 
 ##### Bio
