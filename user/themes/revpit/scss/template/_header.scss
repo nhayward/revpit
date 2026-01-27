@@ -107,8 +107,7 @@ $dropdown-color: #f6f6f6;
             list-style: none;
 
             &.navigation {
-                display: inline-block;
-                float: right;
+                display: none;
                 @extend .default-animation;
 
                 margin-top: 1.4rem;
@@ -214,22 +213,16 @@ $dropdown-color: #f6f6f6;
                     }
 
                 }
-                @include breakpoint(desktop-only) {
-                    display: none;
-                }
             }   
         }
 
         .panel-activation {
             @extend %vertical-align;
             padding: 1rem;
-            display: none;
+            display: inline-block;
             font-size: 1.8rem;
             cursor: pointer;
             float: right;
-            @include breakpoint(desktop-only) {
-                display: inline-block;
-            }
         }
 
     }
