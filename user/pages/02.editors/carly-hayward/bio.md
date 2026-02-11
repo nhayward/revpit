@@ -40,20 +40,22 @@ Editing combines her love of reading, giving advice, and logic puzzles. When not
 I love to read most things, but I’m trying to narrow down my wish list (please don’t tempt me, I will feel left out). This year I am _only_ taking Adult. I’m accepting most romance subgenres, including historical, paranormal, and fantasy, but not contemporary. I’d also love to see fantasy (mainly, cozy, dark and gritty, gothic/historical, romantasy, or fantasy/sci-fi genre mash-ups), gothic horror, and character-driven speculative/sci-fi.
 
 Let’s break it down. I’m accepting:
-* **Adult:** romance (paranormal, historical, fantasy), sci-fi, fantasy (either dark and gritty, cozy, or romantic)
+* **Adult:** romance (paranormal, historical, fantasy), sci-fi, fantasy (either dark and gritty, cozy, or romantasy)
 
 **No:** nonfiction, contemporary (with the above exceptions), non-gothic horror, mystery/thriller, YA, or MG.
 
 Some elements that will make me flip:
 
-* Complex non-romantic relationships (friendships, found families, siblings)
 * Very character-driven plots
-* Cozy fantasy or sci-fi ala _Legends and Lattes_, _Can't Spell Treason without Tea_, or _Tenfold Tenants_
+* Cozy fantasy or sci-fi ala _Damsels and Dinosaurs_, _Can't Spell Treason without Tea_, or _Tenfold Tenants_
+* Fantasy romance that is cozy, cute, or humorous (think _Swordheart_/The Saint of Steel series by T Kingfisher,  A.K. Caggiano, or _Assistant to the Villain_) 
+* Steamy romances and romantasies
 * Spooky or gothic vibes in a fantasy setting (think _The Bone Houses_, _Six of Crows_, or _Mexican Gothic_)
 * Underrepresented (in publishing) mythologies
 * Morally grey POV characters/villain POVs (think anything V.E. Schwab)
 * Bantering dialogue
-* Steamy romances with compelling love interests and main characters (nothing is more boring than a perfect love interest or a self-insert/blank slate in a romance)
+* Complex non-romantic relationships (friendships, found families, siblings)
+* Romances with compelling love interests and main characters (nothing is more boring to me than a perfect love interest or a self-insert/blank slate in a romance)
 * Retellings that are unique or I haven’t seen before (think representation from a marginalized group or something completely out-there)
 * Fantasy inspired by non-European cultures (think _Blood Like Magic_ or _A Magic Steeped in Poison_) 
 * Diverse characters (including but not limited to LGBTQA+, BIPOC, and especially disabled characters)
@@ -91,4 +93,4 @@ I expect you to be excited to get to work and to check your email more than spor
 
 **What hobbies do you have outside of writing and editing?**
 
-First of all, I don’t write. Please don’t hate me. I read. I read a heck of a lot. Constantly. Am I making that clear enough? Besides that, I like to do embroidery (it's my new obsession), draw (with charcoals), cuddle with my husband/cats (depending on which is being the cuddliest at the moment), watch a lot of TV, play a lot of video games (so much _Baldur's Gate 3_,_Hades_, _Horizon Zero Dawn_/_Forbidden West_, _Hitman_, _Transistor_, _Metaphor: ReFantazio_, etc) and drink lots of caffeine (in coffee and tea form. Hot and iced. Flavored and not. Basically, every form).
+First of all, I don’t write. Please don’t hate me. I read. I read a heck of a lot. Constantly. Am I making that clear enough? Besides that, I like to do embroidery (it's my new obsession), draw (with charcoals), cuddle with my husband/cats (depending on which is being the cuddliest at the moment), watch a lot of TV, play a lot of video games (so much _Baldur's Gate 3_,_Hades_, _Horizon Zero Dawn_/_Forbidden West_, _Hitman_, _Transistor_, _Metaphor: ReFantazio_, etc). play a lot of TTRPGs, and drink lots of caffeine (in coffee and tea form. Hot and iced. Flavored and not. Basically, every form).

@@ -2,9 +2,6 @@
 title: 'Natasha Hanova'
 last_name: Hanova
 website: 'https://www.natashahanova.com/'
-reddit:
-    name: NatashaHanova
-    url: 'https://www.reddit.com/user/NatashaHanova'
 bluesky:
     name: '@natashahanova'
     url: 'https://bsky.app/profile/natashahanova.bsky.social'

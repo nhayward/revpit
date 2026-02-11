@@ -2,19 +2,13 @@
 title: 'Nicole Frail'
 media_order: 'Nicole_Frail.jpg,Nicole_Frail_small.jpg'
 last_name: Frail
-website: 'http://nicolefrail.com'
-reddit:
-    name: nicolefrailedits
-    url: 'https://www.reddit.com/user/nicolefrailedits'
+website: 'http://www.nicolefrailedits.com'
 bluesky:
     name: '@nicolefrailedits'
     url: 'https://bsky.app/profile/nicolefrailedits.bsky.social'
 facebook:
     name: nicolefrailedits
     url: www.facebook.com/nicolefrailedits
-threads:
-    name: '@nicolefrailedits'
-    url: 'https://www.threads.net/@nicolefrailedits'
 instagram:
     name: nicolefrailedits
     url: 'https://www.instagram.com/nicolefrailedits'
@@ -27,7 +21,7 @@ taxonomy:
 
 ##### Bio
 
-Nicole Frail has more than fifteen years of professional publishing experience, with twelve of those spent with a trade publisher based in New York City. She is now the owner of Nicole Frail Edits, LLC, an editing agency that performs various levels of editing for private clients ranging from imprints of big-five publishers to indie authors. She also launched Nicole Frail Books, LLC in late 2024, which is a (super) small independent press that blends the values of traditional and indie publishing and is dedicated to bringing as many new voices to press as possible through projects such as anthologies and short story ebooks. She currently lives outside of Scranton, Pennsylvania, with her husband and three little boys.
+Nicole Frail has more than sixteen years of professional publishing experience, with twelve of those spent with a trade publisher based in New York City. She is now the owner of Nicole Frail Edits, LLC, an editing agency that performs various levels of editing for private clients ranging from imprints of big-five publishers to indie authors. She also launched Nicole Frail Books, LLC in late 2024, which is a (super) small independent press that blends the values of traditional and indie publishing and is dedicated to bringing as many new voices to press as possible through projects such as anthologies and short story ebooks. She currently lives outside of Scranton, Pennsylvania, with her husband and three little boys.
 
 **Pronouns: She/Her**
 
@@ -66,4 +60,4 @@ For developmental/content edits, I don't touch the document beyond leaving comme
 
 **What hobbies do you have outside of writing and editing?**
 
-I own two new-ish small businesses and have three little boys under the age of eight, so I don't have many hobbies... but I do like to read, drink coffee, and play tabletop boardgames with my husband when I'm not on a deadline.
+I own two small businesses and have three little boys under the age of nine, so I don't have many hobbies... but I do like to read, drink coffee, and play tabletop boardgames with my husband when I'm not on a deadline.

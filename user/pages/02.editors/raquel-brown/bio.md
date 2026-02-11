@@ -3,9 +3,6 @@ title: 'Raquel Brown'
 media_order: 'Raquel_Brown.jpg,Raquel_Brown_small.jpg'
 last_name: Brown
 website: 'https://raquelbrown.com'
-reddit:
-    name: RaquelBrownEdits
-    url: 'https://www.reddit.com/user/RaquelBrownEdits'
 bluesky:
     name: raqueledits
     url: 'https://bsky.app/profile/raqueledits.bsky.social'
@@ -21,7 +18,7 @@ taxonomy:
 
 ##### Bio
 
-Raquel Brown is a developmental editor and book coach for fantastic, eccentric, enchanting, and eerie fiction. She loves teaming up with writers who value the craft of storytelling and who seek to light a fire within their readers. This also means she gets way too excited about untangling plot threads, character relationships, and worldbuilding. Her favorite thing about editing is helping authors breathe new life into their work.
+Raquel Brown is a developmental editor and book coach for enchanting, epic, and eerie fiction. She loves teaming up with writers who value the craft of storytelling and who seek to light a fire within their readers. This also means she gets way too excited about untangling plot threads, character relationships, and worldbuilding. Her favorite thing about editing is helping authors breathe new life into their work.
 
 She serves on the board of directors for the San Diego Professional Editors Network, and is a member of the EFA, ACES, and several other editing organizations. She's worked with a variety of indie authors, as well as indie and trad publishers.
 
@@ -31,12 +28,12 @@ When she’s not busy with a book, you can find her cooking, hiking, or playing 
 
 ##### MSWL
 
-I’m looking for sincere characters that drag me into their world and make me feel what they're going through! Whether your cast is charming, broody, curious, bitter, playful, villainous, or anything in between, I want personality that bleeds through the page. I’m super excited to work with **adult** or **young adult** stories in the following genres:
-* **Fantasy** — I’d love to see some non-Western fantasy, especially something on an epic scale, or with a new take on legendary creatures in a non-European world! Dragons, please? Do you have a new twist on a classic fantasy tale? How about a book with vampires, faeries, werewolves, or some witchcraft? (And I’m still looking for a paladin!) I love low fantasy and high fantasy equally, and would really enjoy a mashup with another genre. In keeping with what I said last year, I will not hold a grudge against a doorstopper—if a chonky book grabs me, it grabs me, and we’ll get that word count where it needs to be. I’m ready to adventure into a fun portal fantasy, an intriguing grimdark, or your take on a classic sword and sorcery. Swashbuckling, anyone? I would also be thrilled to see some romantasy! All spice levels are totally fine, for whatever genre you’re writing in. If you’re working on a LitRPG, please catapult it over. Send me dark fantasy stories with suspicious religious institutions! And—I’m going out on a limb here with this request—marionettes or homunculi.
-* **Sci-Fi** — I want to see some first contact books! I’d love some stories featuring non-earthlings as main characters. I am still searching for some droids. (If your story has a robot who falls in love, I need you to send it asap.) I’m also open to time travel. Send me a sci-fi noir, a mashup sci-fi, a mystery on another planet, something on a far-off future Earth. Utopian sci-fi! Dark military sci-fi! I would especially love to see a take on a small-scale tale, really character driven and moody. If you’re trying a genre blend, it would be awesome to have some cozy or romantic elements mixed in. (Missed connection: cozy alien invasion?) And, last but certainly not least, my eternal request for steampunk!
-* **Horror** — Are you working on some medieval/historical horror? Horror with a side of romance? Send it to me! I want to see some possession horror, folk horror, religious horror, gothic horror, classic monster mashes, or classic horror remixes. (It sure would be a shame if that creepy old house you just moved into was haunted!) I neglected to mention cannibalism last year, so count me in if you’re doing something neat there. Ritualistic communion with the dead (!!!!!), creeping through a cave, camping, dripping teeth, dark forests, recognizing the beast inside yourself. Send me your ghosts and cold hands and dread.
+I’m looking for sincere characters that drag me into their world! I want to FEEL, I want to BELIEVE! Whether your cast is charming, broody, curious, romantic, bitter, playful, villainous, or anything in between, I want personality that bleeds through the page. I’m super excited to work with **adult** or **young adult** stories in the following genres:
+* **Fantasy** — Faeries, vampires, werewolves, witchcraft, knights, sorcery, castles, yes! May I have a quest and a horse, please? Or dragons? I’d love to see some non-Western fantasy, especially something with legendary creatures in a non-European world! I’m still searching for a paladin. (Will this finally be the year? Don’t make me write it myself!!) I love low fantasy and high fantasy equally, and really enjoy a genre mashup. I am trying to stick to something under 100K…but, as ever, if a chonky book grabs me, it grabs me, and we’ll get the word count where it needs to be. I’m ready for something new in the portal fantasy/isekai realm! Or inspirations from Greek mythology. I will set fireworks off for your nouveau classic sword and sorcery. And—of course—I would never forget romantasy or paranormal romance! Demons. Shifters. Rituals. I am foaming at the mouth. All spice levels are welcome, from a little sizzle to leaving the page in ashes, for whatever genre you’re writing in. If you’re working on a LitRPG, please trebuchet it my way. Always here for ominous religious institutions! My 2026 out-on-a-limb requests are for household deities (à la lares/hobgoblins/kobolds), pegasi or unicorns, and shield-maidens!
+* **Sci-Fi** — Non-earthlings as main characters! Sci-fi Western! (Horse-droid?) Give me some new time travel! Send me a sci-fi noir, a mashup sci-fi, a mystery on another planet, something on a far-off future Earth. Your take on a dark military sci-fi! I’m always ready for a small-scale tale, really character driven and moody. If you’re trying a genre blend, it would be awesome to have some cozy or romantic elements mixed in. (We now return to my regularly scheduled request for a cozy alien invasion.) And, last but certainly never ever least: my eternal request for steampunk!
+* **Horror** — Medieval/historical horror, please! (Ghost horse? Death rides a pale horse?) Horror with a side of romance? Send it to me! I want to see some possession horror, folk horror, religious horror, gothic horror. (Brotherhood-of-the-Wolf-style anything and everything.) I am still looking for cannibalism! And ritualistic communion with the dead (!!!!!), creeping through a cave, stuck inside a monster, dark forests, recognizing the beast inside yourself. Send me your spectres and cold bodies, regret and longing and refusal to pass on.
 
-I love diverse speculative worlds, epistolary novels, unreliable narrators, and genre mashups. And as much as I’m a fan of big, serious stories, I also have a ton of fun with highly unserious mashups and small slice-of-life stories too! I really enjoy expanded speculative cultures and speculative religious institutions. I think there's a little room for romance within any story, and while I’m not very trope-focused, I appreciate the enemies-to-smooching pipeline across all genres. If there’s something not on this list, but you think I would dig it, send it! And if you have any questions, please let me know!
+I love diverse speculative worlds, extensive use of noncontemporary/nonstandard dialects, epistolary novels, unreliable narrators, and genre mashups. Fire horse. Something Sherlockian. Shifters. And as much as I’m a fan of big, serious stories, I also have a ton of fun with highly unserious mashups and small slice-of-life stories too! I really enjoy expanded speculative cultures and speculative religious institutions. I think there’s a little room for romance within any story. I’m not particularly trope-focused, but I appreciate the enemies-to-smooching pipeline, and I’ve discovered there is a room in my heart for fated mates and instalove tales too. If there’s something not on this list, but you think I would dig it, send it! And if you have any questions, please let me know!
 
 **I am pickier about…**
 * Heists
@@ -48,19 +45,20 @@ I love diverse speculative worlds, epistolary novels, unreliable narrators, and 
 * Contemporary Fantasy
 * Magical schools and/or summer camps
 * Retellings (e.g., fairy tale or mythology remixes) 
-* Word counts more than 50K above genre recommendations
+* Word counts more than 30K above genre recommendations (unless I absolutely love it)
 
 **I’m not planning to take on…**
 * Contemporary Romance
 * Contemporary Thrillers/Suspense
-* Stories with 3 or more main character POVs (If you’re open to condensing storylines/POVs, we can work on that! But unless I absolutely fall in love with a huge multi-POV story—which is totally possible—I am hoping to stick to under 2 POVs this year!)
-* Stories where a terminal illness is a major plot point
+* Stories with 3 or more main character POVs (Unless you are willing to condense or it is incredible and I can’t look away. For the authors reading this who are writing 597 POVs: Shoot your shot and we shall see!)
+* Stories where a terminal illness is a major plot point (unless the plot is that they are saved in the end)
+* Stories outside of the YA or Adult age ranges
 
 ##### Q&A
 
 **How can a manuscript’s first five pages make you sit up and take notice?**
 
-An intriguing premise gets me to open a book, but what keeps me seated is a storytelling voice full of personality. I want to hear our narrator introduce the story and feel like their words make the rest of my world fade away. The language doesn't need to be complicated, just sincere. If we can get an understanding of the immediate circumstances and feel connected to the main character’s plight, even better—whether that’s overthrowing the High King, falling in love, or heading back from a bakery in the rain (all equally difficult tasks, especially without an umbrella). Atmosphere and heart are what keep me pinned to the pages. If there’s worry or hope or happiness or horror, I want to feel steeped in this right from the start. (Alternatively, an absolutely off-the-wall premise is another way to keep my attention, even in a book where the voice may need to be strengthened.)
+An intriguing premise gets me to open a book, but what keeps me seated is the storyteller's voice. As we're being introduced to the story, I want to feel as if those words make the rest of my world fade away. The language doesn't need to be complicated, just sincere. If we can get an understanding of the immediate circumstances and feel connected to the main character’s plight, even better—whether that’s overthrowing the High King, falling in love, or heading back from a bakery in the rain (all equally difficult tasks, especially without an umbrella). Atmosphere and heart are what keep me pinned to the pages. If there’s worry or hope or happiness or horror, I want to feel steeped in this right from the start. (Alternatively, an absolutely off-the-wall premise is another way to keep my attention, even in a book where the voice may need to be strengthened.)
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
@@ -70,8 +68,7 @@ When we get started, I'll send over a questionnaire, and we can chat via email o
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
-I love helping writers who are excited to see their story from a new angle, especially when it comes to digging in and making big changes. Get ready to work ;-)
-I really value collaboration, and would be very happy to team up with an author who is curious, someone open to brainstorming and talking through new ideas for their story. 
+I love helping writers who are excited to see their story from a new angle, especially when it comes to digging in and making big changes. Get ready to work ;-) I really value collaboration, and would be very happy to team up with an author who is curious, someone open to brainstorming and talking through new ideas for their story.
 
 It's also very helpful if you have a sense of your goals, both for the manuscript and writing in general. For instance, even if you don't know how to get there yet, where do you want your story to go? How do you want your readers to feel, what publishing path are you interested in, what's the biggest writing problem you're facing that I can help with?
 
@@ -79,4 +76,4 @@ I aim to go above and beyond for my authors, so rest assured if you're strugglin
 
 **What hobbies do you have outside of writing and editing?**
 
-I really enjoy cooking, video games, wildlife, and being outside! I've got a bunch of plants that I try my best to keep alive. Aside from that, I spend most of my free time reading—big surprise, I know. And I love watching horror movies (even if I have to peek through my fingers like a scaredy-cat).
+I really enjoy cooking, spiders, video games, potions, wildlife, tarot, and being outside! I've got a bunch of plants that I try my best to keep alive. Aside from that, I spend most of my free time reading—big surprise, I know. And I love watching horror movies (even if I have to peek through my fingers like a scaredy-cat).
