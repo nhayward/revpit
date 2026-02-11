@@ -44,21 +44,21 @@ THIS YEAR I AM ACCEPTING
 * Romantasy  – YA and adult
 * Horror – YA and adult
 
-This includes crossover/new adult.
+This includes crossover/new adult. 
 
-**PLEASE SEND ME...**
+PLEASE SEND ME...
 * Subgenres I love: gothic, dark fantasy, science fantasy, romantasy, cozy fantasy, gaslamp fantasy, fantasy of manners, contemporary fantasy, urban fantasy, historical fantasy
 * I particularly want stories by authors from groups we need more of in publishing: BIPOC, LGBTQIA+, disabilities, neurodivergence, mental illness, and others that are still trying to get a seat at the table
 * Stories based on cultures and communities that are underrepresented in the market, specifically by authors from those communities
 
-**DO NOT SEND ME...**
+DO NOT SEND ME...
 * Epic fantasy
 * Novels in verse
 * Military-based or political fantasy. It's okay as a subplot, just not the main plot.
 * Toxic relationships (romantic or otherwise) you want the reader to support
 * Biblical retellings, biblical dystopian, or other Christianity-based stories
- 
-**SOME AUTHORS I LOVE**
+
+SOME AUTHORS I LOVE
 * CL Polk
 * Hafsah Faizal
 * India Holton

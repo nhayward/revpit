@@ -19,48 +19,52 @@ facebook:
     url: 'https://www.facebook.com/AshPReads'
 taxonomy:
     tag:
-        - annual_contest_2025
         - mini
+        - annual_contest_2025
+media_order: 'Ash_P.JPG,Ash_P_small.JPG'
+sitemap:
+    lastmod: '11-02-2026 14:56'
 ---
 
 ##### Bio
 
-Ash P is the owner of Ash P Reads Editing Services. With a Bachelor's degree in English Literature, Education, and Mass Communication, and a previous career in early childhood education, she brings a unique blend of academic and creative expertise to her work.
+Ash P is a Muslim editor and the owner of Ash P Reads Editing Services. With a Bachelor's degree in English Literature, Education, and Mass Communication, and a previous career in early childhood education, she brings a unique blend of academic and creative expertise to her work.
 
-Ash's passion for reading and discovering new words led her to a career in editing. When she began her journey as a freelance editor over two decades ago, freelancing was still a relatively unknown concept in Pakistan. Over the years, Ash has diligently honed her editing skills across a diverse range of genres, collaborating with several bestselling authors and an award-winning publisher. She specializes in safe-for-work nonfiction and fiction.
+Ash's passion for reading and discovering new words led her to a career in editing. When she began her journey as a freelance editor over two decades ago, freelancing was still a relatively unknown concept in Pakistan. Over the years, Ash has diligently honed her editing skills across a diverse range of genres, collaborating with several bestselling authors and an award-winning publisher. She specializes in safe-for-work nonfiction and fiction for all ages and formats.
 
-Currently under the mentorship of a renowned comic book editor, Ash is expanding her expertise into new and exciting territories. She is particularly passionate about working with books for young readers and is eager to take on more projects in young adult (YA), middle grade (MG), and children's fiction, as well as graphic novels and comics.
+Ash is expanding her expertise into new and exciting territories and is currently enrolled in Joel Rodriguez's Concept to Comics Academy. She is also under the mentorship of a renowned comic book editor. Ash is particularly passionate about working with books for young readers and is eager to take on more projects in children's fiction, graphic novels and comics.
 
 **Pronouns: She/Her**
 
 ##### MSWL
 
-I say YES to fiction and nonfiction manuscripts for all ages that are safe-for-work, clean, family-friendly, no/low-spice, closed-door romance stories—see how much I have stressed on this. I personally like my genres to overlap a bit, but manuscripts I will accept may be genre-focused or of combined genres in:
+I say YES to manuscripts for all ages that are safe-for-work, family-friendly, no/low-spice, closed-door romance stories—see how much I have stressed this. I personally like my genres to overlap a bit, but manuscripts I will accept may be genre-focused or combine multiple genres from the following:
+* 
 * Romance
 * Comedy
 * Paranormal
-* Urban Fantasy
-* Cozy Mystery
+* Cozy Fiction (all genres)
 * Science Fiction
 * Mystery
 * Thriller
 * Family
 * Slice of Life
-* Women’s Fiction.
-* Horror (Only For Children's Fiction)
+* Women's Fiction
+* Horror (only for Children's Fiction)
 
-I enjoy stories where world building and character development are well constructed and carefully thought out. It shows that the writer has made the effort to create a world in which the reader can immerse themselves. I love stories that are wholesome. Tropes like friendship to romance, strangers to friends, #ownvoices, a journey of self-discovery, and overcoming hardships or estrangements provide me with a character I can root for. Write something new and unique and you’ve got my attention 100%.
+I enjoy stories where world-building and character development are well constructed and carefully thought out. It shows that the writer has made the effort to create a world in which the reader can immerse themselves.
 
-I don't like lazy writing, and I do not work with manuscripts that have racism and religious prejudice, or depict toxic relationships as healthy.
+As an ND, POC editor, I love stories that have ND and/or culturally diverse characters. Wholesome stories with tropes like friendship-to-romance, strangers-to-friends, #OwnVoices, journeys of self-discovery, and overcoming hardships or estrangements give me characters I can root for. Write something new and unique, and you've got my attention 100 percent.
 
-I will automatically say NO to:
-* Historical Fiction
+I don't like lazy writing, and I do not work with manuscripts that have racism or religious prejudice, or that depict toxic relationships as healthy. I will automatically say NO to:
+
+* Historical Fiction (I can’t afford to go down any rabbit holes during #RevPit)
 * Open-Door Romance
-* Explicit Sex Scenes and Language 
+* Explicit Sex Scenes and Language
 * BDSM and Erotica
 * Violent Horror and Gore
 
-Ideally, I prefer to work with manuscripts that range between 50-80k words. I am open to working with a manuscript of up to 100k if it's so good that I just HAVE TO READ IT!
+Ideally, I prefer to work with manuscripts that range between 20k–80k words; kidlit manuscripts usually fall in the lower ranges. I am open to working with manuscripts of higher word counts IF they're so good that I just HAVE TO READ THEM!
 
 ##### Q&A
 
@@ -70,7 +74,7 @@ A manuscript must be able to engage my interest within the first page or two. A 
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-Writers can expect honest feedback and I always like to be accessible to authors I work with. I will be available on Bluesky, Reddit, and email. You can expect quick responses, unless I'm stuck in an emergency of some sort or then asleep due to the time difference.
+Writers can expect honest feedback and I always like to be accessible to authors I work with. I will be available on Bluesky and email. You can expect quick responses, unless I'm stuck in an emergency of some sort or then asleep due to the time difference.
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
@@ -78,4 +82,4 @@ I hope that the writers are open to constructive criticism and honest feedback. 
 
 **What hobbies do you have outside of writing and editing?**
 
-I read anything that catches my interest, be it fiction or nonfiction. I like learning new words and languages, and about new cultures. I watch a lot of sci-fi, medical, crime/detective TV shows and sci-fi/fantasy anime. I collect stationery and knick knacks that inspire my creative spirit. I love spending time with animals and babies, preferably together. That's my most favorite thing in the world. I love traveling, though I don't do a lot of it anymore. 
+Recently I've been reading more fiction and nonfiction graphic novels. I like learning new words and languages, and about new cultures. I watch a lot of sci-fi, medical, crime/detective TV shows and sci-fi/fantasy anime. I collect stationery and knick knacks that inspire my creative spirit. I love spending time with animals and babies, preferably together. That's my most favorite thing in the world. And I love traveling, even though I don't do a lot of it anymore.

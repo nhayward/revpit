@@ -2,9 +2,6 @@
 title: 'Hannah Kate Kelley'
 last_name: Kelley
 website: 'https://www.kelleyeditorial.com'
-reddit:
-    name: '@hannahkatekelley'
-    url: 'https://www.reddit.com/user/hannahkatekelley/'
 bluesky:
     name: '@kelleyeditorial'
     url: 'https://bsky.app/profile/kelleyeditorial.bsky.social'
@@ -29,18 +26,21 @@ Writers may submit a manuscript below 110,000 words in any fiction genre, includ
 
 I am not currently accepting non-fiction, creative nonfiction, memoir, poetry, or children's stories younger than MG.
 
-I read widely, and my clients' manuscripts reflect that. Some of my favorite subgenres include (but are not limited to) Gothic horror in non-Western or atypical settings, queer anything, nail-biting domestic thrillers and literary fiction, steamy New Adult romance, epic historical fantasies, and dystopian adventures reminiscent of the 2010s.
+I read widely, and my clients' manuscripts reflect that. Some of my favorite subgenres include (but are not limited to) Gothic horror in non-Western or atypical settings, queer anything, nail-biting domestic thrillers and literary fiction, steamy and smart New Adult romance, epic historical fantasies, and dystopian adventures reminiscent of the 2010s.
+
+This year, I am giving preference to YA fantasy that has unique worldbuilding and a powerful protagonist character arc.
 
 A few of my favorite titles include:
+
+* THE GUEST by Emma Cline
+* BIG FAN by Alexandra Romanoff
+* YELLOWFACE by RF Kuang
+* THE HACIENDA by Isabel Cañas
+* THE FIFTH SEASON by NK Jemisin
+* A CRUEL PRINCE by Holly Black
+* ONE DARK WINDOW by Rachel Gillig
+* THE VASTER WILDS by Lauren Groff
 * anything by Tamora Pierce
-* CIRCE by Madeline Miller
-* FOURTH WING by Rebecca Yarros
-* JANE EYRE by Charlotte Brontë
-* MEXICAN GOTHIC by Silvia Moreno-Garcia
-* RED, WHITE & ROYAL BLUE by Casey McQuiston
-* SUCH A FUN AGE by Kiley Reid
-* TWILIGHT by Stephanie Meyer
-* YELLOWFACE by R. F. Kuang
 
 I am actively seeking stories written by women, queer, trans, POC, disabled, and neurodivergent writers.
 
@@ -54,13 +54,18 @@ Within the first five pages, I want to feel something for the protagonist. Nothi
 
 **What can writers expect from working with you during #RevPit, including communication?**
 
-My winner gets a full manuscript evaluation on their novel, including thorough feedback on their story's title and length, market positioning, genre conventions, character development, plot, structure, POV, writing style, and pacing. The purpose of this edit is to help you uncover what is working well, what could work better, and how to strengthen your story with actionable steps.
+My winner gets a full manuscript evaluation on their novel, including thorough feedback on their story's title and length, market positioning, genre conventions, character development, plot, structure, POV, writing style, and pacing.
+
+The purpose of this edit is to evaluate how marketable your story is for traditional publication by helping you uncover what is working well, what could work better, and how to strengthen your story with actionable steps.
 
 Here's what you get in a manuscript evaluation with me:
+
 * Editorial Letter: A clear, actionable set of directives you can take into the revision process that will tighten up your story step-by-step.
-* Developmental Edit: Constructive and kind in-line comments on your first three chapters (or first 6,000 words) to see what’s working at the scene-level.
+* Developmental Edit: Constructive and kind in-line comments on your first 6,000 words to see what’s working at the scene-level.
 * Follow-Up Call: A 1:1 with yours truly to discuss any feedback questions or new ideas. You’ll leave with a clear idea of next steps.
 * Extra Resources: Additional workbooks, writing materials, and other resources personalized for you and your story.
+
+After our work together, I'll be checking in frequently to ask how revisions and querying is going. If you have questions about the querying process or the feedback I've already delivered to you, you can email me at any time.
 
 **What do you expect from writers during the #RevPit revision process, including communication?**
 
@@ -68,8 +73,6 @@ After my winner receives their feedback, you'll get a few days to read through a
 
 On our 1:1 call, please bring a list of questions and discussion points. I'll let you lead the call or I can walk us through the highest-level edits--whatever you prefer. By the end, you should have a clear plan for revision work.
 
-Even after our call, I'm available by email to offer clarification on my feedback and will be checking in every few months to see how you and your writing are faring.
-
 **What hobbies do you have outside of writing and editing?**
 
-When not working with writers (or writing my own stories), you can find me drawing, getting lost on hikes, or running my adult soccer league. And every month, I like to try something new, so I've just signed up for line-dancing classes!
+I love throwing themed games night for my friends; some of my past favorites were a PowerPoint night and capture the flag in the park. I'm also big on moving my body, so you can find me playing pickup soccer, training for a full marathon, and line dancing across Brooklyn. 

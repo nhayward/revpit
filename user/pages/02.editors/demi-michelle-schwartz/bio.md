@@ -1,7 +1,7 @@
 ---
 title: 'Demi Michelle Schwartz'
 last_name: Schwartz
-website: 'http://demimschwartz.com'
+website: 'http://amethystinkeditorial.com'
 bluesky:
     name: '@demimschwartz.bsky.social'
     url: 'https://bsky.app/profile/demimschwartz.bsky.social'
@@ -19,36 +19,48 @@ taxonomy:
 
 ##### Bio
 
-Demi Michelle Schwartz is an author from Pittsburgh. She primarily writes young adult fiction, focusing on the fantasy and thriller genres, though she loves to explore other genres and age categories in her short stories found in anthologies. In 2019, Demi graduated summa cum laude with BAs in Creative Writing and Music from Seton Hill University. With encouragement from her English professors, she went on to pursue her MFA in Writing Popular Fiction at Seton Hill and graduated with her degree in June of 2022. Along with being an author, Demi is the host of Literary Blend: A Publishing Podcast, a freelance fiction editor through her independently-run services, Amethyst Ink Editorial, an editor for Revise & Resub (#RevPit), a publicist for Wild Ink Publishing, and a literary agent intern at the Purcell Agency. When Demi isn’t working on her manuscripts and finding ways to further her involvement in the publishing industry, she is chasing her other dream as an award-winning songwriter and recording artist.
+Demi Michelle Schwartz is a young adult thriller author from Pittsburgh, represented by Ciara Smith at Spencerhill Associates. Along with her thrillers, she explores other genres and age categories in her short stories published in anthologies. Demi graduated summa cum laude with BAs in Creative Writing and Music from Seton Hill University, then earned her MFA in Writing Popular Fiction at Seton Hill in 2022. In 2025, Demi completed a literary agent internship at the Purcell Agency, and she’s also the host of Literary Blend: A Publishing Podcast, a freelance fiction editor through her independently-run services, Amethyst Ink Editorial, an award-winning songwriter, and a classical pianist.
 
 **Pronouns: She/Her**
 
 ##### MSWL
 
-"I’m so excited to share my #RevPit manuscript wish list. I can’t wait to read your work this spring.
+Hi, Revelers! I’m back for round two. Do you want to be on Team Amethyst? Of course you do!
+
+I’m so excited to share my updated #RevPit manuscript wishlist. I can’t wait to read your work this spring.
 
 First, these are the age categories and genres I’m most eager to see.
 
 * MG - Mystery, Fantasy, Horror
-* YA - Thriller, Mystery, Fantasy, Horror
-* Adult - Thriller, Mystery
+* YA - Thriller, Fantasy, Romantasy, Horror, Romance
+* Adult - Thriller
 
 Below, you’ll find some of my specific interests in these genres. Still, if your manuscript falls into the list above, please do submit to me. Sometimes, I don’t know how perfect a book is for me until I read it.
 
-**Mystery and Thriller** - I enjoy twisty plots and complex character dynamics. Especially in this space, it’s interesting how characters interact with one another and reveal darker sides of psychology and why people do the things they do. Some specifics I love are locked-room settings, games and puzzles, speculative twists, unreliable narrators, psychological thrillers, and intricate character relationships.
+**Thriller** - This genre is my first love, so please send me all the adult and young adult thrillers! I enjoy twisty plots and complex character dynamics. Especially in this space, it’s interesting how characters interact with one another and reveal darker sides of psychology and why people do the things they do. Some specifics I love are locked-room settings, games and puzzles, speculative twists, unreliable narrators, psychological thrillers, a romantic subplot, complex villains, and intricate character relationships. Above all else, I’m looking for tight pacing, building stakes, and suspense that grabs me in a chokehold and won’t let go until the last page.
 
-**Fantasy** - There’s something so magical about escaping into a fantastical story that draws on the imagination and takes me on an adventure. I prefer contemporary fantasy grounded in reality, rather than high fantasy. It’s fascinating when magical elements are intertwined with the real world in fresh ways. Some favorites in fantasy are fairy tale reimaginings, folklore, mythology, especially Greek, Roman, and Egyptian, elemental magic, prophecies, quests and adventures, and original lore and magic systems.
+**Mystery** - I’m only looking for mystery in middle grade. For this genre, I would love to see games, puzzles, and adventures. Bonus points for strong friendships and found family. When it comes to the plot, I’m searching for mysteries that keep me guessing with clues and red herrings and shock me with crafty twists. Though middle grade mysteries don’t have the intensity of thrillers, I would still love to be on the edge of my seat and feel the suspense.
 
-**Horror** - In this space, my interests lean toward the supernatural. Send me your ghost stories, tales with demonic possession, and anything involving evil spirits. I also love psychological horror. No matter what, I want to be scared, so I’m looking for horror stories that are atmospheric, twisty, and packed with emotion.
+**Fantasy** - I would love to see fantasy for middle grade and young adult. There’s something so magical about escaping into a fantastical story that draws on the imagination and takes me on an adventure. I prefer fantasy grounded in reality, rather than high fantasy. Some favorites in fantasy are fairy tale reimaginings, folklore, mythology, especially Greek, Roman, and Egyptian, elemental magic, prophecies, quests, and original lore and magic systems.
 
-**Across all genres, I enjoy:**
+**Romantasy** - For romantasy, I have the same interests as fantasy, and I’m interested in both young adult and new adult manuscripts in this genre. I love books that strike a balance between romance and fantasy. In other words, the love story couldn’t exist without the magic, and vice versa. My all-time favorite romance trope is friends to lovers, closely followed by second-chance romance. In romantasy, a happily ever after or happy for now is necessary, but if you don’t have one, you would just classify your book as fantasy with romantic elements. Typically, I’m good with some spice, but if your manuscript has more than a couple intimate scenes, it probably isn’t for me.
+
+**Horror** - In middle grade and young adult, I would love to see gothic, supernatural, and folk horror. For gothic horror, if your manuscript has Poe vibes, lyrical prose, a gothic mansion setting, ancestral secrets, or an all-around eerie atmosphere, I want to see it. When it comes to supernatural horror, send me your ghost stories, tales with demonic possession, ancient curses, and anything involving evil spirits. As someone who loves folklore in all its forms, I would love to see folk horror rooted in cultural legends that trannnnnnnnsports me into an immersive and haunting place where nothing is as it seems. In general, I would also love to see horror with a romance thread. No matter what, I want to be scared, so I’m looking for horror stories that are atmospheric, twisty, and packed with emotion.
+
+**Romance** - In young adult only, I would love to see love stories that sweep me off my feet, take me on a roller coaster ride of emotions, and end with a happily ever after or happy for now. Bonus points if your manuscript has a non-school setting. Friends to lovers is my favorite romance trope, closely followed by second-chance romance. Since I’m only open to young adult, I’m not looking for spicy stories, though when handled thoughtfully, an intimate scene or two is perfectly fine for me.
+
+**General Things I Love**
+
+Across all genres, I enjoy:
 * Friendship stories, especially when it’s enemies to friends or focused on strong friendships that survive even the most difficult tests.
-* Complicated family relationships, especially sisters.
+* Complex family relationships, especially sisters or found family.
 * Settings in nature, like forests, caves, islands, mountains, and the ocean.
+* Wintery settings, since I absolutely love winter imagery.
+* Reimaginings of all types, not just fairy tales, folklore, and mythology, but works of literature, too.
 * Banter, I love to laugh.
 * Sarcastic and sassy female characters who aren’t afraid to be bold or have an attitude.
 * Lots of emotion, whether I end up laughing or crying.
-* Anything involving music and the arts.
+* Anything involving music and the arts, since I’m a songwriter and have an appreciation for all art.
 
 ##### Q&A
 
